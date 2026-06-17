@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlNonFractionElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 inline xbrl nonFraction 元素。
+title: "InlineXbrlNonFractionElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 inline xbrl nonFraction 元素。"
 type: docs
 weight: 7390
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlnonfractionelement/

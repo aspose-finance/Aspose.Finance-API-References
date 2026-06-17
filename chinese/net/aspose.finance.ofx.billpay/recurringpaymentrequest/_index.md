@@ -1,7 +1,7 @@
 ---
-title: RecurringPaymentRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 循环付款请求类。
+title: "RecurringPaymentRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "循环付款请求类。"
 type: docs
 weight: 1320
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentrequest/

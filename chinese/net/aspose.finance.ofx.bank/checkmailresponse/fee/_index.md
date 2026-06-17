@@ -1,7 +1,7 @@
 ---
-title: Fee
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置因非充足资金（NSF）收取的费用。
+title: "Fee"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置因非充足资金（NSF）收取的费用。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.bank/checkmailresponse/fee/

@@ -1,7 +1,7 @@
 ---
-title: Tax1099MISC_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1099 MISC 表格类。
+title: "Tax1099MISC_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1099 MISC 表格类。"
 type: docs
 weight: 6050
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/

@@ -1,7 +1,7 @@
 ---
-title: LoanDetailType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款详情类。
+title: "LoanDetailType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款详情类。"
 type: docs
 weight: 4060
 url: /zh/net/aspose.finance.ofx/loandetailtype/

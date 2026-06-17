@@ -1,7 +1,7 @@
 ---
-title: RecurringInstructions
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 循环指令类。
+title: "RecurringInstructions"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "循环指令类。"
 type: docs
 weight: 4980
 url: /zh/net/aspose.finance.ofx/recurringinstructions/

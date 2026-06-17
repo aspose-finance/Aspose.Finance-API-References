@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: inline xbrl 元素的基类。
+title: "InlineXbrlElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "inline xbrl 元素的基类。"
 type: docs
 weight: 7330
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlelement/

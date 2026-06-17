@@ -1,14 +1,14 @@
 ---
-title: 单位
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets or sets the quantity of the security the open order is for.
+title: "单位"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置此未平仓订单对应的证券数量。"
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx.investment/generalopenorder/units/
 ---
 ## GeneralOpenOrder.Units property
 
-Gets or sets the quantity of the security the open order is for.
+获取或设置此未平仓订单对应的证券数量。
 
 ```csharp
 public string Units { get; set; }

@@ -1,7 +1,7 @@
 ---
-title: 税金
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置交易的税费。
+title: "税金"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置交易的税费。"
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.investment/reinvest/taxes/

@@ -1,7 +1,7 @@
 ---
-title: 脚注
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Resource 类型的 Xlink./xlink。它是 FootnoteLink./footnotelink 中唯一允许的资源。
+title: "脚注"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Resource 类型的 Xlink./xlink。它是 FootnoteLink./footnotelink 中唯一允许的资源。"
 type: docs
 weight: 7660
 url: /zh/net/aspose.finance.xbrl/footnote/

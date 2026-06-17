@@ -1,7 +1,7 @@
 ---
-title: 命名空间
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置限定名称的命名空间。
+title: "命名空间"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置限定名称的命名空间。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/qualifiedname/namespace/

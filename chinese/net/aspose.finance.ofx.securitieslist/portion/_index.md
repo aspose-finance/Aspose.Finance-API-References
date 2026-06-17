@@ -1,7 +1,7 @@
 ---
-title: Portion
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 具有特定资产分类的共同基金份额。
+title: "Portion"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "具有特定资产分类的共同基金份额。"
 type: docs
 weight: 5150
 url: /zh/net/aspose.finance.ofx.securitieslist/portion/

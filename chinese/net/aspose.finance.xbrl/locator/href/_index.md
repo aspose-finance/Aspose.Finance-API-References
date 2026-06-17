@@ -1,7 +1,7 @@
 ---
-title: Href
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置定位器的 href URI。
+title: "Href"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置定位器的 href URI。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/locator/href/

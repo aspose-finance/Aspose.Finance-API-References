@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementEndResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 结算报表响应类。
+title: "InvestmentStatementEndResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "结算报表响应类。"
 type: docs
 weight: 3090
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementendresponse/

@@ -1,7 +1,7 @@
 ---
-title: SecuredEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 担保类型枚举。
+title: "SecuredEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "担保类型枚举。"
 type: docs
 weight: 3480
 url: /zh/net/aspose.finance.ofx.investment/securedenum/
@@ -18,8 +18,8 @@ public enum SecuredEnum
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| NAKED | `0` | Naked |
-| COVERED | `1` | Covered |
+| NAKED | `0` | 裸露 |
+| COVERED | `1` | 已覆盖 |
 
 ### 另请参阅
 

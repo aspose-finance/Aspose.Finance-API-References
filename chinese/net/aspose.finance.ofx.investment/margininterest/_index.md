@@ -1,7 +1,7 @@
 ---
-title: MarginInterest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资保证金利息类.
+title: "MarginInterest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资保证金利息类."
 type: docs
 weight: 3210
 url: /zh/net/aspose.finance.ofx.investment/margininterest/

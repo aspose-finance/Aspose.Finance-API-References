@@ -1,7 +1,7 @@
 ---
-title: HolderTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账户持有人类型 enum。
+title: "HolderTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账户持有人类型 enum。"
 type: docs
 weight: 2270
 url: /zh/net/aspose.finance.ofx/holdertypeenum/

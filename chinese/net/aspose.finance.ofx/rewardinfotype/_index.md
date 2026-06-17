@@ -1,7 +1,7 @@
 ---
-title: RewardInfoType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 打开奖励/积分计划当前信息的聚合。
+title: "RewardInfoType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "打开奖励/积分计划当前信息的聚合。"
 type: docs
 weight: 4990
 url: /zh/net/aspose.finance.ofx/rewardinfotype/

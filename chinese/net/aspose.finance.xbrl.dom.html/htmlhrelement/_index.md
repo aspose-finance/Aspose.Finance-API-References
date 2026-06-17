@@ -1,7 +1,7 @@
 ---
-title: HTMLHRElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类表示水平线。请参阅 HTML 4.01 中的 HR 元素定义。
+title: "HTMLHRElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类表示水平线。请参阅 HTML 4.01 中的 HR 元素定义。"
 type: docs
 weight: 6920
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlhrelement/

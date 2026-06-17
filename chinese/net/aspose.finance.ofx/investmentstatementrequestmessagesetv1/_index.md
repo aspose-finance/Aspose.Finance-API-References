@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementRequestMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资报表请求消息集版本 1 类。
+title: "InvestmentStatementRequestMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资报表请求消息集版本 1 类。"
 type: docs
 weight: 3680
 url: /zh/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/

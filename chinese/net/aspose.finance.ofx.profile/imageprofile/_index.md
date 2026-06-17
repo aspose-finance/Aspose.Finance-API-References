@@ -1,7 +1,7 @@
 ---
-title: ImageProfile
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 图像配置文件类。
+title: "ImageProfile"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "图像配置文件类。"
 type: docs
 weight: 4540
 url: /zh/net/aspose.finance.ofx.profile/imageprofile/

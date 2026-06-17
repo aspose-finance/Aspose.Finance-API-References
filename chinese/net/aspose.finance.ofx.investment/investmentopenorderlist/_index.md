@@ -1,7 +1,7 @@
 ---
-title: InvestmentOpenOrderList
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资开放订单列表类。
+title: "InvestmentOpenOrderList"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资开放订单列表类。"
 type: docs
 weight: 3040
 url: /zh/net/aspose.finance.ofx.investment/investmentopenorderlist/

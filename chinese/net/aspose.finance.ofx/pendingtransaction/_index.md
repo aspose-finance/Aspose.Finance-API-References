@@ -1,7 +1,7 @@
 ---
-title: PendingTransaction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类描述单个待处理交易。它标识交易的类型以及发起的日期。该类还可以提供额外信息，以帮助客户识别交易的支票号码、收款人名称和备注。
+title: "PendingTransaction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类描述单个待处理交易。它标识交易的类型以及发起的日期。该类还可以提供额外信息，以帮助客户识别交易的支票号码、收款人名称和备注。"
 type: docs
 weight: 4270
 url: /zh/net/aspose.finance.ofx/pendingtransaction/

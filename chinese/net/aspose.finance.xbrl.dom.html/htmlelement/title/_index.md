@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets or sets the elements advisory title. See the title attribute definition in HTML 4.01.
+title: "Title"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置元素的建议标题。请参阅 HTML 4.01 中的 title 属性定义。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlelement/title/

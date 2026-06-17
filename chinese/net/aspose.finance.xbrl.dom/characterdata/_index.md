@@ -1,7 +1,7 @@
 ---
-title: CharacterData
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: CharacterData 扩展 Node，提供一组属性和方法用于访问 DOM 中的字符数据。
+title: "CharacterData"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "CharacterData 扩展 Node，提供一组属性和方法用于访问 DOM 中的字符数据。"
 type: docs
 weight: 6670
 url: /zh/net/aspose.finance.xbrl.dom/characterdata/

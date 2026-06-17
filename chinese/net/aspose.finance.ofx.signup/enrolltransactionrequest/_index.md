@@ -1,7 +1,7 @@
 ---
-title: EnrollTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 注册事务请求类。
+title: "EnrollTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "注册事务请求类。"
 type: docs
 weight: 5650
 url: /zh/net/aspose.finance.ofx.signup/enrolltransactionrequest/

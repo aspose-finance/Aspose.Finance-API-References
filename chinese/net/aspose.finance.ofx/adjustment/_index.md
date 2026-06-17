@@ -1,7 +1,7 @@
 ---
-title: 调整
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 调整类。
+title: "调整"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "调整类。"
 type: docs
 weight: 210
 url: /zh/net/aspose.finance.ofx/adjustment/

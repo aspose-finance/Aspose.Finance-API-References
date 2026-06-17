@@ -1,7 +1,7 @@
 ---
-title: 收款人
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类指定收款人的完整账单地址。
+title: "收款人"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类指定收款人的完整账单地址。"
 type: docs
 weight: 4260
 url: /zh/net/aspose.finance.ofx/payee/

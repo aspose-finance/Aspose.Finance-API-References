@@ -1,7 +1,7 @@
 ---
-title: TEXT_NODE
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 文本节点类型。
+title: "TEXT_NODE"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "文本节点类型。"
 type: docs
 weight: 250
 url: /zh/net/aspose.finance.xbrl.dom/node/text_node/

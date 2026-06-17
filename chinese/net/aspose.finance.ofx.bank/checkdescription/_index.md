@@ -1,7 +1,7 @@
 ---
-title: CheckDescription
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 支票描述必须包含收款人名称或描述。它还可以包括支票号码、用户开具支票的日期以及交易金额。
+title: "CheckDescription"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "支票描述必须包含收款人名称或描述。它还可以包括支票号码、用户开具支票的日期以及交易金额。"
 type: docs
 weight: 370
 url: /zh/net/aspose.finance.ofx.bank/checkdescription/

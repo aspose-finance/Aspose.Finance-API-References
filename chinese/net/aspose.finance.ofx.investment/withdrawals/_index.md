@@ -1,7 +1,7 @@
 ---
-title: Withdrawals
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 401k 取款类，此包括贷款取款。
+title: "Withdrawals"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "401k 取款类，此包括贷款取款。"
 type: docs
 weight: 3610
 url: /zh/net/aspose.finance.ofx.investment/withdrawals/

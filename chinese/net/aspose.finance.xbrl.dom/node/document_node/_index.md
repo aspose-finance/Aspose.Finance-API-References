@@ -1,7 +1,7 @@
 ---
-title: DOCUMENT_NODE
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 文档节点类型。
+title: "DOCUMENT_NODE"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "文档节点类型。"
 type: docs
 weight: 210
 url: /zh/net/aspose.finance.xbrl.dom/node/document_node/

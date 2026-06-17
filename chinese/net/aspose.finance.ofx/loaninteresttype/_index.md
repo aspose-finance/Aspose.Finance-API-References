@@ -1,7 +1,7 @@
 ---
-title: LoanInterestType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 已付贷款利息。
+title: "LoanInterestType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "已付贷款利息。"
 type: docs
 weight: 4080
 url: /zh/net/aspose.finance.ofx/loaninteresttype/

@@ -1,7 +1,7 @@
 ---
-title: RelatedEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 相关期权交易类型枚举。
+title: "RelatedEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "相关期权交易类型枚举。"
 type: docs
 weight: 3450
 url: /zh/net/aspose.finance.ofx.investment/relatedenum/

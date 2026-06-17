@@ -1,7 +1,7 @@
 ---
-title: ServiceStatus2Enum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单呈现服务状态枚举。
+title: "ServiceStatus2Enum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单呈现服务状态枚举。"
 type: docs
 weight: 5260
 url: /zh/net/aspose.finance.ofx/servicestatus2enum/

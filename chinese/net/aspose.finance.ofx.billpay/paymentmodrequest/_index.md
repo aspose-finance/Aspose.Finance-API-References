@@ -1,7 +1,7 @@
 ---
-title: PaymentModRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款修改请求类。
+title: "PaymentModRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款修改请求类。"
 type: docs
 weight: 1180
 url: /zh/net/aspose.finance.ofx.billpay/paymentmodrequest/

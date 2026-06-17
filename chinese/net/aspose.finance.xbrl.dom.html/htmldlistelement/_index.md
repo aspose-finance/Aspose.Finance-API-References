@@ -1,7 +1,7 @@
 ---
-title: HTMLDListElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示定义列表。请参阅 HTML 4.01 中的 DL 元素定义。
+title: "HTMLDListElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示定义列表。请参阅 HTML 4.01 中的 DL 元素定义。"
 type: docs
 weight: 6820
 url: /zh/net/aspose.finance.xbrl.dom.html/htmldlistelement/

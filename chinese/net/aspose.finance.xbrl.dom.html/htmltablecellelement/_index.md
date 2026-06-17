@@ -1,7 +1,7 @@
 ---
-title: HTMLTableCellElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类用于表示 TH 和 TD 元素。请参阅 HTML 4.01 中的 TD 元素定义。
+title: "HTMLTableCellElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类用于表示 TH 和 TD 元素。请参阅 HTML 4.01 中的 TD 元素定义。"
 type: docs
 weight: 7210
 url: /zh/net/aspose.finance.xbrl.dom.html/htmltablecellelement/

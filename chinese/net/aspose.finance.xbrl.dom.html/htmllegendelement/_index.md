@@ -1,7 +1,7 @@
 ---
-title: HTMLLegendElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 FIELDSET 分组的标题。请参阅 HTML 4.01 中的 LEGEND 元素定义。
+title: "HTMLLegendElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 FIELDSET 分组的标题。请参阅 HTML 4.01 中的 LEGEND 元素定义。"
 type: docs
 weight: 7020
 url: /zh/net/aspose.finance.xbrl.dom.html/htmllegendelement/

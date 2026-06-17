@@ -1,7 +1,7 @@
 ---
-title: StockEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 股票类型枚举。
+title: "StockEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "股票类型枚举。"
 type: docs
 weight: 5210
 url: /zh/net/aspose.finance.ofx.securitieslist/stockenum/

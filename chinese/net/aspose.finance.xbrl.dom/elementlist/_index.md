@@ -1,7 +1,7 @@
 ---
-title: ElementList
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 元素列表。
+title: "ElementList"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "元素列表。"
 type: docs
 weight: 6710
 url: /zh/net/aspose.finance.xbrl.dom/elementlist/

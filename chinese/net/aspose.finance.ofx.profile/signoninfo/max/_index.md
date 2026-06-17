@@ -1,7 +1,7 @@
 ---
-title: Max
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置密码的最大字符数。
+title: "Max"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置密码的最大字符数。"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.profile/signoninfo/max/

@@ -1,7 +1,7 @@
 ---
-title: InterRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 跨行转账请求类。
+title: "InterRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "跨行转账请求类。"
 type: docs
 weight: 2440
 url: /zh/net/aspose.finance.ofx.intertransfer/interrequest/

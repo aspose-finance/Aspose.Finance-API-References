@@ -1,7 +1,7 @@
 ---
-title: Fact
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Fact 可以是简单的，在这种情况下，它们的值必须以简单内容表示；也可以是复合的，在这种情况下，它们的值由其他简单和/或复合事实组成。简单事实使用 Item./item 表示。复合事实使用 Tuple./tupletuple 表示。
+title: "Fact"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Fact 可以是简单的，在这种情况下，它们的值必须以简单内容表示；也可以是复合的，在这种情况下，它们的值由其他简单和/或复合事实组成。简单事实使用 Item./item 表示。复合事实使用 Tuple./tupletuple 表示。"
 type: docs
 weight: 7650
 url: /zh/net/aspose.finance.xbrl/fact/

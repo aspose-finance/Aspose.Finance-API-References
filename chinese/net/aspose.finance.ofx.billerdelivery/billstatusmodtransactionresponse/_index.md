@@ -1,7 +1,7 @@
 ---
-title: BillStatusModTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单状态修改事务响应类。
+title: "BillStatusModTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单状态修改事务响应类。"
 type: docs
 weight: 1520
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/

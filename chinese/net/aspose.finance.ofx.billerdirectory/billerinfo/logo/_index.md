@@ -1,7 +1,7 @@
 ---
-title: Logo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账单人徽标的 URL。
+title: "Logo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账单人徽标的 URL。"
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/logo/

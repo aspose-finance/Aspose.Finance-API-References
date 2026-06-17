@@ -1,7 +1,7 @@
 ---
-title: PresentmentDirMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单方目录消息集。
+title: "PresentmentDirMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单方目录消息集。"
 type: docs
 weight: 4640
 url: /zh/net/aspose.finance.ofx.profile/presentmentdirmessageset/

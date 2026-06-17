@@ -1,7 +1,7 @@
 ---
-title: HTMLAreaElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示客户端图像映射区域定义。参见 HTML 4.01 中的 AREA 元素定义。
+title: "HTMLAreaElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示客户端图像映射区域定义。参见 HTML 4.01 中的 AREA 元素定义。"
 type: docs
 weight: 6750
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlareaelement/

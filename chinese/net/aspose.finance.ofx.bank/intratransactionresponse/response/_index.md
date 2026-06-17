@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 IntraResponseaspose.finance.ofx.bank/intraresponse 或 IntraModResponseaspose.finance.ofx.bank/intramodresponse 或 IntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse。
+title: "Response"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 IntraResponseaspose.finance.ofx.bank/intraresponse 或 IntraModResponseaspose.finance.ofx.bank/intramodresponse 或 IntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/intratransactionresponse/response/

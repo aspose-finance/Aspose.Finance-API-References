@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 IntraRequestaspose.finance.ofx.bank/intrarequest 或 IntraModRequestaspose.finance.ofx.bank/intramodrequest 或 IntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest.
+title: "Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 IntraRequestaspose.finance.ofx.bank/intrarequest 或 IntraModRequestaspose.finance.ofx.bank/intramodrequest 或 IntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest."
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/intratransactionrequest/request/

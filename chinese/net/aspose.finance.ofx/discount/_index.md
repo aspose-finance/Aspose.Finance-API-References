@@ -1,7 +1,7 @@
 ---
-title: Discount
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Discount 类。
+title: "Discount"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Discount 类。"
 type: docs
 weight: 2110
 url: /zh/net/aspose.finance.ofx/discount/

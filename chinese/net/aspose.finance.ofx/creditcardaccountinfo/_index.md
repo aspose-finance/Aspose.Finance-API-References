@@ -1,7 +1,7 @@
 ---
-title: CreditCardAccountInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: OFX 使用 credit card account information 聚合从 FI 下载账户信息。
+title: "CreditCardAccountInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "OFX 使用 credit card account information 聚合从 FI 下载账户信息。"
 type: docs
 weight: 2050
 url: /zh/net/aspose.finance.ofx/creditcardaccountinfo/

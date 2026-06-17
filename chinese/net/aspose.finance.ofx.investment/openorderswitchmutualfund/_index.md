@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSwitchMutualFund
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单转换共同基金类.
+title: "OpenOrderSwitchMutualFund"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单转换共同基金类."
 type: docs
 weight: 3330
 url: /zh/net/aspose.finance.ofx.investment/openorderswitchmutualfund/

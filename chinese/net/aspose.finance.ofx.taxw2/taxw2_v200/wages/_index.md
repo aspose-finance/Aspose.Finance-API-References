@@ -1,7 +1,7 @@
 ---
-title: 工资
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置工资、小费及其他补偿。
+title: "工资"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置工资、小费及其他补偿。"
 type: docs
 weight: 220
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v200/wages/

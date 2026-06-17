@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 信用卡下载请求在语义上与银行对账单下载请求相同。
+title: "CreditCardStatementRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "信用卡下载请求在语义上与银行对账单下载请求相同。"
 type: docs
 weight: 2000
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementrequest/

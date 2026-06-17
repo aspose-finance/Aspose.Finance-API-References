@@ -1,7 +1,7 @@
 ---
-title: 许可证
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 提供对组件进行授权的方法。
+title: "许可证"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "提供对组件进行授权的方法。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance/license/

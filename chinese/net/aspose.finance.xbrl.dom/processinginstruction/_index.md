@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 XML 中使用的处理指令，用于在文档文本中保留特定处理器的信息。
+title: "ProcessingInstruction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 XML 中使用的处理指令，用于在文档文本中保留特定处理器的信息。"
 type: docs
 weight: 7480
 url: /zh/net/aspose.finance.xbrl.dom/processinginstruction/

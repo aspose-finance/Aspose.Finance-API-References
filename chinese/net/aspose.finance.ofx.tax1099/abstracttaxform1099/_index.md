@@ -1,7 +1,7 @@
 ---
-title: AbstractTaxForm1099
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税表 1099 类的抽象基类。
+title: "AbstractTaxForm1099"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税表 1099 类的抽象基类。"
 type: docs
 weight: 5890
 url: /zh/net/aspose.finance.ofx.tax1099/abstracttaxform1099/

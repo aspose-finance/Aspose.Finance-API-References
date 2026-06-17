@@ -1,7 +1,7 @@
 ---
-title: Status
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 错误报告类。
+title: "Status"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "错误报告类。"
 type: docs
 weight: 5740
 url: /zh/net/aspose.finance.ofx/status/

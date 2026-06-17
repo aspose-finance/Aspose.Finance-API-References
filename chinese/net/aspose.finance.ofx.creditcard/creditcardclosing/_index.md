@@ -1,7 +1,7 @@
 ---
-title: CreditCardClosing
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 信用卡账户使用 CreditCardClosing 类来描述对账单结算信息。
+title: "CreditCardClosing"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "信用卡账户使用 CreditCardClosing 类来描述对账单结算信息。"
 type: docs
 weight: 1950
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardclosing/

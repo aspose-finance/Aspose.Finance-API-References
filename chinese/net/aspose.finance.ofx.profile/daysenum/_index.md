@@ -1,7 +1,7 @@
 ---
-title: DaysEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 星期枚举。
+title: "DaysEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "星期枚举。"
 type: docs
 weight: 4480
 url: /zh/net/aspose.finance.ofx.profile/daysenum/

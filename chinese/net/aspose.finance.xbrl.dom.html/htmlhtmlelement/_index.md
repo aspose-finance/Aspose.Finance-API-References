@@ -1,7 +1,7 @@
 ---
-title: HTMLHtmlElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 HTML 文档的根。请参阅 HTML 4.01 中的 HTML 元素定义。
+title: "HTMLHtmlElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 HTML 文档的根。请参阅 HTML 4.01 中的 HTML 元素定义。"
 type: docs
 weight: 6950
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlhtmlelement/

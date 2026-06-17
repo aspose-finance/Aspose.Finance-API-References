@@ -1,7 +1,7 @@
 ---
-title: PresentmentDetail
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 呈现细节类。
+title: "PresentmentDetail"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "呈现细节类。"
 type: docs
 weight: 1620
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdetail/

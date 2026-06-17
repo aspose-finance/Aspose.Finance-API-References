@@ -1,7 +1,7 @@
 ---
-title: 地址2
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置付款人地址第 2 行.
+title: "地址2"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置付款人地址第 2 行."
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1099/payeraddress/address2/

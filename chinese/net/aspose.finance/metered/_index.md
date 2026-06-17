@@ -1,7 +1,7 @@
 ---
-title: 计量
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 提供设置计量密钥的方法。
+title: "计量"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "提供设置计量密钥的方法。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance/metered/

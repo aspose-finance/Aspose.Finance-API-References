@@ -1,7 +1,7 @@
 ---
-title: InlineTuple
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于内联 XBRL 文档中的元组。
+title: "InlineTuple"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于内联 XBRL 文档中的元组。"
 type: docs
 weight: 7780
 url: /zh/net/aspose.finance.xbrl.inline/inlinetuple/

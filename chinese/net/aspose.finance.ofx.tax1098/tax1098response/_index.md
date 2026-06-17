@@ -1,7 +1,7 @@
 ---
-title: Tax1098Response
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税表 1098 响应类。
+title: "Tax1098Response"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税表 1098 响应类。"
 type: docs
 weight: 5820
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098response/

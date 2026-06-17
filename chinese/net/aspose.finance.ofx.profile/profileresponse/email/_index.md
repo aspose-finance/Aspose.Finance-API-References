@@ -1,7 +1,7 @@
 ---
-title: 电子邮件
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 FI 的电子邮件地址。
+title: "电子邮件"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 FI 的电子邮件地址。"
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.profile/profileresponse/email/

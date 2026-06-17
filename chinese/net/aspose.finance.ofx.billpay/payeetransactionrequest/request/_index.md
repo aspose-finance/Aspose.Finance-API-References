@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 PayeeRequestaspose.finance.ofx.billpay/payeerequest、PayeeModRequestaspose.finance.ofx.billpay/payeemodrequest 或 PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest。
+title: "Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 PayeeRequestaspose.finance.ofx.billpay/payeerequest、PayeeModRequestaspose.finance.ofx.billpay/payeemodrequest 或 PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/payeetransactionrequest/request/

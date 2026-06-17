@@ -1,7 +1,7 @@
 ---
-title: ImageTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 图像类型 enum。
+title: "ImageTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "图像类型 enum。"
 type: docs
 weight: 2340
 url: /zh/net/aspose.finance.ofx/imagetypeenum/

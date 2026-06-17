@@ -1,7 +1,7 @@
 ---
-title: ServiceAdd
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 服务添加类。
+title: "ServiceAdd"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "服务添加类。"
 type: docs
 weight: 5670
 url: /zh/net/aspose.finance.ofx.signup/serviceadd/

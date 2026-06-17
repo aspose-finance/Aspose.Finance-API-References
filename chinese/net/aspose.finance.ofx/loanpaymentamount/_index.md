@@ -1,7 +1,7 @@
 ---
-title: LoanPaymentAmount
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款付款金额类。
+title: "LoanPaymentAmount"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款付款金额类。"
 type: docs
 weight: 4090
 url: /zh/net/aspose.finance.ofx/loanpaymentamount/

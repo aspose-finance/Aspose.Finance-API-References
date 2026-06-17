@@ -1,7 +1,7 @@
 ---
-title: InvestmentBalance
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资余额类。
+title: "InvestmentBalance"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资余额类。"
 type: docs
 weight: 2930
 url: /zh/net/aspose.finance.ofx.investment/investmentbalance/

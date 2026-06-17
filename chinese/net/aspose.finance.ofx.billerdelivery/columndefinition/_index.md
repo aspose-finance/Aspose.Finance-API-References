@@ -1,7 +1,7 @@
 ---
-title: ColumnDefinition
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 列定义类。
+title: "ColumnDefinition"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "列定义类。"
 type: docs
 weight: 1580
 url: /zh/net/aspose.finance.ofx.billerdelivery/columndefinition/

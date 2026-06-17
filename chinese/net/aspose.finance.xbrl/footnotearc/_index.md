@@ -1,7 +1,7 @@
 ---
-title: FootnoteArc
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Arc 类型的 Xlink./xlink。它包含在 FootnoteLink 中。
+title: "FootnoteArc"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Arc 类型的 Xlink./xlink。它包含在 FootnoteLink 中。"
 type: docs
 weight: 7670
 url: /zh/net/aspose.finance.xbrl/footnotearc/

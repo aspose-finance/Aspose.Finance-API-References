@@ -1,7 +1,7 @@
 ---
-title: ImageRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 图像请求类。
+title: "ImageRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "图像请求类。"
 type: docs
 weight: 2290
 url: /zh/net/aspose.finance.ofx.image/imagerequest/

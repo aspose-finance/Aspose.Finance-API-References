@@ -1,7 +1,7 @@
 ---
-title: CharType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Char string type 类。
+title: "CharType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Char string type 类。"
 type: docs
 weight: 1920
 url: /zh/net/aspose.finance.ofx/chartype/

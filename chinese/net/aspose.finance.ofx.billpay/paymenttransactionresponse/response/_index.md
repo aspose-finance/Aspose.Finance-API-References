@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 PaymentResponseaspose.finance.ofx.billpay/paymentresponse 或 PaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse 或 PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse。
+title: "Response"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 PaymentResponseaspose.finance.ofx.billpay/paymentresponse 或 PaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse 或 PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymenttransactionresponse/response/

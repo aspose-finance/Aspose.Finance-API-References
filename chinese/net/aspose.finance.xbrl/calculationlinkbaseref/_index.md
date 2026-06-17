@@ -1,7 +1,7 @@
 ---
-title: CalculationLinkbaseRef
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于计算 linkbase 引用。
+title: "CalculationLinkbaseRef"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于计算 linkbase 引用。"
 type: docs
 weight: 6550
 url: /zh/net/aspose.finance.xbrl/calculationlinkbaseref/

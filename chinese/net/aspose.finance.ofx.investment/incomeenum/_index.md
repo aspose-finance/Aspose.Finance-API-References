@@ -1,7 +1,7 @@
 ---
-title: IncomeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资收入类型枚举。
+title: "IncomeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资收入类型枚举。"
 type: docs
 weight: 2890
 url: /zh/net/aspose.finance.ofx.investment/incomeenum/

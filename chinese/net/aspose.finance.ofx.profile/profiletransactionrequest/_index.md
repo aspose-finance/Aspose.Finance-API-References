@@ -1,7 +1,7 @@
 ---
-title: ProfileTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 配置文件事务请求类。
+title: "ProfileTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "配置文件事务请求类。"
 type: docs
 weight: 4740
 url: /zh/net/aspose.finance.ofx.profile/profiletransactionrequest/

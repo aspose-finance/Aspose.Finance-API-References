@@ -1,7 +1,7 @@
 ---
-title: 银行交易列表
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Statement transaction data collection 类。
+title: "银行交易列表"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Statement transaction data collection 类。"
 type: docs
 weight: 820
 url: /zh/net/aspose.finance.ofx/banktransactionlist/

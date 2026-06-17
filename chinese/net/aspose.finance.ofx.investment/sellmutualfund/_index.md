@@ -1,7 +1,7 @@
 ---
-title: SellMutualFund
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资卖出共同基金类.
+title: "SellMutualFund"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资卖出共同基金类."
 type: docs
 weight: 3500
 url: /zh/net/aspose.finance.ofx.investment/sellmutualfund/

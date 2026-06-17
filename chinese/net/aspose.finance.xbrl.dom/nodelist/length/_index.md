@@ -1,7 +1,7 @@
 ---
-title: Length
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取列表中节点的数量。
+title: "Length"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取列表中节点的数量。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.dom/nodelist/length/

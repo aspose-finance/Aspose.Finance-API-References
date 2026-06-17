@@ -1,7 +1,7 @@
 ---
-title: HTMLBaseFontElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示基础字体。参见 HTML 4.01 中的 BASEFONT 元素定义。此元素在 HTML 4.01 中已弃用。
+title: "HTMLBaseFontElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示基础字体。参见 HTML 4.01 中的 BASEFONT 元素定义。此元素在 HTML 4.01 中已弃用。"
 type: docs
 weight: 6780
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlbasefontelement/

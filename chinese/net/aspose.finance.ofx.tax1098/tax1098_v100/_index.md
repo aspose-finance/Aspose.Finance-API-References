@@ -1,7 +1,7 @@
 ---
-title: Tax1098_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Tax 1098 V100 表单类，抵押贷款利息报表。
+title: "Tax1098_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Tax 1098 V100 表单类，抵押贷款利息报表。"
 type: docs
 weight: 5860
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098_v100/

@@ -1,7 +1,7 @@
 ---
-title: HTMLHeadingElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 H1 到 H6 元素。请参阅 HTML 4.01 中的 H1 元素定义。
+title: "HTMLHeadingElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 H1 到 H6 元素。请参阅 HTML 4.01 中的 H1 元素定义。"
 type: docs
 weight: 6940
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlheadingelement/

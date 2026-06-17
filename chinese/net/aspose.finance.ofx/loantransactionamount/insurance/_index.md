@@ -1,7 +1,7 @@
 ---
-title: Insurance
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置贷款的寿险意外健康保险。
+title: "Insurance"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置贷款的寿险意外健康保险。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/loantransactionamount/insurance/

@@ -1,7 +1,7 @@
 ---
-title: TransferStatusEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 转账处理状态值枚举。
+title: "TransferStatusEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "转账处理状态值枚举。"
 type: docs
 weight: 6320
 url: /zh/net/aspose.finance.ofx/transferstatusenum/

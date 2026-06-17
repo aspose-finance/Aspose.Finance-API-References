@@ -1,7 +1,7 @@
 ---
-title: BillTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单类型枚举。
+title: "BillTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单类型枚举。"
 type: docs
 weight: 1570
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtypeenum/

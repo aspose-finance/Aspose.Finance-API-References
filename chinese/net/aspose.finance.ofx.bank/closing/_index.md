@@ -1,7 +1,7 @@
 ---
-title: Closing
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 支票、储蓄、货币市场、CD 或信用额度账户使用该类来描述对账单结算信息。
+title: "Closing"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "支票、储蓄、货币市场、CD 或信用额度账户使用该类来描述对账单结算信息。"
 type: docs
 weight: 410
 url: /zh/net/aspose.finance.ofx.bank/closing/

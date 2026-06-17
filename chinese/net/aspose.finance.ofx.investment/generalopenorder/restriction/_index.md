@@ -1,14 +1,14 @@
 ---
-title: Restriction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets or sets the special restriction on the order.
+title: "Restriction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置订单的特殊限制。"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.investment/generalopenorder/restriction/
 ---
 ## GeneralOpenOrder.Restriction property
 
-Gets or sets the special restriction on the order.
+获取或设置订单的特殊限制。
 
 ```csharp
 public RestrictionEnum Restriction { get; set; }

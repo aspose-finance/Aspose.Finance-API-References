@@ -1,7 +1,7 @@
 ---
-title: HolderInfoType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账户持有人信息包括主要和次要持有人信息。
+title: "HolderInfoType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账户持有人信息包括主要和次要持有人信息。"
 type: docs
 weight: 2260
 url: /zh/net/aspose.finance.ofx/holderinfotype/

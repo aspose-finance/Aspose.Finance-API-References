@@ -1,7 +1,7 @@
 ---
-title: EnrollResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 注册响应类。
+title: "EnrollResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "注册响应类。"
 type: docs
 weight: 5640
 url: /zh/net/aspose.finance.ofx.signup/enrollresponse/

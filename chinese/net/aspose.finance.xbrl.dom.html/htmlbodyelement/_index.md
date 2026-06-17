@@ -1,7 +1,7 @@
 ---
-title: HTMLBodyElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 HTML 文档的 body。即使源文档中没有相应标签，此元素在 DOM API 中始终存在。请参阅 HTML 4.01 中的 BODY 元素定义。
+title: "HTMLBodyElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 HTML 文档的 body。即使源文档中没有相应标签，此元素在 DOM API 中始终存在。请参阅 HTML 4.01 中的 BODY 元素定义。"
 type: docs
 weight: 6790
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlbodyelement/

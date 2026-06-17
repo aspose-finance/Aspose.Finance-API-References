@@ -1,7 +1,7 @@
 ---
-title: Url
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 FI 的一般信息 URL（不用于发送数据）。
+title: "Url"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 FI 的一般信息 URL（不用于发送数据）。"
 type: docs
 weight: 170
 url: /zh/net/aspose.finance.ofx.profile/profileresponse/url/

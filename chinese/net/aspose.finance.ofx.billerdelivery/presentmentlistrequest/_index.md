@@ -1,7 +1,7 @@
 ---
-title: PresentmentListRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单列表请求类。客户端按日期范围向账单发布者请求账单。
+title: "PresentmentListRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单列表请求类。客户端按日期范围向账单发布者请求账单。"
 type: docs
 weight: 1690
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/

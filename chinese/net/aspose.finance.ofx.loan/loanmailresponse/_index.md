@@ -1,7 +1,7 @@
 ---
-title: LoanMailResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款电子邮件响应类。
+title: "LoanMailResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款电子邮件响应类。"
 type: docs
 weight: 3870
 url: /zh/net/aspose.finance.ofx.loan/loanmailresponse/

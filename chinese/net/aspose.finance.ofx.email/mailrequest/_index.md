@@ -1,7 +1,7 @@
 ---
-title: MailRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电子邮件消息请求类。
+title: "MailRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电子邮件消息请求类。"
 type: docs
 weight: 2160
 url: /zh/net/aspose.finance.ofx.email/mailrequest/

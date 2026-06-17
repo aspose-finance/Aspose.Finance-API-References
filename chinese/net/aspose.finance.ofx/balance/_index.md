@@ -1,7 +1,7 @@
 ---
-title: 余额
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 多个响应允许金融机构在响应中（例如银行对账单下载）发送任意集合的余额信息。金融机构可能希望发送有关未清余额、付款日期、利率等信息。
+title: "余额"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "多个响应允许金融机构在响应中（例如银行对账单下载）发送任意集合的余额信息。金融机构可能希望发送有关未清余额、付款日期、利率等信息。"
 type: docs
 weight: 230
 url: /zh/net/aspose.finance.ofx/balance/

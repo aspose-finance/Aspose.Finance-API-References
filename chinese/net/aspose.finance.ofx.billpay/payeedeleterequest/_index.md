@@ -1,7 +1,7 @@
 ---
-title: PayeeDeleteRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 收款人删除请求类。
+title: "PayeeDeleteRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "收款人删除请求类。"
 type: docs
 weight: 950
 url: /zh/net/aspose.finance.ofx.billpay/payeedeleterequest/

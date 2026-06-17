@@ -1,7 +1,7 @@
 ---
-title: 类型
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取链接类型。
+title: "类型"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取链接类型。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/xlink/type/

@@ -1,6 +1,6 @@
 ---
-title: RecipientAddress
-second_title: Aspose.Finance 适用于 .NET API 参考
+title: "RecipientAddress"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
 description: 
 type: docs
 weight: 5990

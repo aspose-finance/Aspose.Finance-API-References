@@ -1,7 +1,7 @@
 ---
-title: BANKID
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置银行ID。路由ABA号码或S.W.I.F.T.号码。
+title: "BANKID"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置银行ID。路由ABA号码或S.W.I.F.T.号码。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/bankid/

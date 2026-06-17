@@ -1,7 +1,7 @@
 ---
-title: MailSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电子邮件同步响应类。
+title: "MailSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电子邮件同步响应类。"
 type: docs
 weight: 2190
 url: /zh/net/aspose.finance.ofx.email/mailsyncresponse/

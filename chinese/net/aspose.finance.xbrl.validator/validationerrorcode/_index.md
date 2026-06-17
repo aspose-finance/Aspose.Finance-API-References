@@ -1,7 +1,7 @@
 ---
-title: ValidationErrorCode
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 验证错误代码枚举。
+title: "ValidationErrorCode"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "验证错误代码枚举。"
 type: docs
 weight: 8210
 url: /zh/net/aspose.finance.xbrl.validator/validationerrorcode/

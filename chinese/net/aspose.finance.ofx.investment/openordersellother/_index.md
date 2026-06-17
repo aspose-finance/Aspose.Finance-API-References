@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSellOther
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单卖出其他类.
+title: "OpenOrderSellOther"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单卖出其他类."
 type: docs
 weight: 3310
 url: /zh/net/aspose.finance.ofx.investment/openordersellother/

@@ -1,7 +1,7 @@
 ---
-title: Phone
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账户的电话号码。
+title: "Phone"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账户的电话号码。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx/accountinfo/phone/

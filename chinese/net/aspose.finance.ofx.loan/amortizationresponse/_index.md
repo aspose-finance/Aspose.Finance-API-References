@@ -1,7 +1,7 @@
 ---
-title: AmortizationResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 摊销报表响应类。
+title: "AmortizationResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "摊销报表响应类。"
 type: docs
 weight: 3770
 url: /zh/net/aspose.finance.ofx.loan/amortizationresponse/

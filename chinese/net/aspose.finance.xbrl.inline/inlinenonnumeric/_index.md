@@ -1,7 +1,7 @@
 ---
-title: InlineNonnumeric
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于内联 XBRL 文档中的 XBRL 非数值项。
+title: "InlineNonnumeric"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于内联 XBRL 文档中的 XBRL 非数值项。"
 type: docs
 weight: 7750
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/

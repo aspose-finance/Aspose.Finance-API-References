@@ -1,7 +1,7 @@
 ---
-title: BillPayMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单支付消息集。
+title: "BillPayMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单支付消息集。"
 type: docs
 weight: 4410
 url: /zh/net/aspose.finance.ofx.profile/billpaymessageset/

@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSellMutualFund
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单卖出共同基金类.
+title: "OpenOrderSellMutualFund"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单卖出共同基金类."
 type: docs
 weight: 3290
 url: /zh/net/aspose.finance.ofx.investment/openordersellmutualfund/

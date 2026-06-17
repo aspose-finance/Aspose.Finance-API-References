@@ -1,7 +1,7 @@
 ---
-title: PresentmentAccountInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单呈现账户信息类。
+title: "PresentmentAccountInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单呈现账户信息类。"
 type: docs
 weight: 4300
 url: /zh/net/aspose.finance.ofx/presentmentaccountinfo/

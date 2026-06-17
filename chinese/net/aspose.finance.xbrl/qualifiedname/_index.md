@@ -1,7 +1,7 @@
 ---
-title: QualifiedName
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: XML 模式类型 QName，定义于 http//www.w3.org/2001/XMLSchema 命名空间。
+title: "QualifiedName"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "XML 模式类型 QName，定义于 http//www.w3.org/2001/XMLSchema 命名空间。"
 type: docs
 weight: 7940
 url: /zh/net/aspose.finance.xbrl/qualifiedname/

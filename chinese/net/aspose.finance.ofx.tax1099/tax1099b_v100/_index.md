@@ -1,7 +1,7 @@
 ---
-title: Tax1099B_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1099B V100 表格类。
+title: "Tax1099B_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1099B V100 表格类。"
 type: docs
 weight: 6020
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099b_v100/

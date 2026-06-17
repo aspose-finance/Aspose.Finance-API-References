@@ -1,7 +1,7 @@
 ---
-title: YearToDate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 本日历年度截至目前的贡献。
+title: "YearToDate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "本日历年度截至目前的贡献。"
 type: docs
 weight: 3620
 url: /zh/net/aspose.finance.ofx.investment/yeartodate/

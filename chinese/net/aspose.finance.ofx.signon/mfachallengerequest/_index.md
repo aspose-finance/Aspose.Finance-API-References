@@ -1,7 +1,7 @@
 ---
-title: MFAChallengeRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: MFA 挑战请求类。它是向服务器请求发送一系列挑战问题的请求，必须正确回答这些问题后，OFX 客户端才能继续进行后续的 OFX 请求。
+title: "MFAChallengeRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "MFA 挑战请求类。它是向服务器请求发送一系列挑战问题的请求，必须正确回答这些问题后，OFX 客户端才能继续进行后续的 OFX 请求。"
 type: docs
 weight: 5360
 url: /zh/net/aspose.finance.ofx.signon/mfachallengerequest/

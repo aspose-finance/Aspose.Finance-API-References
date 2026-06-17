@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 RecurringPaymentResponseaspose.finance.ofx.billpay/recurringpaymentresponse 或 RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse 或 RecurringPaymentCancelResponseaspose.finance.ofx.billpay/recurringpaymentcancelresponse。
+title: "Response"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 RecurringPaymentResponseaspose.finance.ofx.billpay/recurringpaymentresponse 或 RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse 或 RecurringPaymentCancelResponseaspose.finance.ofx.billpay/recurringpaymentcancelresponse。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/response/

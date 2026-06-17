@@ -1,7 +1,7 @@
 ---
-title: BankMailSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 银行邮件同步响应类。
+title: "BankMailSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "银行邮件同步响应类。"
 type: docs
 weight: 340
 url: /zh/net/aspose.finance.ofx.bank/bankmailsyncresponse/

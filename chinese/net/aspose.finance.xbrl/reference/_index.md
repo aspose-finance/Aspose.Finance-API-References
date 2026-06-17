@@ -1,7 +1,7 @@
 ---
-title: Reference
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是一个 Xlink./xlink，具有 Resource 类型。它使 XBRL 分类法能够在已发布的商业、金融和会计文献中的权威声明中确立概念的定义。
+title: "Reference"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是一个 Xlink./xlink，具有 Resource 类型。它使 XBRL 分类法能够在已发布的商业、金融和会计文献中的权威声明中确立概念的定义。"
 type: docs
 weight: 7950
 url: /zh/net/aspose.finance.xbrl/reference/

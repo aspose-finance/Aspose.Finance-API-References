@@ -1,7 +1,7 @@
 ---
-title: 地址3
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账单人的地址第 3 行。
+title: "地址3"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账单人的地址第 3 行。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/address3/

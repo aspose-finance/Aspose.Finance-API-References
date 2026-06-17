@@ -1,7 +1,7 @@
 ---
-title: AbstractOpenOrder
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有未完成订单相关类的抽象基类。
+title: "AbstractOpenOrder"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有未完成订单相关类的抽象基类。"
 type: docs
 weight: 2660
 url: /zh/net/aspose.finance.ofx.investment/abstractopenorder/

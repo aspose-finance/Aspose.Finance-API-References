@@ -1,7 +1,7 @@
 ---
-title: BorrowerAddress
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 借款人地址类。
+title: "BorrowerAddress"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "借款人地址类。"
 type: docs
 weight: 5760
 url: /zh/net/aspose.finance.ofx.tax1098/borroweraddress/

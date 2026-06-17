@@ -1,7 +1,7 @@
 ---
-title: PresentmentGroupAccountInfoTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 组账户信息事务响应类。
+title: "PresentmentGroupAccountInfoTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "组账户信息事务响应类。"
 type: docs
 weight: 1680
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/

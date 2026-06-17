@@ -1,7 +1,7 @@
 ---
-title: Tax1099ResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1099 响应消息集 版本 1 类。
+title: "Tax1099ResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1099 响应消息集 版本 1 类。"
 type: docs
 weight: 6130
 url: /zh/net/aspose.finance.ofx/tax1099responsemessagesetv1/

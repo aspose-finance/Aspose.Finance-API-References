@@ -1,7 +1,7 @@
 ---
-title: UnitTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 单位类型枚举。
+title: "UnitTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "单位类型枚举。"
 type: docs
 weight: 3590
 url: /zh/net/aspose.finance.ofx.investment/unittypeenum/
@@ -18,7 +18,7 @@ public enum UnitTypeEnum
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| SHARES | `0` | Shares |
+| SHARES | `0` | 股份 |
 | CURRENCY | `1` | Currency |
 
 ### 另请参阅

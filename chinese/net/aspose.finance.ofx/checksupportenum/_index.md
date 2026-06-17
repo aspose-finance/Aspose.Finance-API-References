@@ -1,7 +1,7 @@
 ---
-title: CheckSupportEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 支票支持 enum。
+title: "CheckSupportEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "支票支持 enum。"
 type: docs
 weight: 1930
 url: /zh/net/aspose.finance.ofx/checksupportenum/

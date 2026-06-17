@@ -1,7 +1,7 @@
 ---
-title: ChallengeRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 挑战请求类。挑战请求是 Type 1 应用级安全的第一步。它本质上向服务器请求一些随机数据。挑战响应提供服务器生成的随机数据，是 Type 1 安全的第二步。
+title: "ChallengeRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "挑战请求类。挑战请求是 Type 1 应用级安全的第一步。它本质上向服务器请求一些随机数据。挑战响应提供服务器生成的随机数据，是 Type 1 安全的第二步。"
 type: docs
 weight: 5290
 url: /zh/net/aspose.finance.ofx.signon/challengerequest/

@@ -1,7 +1,7 @@
 ---
-title: Name2
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置雇主名称第 2 行。
+title: "Name2"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置雇主名称第 2 行。"
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.taxw2/employer/name2/

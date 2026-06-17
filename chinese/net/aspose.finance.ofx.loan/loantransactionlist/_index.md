@@ -1,7 +1,7 @@
 ---
-title: LoanTransactionList
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款报表交易数据集合类。
+title: "LoanTransactionList"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款报表交易数据集合类。"
 type: docs
 weight: 4020
 url: /zh/net/aspose.finance.ofx.loan/loantransactionlist/

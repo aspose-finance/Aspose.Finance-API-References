@@ -1,7 +1,7 @@
 ---
-title: 文本
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示文本内容。
+title: "文本"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示文本内容。"
 type: docs
 weight: 7490
 url: /zh/net/aspose.finance.xbrl.dom/text/

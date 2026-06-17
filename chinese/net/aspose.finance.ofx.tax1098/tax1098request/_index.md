@@ -1,7 +1,7 @@
 ---
-title: Tax1098Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税表 1098 请求类。此类请求服务器提供所有 1098 税表。
+title: "Tax1098Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税表 1098 请求类。此类请求服务器提供所有 1098 税表。"
 type: docs
 weight: 5810
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098request/

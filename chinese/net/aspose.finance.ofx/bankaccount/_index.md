@@ -1,7 +1,7 @@
 ---
-title: BankAccount
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: OFX 使用 Banking Account 聚合来标识金融机构（FI）中的账户。这些聚合包含足够的信息，以在对账单下载、账单支付和资金转账等目的下唯一标识账户。
+title: "BankAccount"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "OFX 使用 Banking Account 聚合来标识金融机构（FI）中的账户。这些聚合包含足够的信息，以在对账单下载、账单支付和资金转账等目的下唯一标识账户。"
 type: docs
 weight: 780
 url: /zh/net/aspose.finance.ofx/bankaccount/

@@ -1,7 +1,7 @@
 ---
-title: FrequencyEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 频率类型 enum。
+title: "FrequencyEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "频率类型 enum。"
 type: docs
 weight: 2250
 url: /zh/net/aspose.finance.ofx/frequencyenum/

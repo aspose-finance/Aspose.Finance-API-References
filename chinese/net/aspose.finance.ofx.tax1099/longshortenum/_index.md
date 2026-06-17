@@ -1,7 +1,7 @@
 ---
-title: LongShortEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 多空枚举。
+title: "LongShortEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "多空枚举。"
 type: docs
 weight: 5950
 url: /zh/net/aspose.finance.ofx.tax1099/longshortenum/

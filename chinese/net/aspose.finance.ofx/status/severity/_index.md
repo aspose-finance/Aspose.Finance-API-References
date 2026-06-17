@@ -1,7 +1,7 @@
 ---
-title: Severity
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置错误的严重程度。
+title: "Severity"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置错误的严重程度。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/status/severity/

@@ -1,7 +1,7 @@
 ---
-title: InterTransferRequestMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Interbank Transfer request messages set version 1 类。
+title: "InterTransferRequestMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Interbank Transfer request messages set version 1 类。"
 type: docs
 weight: 2600
 url: /zh/net/aspose.finance.ofx/intertransferrequestmessagesetv1/

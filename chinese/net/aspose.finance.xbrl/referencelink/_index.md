@@ -1,7 +1,7 @@
 ---
-title: 参考链接
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类旨在包含概念之间的关系以及对已发布的商业金融和会计文献中权威声明的引用，这些声明为概念赋予意义。
+title: "参考链接"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类旨在包含概念之间的关系以及对已发布的商业金融和会计文献中权威声明的引用，这些声明为概念赋予意义。"
 type: docs
 weight: 7970
 url: /zh/net/aspose.finance.xbrl/referencelink/

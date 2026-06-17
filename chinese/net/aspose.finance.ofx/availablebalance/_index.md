@@ -1,7 +1,7 @@
 ---
-title: AvailableBalance
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 可用余额类。
+title: "AvailableBalance"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "可用余额类。"
 type: docs
 weight: 220
 url: /zh/net/aspose.finance.ofx/availablebalance/

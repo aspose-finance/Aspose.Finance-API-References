@@ -1,7 +1,7 @@
 ---
-title: HTMLParamElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示提供给 OBJECT 元素的参数。请参阅 HTML 4.01 中的 PARAM 元素定义。
+title: "HTMLParamElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示提供给 OBJECT 元素的参数。请参阅 HTML 4.01 中的 PARAM 元素定义。"
 type: docs
 weight: 7140
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlparamelement/

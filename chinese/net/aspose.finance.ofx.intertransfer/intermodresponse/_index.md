@@ -1,7 +1,7 @@
 ---
-title: InterModResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 跨行转账修改响应类。
+title: "InterModResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "跨行转账修改响应类。"
 type: docs
 weight: 2430
 url: /zh/net/aspose.finance.ofx.intertransfer/intermodresponse/

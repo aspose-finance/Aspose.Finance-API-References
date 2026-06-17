@@ -1,7 +1,7 @@
 ---
-title: AbstractMessageSetVersion
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 消息集实现相关类的抽象基类
+title: "AbstractMessageSetVersion"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "消息集实现相关类的抽象基类"
 type: docs
 weight: 4380
 url: /zh/net/aspose.finance.ofx.profile/abstractmessagesetversion/

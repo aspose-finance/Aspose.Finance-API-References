@@ -1,7 +1,7 @@
 ---
-title: BuyOption
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资买入期权交易类。
+title: "BuyOption"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资买入期权交易类。"
 type: docs
 weight: 2710
 url: /zh/net/aspose.finance.ofx.investment/buyoption/

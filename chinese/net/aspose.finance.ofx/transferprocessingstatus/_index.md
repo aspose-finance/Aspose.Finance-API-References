@@ -1,7 +1,7 @@
 ---
-title: TransferProcessingStatus
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Transfer Processing Status 包含转账的当前处理状态。此类旨在描述创建后关联转账的状态变化。
+title: "TransferProcessingStatus"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Transfer Processing Status 包含转账的当前处理状态。此类旨在描述创建后关联转账的状态变化。"
 type: docs
 weight: 6310
 url: /zh/net/aspose.finance.ofx/transferprocessingstatus/

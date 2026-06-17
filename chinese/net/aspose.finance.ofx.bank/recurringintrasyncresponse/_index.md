@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 循环内部银行交易同步响应类。
+title: "RecurringIntraSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "循环内部银行交易同步响应类。"
 type: docs
 weight: 600
 url: /zh/net/aspose.finance.ofx.bank/recurringintrasyncresponse/

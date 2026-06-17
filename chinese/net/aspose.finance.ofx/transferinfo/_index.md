@@ -1,7 +1,7 @@
 ---
-title: TransferInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类标识参与转账金额的账户以及转账日期。
+title: "TransferInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类标识参与转账金额的账户以及转账日期。"
 type: docs
 weight: 6300
 url: /zh/net/aspose.finance.ofx/transferinfo/

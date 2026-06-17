@@ -1,7 +1,7 @@
 ---
-title: ValidationError
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是验证相关错误的基类。
+title: "ValidationError"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是验证相关错误的基类。"
 type: docs
 weight: 8200
 url: /zh/net/aspose.finance.xbrl.validator/validationerror/

@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 InterRequestaspose.finance.ofx.intertransfer/interrequest 或 InterModRequestaspose.finance.ofx.intertransfer/intermodrequest 或 InterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest。
+title: "Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 InterRequestaspose.finance.ofx.intertransfer/interrequest 或 InterModRequestaspose.finance.ofx.intertransfer/intermodrequest 或 InterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.intertransfer/intertransactionrequest/request/

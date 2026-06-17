@@ -1,7 +1,7 @@
 ---
-title: OptionSellEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 期权卖出枚举。
+title: "OptionSellEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "期权卖出枚举。"
 type: docs
 weight: 3360
 url: /zh/net/aspose.finance.ofx.investment/optionsellenum/

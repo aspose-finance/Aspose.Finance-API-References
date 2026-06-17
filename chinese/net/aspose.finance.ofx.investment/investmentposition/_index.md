@@ -1,7 +1,7 @@
 ---
-title: InvestmentPosition
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类包含与所有投资持仓类型相关的字段。
+title: "InvestmentPosition"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类包含与所有投资持仓类型相关的字段。"
 type: docs
 weight: 3050
 url: /zh/net/aspose.finance.ofx.investment/investmentposition/

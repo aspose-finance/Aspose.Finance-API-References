@@ -1,7 +1,7 @@
 ---
-title: 描述
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账户的描述。
+title: "描述"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账户的描述。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/accountinfo/description/

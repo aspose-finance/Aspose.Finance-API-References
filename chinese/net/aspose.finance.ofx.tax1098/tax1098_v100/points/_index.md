@@ -1,7 +1,7 @@
 ---
-title: Points
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置购买主要住宅时支付的点数。
+title: "Points"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置购买主要住宅时支付的点数。"
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098_v100/points/

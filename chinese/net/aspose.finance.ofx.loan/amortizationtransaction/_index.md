@@ -1,7 +1,7 @@
 ---
-title: AmortizationTransaction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 摊销交易类。
+title: "AmortizationTransaction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "摊销交易类。"
 type: docs
 weight: 3780
 url: /zh/net/aspose.finance.ofx.loan/amortizationtransaction/

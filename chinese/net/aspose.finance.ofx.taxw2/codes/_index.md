@@ -1,7 +1,7 @@
 ---
-title: Codes
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 第 12 项的代码类代码和金额。
+title: "Codes"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "第 12 项的代码类代码和金额。"
 type: docs
 weight: 6150
 url: /zh/net/aspose.finance.ofx.taxw2/codes/

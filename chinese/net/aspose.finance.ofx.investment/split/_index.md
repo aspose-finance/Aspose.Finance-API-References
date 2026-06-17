@@ -1,7 +1,7 @@
 ---
-title: 拆分
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资股票或共同基金拆分类。
+title: "拆分"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资股票或共同基金拆分类。"
 type: docs
 weight: 3560
 url: /zh/net/aspose.finance.ofx.investment/split/

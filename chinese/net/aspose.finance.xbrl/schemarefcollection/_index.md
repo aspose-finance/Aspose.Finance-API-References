@@ -1,7 +1,7 @@
 ---
-title: SchemaRefCollection
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 模式引用的集合。
+title: "SchemaRefCollection"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "模式引用的集合。"
 type: docs
 weight: 8070
 url: /zh/net/aspose.finance.xbrl/schemarefcollection/

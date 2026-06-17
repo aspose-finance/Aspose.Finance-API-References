@@ -1,7 +1,7 @@
 ---
-title: MessageType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 消息字符串类型类。
+title: "MessageType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "消息字符串类型类。"
 type: docs
 weight: 4180
 url: /zh/net/aspose.finance.ofx/messagetype/

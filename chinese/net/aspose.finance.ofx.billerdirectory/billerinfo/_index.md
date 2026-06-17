@@ -1,7 +1,7 @@
 ---
-title: BillerInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类包含有关单个账单方的信息。
+title: "BillerInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类包含有关单个账单方的信息。"
 type: docs
 weight: 1850
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/

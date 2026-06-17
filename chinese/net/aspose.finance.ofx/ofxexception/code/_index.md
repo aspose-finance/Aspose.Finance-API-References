@@ -1,7 +1,7 @@
 ---
-title: Code
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 表示自定义异常代码。
+title: "Code"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "表示自定义异常代码。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/ofxexception/code/

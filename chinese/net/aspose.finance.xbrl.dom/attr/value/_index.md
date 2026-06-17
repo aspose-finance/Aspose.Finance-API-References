@@ -1,7 +1,7 @@
 ---
-title: 值
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取属性的值。
+title: "值"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取属性的值。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.dom/attr/value/

@@ -1,7 +1,7 @@
 ---
-title: 转账
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资转账类。
+title: "转账"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资转账类。"
 type: docs
 weight: 3580
 url: /zh/net/aspose.finance.ofx.investment/transfer/

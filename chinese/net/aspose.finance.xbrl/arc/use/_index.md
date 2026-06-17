@@ -1,7 +1,7 @@
 ---
-title: 使用
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置弧的 arc use。
+title: "使用"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置弧的 arc use。"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.xbrl/arc/use/

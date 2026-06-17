@@ -1,7 +1,7 @@
 ---
-title: Concepts
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取模式中定义的 Conceptaspose.finance.xbrl/concept 集合。
+title: "Concepts"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取模式中定义的 Conceptaspose.finance.xbrl/concept 集合。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/schemaref/concepts/

@@ -1,7 +1,7 @@
 ---
-title: InvestmentAccountInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资账户信息类。
+title: "InvestmentAccountInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资账户信息类。"
 type: docs
 weight: 3660
 url: /zh/net/aspose.finance.ofx/investmentaccountinfo/

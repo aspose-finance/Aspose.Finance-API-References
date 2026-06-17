@@ -1,7 +1,7 @@
 ---
-title: Invoice
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 发票类。
+title: "Invoice"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "发票类。"
 type: docs
 weight: 3700
 url: /zh/net/aspose.finance.ofx/invoice/

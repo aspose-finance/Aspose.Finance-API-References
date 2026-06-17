@@ -1,7 +1,7 @@
 ---
-title: LabelLink
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类旨在包含概念与其文本文档及标签之间的关系。
+title: "LabelLink"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类旨在包含概念与其文本文档及标签之间的关系。"
 type: docs
 weight: 7830
 url: /zh/net/aspose.finance.xbrl/labellink/

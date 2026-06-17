@@ -1,7 +1,7 @@
 ---
-title: Organization
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置定义此 FI 名称空间的组织。
+title: "Organization"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置定义此 FI 名称空间的组织。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.signon/financialinstitution/organization/

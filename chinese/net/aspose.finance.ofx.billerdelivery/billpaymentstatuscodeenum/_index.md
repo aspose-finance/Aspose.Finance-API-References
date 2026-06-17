@@ -1,7 +1,7 @@
 ---
-title: BillPaymentStatusCodeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单付款状态代码枚举。
+title: "BillPaymentStatusCodeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单付款状态代码枚举。"
 type: docs
 weight: 1440
 url: /zh/net/aspose.finance.ofx.billerdelivery/billpaymentstatuscodeenum/

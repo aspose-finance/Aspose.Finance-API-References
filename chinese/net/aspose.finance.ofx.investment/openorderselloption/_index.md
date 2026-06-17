@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSellOption
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单卖出期权类.
+title: "OpenOrderSellOption"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单卖出期权类."
 type: docs
 weight: 3300
 url: /zh/net/aspose.finance.ofx.investment/openorderselloption/

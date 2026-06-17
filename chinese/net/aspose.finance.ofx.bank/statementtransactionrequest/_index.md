@@ -1,7 +1,7 @@
 ---
-title: StatementTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 报表交易请求类。
+title: "StatementTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "报表交易请求类。"
 type: docs
 weight: 690
 url: /zh/net/aspose.finance.ofx.bank/statementtransactionrequest/

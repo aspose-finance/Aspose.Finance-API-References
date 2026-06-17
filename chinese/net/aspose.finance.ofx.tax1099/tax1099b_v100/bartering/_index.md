@@ -1,7 +1,7 @@
 ---
-title: Bartering
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置以物易物。
+title: "Bartering"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置以物易物。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099b_v100/bartering/

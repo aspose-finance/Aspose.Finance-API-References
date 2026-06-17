@@ -1,7 +1,7 @@
 ---
-title: AbstractAccountInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有账户信息相关类的抽象基类。
+title: "AbstractAccountInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有账户信息相关类的抽象基类。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/abstractaccountinfo/

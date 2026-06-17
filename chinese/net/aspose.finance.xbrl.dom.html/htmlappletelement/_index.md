@@ -1,7 +1,7 @@
 ---
-title: HTMLAppletElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示嵌入式 Java 小程序。参见 HTML 4.01 中的 APPLET 元素定义。此元素在 HTML 4.01 中已弃用。
+title: "HTMLAppletElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示嵌入式 Java 小程序。参见 HTML 4.01 中的 APPLET 元素定义。此元素在 HTML 4.01 中已弃用。"
 type: docs
 weight: 6740
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlappletelement/

@@ -1,7 +1,7 @@
 ---
-title: IntraResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 内部银行转账响应类。
+title: "IntraResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "内部银行转账响应类。"
 type: docs
 weight: 480
 url: /zh/net/aspose.finance.ofx.bank/intraresponse/

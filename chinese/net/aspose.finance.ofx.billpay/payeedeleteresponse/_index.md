@@ -1,7 +1,7 @@
 ---
-title: PayeeDeleteResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 收款人删除响应类。
+title: "PayeeDeleteResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "收款人删除响应类。"
 type: docs
 weight: 960
 url: /zh/net/aspose.finance.ofx.billpay/payeedeleteresponse/

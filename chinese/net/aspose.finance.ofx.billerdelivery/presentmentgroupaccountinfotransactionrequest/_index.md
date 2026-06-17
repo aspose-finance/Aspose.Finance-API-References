@@ -1,7 +1,7 @@
 ---
-title: PresentmentGroupAccountInfoTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 组账户信息事务请求类。此类指定客户端是请求单个用户的账户信息还是一组用户的账户信息。
+title: "PresentmentGroupAccountInfoTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "组账户信息事务请求类。此类指定客户端是请求单个用户的账户信息还是一组用户的账户信息。"
 type: docs
 weight: 1670
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/

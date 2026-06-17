@@ -1,7 +1,7 @@
 ---
-title: TaxW2_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 W2 v100 表单类。
+title: "TaxW2_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 W2 v100 表单类。"
 type: docs
 weight: 6250
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/

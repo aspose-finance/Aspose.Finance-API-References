@@ -1,7 +1,7 @@
 ---
-title: EmailMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电子邮件消息集。
+title: "EmailMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电子邮件消息集。"
 type: docs
 weight: 4490
 url: /zh/net/aspose.finance.ofx.profile/emailmessageset/

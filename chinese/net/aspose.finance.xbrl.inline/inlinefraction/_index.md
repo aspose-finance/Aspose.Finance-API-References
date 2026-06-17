@@ -1,7 +1,7 @@
 ---
-title: InlineFraction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于内联 XBRL 文档中属于 fractionItemType 的 XBRL 事实。
+title: "InlineFraction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于内联 XBRL 文档中属于 fractionItemType 的 XBRL 事实。"
 type: docs
 weight: 7730
 url: /zh/net/aspose.finance.xbrl.inline/inlinefraction/

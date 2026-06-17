@@ -1,7 +1,7 @@
 ---
-title: Count
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置具有给定账单支付状态代码的账单计数。
+title: "Count"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置具有给定账单支付状态代码的账单计数。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billerdelivery/billpaymentstatuscounts/count/

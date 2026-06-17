@@ -1,7 +1,7 @@
 ---
-title: IdScopeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 收款人 ID 范围类型枚举。
+title: "IdScopeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "收款人 ID 范围类型枚举。"
 type: docs
 weight: 940
 url: /zh/net/aspose.finance.ofx.billpay/idscopeenum/

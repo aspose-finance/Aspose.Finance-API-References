@@ -1,7 +1,7 @@
 ---
-title: Links
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取 CalculationLinkaspose.finance.xbrl/calculationlink 的集合。
+title: "Links"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取 CalculationLinkaspose.finance.xbrl/calculationlink 的集合。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/calculationlinkbaseref/links/

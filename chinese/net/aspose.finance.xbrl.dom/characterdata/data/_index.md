@@ -1,7 +1,7 @@
 ---
-title: 数据
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置实现此接口的节点的字符数据。
+title: "数据"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置实现此接口的节点的字符数据。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.dom/characterdata/data/

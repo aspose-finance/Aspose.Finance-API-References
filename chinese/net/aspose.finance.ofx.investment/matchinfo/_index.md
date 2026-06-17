@@ -1,7 +1,7 @@
 ---
-title: MatchInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类包含雇主匹配信息.
+title: "MatchInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类包含雇主匹配信息."
 type: docs
 weight: 3220
 url: /zh/net/aspose.finance.ofx.investment/matchinfo/

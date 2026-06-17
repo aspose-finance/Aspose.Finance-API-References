@@ -1,7 +1,7 @@
 ---
-title: AbstractStringType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有字符串相关类的抽象基类。
+title: "AbstractStringType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有字符串相关类的抽象基类。"
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx/abstractstringtype/

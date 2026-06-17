@@ -1,7 +1,7 @@
 ---
-title: LoanStatementRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款下载请求类。
+title: "LoanStatementRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款下载请求类。"
 type: docs
 weight: 3960
 url: /zh/net/aspose.finance.ofx.loan/loanstatementrequest/

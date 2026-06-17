@@ -1,7 +1,7 @@
 ---
-title: SSN
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置借款人的社会安全号码。
+title: "SSN"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置借款人的社会安全号码。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098request/ssn/

@@ -1,7 +1,7 @@
 ---
-title: TransactionEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 交易类型枚举。
+title: "TransactionEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "交易类型枚举。"
 type: docs
 weight: 6290
 url: /zh/net/aspose.finance.ofx/transactionenum/

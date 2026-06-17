@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlContinuationElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示内联 xbrl 延续元素。
+title: "InlineXbrlContinuationElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示内联 xbrl 延续元素。"
 type: docs
 weight: 7320
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlcontinuationelement/

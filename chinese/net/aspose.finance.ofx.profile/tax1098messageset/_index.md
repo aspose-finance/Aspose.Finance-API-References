@@ -1,7 +1,7 @@
 ---
-title: Tax1098MessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1098 消息集。
+title: "Tax1098MessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1098 消息集。"
 type: docs
 weight: 4860
 url: /zh/net/aspose.finance.ofx.profile/tax1098messageset/

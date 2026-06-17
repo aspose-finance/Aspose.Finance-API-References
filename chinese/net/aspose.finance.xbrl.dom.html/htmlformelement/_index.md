@@ -1,7 +1,7 @@
 ---
-title: HTMLFormElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类包含类似于集合和元素的行为。它提供对包含的表单控件以及表单元素属性的直接访问。请参阅 HTML 4.01 中的 FORM 元素定义。
+title: "HTMLFormElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类包含类似于集合和元素的行为。它提供对包含的表单控件以及表单元素属性的直接访问。请参阅 HTML 4.01 中的 FORM 元素定义。"
 type: docs
 weight: 6890
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlformelement/

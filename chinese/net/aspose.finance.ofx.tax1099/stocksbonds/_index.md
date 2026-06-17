@@ -1,7 +1,7 @@
 ---
-title: StocksBonds
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 股票、债券等。
+title: "StocksBonds"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "股票、债券等。"
 type: docs
 weight: 6010
 url: /zh/net/aspose.finance.ofx.tax1099/stocksbonds/

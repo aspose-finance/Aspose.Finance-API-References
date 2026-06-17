@@ -1,7 +1,7 @@
 ---
-title: ContributionAmt
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 缴费金额分配类。
+title: "ContributionAmt"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "缴费金额分配类。"
 type: docs
 weight: 2750
 url: /zh/net/aspose.finance.ofx.investment/contributionamt/

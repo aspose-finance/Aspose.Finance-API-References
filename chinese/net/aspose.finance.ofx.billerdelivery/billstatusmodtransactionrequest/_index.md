@@ -1,7 +1,7 @@
 ---
-title: BillStatusModTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单状态修改事务请求类。
+title: "BillStatusModTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单状态修改事务请求类。"
 type: docs
 weight: 1510
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/

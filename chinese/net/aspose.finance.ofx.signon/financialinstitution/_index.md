@@ -1,7 +1,7 @@
 ---
-title: FinancialInstitution
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 金融机构类。
+title: "FinancialInstitution"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "金融机构类。"
 type: docs
 weight: 5330
 url: /zh/net/aspose.finance.ofx.signon/financialinstitution/

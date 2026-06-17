@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 PayeeResponseaspose.finance.ofx.billpay/payeeresponse 或 PayeeModResponseaspose.finance.ofx.billpay/payeemodresponse 或 PayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse。
+title: "Response"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 PayeeResponseaspose.finance.ofx.billpay/payeeresponse 或 PayeeModResponseaspose.finance.ofx.billpay/payeemodresponse 或 PayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/payeetransactionresponse/response/

@@ -1,7 +1,7 @@
 ---
-title: ClosureOption
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资期权平仓交易类。
+title: "ClosureOption"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资期权平仓交易类。"
 type: docs
 weight: 2740
 url: /zh/net/aspose.finance.ofx.investment/closureoption/

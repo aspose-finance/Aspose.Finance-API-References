@@ -1,7 +1,7 @@
 ---
-title: ImageMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 图像消息集版本1。
+title: "ImageMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "图像消息集版本1。"
 type: docs
 weight: 4530
 url: /zh/net/aspose.finance.ofx.profile/imagemessagesetv1/

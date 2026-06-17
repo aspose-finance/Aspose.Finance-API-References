@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账单人所在州。
+title: "State"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账单人所在州。"
 type: docs
 weight: 200
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/state/

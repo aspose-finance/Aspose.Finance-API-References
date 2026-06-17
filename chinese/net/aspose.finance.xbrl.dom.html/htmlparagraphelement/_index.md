@@ -1,7 +1,7 @@
 ---
-title: HTMLParagraphElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示段落。请参阅 HTML 4.01 中的 P 元素定义。
+title: "HTMLParagraphElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示段落。请参阅 HTML 4.01 中的 P 元素定义。"
 type: docs
 weight: 7130
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlparagraphelement/

@@ -1,7 +1,7 @@
 ---
-title: EscrowAmount
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Escrow amount 类。
+title: "EscrowAmount"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Escrow amount 类。"
 type: docs
 weight: 2240
 url: /zh/net/aspose.finance.ofx/escrowamount/

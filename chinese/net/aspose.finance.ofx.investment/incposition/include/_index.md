@@ -1,7 +1,7 @@
 ---
-title: Include
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置是否在报表下载中包含职位。
+title: "Include"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置是否在报表下载中包含职位。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/incposition/include/

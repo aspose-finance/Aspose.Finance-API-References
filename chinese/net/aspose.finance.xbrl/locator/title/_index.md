@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置定位器的标题。
+title: "Title"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置定位器的标题。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/locator/title/

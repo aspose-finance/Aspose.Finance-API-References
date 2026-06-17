@@ -1,7 +1,7 @@
 ---
-title: 文档
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Document 表示整个内联 xbrl 文档。从概念上讲，它是文档树的根，并提供对文档数据的主要访问。
+title: "文档"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Document 表示整个内联 xbrl 文档。从概念上讲，它是文档树的根，并提供对文档数据的主要访问。"
 type: docs
 weight: 6690
 url: /zh/net/aspose.finance.xbrl.dom/document/

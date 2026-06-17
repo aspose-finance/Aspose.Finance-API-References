@@ -1,14 +1,14 @@
 ---
-title: Labels
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets the collection of Labelaspose.finance.xbrl/label.
+title: "标签"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取 Labelaspose.finance.xbrl/label 的集合。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/labellink/labels/
 ---
 ## LabelLink.Labels property
 
-Gets the collection of [`Label`](../../label).
+获取 [`Label`](../../label) 的集合。
 
 ```csharp
 public List<Label> Labels { get; }

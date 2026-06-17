@@ -1,7 +1,7 @@
 ---
-title: LoanPaymentEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款付款类型枚举。
+title: "LoanPaymentEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款付款类型枚举。"
 type: docs
 weight: 4100
 url: /zh/net/aspose.finance.ofx/loanpaymentenum/

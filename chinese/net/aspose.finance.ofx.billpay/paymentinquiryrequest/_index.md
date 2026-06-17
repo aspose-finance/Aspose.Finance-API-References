@@ -1,7 +1,7 @@
 ---
-title: PaymentInquiryRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款状态查询请求类。
+title: "PaymentInquiryRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款状态查询请求类。"
 type: docs
 weight: 1080
 url: /zh/net/aspose.finance.ofx.billpay/paymentinquiryrequest/

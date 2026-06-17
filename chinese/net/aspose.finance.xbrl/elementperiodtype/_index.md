@@ -1,7 +1,7 @@
 ---
-title: ElementPeriodType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Concept./concept 周期类型枚举。
+title: "ElementPeriodType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Concept./concept 周期类型枚举。"
 type: docs
 weight: 7630
 url: /zh/net/aspose.finance.xbrl/elementperiodtype/

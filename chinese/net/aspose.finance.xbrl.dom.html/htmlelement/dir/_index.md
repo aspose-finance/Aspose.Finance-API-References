@@ -1,7 +1,7 @@
 ---
-title: Dir
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置方向中性文本的基准方向以及表格的方向性。请参阅 HTML 4.01 中的 dir 属性定义。
+title: "Dir"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置方向中性文本的基准方向以及表格的方向性。请参阅 HTML 4.01 中的 dir 属性定义。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlelement/dir/

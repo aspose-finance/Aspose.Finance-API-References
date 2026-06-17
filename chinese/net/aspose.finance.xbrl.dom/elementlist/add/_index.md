@@ -1,7 +1,7 @@
 ---
-title: Add
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 将元素添加到列表末尾。
+title: "Add"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "将元素添加到列表末尾。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.dom/elementlist/add/

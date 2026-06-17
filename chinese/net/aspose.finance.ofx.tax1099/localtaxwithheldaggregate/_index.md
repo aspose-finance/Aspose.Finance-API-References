@@ -1,7 +1,7 @@
 ---
-title: LocalTaxWithheldAggregate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 本地预扣税类。
+title: "LocalTaxWithheldAggregate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "本地预扣税类。"
 type: docs
 weight: 5940
 url: /zh/net/aspose.finance.ofx.tax1099/localtaxwithheldaggregate/

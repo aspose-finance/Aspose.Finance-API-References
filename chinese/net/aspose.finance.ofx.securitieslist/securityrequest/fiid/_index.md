@@ -1,7 +1,7 @@
 ---
-title: FIID
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置证券的 FI 特定 ID。
+title: "FIID"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置证券的 FI 特定 ID。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.securitieslist/securityrequest/fiid/

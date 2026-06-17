@@ -1,7 +1,7 @@
 ---
-title: Memo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置有关交易的其他信息。
+title: "Memo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置有关交易的其他信息。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/investmenttransaction/memo/

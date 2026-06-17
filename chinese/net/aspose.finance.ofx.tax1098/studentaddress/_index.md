@@ -1,7 +1,7 @@
 ---
-title: StudentAddress
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 学生地址类。
+title: "StudentAddress"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "学生地址类。"
 type: docs
 weight: 5790
 url: /zh/net/aspose.finance.ofx.tax1098/studentaddress/

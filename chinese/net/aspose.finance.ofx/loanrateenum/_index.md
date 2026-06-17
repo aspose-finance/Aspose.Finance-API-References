@@ -1,7 +1,7 @@
 ---
-title: LoanRateEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款利率类型枚举。
+title: "LoanRateEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款利率类型枚举。"
 type: docs
 weight: 4110
 url: /zh/net/aspose.finance.ofx/loanrateenum/

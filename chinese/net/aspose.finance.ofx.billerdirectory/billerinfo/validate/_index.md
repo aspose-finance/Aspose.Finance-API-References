@@ -1,7 +1,7 @@
 ---
-title: Validate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置用于验证的 URL。
+title: "Validate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置用于验证的 URL。"
 type: docs
 weight: 210
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/validate/

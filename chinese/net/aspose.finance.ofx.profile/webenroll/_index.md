@@ -1,7 +1,7 @@
 ---
-title: WebEnroll
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 支持基于 Web 的注册。
+title: "WebEnroll"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "支持基于 Web 的注册。"
 type: docs
 weight: 4930
 url: /zh/net/aspose.finance.ofx.profile/webenroll/

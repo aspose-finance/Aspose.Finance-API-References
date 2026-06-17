@@ -1,10 +1,10 @@
 ---
-title: Aspose.Finance 适用于 .NET
+title: "Aspose.Finance 适用于 .NET"
 type: docs
 weight: 10
 url: /zh/net/
 keywords: "Aspose.Finance for .NET, Aspose Finance, Aspose API Reference."
-description: 该金融 API 可扩展、易于使用且紧凑，并提供所有常用功能，使开发人员编写更少的代码来执行常见操作。
+description: "该金融 API 可扩展、易于使用且紧凑，并提供所有常用功能，使开发人员编写更少的代码来执行常见操作。"
 is_root: true
 ---
 ## 命名空间

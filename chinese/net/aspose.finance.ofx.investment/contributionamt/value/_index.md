@@ -1,7 +1,7 @@
 ---
-title: 值
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置该值。
+title: "值"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置该值。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/contributionamt/value/

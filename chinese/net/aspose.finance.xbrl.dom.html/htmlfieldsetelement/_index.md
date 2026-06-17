@@ -1,7 +1,7 @@
 ---
-title: HTMLFieldSetElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 将表单控件组织成逻辑组。请参阅 HTML 4.01 中的 FIELDSET 元素定义。
+title: "HTMLFieldSetElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "将表单控件组织成逻辑组。请参阅 HTML 4.01 中的 FIELDSET 元素定义。"
 type: docs
 weight: 6870
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlfieldsetelement/

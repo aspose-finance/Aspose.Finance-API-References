@@ -1,7 +1,7 @@
 ---
-title: PinChangeResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 用户密码更改响应类。
+title: "PinChangeResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "用户密码更改响应类。"
 type: docs
 weight: 5410
 url: /zh/net/aspose.finance.ofx.signon/pinchangeresponse/

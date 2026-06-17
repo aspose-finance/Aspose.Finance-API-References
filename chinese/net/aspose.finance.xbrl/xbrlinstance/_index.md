@@ -1,7 +1,7 @@
 ---
-title: XbrlInstance
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: XBRL 实例是根元素带有 xbrl 标记的 XML 片段。XBRL 实例包含业务报告事实，每个事实对应其支持的 DTS 中定义的 Concept./concept。XBRL 实例还包含上下文和单位，提供解释实例中事实所需的附加信息。
+title: "XbrlInstance"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "XBRL 实例是根元素带有 xbrl 标记的 XML 片段。XBRL 实例包含业务报告事实，每个事实对应其支持的 DTS 中定义的 Concept./concept。XBRL 实例还包含上下文和单位，提供解释实例中事实所需的附加信息。"
 type: docs
 weight: 8250
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/

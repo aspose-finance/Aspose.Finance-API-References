@@ -1,7 +1,7 @@
 ---
-title: AdditionalStateTaxWithheldAggregate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 当需要报告多个州时的州预扣税。
+title: "AdditionalStateTaxWithheldAggregate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "当需要报告多个州时的州预扣税。"
 type: docs
 weight: 5900
 url: /zh/net/aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/

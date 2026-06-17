@@ -1,7 +1,7 @@
 ---
-title: HTMLModElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示文档部分修改的通知。请参阅 HTML 4.01 中的 INS 和 DEL 元素定义。
+title: "HTMLModElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示文档部分修改的通知。请参阅 HTML 4.01 中的 INS 和 DEL 元素定义。"
 type: docs
 weight: 7070
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlmodelement/

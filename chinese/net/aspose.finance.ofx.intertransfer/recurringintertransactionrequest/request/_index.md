@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 RecurringInterRequestaspose.finance.ofx.intertransfer/recurringinterrequest 或 RecurringInterModRequestaspose.finance.ofx.intertransfer/recurringintermodrequest 或 RecurringInterCancellationRequestaspose.finance.ofx.intertransfer/recurringintercancellationrequest。
+title: "Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 RecurringInterRequestaspose.finance.ofx.intertransfer/recurringinterrequest 或 RecurringInterModRequestaspose.finance.ofx.intertransfer/recurringintermodrequest 或 RecurringInterCancellationRequestaspose.finance.ofx.intertransfer/recurringintercancellationrequest。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.intertransfer/recurringintertransactionrequest/request/

@@ -1,7 +1,7 @@
 ---
-title: InvestmentAccountEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资账户类型 enum。
+title: "InvestmentAccountEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资账户类型 enum。"
 type: docs
 weight: 3650
 url: /zh/net/aspose.finance.ofx/investmentaccountenum/

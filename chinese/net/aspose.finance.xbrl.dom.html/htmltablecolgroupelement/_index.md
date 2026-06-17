@@ -1,7 +1,7 @@
 ---
-title: HTMLTableColGroupElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 COLGROUP 元素。请参阅 HTML 4.01 中的 COLGROUP 元素定义。
+title: "HTMLTableColGroupElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 COLGROUP 元素。请参阅 HTML 4.01 中的 COLGROUP 元素定义。"
 type: docs
 weight: 7230
 url: /zh/net/aspose.finance.xbrl.dom.html/htmltablecolgroupelement/

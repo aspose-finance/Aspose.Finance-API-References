@@ -1,7 +1,7 @@
 ---
-title: FilerAddress
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 申报人地址类。
+title: "FilerAddress"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "申报人地址类。"
 type: docs
 weight: 5770
 url: /zh/net/aspose.finance.ofx.tax1098/fileraddress/

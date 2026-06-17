@@ -1,7 +1,7 @@
 ---
-title: 标记
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置归因于经销商加价的单价部分。
+title: "标记"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置归因于经销商加价的单价部分。"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.investment/investmentbuy/markup/

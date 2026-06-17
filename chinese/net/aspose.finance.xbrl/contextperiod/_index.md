@@ -1,7 +1,7 @@
 ---
-title: ContextPeriod
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Context./context 的期间。
+title: "ContextPeriod"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Context./context 的期间。"
 type: docs
 weight: 6590
 url: /zh/net/aspose.finance.xbrl/contextperiod/

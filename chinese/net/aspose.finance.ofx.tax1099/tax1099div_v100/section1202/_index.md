@@ -1,7 +1,7 @@
 ---
-title: Section1202
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置第 1202 条款收益。
+title: "Section1202"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置第 1202 条款收益。"
 type: docs
 weight: 200
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/section1202/

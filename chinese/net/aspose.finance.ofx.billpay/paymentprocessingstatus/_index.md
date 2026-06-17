@@ -1,7 +1,7 @@
 ---
-title: PaymentProcessingStatus
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类包含付款的当前处理状态。此类旨在描述创建后关联付款的状态更改。
+title: "PaymentProcessingStatus"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类包含付款的当前处理状态。此类旨在描述创建后关联付款的状态更改。"
 type: docs
 weight: 1210
 url: /zh/net/aspose.finance.ofx.billpay/paymentprocessingstatus/

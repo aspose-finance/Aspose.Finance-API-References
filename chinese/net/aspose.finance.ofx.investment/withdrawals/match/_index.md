@@ -1,7 +1,7 @@
 ---
-title: Match
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置雇主匹配取款。
+title: "Match"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置雇主匹配取款。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/withdrawals/match/

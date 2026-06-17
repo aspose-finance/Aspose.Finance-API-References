@@ -1,7 +1,7 @@
 ---
-title: 地址3
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置地址行 3。
+title: "地址3"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置地址行 3。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.signup/changeuserinforesponse/address3/

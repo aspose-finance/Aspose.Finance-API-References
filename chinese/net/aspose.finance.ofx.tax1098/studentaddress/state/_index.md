@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置学生地址州。
+title: "State"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置学生地址州。"
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.tax1098/studentaddress/state/

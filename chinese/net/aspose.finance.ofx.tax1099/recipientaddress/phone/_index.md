@@ -1,7 +1,7 @@
 ---
-title: 电话
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置收件人电话号码。
+title: "电话"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置收件人电话号码。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.tax1099/recipientaddress/phone/

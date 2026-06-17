@@ -1,7 +1,7 @@
 ---
-title: HTMLTableElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示表格。请参阅 HTML 4.01 中的 TABLE 元素定义。
+title: "HTMLTableElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示表格。请参阅 HTML 4.01 中的 TABLE 元素定义。"
 type: docs
 weight: 7240
 url: /zh/net/aspose.finance.xbrl.dom.html/htmltableelement/

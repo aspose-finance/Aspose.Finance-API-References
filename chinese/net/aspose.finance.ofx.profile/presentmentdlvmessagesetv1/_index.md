@@ -1,7 +1,7 @@
 ---
-title: PresentmentDlvMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单方交付消息集第 1 版。
+title: "PresentmentDlvMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单方交付消息集第 1 版。"
 type: docs
 weight: 4680
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvmessagesetv1/

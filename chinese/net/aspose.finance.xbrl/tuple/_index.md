@@ -1,7 +1,7 @@
 ---
-title: 元组
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 元组是 XBRL 元组元素的替代组中的一个元素。元组用于将复合事实的各部分绑定在一起。这些组成部分本身也是事实，但必须相互关联地进行解释。例如，公司的董事的姓名、年龄和报酬需要组合在一起才能被正确理解。
+title: "元组"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "元组是 XBRL 元组元素的替代组中的一个元素。元组用于将复合事实的各部分绑定在一起。这些组成部分本身也是事实，但必须相互关联地进行解释。例如，公司的董事的姓名、年龄和报酬需要组合在一起才能被正确理解。"
 type: docs
 weight: 8100
 url: /zh/net/aspose.finance.xbrl/tuple/

@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest 或 RecurringPaymentModRequestaspose.finance.ofx.billpay/recurringpaymentmodrequest 或 RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest。
+title: "Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest 或 RecurringPaymentModRequestaspose.finance.ofx.billpay/recurringpaymentmodrequest 或 RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request/

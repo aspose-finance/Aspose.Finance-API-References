@@ -1,7 +1,7 @@
 ---
-title: Resource
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Xlink 的带 Resource 类型的基础抽象类。
+title: "Resource"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Xlink 的带 Resource 类型的基础抽象类。"
 type: docs
 weight: 8010
 url: /zh/net/aspose.finance.xbrl/resource/

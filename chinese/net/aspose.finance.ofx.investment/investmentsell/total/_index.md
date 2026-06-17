@@ -1,7 +1,7 @@
 ---
-title: 总计
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置交易总额。
+title: "总计"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置交易总额。"
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.investment/investmentsell/total/

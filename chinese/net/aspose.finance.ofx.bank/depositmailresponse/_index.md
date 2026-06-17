@@ -1,7 +1,7 @@
 ---
-title: DepositMailResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 存款邮件通知消息响应类。当服务器收到银行电子邮件同步消息并且存款已被退回时，服务器返回此响应。
+title: "DepositMailResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "存款邮件通知消息响应类。当服务器收到银行电子邮件同步消息并且存款已被退回时，服务器返回此响应。"
 type: docs
 weight: 420
 url: /zh/net/aspose.finance.ofx.bank/depositmailresponse/

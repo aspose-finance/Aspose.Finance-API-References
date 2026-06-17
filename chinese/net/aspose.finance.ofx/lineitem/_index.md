@@ -1,7 +1,7 @@
 ---
-title: LineItem
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 行项目类。
+title: "LineItem"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "行项目类。"
 type: docs
 weight: 3740
 url: /zh/net/aspose.finance.ofx/lineitem/

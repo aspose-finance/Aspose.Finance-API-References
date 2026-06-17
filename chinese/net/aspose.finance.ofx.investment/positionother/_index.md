@@ -1,7 +1,7 @@
 ---
-title: PositionOther
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资持仓其他类.
+title: "PositionOther"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资持仓其他类."
 type: docs
 weight: 3410
 url: /zh/net/aspose.finance.ofx.investment/positionother/

@@ -1,7 +1,7 @@
 ---
-title: 属性
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Attr 接口表示 Element 对象中的属性。通常，属性的可取值在与文档关联的模式中定义。
+title: "属性"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Attr 接口表示 Element 对象中的属性。通常，属性的可取值在与文档关联的模式中定义。"
 type: docs
 weight: 6660
 url: /zh/net/aspose.finance.xbrl.dom/attr/

@@ -1,7 +1,7 @@
 ---
-title: CalculationLink
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类描述了分类法中概念之间的计算关系。
+title: "CalculationLink"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类描述了分类法中概念之间的计算关系。"
 type: docs
 weight: 6540
 url: /zh/net/aspose.finance.xbrl/calculationlink/

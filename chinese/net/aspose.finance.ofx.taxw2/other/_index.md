@@ -1,7 +1,7 @@
 ---
-title: 其他
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 其他类。Box 14 的描述和金额。
+title: "其他"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "其他类。Box 14 的描述和金额。"
 type: docs
 weight: 6190
 url: /zh/net/aspose.finance.ofx.taxw2/other/

@@ -1,7 +1,7 @@
 ---
-title: 节点列表
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 节点列表。
+title: "节点列表"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "节点列表。"
 type: docs
 weight: 7470
 url: /zh/net/aspose.finance.xbrl.dom/nodelist/

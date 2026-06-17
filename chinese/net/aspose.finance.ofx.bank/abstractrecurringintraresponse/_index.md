@@ -1,7 +1,7 @@
 ---
-title: AbstractRecurringIntraResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有循环行内转账响应相关类的抽象基类。
+title: "AbstractRecurringIntraResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有循环行内转账响应相关类的抽象基类。"
 type: docs
 weight: 300
 url: /zh/net/aspose.finance.ofx.bank/abstractrecurringintraresponse/

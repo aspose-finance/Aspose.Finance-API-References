@@ -1,7 +1,7 @@
 ---
-title: Restrict
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置关于谁可以注册此账单方的任何限制的人类可读描述。
+title: "Restrict"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置关于谁可以注册此账单方的任何限制的人类可读描述。"
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/restrict/

@@ -1,7 +1,7 @@
 ---
-title: BuyMutualFund
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资买入共同基金交易类。
+title: "BuyMutualFund"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资买入共同基金交易类。"
 type: docs
 weight: 2700
 url: /zh/net/aspose.finance.ofx.investment/buymutualfund/

@@ -1,7 +1,7 @@
 ---
-title: Invoice
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 Invoiceaspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice。
+title: "Invoice"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 Invoiceaspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice。"
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice/

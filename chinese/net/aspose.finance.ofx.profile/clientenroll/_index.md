@@ -1,7 +1,7 @@
 ---
-title: ClientEnroll
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 支持基于客户端的注册。
+title: "ClientEnroll"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "支持基于客户端的注册。"
 type: docs
 weight: 4440
 url: /zh/net/aspose.finance.ofx.profile/clientenroll/

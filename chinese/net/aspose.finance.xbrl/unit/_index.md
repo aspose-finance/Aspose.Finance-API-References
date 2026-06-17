@@ -1,7 +1,7 @@
 ---
-title: 单位
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于指定对 Numeric Item 进行计量的单位。
+title: "单位"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于指定对 Numeric Item 进行计量的单位。"
 type: docs
 weight: 8110
 url: /zh/net/aspose.finance.xbrl/unit/

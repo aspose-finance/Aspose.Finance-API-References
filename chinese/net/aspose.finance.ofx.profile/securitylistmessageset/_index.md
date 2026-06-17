@@ -1,7 +1,7 @@
 ---
-title: SecurityListMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 安全信息消息集。
+title: "SecurityListMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "安全信息消息集。"
 type: docs
 weight: 4770
 url: /zh/net/aspose.finance.ofx.profile/securitylistmessageset/

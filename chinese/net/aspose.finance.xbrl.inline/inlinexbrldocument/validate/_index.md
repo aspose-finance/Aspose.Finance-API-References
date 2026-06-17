@@ -1,7 +1,7 @@
 ---
-title: Validate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 验证此 inline XBRL 文档。
+title: "Validate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "验证此 inline XBRL 文档。"
 type: docs
 weight: 280
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/validate/

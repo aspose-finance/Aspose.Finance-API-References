@@ -1,7 +1,7 @@
 ---
-title: EmailProfile
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电子邮件配置文件类。
+title: "EmailProfile"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电子邮件配置文件类。"
 type: docs
 weight: 4510
 url: /zh/net/aspose.finance.ofx.profile/emailprofile/

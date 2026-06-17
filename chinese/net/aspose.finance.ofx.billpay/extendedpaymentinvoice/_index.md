@@ -1,7 +1,7 @@
 ---
-title: ExtendedPaymentInvoice
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 扩展付款发票类。
+title: "ExtendedPaymentInvoice"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "扩展付款发票类。"
 type: docs
 weight: 930
 url: /zh/net/aspose.finance.ofx.billpay/extendedpaymentinvoice/

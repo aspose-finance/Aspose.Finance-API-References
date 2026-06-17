@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlRelationshipElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 inline xbrl relationship 元素。
+title: "InlineXbrlRelationshipElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 inline xbrl relationship 元素。"
 type: docs
 weight: 7420
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlrelationshipelement/

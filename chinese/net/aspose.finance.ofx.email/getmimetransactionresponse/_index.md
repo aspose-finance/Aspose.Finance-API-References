@@ -1,7 +1,7 @@
 ---
-title: GetMimeTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: MIME get transaction 响应类。
+title: "GetMimeTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "MIME get transaction 响应类。"
 type: docs
 weight: 2150
 url: /zh/net/aspose.finance.ofx.email/getmimetransactionresponse/

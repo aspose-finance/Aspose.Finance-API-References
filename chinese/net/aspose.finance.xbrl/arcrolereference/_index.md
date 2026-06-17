@@ -1,7 +1,7 @@
 ---
-title: ArcroleReference
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于解析在 Linkbase 或 XBRL 实例中使用的自定义 arcrole 值。
+title: "ArcroleReference"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于解析在 Linkbase 或 XBRL 实例中使用的自定义 arcrole 值。"
 type: docs
 weight: 6510
 url: /zh/net/aspose.finance.xbrl/arcrolereference/

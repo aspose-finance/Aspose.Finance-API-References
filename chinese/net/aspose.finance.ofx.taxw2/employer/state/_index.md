@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置雇主州或省份。
+title: "State"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置雇主州或省份。"
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.taxw2/employer/state/

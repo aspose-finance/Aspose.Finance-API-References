@@ -1,7 +1,7 @@
 ---
-title: AbstractPayeeResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有收款人响应相关类的抽象基类。
+title: "AbstractPayeeResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有收款人响应相关类的抽象基类。"
 type: docs
 weight: 840
 url: /zh/net/aspose.finance.ofx.billpay/abstractpayeeresponse/

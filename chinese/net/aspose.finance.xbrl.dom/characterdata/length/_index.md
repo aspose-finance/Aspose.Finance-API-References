@@ -1,7 +1,7 @@
 ---
-title: Length
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取通过 data 可用的 16 位单元的数量。该值可能为零，即 CharacterData 节点可能为空。
+title: "Length"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取通过 data 可用的 16 位单元的数量。该值可能为零，即 CharacterData 节点可能为空。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.dom/characterdata/length/

@@ -1,7 +1,7 @@
 ---
-title: ProfileMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 配置文件消息集。
+title: "ProfileMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "配置文件消息集。"
 type: docs
 weight: 4700
 url: /zh/net/aspose.finance.ofx.profile/profilemessageset/

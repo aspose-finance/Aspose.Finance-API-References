@@ -1,7 +1,7 @@
 ---
-title: HTMLObjectElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示通用嵌入对象。原则上，object 元素的所有属性都是可读写的，但在某些环境中，一旦底层对象实例化，某些属性可能变为只读。请参阅 HTML 4.01 中的 OBJECT 元素定义。
+title: "HTMLObjectElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示通用嵌入对象。原则上，object 元素的所有属性都是可读写的，但在某些环境中，一旦底层对象实例化，某些属性可能变为只读。请参阅 HTML 4.01 中的 OBJECT 元素定义。"
 type: docs
 weight: 7100
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlobjectelement/

@@ -1,7 +1,7 @@
 ---
-title: PresentationLink
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类旨在描述分类法中概念之间的呈现关系。
+title: "PresentationLink"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类旨在描述分类法中概念之间的呈现关系。"
 type: docs
 weight: 7920
 url: /zh/net/aspose.finance.xbrl/presentationlink/

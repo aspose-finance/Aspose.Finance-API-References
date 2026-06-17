@@ -1,7 +1,7 @@
 ---
-title: HTMLCanvasElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类提供用于操作 canvas 元素布局和呈现的属性和方法。
+title: "HTMLCanvasElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类提供用于操作 canvas 元素布局和呈现的属性和方法。"
 type: docs
 weight: 6810
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlcanvaselement/

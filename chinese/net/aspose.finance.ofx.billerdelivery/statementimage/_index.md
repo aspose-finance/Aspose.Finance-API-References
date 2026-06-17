@@ -1,7 +1,7 @@
 ---
-title: StatementImage
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类提供一个或多个指向账单在 HTML 中完整渲染图像的 URL。
+title: "StatementImage"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类提供一个或多个指向账单在 HTML 中完整渲染图像的 URL。"
 type: docs
 weight: 1830
 url: /zh/net/aspose.finance.ofx.billerdelivery/statementimage/

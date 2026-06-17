@@ -1,7 +1,7 @@
 ---
-title: ProfileResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 个人资料响应消息集第 1 版类。
+title: "ProfileResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "个人资料响应消息集第 1 版类。"
 type: docs
 weight: 4970
 url: /zh/net/aspose.finance.ofx/profileresponsemessagesetv1/

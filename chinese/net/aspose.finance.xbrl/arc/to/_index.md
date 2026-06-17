@@ -1,7 +1,7 @@
 ---
-title: To
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置弧的 to 标签。
+title: "To"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置弧的 to 标签。"
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.xbrl/arc/to/

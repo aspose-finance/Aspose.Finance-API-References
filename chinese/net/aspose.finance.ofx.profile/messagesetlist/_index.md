@@ -1,7 +1,7 @@
 ---
-title: MessageSetList
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 消息集列表信息类。
+title: "MessageSetList"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "消息集列表信息类。"
 type: docs
 weight: 4620
 url: /zh/net/aspose.finance.ofx.profile/messagesetlist/

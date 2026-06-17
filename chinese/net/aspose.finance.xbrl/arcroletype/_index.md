@@ -1,7 +1,7 @@
 ---
-title: ArcroleType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于定义自定义 arc role 类型。
+title: "ArcroleType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于定义自定义 arc role 类型。"
 type: docs
 weight: 6520
 url: /zh/net/aspose.finance.xbrl/arcroletype/

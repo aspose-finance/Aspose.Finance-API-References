@@ -1,7 +1,7 @@
 ---
-title: ContributionPct
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 缴费百分比分配类。
+title: "ContributionPct"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "缴费百分比分配类。"
 type: docs
 weight: 2770
 url: /zh/net/aspose.finance.ofx.investment/contributionpct/

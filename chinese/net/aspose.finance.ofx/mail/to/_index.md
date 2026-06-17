@@ -1,7 +1,7 @@
 ---
-title: To
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置消息应发送给谁。
+title: "To"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置消息应发送给谁。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/mail/to/

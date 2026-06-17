@@ -1,7 +1,7 @@
 ---
-title: HTMLMetaElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类包含关于文档的通用元信息。请参阅 HTML 4.01 中的 META 元素定义。
+title: "HTMLMetaElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类包含关于文档的通用元信息。请参阅 HTML 4.01 中的 META 元素定义。"
 type: docs
 weight: 7060
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlmetaelement/

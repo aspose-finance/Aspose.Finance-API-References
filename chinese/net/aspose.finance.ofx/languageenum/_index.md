@@ -1,7 +1,7 @@
 ---
-title: LanguageEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 语言 enum。
+title: "LanguageEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "语言 enum。"
 type: docs
 weight: 3710
 url: /zh/net/aspose.finance.ofx/languageenum/
@@ -103,31 +103,31 @@ public enum LanguageEnum
 | CHY | `82` | 夏安语 |
 | CMC | `83` | 查姆语族 |
 | COP | `84` | 科普特语 |
-| COR | `85` | Cornish |
-| COS | `86` | Corsican |
-| CPE | `87` | Creoles and pidgins, English based |
-| CPF | `88` | Creoles and pidgins, French-based |
-| CPP | `89` | Creoles and pidgins, Portuguese-based |
-| CRE | `90` | Cree |
-| CRP | `91` | Creoles and pidgins |
-| CUS | `92` | Cushitic |
-| CZE | `93` | Czech |
-| DAK | `94` | Dakota |
-| DAN | `95` | Danish |
-| DAR | `96` | Dargwa |
-| DAY | `97` | Land Dayak languages |
-| DEL | `98` | Delaware |
-| DEN | `99` | Slave (Athapascan) |
-| DGR | `100` | Dogrib |
-| DIN | `101` | Dinka |
-| DIV | `102` | Dhivehi |
-| DOI | `103` | Dogri (macrolanguage) |
-| DRA | `104` | Dravidian |
-| DUA | `105` | Duala |
-| DUM | `106` | Middle Dutch (ca. 1050-1350) |
-| DUT | `107` | Dutch |
-| DYU | `108` | Dyula |
-| DZO | `109` | Dzongkha |
+| COR | `85` | 康沃尔语 |
+| COS | `86` | 科西嘉语 |
+| CPE | `87` | 克里奥尔语和皮钦语（英语系） |
+| CPF | `88` | 克里奥尔语和皮钦语（法语系） |
+| CPP | `89` | 克里奥尔语和皮钦语（葡萄牙语系） |
+| CRE | `90` | 克里语 |
+| CRP | `91` | 克里奥尔语和皮钦语 |
+| CUS | `92` | 库什语系 |
+| CZE | `93` | 捷克语 |
+| DAK | `94` | 达科他语 |
+| DAN | `95` | 丹麦语 |
+| DAR | `96` | 达尔格瓦语 |
+| DAY | `97` | 兰达雅克语系 |
+| DEL | `98` | 特拉华语 |
+| DEN | `99` | 斯莱夫语（阿萨帕斯坎语系） |
+| DGR | `100` | 多格里布语 |
+| DIN | `101` | 丁卡语 |
+| DIV | `102` | 迪维希语 |
+| DOI | `103` | 多格里语（宏语言） |
+| DRA | `104` | 达罗毗荼语系 |
+| DUA | `105` | 杜阿拉语 |
+| DUM | `106` | 中古荷兰语（约1050-1350年） |
+| DUT | `107` | 荷兰语 |
+| DYU | `108` | 迪尤拉语 |
+| DZO | `109` | 宗喀语 |
 | EFI | `110` | 埃菲克语 |
 | EGY | `111` | 古埃及语 |
 | EKA | `112` | 埃卡尤克语 |
@@ -203,31 +203,31 @@ public enum LanguageEnum
 | INH | `182` | 印古什语 |
 | IPK | `183` | 伊努皮克语 |
 | IRA | `184` | 伊朗语族 |
-| IRO | `185` | Iroquoian languages |
-| ITA | `186` | Italian |
-| JAV | `187` | Javanese |
-| JPN | `188` | Japanese |
-| JPR | `189` | Judeo-Persian |
-| JRB | `190` | Judeo-Arabic |
-| KAA | `191` | Kara-Kalpak |
-| KAB | `192` | Kabyle |
-| KAC | `193` | Kachin |
-| KAL | `194` | Kalaallisut |
-| KAM | `195` | Kamba (Kenya) |
-| KAN | `196` | Kannada |
-| KAR | `197` | Karen languages |
-| KAS | `198` | Kashmiri |
-| KAU | `199` | Kanuri |
-| KAW | `200` | Kawi |
-| KAZ | `201` | Kazakh |
-| KBD | `202` | Kabardian |
-| KHA | `203` | Khasi |
-| KHI | `204` | Khoisan |
-| KHM | `205` | Central Khmer |
-| KHO | `206` | Khotanese |
-| KIK | `207` | Kikuyu |
-| KIN | `208` | Kinyarwanda |
-| KIR | `209` | Kirghiz |
+| IRO | `185` | 易洛魁语系 |
+| ITA | `186` | 意大利语 |
+| JAV | `187` | 爪哇语 |
+| JPN | `188` | 日语 |
+| JPR | `189` | 犹太波斯语 |
+| JRB | `190` | 犹太阿拉伯语 |
+| KAA | `191` | 卡拉卡尔帕克语 |
+| KAB | `192` | 卡拜尔语 |
+| KAC | `193` | 克钦语 |
+| KAL | `194` | 格陵兰语 |
+| KAM | `195` | 肯尼亚坎巴语 |
+| KAN | `196` | 卡纳达语 |
+| KAR | `197` | 克伦语系 |
+| KAS | `198` | 克什米尔语 |
+| KAU | `199` | 卡努里语 |
+| KAW | `200` | 卡维语 |
+| KAZ | `201` | 哈萨克语 |
+| KBD | `202` | 卡巴尔德语 |
+| KHA | `203` | 卡西语 |
+| KHI | `204` | 科伊桑语系 |
+| KHM | `205` | 中部高棉语 |
+| KHO | `206` | 和田语 |
+| KIK | `207` | 基库尤语 |
+| KIN | `208` | 卢旺达语 |
+| KIR | `209` | 吉尔吉斯语 |
 | KMB | `210` | 金本杜语 |
 | KOK | `211` | 孔卡尼语（宏语言） |
 | KOM | `212` | 科米语 |
@@ -278,56 +278,56 @@ public enum LanguageEnum
 | MEN | `257` | 门德语（塞拉利昂） |
 | MGA | `258` | 中古爱尔兰语（900-1200） |
 | MIC | `259` | 密克马克语 |
-| MIN | `260` | Minangkabau |
-| MIS | `261` | Uncoded languages |
-| MKH | `262` | Mon-Khmer |
-| MLG | `263` | Malagasy |
-| MLT | `264` | Maltese |
-| MNC | `265` | Manchu |
-| MNI | `266` | Manipuri |
-| MNO | `267` | Manobo languages |
-| MOH | `268` | Mohawk |
-| MOL | `269` | Moldavian |
-| MON | `270` | Mongolian |
-| MOS | `271` | Mossi |
-| MUL | `272` | Multiple languages |
-| MUN | `273` | Munda languages |
-| MUS | `274` | Creek |
-| MWR | `275` | Marwari |
-| MYN | `276` | Mayan languages |
-| NAH | `277` | Nahuatl languages |
-| NAI | `278` | North American Indian |
-| NAP | `279` | Neapolitan |
-| NAU | `280` | Nauru |
-| NAV | `281` | Navajo |
-| NBL | `282` | South Ndebele |
-| NDE | `283` | North Ndebele |
-| NDO | `284` | Ndonga |
-| NDS | `285` | Low German |
-| NEP | `286` | Nepali |
-| NEW | `287` | Newari |
-| NIA | `288` | Nias |
-| NIC | `289` | Niger-Kordofanian |
-| NIU | `290` | Niuean |
-| NNO | `291` | Norwegian Nynorsk |
-| NOB | `292` | Norwegian Bokmål |
-| NON | `293` | Old Norse |
-| NOR | `294` | Norwegian |
-| NSO | `295` | Pedi |
-| NUB | `296` | Nubian languages |
-| NYA | `297` | Nyanja |
-| NYM | `298` | Nyamwezi |
-| NYN | `299` | Nyankole |
-| NYO | `300` | Nyoro |
-| NZI | `301` | Nzima |
-| OCI | `302` | Occitan (post 1500) |
-| OJI | `303` | Ojibwa |
-| ORI | `304` | Oriya |
-| ORM | `305` | Oromo |
-| OSA | `306` | Osage |
-| OSS | `307` | Ossetian |
-| OTA | `308` | Ottoman Turkish (1500-1928) |
-| OTO | `309` | Otomian languages |
+| MIN | `260` | 米南卡保语 |
+| MIS | `261` | 未编码语言 |
+| MKH | `262` | 孟-高棉语系 |
+| MLG | `263` | 马尔加什语 |
+| MLT | `264` | 马耳他语 |
+| MNC | `265` | 满语 |
+| MNI | `266` | 曼尼普尔语 |
+| MNO | `267` | 马诺博语系 |
+| MOH | `268` | 莫霍克语 |
+| MOL | `269` | 摩尔多瓦语 |
+| MON | `270` | 蒙古语 |
+| MOS | `271` | 莫西语 |
+| MUL | `272` | 多种语言 |
+| MUN | `273` | 蒙达语系 |
+| MUS | `274` | 克里克语 |
+| MWR | `275` | 马尔瓦里语 |
+| MYN | `276` | 玛雅语系 |
+| NAH | `277` | 纳瓦特尔语系 |
+| NAI | `278` | 北美印第安语 |
+| NAP | `279` | 那不勒斯语 |
+| NAU | `280` | 瑙鲁语 |
+| NAV | `281` | 纳瓦霍语 |
+| NBL | `282` | 南恩德贝勒语 |
+| NDE | `283` | 北恩德贝勒语 |
+| NDO | `284` | 恩敦加语 |
+| NDS | `285` | 低地德语 |
+| NEP | `286` | 尼泊尔语 |
+| NEW | `287` | 尼瓦尔语 |
+| NIA | `288` | 尼亚斯语 |
+| NIC | `289` | 尼日尔-科尔多凡语系 |
+| NIU | `290` | 纽埃语 |
+| NNO | `291` | 新挪威语 |
+| NOB | `292` | 书面挪威语 |
+| NON | `293` | 古诺尔斯语 |
+| NOR | `294` | 挪威语 |
+| NSO | `295` | 佩迪语 |
+| NUB | `296` | 努比亚语系 |
+| NYA | `297` | 齐切瓦语 |
+| NYM | `298` | 尼亚姆韦齐语 |
+| NYN | `299` | 尼扬科勒语 |
+| NYO | `300` | 尼奥罗语 |
+| NZI | `301` | 恩济马语 |
+| OCI | `302` | 后期奥克语 |
+| OJI | `303` | 奥吉布瓦语 |
+| ORI | `304` | 奥里亚语 |
+| ORM | `305` | 奥罗莫语 |
+| OSA | `306` | 奥塞奇语 |
+| OSS | `307` | 奥塞梯语 |
+| OTA | `308` | 奥斯曼土耳其语（1500-1928） |
+| OTO | `309` | 奥托米亚语系 |
 | PAA | `310` | 巴布亚语 |
 | PAG | `311` | 邦阿西楠语 |
 | PAL | `312` | 巴列维语 |
@@ -353,31 +353,31 @@ public enum LanguageEnum
 | RAR | `332` | 拉罗汤加语 |
 | ROA | `333` | 罗曼语族 |
 | ROH | `334` | 罗曼什语 |
-| ROM | `335` | Romany |
-| RUM | `336` | Romanian |
-| RUN | `337` | Rundi |
-| RUS | `338` | Russian |
-| SAD | `339` | Sandawe |
-| SAG | `340` | Sango |
-| SAH | `341` | Yakut |
-| SAI | `342` | South American Indian |
-| SAL | `343` | Salishan languages |
-| SAM | `344` | Samaritan Aramaic |
-| SAN | `345` | Sanskrit |
-| SAS | `346` | Sasak |
-| SAT | `347` | Santali |
-| SCC | `348` | Serbian |
-| SCO | `349` | Scots |
-| SCR | `350` | Croatian |
-| SEL | `351` | Selkup |
-| SEM | `352` | Semitic |
-| SGA | `353` | Old Irish (to 900) |
-| SGN | `354` | Sign Languages |
-| SHN | `355` | Shan |
-| SID | `356` | Sidamo |
-| SIN | `357` | Sinhala |
-| SIO | `358` | Siouan languages |
-| SIT | `359` | Sino-Tibetan |
+| ROM | `335` | 罗姆语 |
+| RUM | `336` | 罗马尼亚语 |
+| RUN | `337` | 隆迪语 |
+| RUS | `338` | 俄语 |
+| SAD | `339` | 桑达威语 |
+| SAG | `340` | 桑戈语 |
+| SAH | `341` | 雅库特语 |
+| SAI | `342` | 南美洲印第安语 |
+| SAL | `343` | 萨利什语系 |
+| SAM | `344` | 撒马利亚阿拉姆语 |
+| SAN | `345` | 梵语 |
+| SAS | `346` | 萨萨克语 |
+| SAT | `347` | 桑塔尔语 |
+| SCC | `348` | 塞尔维亚语 |
+| SCO | `349` | 苏格兰语 |
+| SCR | `350` | 克罗地亚语 |
+| SEL | `351` | 塞尔库普语 |
+| SEM | `352` | 闪米特语 |
+| SGA | `353` | 古爱尔兰语（至900年） |
+| SGN | `354` | 手语 |
+| SHN | `355` | 掸语 |
+| SID | `356` | 西达摩语 |
+| SIN | `357` | 僧伽罗语 |
+| SIO | `358` | 苏语系 |
+| SIT | `359` | 汉藏语系 |
 | SLA | `360` | 斯拉夫语 |
 | SLO | `361` | 斯洛伐克语 |
 | SLV | `362` | 斯洛文尼亚语 |

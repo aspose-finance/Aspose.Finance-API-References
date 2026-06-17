@@ -1,7 +1,7 @@
 ---
-title: PaymentInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Payment Information 类用于指定详细的付款信息。它可用于单次付款和循环付款。
+title: "PaymentInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Payment Information 类用于指定详细的付款信息。它可用于单次付款和循环付款。"
 type: docs
 weight: 1070
 url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/

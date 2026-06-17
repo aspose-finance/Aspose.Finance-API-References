@@ -1,7 +1,7 @@
 ---
-title: Address1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置借款人地址第 1 行。
+title: "Address1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置借款人地址第 1 行。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1098/borroweraddress/address1/

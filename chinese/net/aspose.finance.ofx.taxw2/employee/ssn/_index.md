@@ -1,7 +1,7 @@
 ---
-title: SSN
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置员工的社会保障号码。
+title: "SSN"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置员工的社会保障号码。"
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.taxw2/employee/ssn/

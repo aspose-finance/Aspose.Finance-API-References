@@ -1,7 +1,7 @@
 ---
-title: XbrlExceptionType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 表示自定义异常类型代码。
+title: "XbrlExceptionType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "表示自定义异常类型代码。"
 type: docs
 weight: 8240
 url: /zh/net/aspose.finance.xbrl/xbrlexceptiontype/

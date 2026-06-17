@@ -1,7 +1,7 @@
 ---
-title: 计算弧
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Arc 类型的 Xlink./xlink。它定义了概念在计算目的下相互关联的方式。
+title: "计算弧"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Arc 类型的 Xlink./xlink。它定义了概念在计算目的下相互关联的方式。"
 type: docs
 weight: 6530
 url: /zh/net/aspose.finance.xbrl/calculationarc/

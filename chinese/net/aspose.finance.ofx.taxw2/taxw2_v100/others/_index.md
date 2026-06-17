@@ -1,7 +1,7 @@
 ---
-title: Others
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 Otheraspose.finance.ofx.taxw2/other 的集合。
+title: "Others"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 Otheraspose.finance.ofx.taxw2/other 的集合。"
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/others/

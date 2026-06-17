@@ -1,7 +1,7 @@
 ---
-title: Id
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote 的 id。
+title: "Id"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote 的 id。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.inline/inlinefootnote/id/

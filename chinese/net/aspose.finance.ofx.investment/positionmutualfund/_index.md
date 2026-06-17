@@ -1,7 +1,7 @@
 ---
-title: PositionMutualFund
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资持仓债券类.
+title: "PositionMutualFund"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资持仓债券类."
 type: docs
 weight: 3390
 url: /zh/net/aspose.finance.ofx.investment/positionmutualfund/

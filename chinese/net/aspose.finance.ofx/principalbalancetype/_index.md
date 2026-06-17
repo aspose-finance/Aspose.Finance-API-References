@@ -1,7 +1,7 @@
 ---
-title: PrincipalBalanceType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款本金余额。
+title: "PrincipalBalanceType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款本金余额。"
 type: docs
 weight: 4360
 url: /zh/net/aspose.finance.ofx/principalbalancetype/

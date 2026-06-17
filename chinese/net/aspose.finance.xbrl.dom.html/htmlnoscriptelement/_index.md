@@ -1,7 +1,7 @@
 ---
-title: HTMLNoScriptElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示脚本语句。请参阅 HTML 4.01 中的 NOSCRIPT 元素定义。
+title: "HTMLNoScriptElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示脚本语句。请参阅 HTML 4.01 中的 NOSCRIPT 元素定义。"
 type: docs
 weight: 7080
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlnoscriptelement/

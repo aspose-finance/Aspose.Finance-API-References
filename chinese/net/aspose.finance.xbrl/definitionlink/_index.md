@@ -1,7 +1,7 @@
 ---
-title: DefinitionLink
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类旨在包含分类法中概念之间的各种杂项关系。
+title: "DefinitionLink"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类旨在包含分类法中概念之间的各种杂项关系。"
 type: docs
 weight: 6630
 url: /zh/net/aspose.finance.xbrl/definitionlink/

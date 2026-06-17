@@ -1,7 +1,7 @@
 ---
-title: WireTransferRequestMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电汇请求消息集 版本 1 类。
+title: "WireTransferRequestMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电汇请求消息集 版本 1 类。"
 type: docs
 weight: 6470
 url: /zh/net/aspose.finance.ofx/wiretransferrequestmessagesetv1/

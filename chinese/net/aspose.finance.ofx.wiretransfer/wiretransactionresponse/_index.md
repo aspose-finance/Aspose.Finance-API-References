@@ -1,7 +1,7 @@
 ---
-title: WireTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电汇事务响应类。
+title: "WireTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电汇事务响应类。"
 type: docs
 weight: 6460
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiretransactionresponse/

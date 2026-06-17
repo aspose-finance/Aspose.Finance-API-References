@@ -1,7 +1,7 @@
 ---
-title: AbstractSyncRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有同步请求相关类的抽象基类
+title: "AbstractSyncRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有同步请求相关类的抽象基类"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/abstractsyncrequest/

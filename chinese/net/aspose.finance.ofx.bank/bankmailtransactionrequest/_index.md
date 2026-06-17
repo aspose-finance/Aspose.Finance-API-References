@@ -1,7 +1,7 @@
 ---
-title: BankMailTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 银行邮件交易请求类。
+title: "BankMailTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "银行邮件交易请求类。"
 type: docs
 weight: 350
 url: /zh/net/aspose.finance.ofx.bank/bankmailtransactionrequest/

@@ -1,7 +1,7 @@
 ---
-title: OfxExceptionType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Ofx 异常类型枚举。
+title: "OfxExceptionType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Ofx 异常类型枚举。"
 type: docs
 weight: 4210
 url: /zh/net/aspose.finance.ofx/ofxexceptiontype/

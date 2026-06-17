@@ -1,7 +1,7 @@
 ---
-title: LoanMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款消息集。
+title: "LoanMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款消息集。"
 type: docs
 weight: 4590
 url: /zh/net/aspose.finance.ofx.profile/loanmessageset/

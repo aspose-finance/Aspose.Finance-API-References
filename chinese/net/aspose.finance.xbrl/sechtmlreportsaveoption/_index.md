@@ -1,7 +1,7 @@
 ---
-title: SecHtmlReportSaveOption
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 表示保存 sec html 报告的选项。
+title: "SecHtmlReportSaveOption"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "表示保存 sec html 报告的选项。"
 type: docs
 weight: 8080
 url: /zh/net/aspose.finance.xbrl/sechtmlreportsaveoption/

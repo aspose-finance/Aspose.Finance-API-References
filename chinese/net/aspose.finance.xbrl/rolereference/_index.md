@@ -1,7 +1,7 @@
 ---
-title: RoleReference
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类在 XBRL 实例中用于引用在脚注链接中使用的任何自定义角色属性值的定义。
+title: "RoleReference"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类在 XBRL 实例中用于引用在脚注链接中使用的任何自定义角色属性值的定义。"
 type: docs
 weight: 8020
 url: /zh/net/aspose.finance.xbrl/rolereference/

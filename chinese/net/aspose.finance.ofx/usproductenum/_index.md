@@ -1,7 +1,7 @@
 ---
-title: UsProductEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 根据账户类型对账户进行分类。
+title: "UsProductEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "根据账户类型对账户进行分类。"
 type: docs
 weight: 6330
 url: /zh/net/aspose.finance.ofx/usproductenum/

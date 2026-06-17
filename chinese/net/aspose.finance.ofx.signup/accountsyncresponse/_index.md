@@ -1,7 +1,7 @@
 ---
-title: AccountSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 服务激活同步响应类。
+title: "AccountSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "服务激活同步响应类。"
 type: docs
 weight: 5540
 url: /zh/net/aspose.finance.ofx.signup/accountsyncresponse/

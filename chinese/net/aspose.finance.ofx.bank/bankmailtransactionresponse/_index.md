@@ -1,7 +1,7 @@
 ---
-title: BankMailTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 银行邮件交易响应类。
+title: "BankMailTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "银行邮件交易响应类。"
 type: docs
 weight: 360
 url: /zh/net/aspose.finance.ofx.bank/bankmailtransactionresponse/

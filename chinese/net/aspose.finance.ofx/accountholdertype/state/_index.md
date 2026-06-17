@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置状态。
+title: "State"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置状态。"
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx/accountholdertype/state/

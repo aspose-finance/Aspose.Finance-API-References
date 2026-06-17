@@ -1,7 +1,7 @@
 ---
-title: LabelArc
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Arc 类型的 Xlink./xlink。它将 Concepts 与 Label./label 资源连接起来。
+title: "LabelArc"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Arc 类型的 Xlink./xlink。它将 Concepts 与 Label./label 资源连接起来。"
 type: docs
 weight: 7820
 url: /zh/net/aspose.finance.xbrl/labelarc/
