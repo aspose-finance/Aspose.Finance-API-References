@@ -1,7 +1,7 @@
 ---
-title: الحقائق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة InlineFactaspose.finance.xbrl.inline/inlinefact في مستند XBRL المتضمن.
+title: "الحقائق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة InlineFactaspose.finance.xbrl.inline/inlinefact في مستند XBRL المتضمن."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/facts/

@@ -1,7 +1,7 @@
 ---
-title: HTMLTableCellElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تُستخدم لتمثيل عناصر TH و TD. راجع تعريف عنصر TD في HTML 4.01.
+title: "HTMLTableCellElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تُستخدم لتمثيل عناصر TH و TD. راجع تعريف عنصر TD في HTML 4.01."
 type: docs
 weight: 7210
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltablecellelement/

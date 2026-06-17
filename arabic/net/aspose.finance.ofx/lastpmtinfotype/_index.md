@@ -1,7 +1,7 @@
 ---
-title: LastPmtInfoType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نوع معلومات آخر دفعة.
+title: "LastPmtInfoType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نوع معلومات آخر دفعة."
 type: docs
 weight: 3720
 url: /ar/net/aspose.finance.ofx/lastpmtinfotype/

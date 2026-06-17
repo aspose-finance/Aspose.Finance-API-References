@@ -1,7 +1,7 @@
 ---
-title: ClientEnroll
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تم دعم التسجيل القائم على العميل.
+title: "ClientEnroll"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تم دعم التسجيل القائم على العميل."
 type: docs
 weight: 4440
 url: /ar/net/aspose.finance.ofx.profile/clientenroll/

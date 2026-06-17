@@ -1,7 +1,7 @@
 ---
-title: PositionDebt
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة موقف الاستثمار في الدين.
+title: "PositionDebt"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة موقف الاستثمار في الدين."
 type: docs
 weight: 3380
 url: /ar/net/aspose.finance.ofx.investment/positiondebt/

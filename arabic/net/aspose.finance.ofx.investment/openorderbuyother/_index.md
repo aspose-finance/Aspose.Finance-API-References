@@ -1,7 +1,7 @@
 ---
-title: OpenOrderBuyOther
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب شراء أخرى مفتوحة.
+title: "OpenOrderBuyOther"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب شراء أخرى مفتوحة."
 type: docs
 weight: 3260
 url: /ar/net/aspose.finance.ofx.investment/openorderbuyother/

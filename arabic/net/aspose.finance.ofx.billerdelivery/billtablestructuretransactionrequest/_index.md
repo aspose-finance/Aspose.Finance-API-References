@@ -1,7 +1,7 @@
 ---
-title: BillTableStructureTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة بنية جدول الفاتورة.
+title: "BillTableStructureTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة بنية جدول الفاتورة."
 type: docs
 weight: 1550
 url: /ar/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/

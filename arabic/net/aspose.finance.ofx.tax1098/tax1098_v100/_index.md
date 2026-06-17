@@ -1,7 +1,7 @@
 ---
-title: Tax1098_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نموذج Tax 1098 V100 لبيان فائدة الرهن العقاري.
+title: "Tax1098_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نموذج Tax 1098 V100 لبيان فائدة الرهن العقاري."
 type: docs
 weight: 5860
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098_v100/
@@ -35,7 +35,7 @@ public class Tax1098_V100 : AbstractTax1098
 | [OverpaidRefund](../../aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund) { get; set; } | الحصول أو تعيين استرداد الفائدة المدفوعة زائدًا. |
 | [Points](../../aspose.finance.ofx.tax1098/tax1098_v100/points) { get; set; } | الحصول أو تعيين النقاط المدفوعة عند شراء السكن الرئيسي. |
 | [PropertyTax](../../aspose.finance.ofx.tax1098/tax1098_v100/propertytax) { get; set; } | الحصول أو تعيين ضرائب العقار. |
-| [ServerId](../../aspose.finance.ofx.tax1098/tax1098_v100/serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098_v100/serverid) { get; set; } | يحصل أو يعيّن الـ ID المخصص من قبل الخادم المضيف للنموذج. |
 | [TaxYear](../../aspose.finance.ofx.tax1098/tax1098_v100/taxyear) { get; set; } | يحصل أو يعيّن سنة الضريبة لهذا النموذج، بالتنسيق “YYYY”. |
 
 ### انظر أيضًا

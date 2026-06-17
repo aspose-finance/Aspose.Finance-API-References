@@ -1,7 +1,7 @@
 ---
-title: Data
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط بيانات الأحرف للعقدة التي تنفذ هذه الواجهة.
+title: "Data"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط بيانات الأحرف للعقدة التي تنفذ هذه الواجهة."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl.dom/characterdata/data/

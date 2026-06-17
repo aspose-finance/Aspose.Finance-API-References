@@ -1,7 +1,7 @@
 ---
-title: Locators
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة Locaspose.finance.xbrl/loc.
+title: "Locators"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة Locaspose.finance.xbrl/loc."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl/footnotelink/locators/

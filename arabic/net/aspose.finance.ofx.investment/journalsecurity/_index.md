@@ -1,7 +1,7 @@
 ---
-title: JournalSecurity
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تسجيل حيازات الأوراق المالية بين الحسابات الفرعية داخل نفس حساب الاستثمار.
+title: "JournalSecurity"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تسجيل حيازات الأوراق المالية بين الحسابات الفرعية داخل نفس حساب الاستثمار."
 type: docs
 weight: 3190
 url: /ar/net/aspose.finance.ofx.investment/journalsecurity/

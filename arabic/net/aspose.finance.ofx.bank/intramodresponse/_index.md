@@ -1,7 +1,7 @@
 ---
-title: IntraModResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تعديل التحويل الداخلي.
+title: "IntraModResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تعديل التحويل الداخلي."
 type: docs
 weight: 460
 url: /ar/net/aspose.finance.ofx.bank/intramodresponse/

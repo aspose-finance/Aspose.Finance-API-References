@@ -1,7 +1,7 @@
 ---
-title: BillDetailRow
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة صف تفاصيل الفاتورة.
+title: "BillDetailRow"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة صف تفاصيل الفاتورة."
 type: docs
 weight: 1410
 url: /ar/net/aspose.finance.ofx.billerdelivery/billdetailrow/

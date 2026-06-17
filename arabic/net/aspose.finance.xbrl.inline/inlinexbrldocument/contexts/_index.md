@@ -1,7 +1,7 @@
 ---
-title: Contexts
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة Contextaspose.finance.xbrl/context في مستند XBRL المضمن.
+title: "Contexts"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة Contextaspose.finance.xbrl/context في مستند XBRL المضمن."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/contexts/

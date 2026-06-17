@@ -1,7 +1,7 @@
 ---
-title: SellTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع البيع.
+title: "SellTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع البيع."
 type: docs
 weight: 3550
 url: /ar/net/aspose.finance.ofx.investment/selltypeenum/

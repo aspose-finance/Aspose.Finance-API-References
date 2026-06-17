@@ -1,7 +1,7 @@
 ---
-title: InvestmentAccountEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع حساب الاستثمار.
+title: "InvestmentAccountEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع حساب الاستثمار."
 type: docs
 weight: 3650
 url: /ar/net/aspose.finance.ofx/investmentaccountenum/

@@ -1,7 +1,7 @@
 ---
-title: طلب معاملة نهاية بيان الاستثمار
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة إغلاق كشف الاستثمار.
+title: "طلب معاملة نهاية بيان الاستثمار"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة إغلاق كشف الاستثمار."
 type: docs
 weight: 3100
 url: /ar/net/aspose.finance.ofx.investment/investmentstatementendtransactionrequest/

@@ -1,7 +1,7 @@
 ---
-title: OpenOrderBuyStock
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب شراء السهم المفتوح.
+title: "OpenOrderBuyStock"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب شراء السهم المفتوح."
 type: docs
 weight: 3270
 url: /ar/net/aspose.finance.ofx.investment/openorderbuystock/

@@ -1,7 +1,7 @@
 ---
-title: قوس الحساب
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي Xlink./xlink بنوع Arc. إنها تحدد كيف ترتبط المفاهيم ببعضها البعض لأغراض الحساب.
+title: "قوس الحساب"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي Xlink./xlink بنوع Arc. إنها تحدد كيف ترتبط المفاهيم ببعضها البعض لأغراض الحساب."
 type: docs
 weight: 6530
 url: /ar/net/aspose.finance.xbrl/calculationarc/

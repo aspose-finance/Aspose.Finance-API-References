@@ -1,7 +1,7 @@
 ---
-title: HTMLUListElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل قائمة غير مرتبة. راجع تعريف عنصر UL في HTML 4.01.
+title: "HTMLUListElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل قائمة غير مرتبة. راجع تعريف عنصر UL في HTML 4.01."
 type: docs
 weight: 7300
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlulistelement/

@@ -1,7 +1,7 @@
 ---
-title: Order
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الترتيب لـ InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+title: "Order"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الترتيب لـ InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonnumeric/order/

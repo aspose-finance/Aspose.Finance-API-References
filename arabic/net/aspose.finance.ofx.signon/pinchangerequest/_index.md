@@ -1,7 +1,7 @@
 ---
-title: PinChangeRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تغيير كلمة مرور المستخدم.
+title: "PinChangeRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تغيير كلمة مرور المستخدم."
 type: docs
 weight: 5400
 url: /ar/net/aspose.finance.ofx.signon/pinchangerequest/

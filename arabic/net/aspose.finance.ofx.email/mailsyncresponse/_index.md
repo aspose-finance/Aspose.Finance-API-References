@@ -1,7 +1,7 @@
 ---
-title: MailSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة البريد الإلكتروني.
+title: "MailSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة البريد الإلكتروني."
 type: docs
 weight: 2190
 url: /ar/net/aspose.finance.ofx.email/mailsyncresponse/

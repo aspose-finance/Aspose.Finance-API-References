@@ -1,7 +1,7 @@
 ---
-title: HTMLDataListElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الصفّ يُمثّل مجموعة من عناصر الخيار التي تمثل خيارات مُعرّفة مسبقًا لعناصر تحكم أخرى.
+title: "HTMLDataListElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الصفّ يُمثّل مجموعة من عناصر الخيار التي تمثل خيارات مُعرّفة مسبقًا لعناصر تحكم أخرى."
 type: docs
 weight: 6830
 url: /ar/net/aspose.finance.xbrl.dom.html/htmldatalistelement/

@@ -1,7 +1,7 @@
 ---
-title: CreditCardClosing
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم حساب بطاقة الائتمان الفئة CreditCardClosing لوصف معلومات إغلاق البيان.
+title: "CreditCardClosing"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم حساب بطاقة الائتمان الفئة CreditCardClosing لوصف معلومات إغلاق البيان."
 type: docs
 weight: 1950
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardclosing/

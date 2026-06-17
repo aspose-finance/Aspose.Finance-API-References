@@ -1,7 +1,7 @@
 ---
-title: Investment401k
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات حساب 401k الاستثماري.
+title: "Investment401k"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات حساب 401k الاستثماري."
 type: docs
 weight: 2900
 url: /ar/net/aspose.finance.ofx.investment/investment401k/

@@ -1,7 +1,7 @@
 ---
-title: BillTableStructureResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة بنية الجدول.
+title: "BillTableStructureResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة بنية الجدول."
 type: docs
 weight: 1540
 url: /ar/net/aspose.finance.ofx.billerdelivery/billtablestructureresponse/

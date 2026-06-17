@@ -1,7 +1,7 @@
 ---
-title: الموضوع
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين موضوع الرسالة كنص عادي غير HTML.
+title: "الموضوع"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين موضوع الرسالة كنص عادي غير HTML."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx/mail/subject/

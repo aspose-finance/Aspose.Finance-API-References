@@ -1,7 +1,7 @@
 ---
-title: IntraTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة التحويل الداخلي.
+title: "IntraTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة التحويل الداخلي."
 type: docs
 weight: 510
 url: /ar/net/aspose.finance.ofx.bank/intratransactionrequest/

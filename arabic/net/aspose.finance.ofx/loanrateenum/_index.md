@@ -1,7 +1,7 @@
 ---
-title: LoanRateEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع معدل القرض.
+title: "LoanRateEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع معدل القرض."
 type: docs
 weight: 4110
 url: /ar/net/aspose.finance.ofx/loanrateenum/

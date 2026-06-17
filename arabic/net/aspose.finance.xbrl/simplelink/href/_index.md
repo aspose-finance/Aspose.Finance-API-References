@@ -1,7 +1,7 @@
 ---
-title: Href
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط URI الخاص بـ href للرابط البسيط.
+title: "Href"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط URI الخاص بـ href للرابط البسيط."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl/simplelink/href/

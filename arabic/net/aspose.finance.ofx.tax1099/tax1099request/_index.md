@@ -1,7 +1,7 @@
 ---
-title: Tax1099Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب نموذج الضريبة 1099. هذا يطلب جميع أنواع نماذج الضرائب 1099 من الخادم.
+title: "Tax1099Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب نموذج الضريبة 1099. هذا يطلب جميع أنواع نماذج الضرائب 1099 من الخادم."
 type: docs
 weight: 6080
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099request/

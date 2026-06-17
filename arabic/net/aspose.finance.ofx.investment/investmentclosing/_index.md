@@ -1,7 +1,7 @@
 ---
-title: InvestmentClosing
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: توفر هذه الفئة معلومات الصورة لاسترجاع العميل لصور كشف الاستثمار.
+title: "InvestmentClosing"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "توفر هذه الفئة معلومات الصورة لاسترجاع العميل لصور كشف الاستثمار."
 type: docs
 weight: 2960
 url: /ar/net/aspose.finance.ofx.investment/investmentclosing/

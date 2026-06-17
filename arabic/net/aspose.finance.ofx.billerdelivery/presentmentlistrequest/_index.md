@@ -1,7 +1,7 @@
 ---
-title: PresentmentListRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب قائمة الفواتير. يطلب العميل الفواتير من ناشر الفواتير وفق نطاق تاريخ.
+title: "PresentmentListRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب قائمة الفواتير. يطلب العميل الفواتير من ناشر الفواتير وفق نطاق تاريخ."
 type: docs
 weight: 1690
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/

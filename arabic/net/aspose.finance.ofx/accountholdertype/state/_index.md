@@ -1,14 +1,14 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the state.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الحالة."
 type: docs
 weight: 150
 url: /ar/net/aspose.finance.ofx/accountholdertype/state/
 ---
 ## AccountHolderType.State property
 
-Gets or sets the state.
+يحصل أو يضبط الحالة.
 
 ```csharp
 public string State { get; set; }

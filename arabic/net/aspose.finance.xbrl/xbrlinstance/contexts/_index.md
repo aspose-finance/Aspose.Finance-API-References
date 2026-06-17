@@ -1,7 +1,7 @@
 ---
-title: Contexts
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط مجموعة كائنات Contextaspose.finance.xbrl/context في مثيل XBRL.
+title: "Contexts"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط مجموعة كائنات Contextaspose.finance.xbrl/context في مثيل XBRL."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl/xbrlinstance/contexts/

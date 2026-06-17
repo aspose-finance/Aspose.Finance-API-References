@@ -1,7 +1,7 @@
 ---
-title: Address1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the recipient address line 1.
+title: "Address1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يحدد سطر 1 من عنوان المستلم."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.tax1099/recipientaddress/address1/

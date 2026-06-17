@@ -1,7 +1,7 @@
 ---
-title: Employee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the Employeeaspose.finance.ofx.taxw2/taxw2_v200/employee.
+title: "Employee"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الموظفaspose.finance.ofx.taxw2/taxw2_v200/employee."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v200/employee/

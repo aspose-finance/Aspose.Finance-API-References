@@ -1,14 +1,14 @@
 ---
-title: Phone
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the filer address telephone number.
+title: "Phone"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن رقم هاتف عنوان المودع."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.tax1098/fileraddress/phone/
 ---
 ## FilerAddress.Phone property
 
-Gets or sets the filer address telephone number.
+يحصل أو يعيّن رقم هاتف عنوان المودع.
 
 ```csharp
 public string Phone { get; set; }

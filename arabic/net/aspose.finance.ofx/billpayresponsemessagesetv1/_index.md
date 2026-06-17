@@ -1,7 +1,7 @@
 ---
-title: BillPayResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة دفع الفاتورة الإصدار 1.
+title: "BillPayResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة دفع الفاتورة الإصدار 1."
 type: docs
 weight: 1390
 url: /ar/net/aspose.finance.ofx/billpayresponsemessagesetv1/

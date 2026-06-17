@@ -1,7 +1,7 @@
 ---
-title: ImageMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل الصور.
+title: "ImageMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل الصور."
 type: docs
 weight: 4520
 url: /ar/net/aspose.finance.ofx.profile/imagemessageset/

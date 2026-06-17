@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSwitchMutualFund
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تحويل الصندوق المشترك المفتوح.
+title: "OpenOrderSwitchMutualFund"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تحويل الصندوق المشترك المفتوح."
 type: docs
 weight: 3330
 url: /ar/net/aspose.finance.ofx.investment/openorderswitchmutualfund/

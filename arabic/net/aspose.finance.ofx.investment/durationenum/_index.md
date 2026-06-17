@@ -1,7 +1,7 @@
 ---
-title: DurationEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد المدة.
+title: "DurationEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد المدة."
 type: docs
 weight: 2820
 url: /ar/net/aspose.finance.ofx.investment/durationenum/
@@ -18,9 +18,9 @@ public enum DurationEnum
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| DAY | `0` | Day |
-| GOODTILCANCEL | `1` | Good Til Cancel |
-| IMMEDIATE | `2` | Immediate |
+| DAY | `0` | يوم |
+| GOODTILCANCEL | `1` | صالح حتى الإلغاء |
+| IMMEDIATE | `2` | فوري |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
-title: BillStatusCodeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد رمز حالة Bill.
+title: "BillStatusCodeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد رمز حالة Bill."
 type: docs
 weight: 1470
 url: /ar/net/aspose.finance.ofx.billerdelivery/billstatuscodeenum/

@@ -1,7 +1,7 @@
 ---
-title: HTMLMapElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل خريطة صورة من جانب العميل. راجع تعريف عنصر MAP في HTML 4.01.
+title: "HTMLMapElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل خريطة صورة من جانب العميل. راجع تعريف عنصر MAP في HTML 4.01."
 type: docs
 weight: 7040
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlmapelement/

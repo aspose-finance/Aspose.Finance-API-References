@@ -1,7 +1,7 @@
 ---
-title: رمز_خطأ_التحقق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد رموز أخطاء التحقق.
+title: "رمز_خطأ_التحقق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد رموز أخطاء التحقق."
 type: docs
 weight: 8210
 url: /ar/net/aspose.finance.xbrl.validator/validationerrorcode/

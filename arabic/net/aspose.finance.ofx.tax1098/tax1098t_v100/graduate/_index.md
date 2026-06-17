@@ -1,14 +1,14 @@
 ---
-title: Graduate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets whether graduate student.
+title: "Graduate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يحدد ما إذا كان طالب دراسات عليا."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098t_v100/graduate/
 ---
 ## Tax1098T_V100.Graduate property
 
-Gets or sets whether graduate student.
+يحصل أو يحدد ما إذا كان طالب دراسات عليا.
 
 ```csharp
 public bool Graduate { get; set; }

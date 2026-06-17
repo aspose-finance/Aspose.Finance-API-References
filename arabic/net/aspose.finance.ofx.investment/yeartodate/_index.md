@@ -1,7 +1,7 @@
 ---
-title: YearToDate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: المساهمات حتى الآن لهذا العام التقويمي.
+title: "YearToDate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "المساهمات حتى الآن لهذا العام التقويمي."
 type: docs
 weight: 3620
 url: /ar/net/aspose.finance.ofx.investment/yeartodate/

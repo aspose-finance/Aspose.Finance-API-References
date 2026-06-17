@@ -1,7 +1,7 @@
 ---
-title: HTMLLinkElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تحدد ارتباطًا بمورد خارجي وتعرّف علاقة هذا المستند بذلك المورد أو العكس. راجع تعريف عنصر LINK في HTML 4.01
+title: "HTMLLinkElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تحدد ارتباطًا بمورد خارجي وتعرّف علاقة هذا المستند بذلك المورد أو العكس. راجع تعريف عنصر LINK في HTML 4.01"
 type: docs
 weight: 7030
 url: /ar/net/aspose.finance.xbrl.dom.html/htmllinkelement/

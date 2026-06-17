@@ -1,7 +1,7 @@
 ---
-title: AbstractTaxForm1099
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لفئات نموذج الضريبة 1099.
+title: "AbstractTaxForm1099"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لفئات نموذج الضريبة 1099."
 type: docs
 weight: 5890
 url: /ar/net/aspose.finance.ofx.tax1099/abstracttaxform1099/

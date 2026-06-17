@@ -1,7 +1,7 @@
 ---
-title: تحويل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن القيمة الحالية لجميع الأوراق المالية المشتراة بمساهمات التحويل.
+title: "تحويل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن القيمة الحالية لجميع الأوراق المالية المشتراة بمساهمات التحويل."
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.ofx.investment/investment401kbalance/rollover/

@@ -1,7 +1,7 @@
 ---
-title: IntraCancellationRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب إلغاء التحويل الداخلي.
+title: "IntraCancellationRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب إلغاء التحويل الداخلي."
 type: docs
 weight: 430
 url: /ar/net/aspose.finance.ofx.bank/intracancellationrequest/

@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب المعاملة المتكررة داخل البنك.
+title: "RecurringIntraTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب المعاملة المتكررة داخل البنك."
 type: docs
 weight: 610
 url: /ar/net/aspose.finance.ofx.bank/recurringintratransactionrequest/

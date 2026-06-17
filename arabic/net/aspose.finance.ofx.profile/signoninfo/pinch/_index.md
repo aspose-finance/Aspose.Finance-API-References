@@ -1,7 +1,7 @@
 ---
-title: Pinch
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو الضبط ما إذا كان الخادم يدعم طلبات تغيير PIN.
+title: "Pinch"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو الضبط ما إذا كان الخادم يدعم طلبات تغيير PIN."
 type: docs
 weight: 140
 url: /ar/net/aspose.finance.ofx.profile/signoninfo/pinch/

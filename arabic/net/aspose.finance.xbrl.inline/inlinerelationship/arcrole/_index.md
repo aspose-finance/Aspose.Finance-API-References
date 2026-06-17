@@ -1,7 +1,7 @@
 ---
-title: Arcrole
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن دور القوس الخاص بـ InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
+title: "Arcrole"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن دور القوس الخاص بـ InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl.inline/inlinerelationship/arcrole/

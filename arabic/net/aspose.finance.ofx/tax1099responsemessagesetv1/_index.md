@@ -1,7 +1,7 @@
 ---
-title: Tax1099ResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة ضريبة 1099 الإصدار 1.
+title: "Tax1099ResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة ضريبة 1099 الإصدار 1."
 type: docs
 weight: 6130
 url: /ar/net/aspose.finance.ofx/tax1099responsemessagesetv1/

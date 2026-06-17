@@ -1,7 +1,7 @@
 ---
-title: WireTransferResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة تحويل بنكي الإصدار 1.
+title: "WireTransferResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة تحويل بنكي الإصدار 1."
 type: docs
 weight: 6480
 url: /ar/net/aspose.finance.ofx/wiretransferresponsemessagesetv1/

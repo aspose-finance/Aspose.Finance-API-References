@@ -1,7 +1,7 @@
 ---
-title: Fee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الرسوم لإيقاف الشيك.
+title: "Fee"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الرسوم لإيقاف الشيك."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.bank/stopcheckresponse/fee/

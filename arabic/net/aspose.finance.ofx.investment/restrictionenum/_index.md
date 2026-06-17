@@ -1,7 +1,7 @@
 ---
-title: RestrictionEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد القيود.
+title: "RestrictionEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد القيود."
 type: docs
 weight: 3460
 url: /ar/net/aspose.finance.ofx.investment/restrictionenum/

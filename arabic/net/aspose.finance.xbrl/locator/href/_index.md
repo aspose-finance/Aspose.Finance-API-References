@@ -1,7 +1,7 @@
 ---
-title: Href
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط URI href للمحدد.
+title: "Href"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط URI href للمحدد."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl/locator/href/

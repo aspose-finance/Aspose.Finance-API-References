@@ -1,7 +1,7 @@
 ---
-title: BillTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع Bill.
+title: "BillTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع Bill."
 type: docs
 weight: 1570
 url: /ar/net/aspose.finance.ofx.billerdelivery/billtypeenum/

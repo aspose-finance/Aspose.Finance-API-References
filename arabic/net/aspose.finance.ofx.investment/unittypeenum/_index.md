@@ -1,7 +1,7 @@
 ---
-title: UnitTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الوحدة.
+title: "UnitTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الوحدة."
 type: docs
 weight: 3590
 url: /ar/net/aspose.finance.ofx.investment/unittypeenum/
@@ -18,7 +18,7 @@ public enum UnitTypeEnum
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SHARES | `0` | Shares |
+| SHARES | `0` | الأسهم |
 | CURRENCY | `1` | العملة |
 
 ### انظر أيضًا

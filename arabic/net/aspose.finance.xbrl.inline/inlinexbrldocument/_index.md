@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlDocument
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مستند XBRL مضمن.
+title: "InlineXbrlDocument"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مستند XBRL مضمن."
 type: docs
 weight: 7790
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/

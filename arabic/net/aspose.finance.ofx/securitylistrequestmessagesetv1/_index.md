@@ -1,7 +1,7 @@
 ---
-title: SecurityListRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب قائمة الأوراق المالية الإصدار 1.
+title: "SecurityListRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب قائمة الأوراق المالية الإصدار 1."
 type: docs
 weight: 5240
 url: /ar/net/aspose.finance.ofx/securitylistrequestmessagesetv1/

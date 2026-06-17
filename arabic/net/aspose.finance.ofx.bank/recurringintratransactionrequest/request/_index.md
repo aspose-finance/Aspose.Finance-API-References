@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الـ RecurringIntraRequestaspose.finance.ofx.bank/recurringintrarequest أو RecurringIntraModRequestaspose.finance.ofx.bank/recurringintramodrequest أو RecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest.
+title: "Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الـ RecurringIntraRequestaspose.finance.ofx.bank/recurringintrarequest أو RecurringIntraModRequestaspose.finance.ofx.bank/recurringintramodrequest أو RecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.bank/recurringintratransactionrequest/request/

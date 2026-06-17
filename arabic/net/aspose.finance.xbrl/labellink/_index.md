@@ -1,7 +1,7 @@
 ---
-title: LabelLink
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مُصممة لاحتواء العلاقات بين المفاهيم والوثائق النصية والتسميات لتلك المفاهيم.
+title: "LabelLink"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مُصممة لاحتواء العلاقات بين المفاهيم والوثائق النصية والتسميات لتلك المفاهيم."
 type: docs
 weight: 7830
 url: /ar/net/aspose.finance.xbrl/labellink/

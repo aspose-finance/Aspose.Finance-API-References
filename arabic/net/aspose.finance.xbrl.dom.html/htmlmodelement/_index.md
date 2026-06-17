@@ -1,7 +1,7 @@
 ---
-title: HTMLModElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل إشعار تعديل لجزء من المستند. راجع تعريفات عناصر INS و DEL في HTML 4.01.
+title: "HTMLModElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل إشعار تعديل لجزء من المستند. راجع تعريفات عناصر INS و DEL في HTML 4.01."
 type: docs
 weight: 7070
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlmodelement/

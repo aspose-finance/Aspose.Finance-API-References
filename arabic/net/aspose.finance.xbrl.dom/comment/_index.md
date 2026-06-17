@@ -1,7 +1,7 @@
 ---
-title: Comment
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تورث من CharacterData وتمثل محتوى التعليق.
+title: "Comment"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تورث من CharacterData وتمثل محتوى التعليق."
 type: docs
 weight: 6680
 url: /ar/net/aspose.finance.xbrl.dom/comment/

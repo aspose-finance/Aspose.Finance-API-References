@@ -1,7 +1,7 @@
 ---
-title: FootnoteLink
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تحتوي على موارد Locators وأقواس تصف العلاقات غير المنتظمة بين الحقائق في مثال XBRL.
+title: "FootnoteLink"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تحتوي على موارد Locators وأقواس تصف العلاقات غير المنتظمة بين الحقائق في مثال XBRL."
 type: docs
 weight: 7680
 url: /ar/net/aspose.finance.xbrl/footnotelink/

@@ -1,7 +1,7 @@
 ---
-title: OptionTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الخيار.
+title: "OptionTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الخيار."
 type: docs
 weight: 5130
 url: /ar/net/aspose.finance.ofx.securitieslist/optiontypeenum/

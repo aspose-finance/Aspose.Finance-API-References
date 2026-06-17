@@ -1,7 +1,7 @@
 ---
-title: EscrowAmount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مبلغ الضمان.
+title: "EscrowAmount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مبلغ الضمان."
 type: docs
 weight: 2240
 url: /ar/net/aspose.finance.ofx/escrowamount/

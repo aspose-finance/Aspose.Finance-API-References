@@ -1,7 +1,7 @@
 ---
-title: LoanMailSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة بريد القرض.
+title: "LoanMailSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة بريد القرض."
 type: docs
 weight: 3890
 url: /ar/net/aspose.finance.ofx.loan/loanmailsyncresponse/

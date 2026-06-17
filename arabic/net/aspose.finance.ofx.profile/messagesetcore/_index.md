@@ -1,7 +1,7 @@
 ---
-title: MessageSetCore
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات مجموعة الرسائل العامة.
+title: "MessageSetCore"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات مجموعة الرسائل العامة."
 type: docs
 weight: 4610
 url: /ar/net/aspose.finance.ofx.profile/messagesetcore/

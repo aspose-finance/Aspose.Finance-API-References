@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الولاية أو المقاطعة لصاحب العمل.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الولاية أو المقاطعة لصاحب العمل."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.taxw2/employer/state/

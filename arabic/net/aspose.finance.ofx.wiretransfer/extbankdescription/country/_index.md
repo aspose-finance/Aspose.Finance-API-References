@@ -1,7 +1,7 @@
 ---
-title: Country
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين دولة البنك. رمز الدولة المكوّن من 3 أحرف وفق ISO/DIS-3166.
+title: "Country"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين دولة البنك. رمز الدولة المكوّن من 3 أحرف وفق ISO/DIS-3166."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx.wiretransfer/extbankdescription/country/

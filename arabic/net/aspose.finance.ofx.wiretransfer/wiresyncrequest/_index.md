@@ -1,7 +1,7 @@
 ---
-title: WireSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة معاملة التحويل البنكي.
+title: "WireSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة معاملة التحويل البنكي."
 type: docs
 weight: 6430
 url: /ar/net/aspose.finance.ofx.wiretransfer/wiresyncrequest/

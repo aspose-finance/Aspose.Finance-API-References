@@ -1,7 +1,7 @@
 ---
-title: BillPaymentStatus
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة حالة دفع الفاتورة.
+title: "BillPaymentStatus"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة حالة دفع الفاتورة."
 type: docs
 weight: 1430
 url: /ar/net/aspose.finance.ofx.billerdelivery/billpaymentstatus/

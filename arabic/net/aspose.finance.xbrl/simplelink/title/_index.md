@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط عنوان الرابط البسيط.
+title: "Title"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط عنوان الرابط البسيط."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.xbrl/simplelink/title/

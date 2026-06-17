@@ -1,7 +1,7 @@
 ---
-title: Code
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يمثل رمز الاستثناء المخصص.
+title: "الرمز"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يمثل رمز الاستثناء المخصص."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.ofx/ofxexception/code/

@@ -1,7 +1,7 @@
 ---
-title: IntraRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب التحويل الداخلي.
+title: "IntraRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب التحويل الداخلي."
 type: docs
 weight: 470
 url: /ar/net/aspose.finance.ofx.bank/intrarequest/

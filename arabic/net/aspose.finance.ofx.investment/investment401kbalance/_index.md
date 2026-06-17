@@ -1,7 +1,7 @@
 ---
-title: Investment401kBalance
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحتوي الفئة على رصيد نقدي اختياري. كما تحتوي على أرصدة حسابات 401k الفرعية القياسية.
+title: "Investment401kBalance"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحتوي الفئة على رصيد نقدي اختياري. كما تحتوي على أرصدة حسابات 401k الفرعية القياسية."
 type: docs
 weight: 2910
 url: /ar/net/aspose.finance.ofx.investment/investment401kbalance/

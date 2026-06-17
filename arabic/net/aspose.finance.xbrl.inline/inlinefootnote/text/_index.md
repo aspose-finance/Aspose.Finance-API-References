@@ -1,7 +1,7 @@
 ---
-title: نص
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن نص الـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+title: "نص"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن نص الـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.xbrl.inline/inlinefootnote/text/

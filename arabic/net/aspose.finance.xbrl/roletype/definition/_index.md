@@ -1,7 +1,7 @@
 ---
-title: Definition
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على التعريف في RoleTypeaspose.finance.xbrl/roletype.
+title: "Definition"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على التعريف في RoleTypeaspose.finance.xbrl/roletype."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/roletype/definition/

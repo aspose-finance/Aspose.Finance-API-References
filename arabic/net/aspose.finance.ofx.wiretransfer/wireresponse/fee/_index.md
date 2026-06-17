@@ -1,7 +1,7 @@
 ---
-title: Fee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الرسوم المفروضة على التحويل.
+title: "Fee"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الرسوم المفروضة على التحويل."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.wiretransfer/wireresponse/fee/

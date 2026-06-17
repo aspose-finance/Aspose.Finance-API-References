@@ -1,7 +1,7 @@
 ---
-title: HolderTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع صاحب الحساب.
+title: "HolderTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع صاحب الحساب."
 type: docs
 weight: 2270
 url: /ar/net/aspose.finance.ofx/holdertypeenum/

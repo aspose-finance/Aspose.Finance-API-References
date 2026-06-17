@@ -1,7 +1,7 @@
 ---
-title: LoanRateType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معدل القرض.
+title: "LoanRateType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معدل القرض."
 type: docs
 weight: 4120
 url: /ar/net/aspose.finance.ofx/loanratetype/

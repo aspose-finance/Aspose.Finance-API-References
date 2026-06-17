@@ -1,7 +1,7 @@
 ---
-title: RecurringInterModRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تعديل التحويل المتكرر بين البنوك.
+title: "RecurringInterModRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تعديل التحويل المتكرر بين البنوك."
 type: docs
 weight: 2520
 url: /ar/net/aspose.finance.ofx.intertransfer/recurringintermodrequest/

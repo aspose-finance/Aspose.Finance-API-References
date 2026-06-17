@@ -1,7 +1,7 @@
 ---
-title: Country
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن رمز دولة الفاتور. معيار ISO/DIS-3166 لرموز الدول المكوّنة من 3 أحرف.
+title: "Country"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن رمز دولة الفاتور. معيار ISO/DIS-3166 لرموز الدول المكوّنة من 3 أحرف."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.billerdirectory/findbillerrequest/country/

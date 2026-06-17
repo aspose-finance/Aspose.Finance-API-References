@@ -1,7 +1,7 @@
 ---
-title: AbstractPositionBase
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بمراكز الاستثمار.
+title: "AbstractPositionBase"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بمراكز الاستثمار."
 type: docs
 weight: 2670
 url: /ar/net/aspose.finance.ofx.investment/abstractpositionbase/
@@ -18,7 +18,7 @@ public abstract class AbstractPositionBase
 
 | الاسم | الوصف |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Gets or sets the [`InvestmentPosition`](./investmentposition). |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | يحصل أو يضبط الـ[`InvestmentPosition`](./investmentposition). |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
-title: معرف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن المعرف الخاص بـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+title: "معرف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن المعرف الخاص بـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl.inline/inlinefootnote/id/

@@ -1,7 +1,7 @@
 ---
-title: HTMLTableElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل جدولًا. راجع تعريف عنصر TABLE في HTML 4.01.
+title: "HTMLTableElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل جدولًا. راجع تعريف عنصر TABLE في HTML 4.01."
 type: docs
 weight: 7240
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltableelement/

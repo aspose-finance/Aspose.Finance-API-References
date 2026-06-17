@@ -1,14 +1,14 @@
 ---
-title: References
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets the InlineReferencesaspose.finance.xbrl.inline/inlinereferences in the inline XBRL document.
+title: "المراجع"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على InlineReferencesaspose.finance.xbrl.inline/inlinereferences في مستند XBRL المضمن."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/references/
 ---
 ## InlineXbrlDocument.References property
 
-Gets the [`InlineReferences`](../../inlinereferences) in the inline XBRL document.
+يحصل على الـ[`InlineReferences`](../../inlinereferences) في مستند XBRL المضمن.
 
 ```csharp
 public InlineReferences References { get; }

@@ -1,7 +1,7 @@
 ---
-title: TEXT_NODE
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: نوع عقدة النص.
+title: "TEXT_NODE"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "نوع عقدة النص."
 type: docs
 weight: 250
 url: /ar/net/aspose.finance.xbrl.dom/node/text_node/

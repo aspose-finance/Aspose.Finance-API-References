@@ -1,7 +1,7 @@
 ---
-title: InvestmentOpenOrderList
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة قائمة أوامر الفتح للاستثمار.
+title: "InvestmentOpenOrderList"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة قائمة أوامر الفتح للاستثمار."
 type: docs
 weight: 3040
 url: /ar/net/aspose.finance.ofx.investment/investmentopenorderlist/

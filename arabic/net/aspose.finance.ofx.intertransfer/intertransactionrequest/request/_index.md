@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الـInterRequestaspose.finance.ofx.intertransfer/interrequest أو InterModRequestaspose.finance.ofx.intertransfer/intermodrequest أو InterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest.
+title: "Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الـInterRequestaspose.finance.ofx.intertransfer/interrequest أو InterModRequestaspose.finance.ofx.intertransfer/intermodrequest أو InterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.intertransfer/intertransactionrequest/request/

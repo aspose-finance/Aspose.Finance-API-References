@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementEndResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إغلاق البيان.
+title: "InvestmentStatementEndResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إغلاق البيان."
 type: docs
 weight: 3090
 url: /ar/net/aspose.finance.ofx.investment/investmentstatementendresponse/

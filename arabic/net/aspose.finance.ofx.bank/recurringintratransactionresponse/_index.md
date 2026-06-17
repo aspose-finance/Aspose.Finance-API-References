@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة المعاملة المتكررة داخل البنك.
+title: "RecurringIntraTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة المعاملة المتكررة داخل البنك."
 type: docs
 weight: 620
 url: /ar/net/aspose.finance.ofx.bank/recurringintratransactionresponse/

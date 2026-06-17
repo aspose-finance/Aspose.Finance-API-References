@@ -1,7 +1,7 @@
 ---
-title: TaxW2TransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة ضريبة W2
+title: "TaxW2TransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة ضريبة W2"
 type: docs
 weight: 6230
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2transactionrequest/

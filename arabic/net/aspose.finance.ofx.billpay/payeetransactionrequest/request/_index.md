@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين PayeeRequestaspose.finance.ofx.billpay/payeerequest أو PayeeModRequestaspose.finance.ofx.billpay/payeemodrequest أو PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest.
+title: "Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين PayeeRequestaspose.finance.ofx.billpay/payeerequest أو PayeeModRequestaspose.finance.ofx.billpay/payeemodrequest أو PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.billpay/payeetransactionrequest/request/

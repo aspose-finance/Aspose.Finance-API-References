@@ -1,7 +1,7 @@
 ---
-title: حفظ
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: ينشئ ويحفظ ملف inline xbrl إلى القرص.
+title: "حفظ"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "ينشئ ويحفظ ملف inline xbrl إلى القرص."
 type: docs
 weight: 270
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/save/

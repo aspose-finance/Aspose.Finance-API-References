@@ -1,7 +1,7 @@
 ---
-title: Tax1099MISC_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نموذج الضريبة 1099 MISC.
+title: "Tax1099MISC_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نموذج الضريبة 1099 MISC."
 type: docs
 weight: 6050
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099misc_v100/

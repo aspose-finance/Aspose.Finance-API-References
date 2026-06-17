@@ -1,7 +1,7 @@
 ---
-title: PrincipalBalanceType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: رصيد أصل القرض.
+title: "PrincipalBalanceType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "رصيد أصل القرض."
 type: docs
 weight: 4360
 url: /ar/net/aspose.finance.ofx/principalbalancetype/

@@ -1,7 +1,7 @@
 ---
-title: BillerInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تتضمن هذه الفئة معلومات حول مُصدر فاتورة واحد.
+title: "BillerInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تتضمن هذه الفئة معلومات حول مُصدر فاتورة واحد."
 type: docs
 weight: 1850
 url: /ar/net/aspose.finance.ofx.billerdirectory/billerinfo/

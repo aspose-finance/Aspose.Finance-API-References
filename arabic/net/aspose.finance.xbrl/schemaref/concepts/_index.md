@@ -1,7 +1,7 @@
 ---
-title: المفاهيم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يجلب مجموعة Conceptaspose.finance.xbrl/concept المعرفة في المخطط.
+title: "المفاهيم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يجلب مجموعة Conceptaspose.finance.xbrl/concept المعرفة في المخطط."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/schemaref/concepts/

@@ -1,14 +1,14 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the name of payee.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين اسم المستفيد."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx/payee/name/
 ---
 ## Payee.Name property
 
-Gets or sets the name of payee.
+الحصول أو تعيين اسم المستفيد.
 
 ```csharp
 public string Name { get; set; }

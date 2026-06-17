@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlContinuationElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر استمرار xbrl المضمن.
+title: "InlineXbrlContinuationElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر استمرار xbrl المضمن."
 type: docs
 weight: 7320
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlcontinuationelement/

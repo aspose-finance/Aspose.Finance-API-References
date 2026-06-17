@@ -1,7 +1,7 @@
 ---
-title: Max
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الحد الأقصى لعدد أحرف كلمة المرور
+title: "Max"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الحد الأقصى لعدد أحرف كلمة المرور"
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.ofx.profile/signoninfo/max/

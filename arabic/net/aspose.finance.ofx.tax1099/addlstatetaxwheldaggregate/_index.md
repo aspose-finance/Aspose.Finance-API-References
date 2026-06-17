@@ -1,7 +1,7 @@
 ---
-title: AddlStateTaxWheldAggregate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة اختيارية للضريبة الحكومية المحتجزة تتعامل مع إقرارات الحجز الضريبي لولاية واحدة أو أكثر.
+title: "AddlStateTaxWheldAggregate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة اختيارية للضريبة الحكومية المحتجزة تتعامل مع إقرارات الحجز الضريبي لولاية واحدة أو أكثر."
 type: docs
 weight: 5910
 url: /ar/net/aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/

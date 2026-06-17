@@ -1,7 +1,7 @@
 ---
-title: AbstractMailResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة بريد البنك.
+title: "AbstractMailResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة بريد البنك."
 type: docs
 weight: 280
 url: /ar/net/aspose.finance.ofx.bank/abstractmailresponse/

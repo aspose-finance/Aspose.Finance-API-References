@@ -1,7 +1,7 @@
 ---
-title: ArcroleType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تُستخدم لتعريف نوع arc role المخصص.
+title: "ArcroleType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تُستخدم لتعريف نوع arc role المخصص."
 type: docs
 weight: 6520
 url: /ar/net/aspose.finance.xbrl/arcroletype/

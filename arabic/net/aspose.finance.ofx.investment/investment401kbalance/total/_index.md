@@ -1,7 +1,7 @@
 ---
-title: الإجمالي
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن القيمة الحالية لجميع الأوراق المالية المشتراة بجميع المساهمات.
+title: "الإجمالي"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن القيمة الحالية لجميع الأوراق المالية المشتراة بجميع المساهمات."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.investment/investment401kbalance/total/

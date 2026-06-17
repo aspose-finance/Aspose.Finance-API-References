@@ -1,7 +1,7 @@
 ---
-title: InterRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب التحويل بين البنوك.
+title: "InterRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب التحويل بين البنوك."
 type: docs
 weight: 2440
 url: /ar/net/aspose.finance.ofx.intertransfer/interrequest/

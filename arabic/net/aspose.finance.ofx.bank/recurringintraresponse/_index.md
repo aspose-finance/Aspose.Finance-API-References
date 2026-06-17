@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة التحويل المتكرر داخل البنك.
+title: "RecurringIntraResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة التحويل المتكرر داخل البنك."
 type: docs
 weight: 580
 url: /ar/net/aspose.finance.ofx.bank/recurringintraresponse/

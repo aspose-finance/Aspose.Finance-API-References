@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين RecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponse أو RecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse أو RecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين RecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponse أو RecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse أو RecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.intertransfer/recurringintertransactionresponse/response/

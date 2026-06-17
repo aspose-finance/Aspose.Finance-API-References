@@ -1,7 +1,7 @@
 ---
-title: Suffix
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن اللاحقة للموظف.
+title: "Suffix"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن اللاحقة للموظف."
 type: docs
 weight: 130
 url: /ar/net/aspose.finance.ofx.taxw2/employee/suffix/

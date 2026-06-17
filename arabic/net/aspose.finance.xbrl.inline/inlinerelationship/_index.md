@@ -1,7 +1,7 @@
 ---
-title: InlineRelationship
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة للعلاقات في مستند XBRL مضمن.
+title: "InlineRelationship"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة للعلاقات في مستند XBRL مضمن."
 type: docs
 weight: 7770
 url: /ar/net/aspose.finance.xbrl.inline/inlinerelationship/

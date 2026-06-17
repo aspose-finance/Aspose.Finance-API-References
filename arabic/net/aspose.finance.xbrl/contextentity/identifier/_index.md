@@ -1,7 +1,7 @@
 ---
-title: Identifier
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن معرف كيان السياق.
+title: "Identifier"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن معرف كيان السياق."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/contextentity/identifier/

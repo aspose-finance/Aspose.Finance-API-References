@@ -1,7 +1,7 @@
 ---
-title: الوصف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الوصف.
+title: "الوصف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الوصف."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099oid_v100/description/

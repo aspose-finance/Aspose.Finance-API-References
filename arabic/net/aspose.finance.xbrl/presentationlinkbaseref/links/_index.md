@@ -1,7 +1,7 @@
 ---
-title: الروابط
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة PresentationLinkaspose.finance.xbrl/presentationlink.
+title: "الروابط"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة PresentationLinkaspose.finance.xbrl/presentationlink."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/presentationlinkbaseref/links/

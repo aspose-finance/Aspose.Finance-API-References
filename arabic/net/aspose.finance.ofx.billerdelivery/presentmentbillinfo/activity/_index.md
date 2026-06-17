@@ -1,7 +1,7 @@
 ---
-title: النشاط
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط صافي التدفقات الداخلة والخارجة للحساب منذ الفترة الأخيرة.
+title: "النشاط"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط صافي التدفقات الداخلة والخارجة للحساب منذ الفترة الأخيرة."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/activity/

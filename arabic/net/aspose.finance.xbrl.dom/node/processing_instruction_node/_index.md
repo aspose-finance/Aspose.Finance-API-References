@@ -1,7 +1,7 @@
 ---
-title: PROCESSING_INSTRUCTION_NODE
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: نوع عقدة تعليمات المعالجة.
+title: "PROCESSING_INSTRUCTION_NODE"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "نوع عقدة تعليمات المعالجة."
 type: docs
 weight: 240
 url: /ar/net/aspose.finance.xbrl.dom/node/processing_instruction_node/

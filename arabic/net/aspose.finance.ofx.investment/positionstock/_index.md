@@ -1,7 +1,7 @@
 ---
-title: PositionStock
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة موقف الاستثمار في السهم.
+title: "PositionStock"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة موقف الاستثمار في السهم."
 type: docs
 weight: 3420
 url: /ar/net/aspose.finance.ofx.investment/positionstock/

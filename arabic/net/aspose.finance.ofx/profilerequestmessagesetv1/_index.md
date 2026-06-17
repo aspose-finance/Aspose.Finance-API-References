@@ -1,7 +1,7 @@
 ---
-title: ProfileRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب الملف الشخصي الإصدار 1.
+title: "ProfileRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب الملف الشخصي الإصدار 1."
 type: docs
 weight: 4960
 url: /ar/net/aspose.finance.ofx/profilerequestmessagesetv1/

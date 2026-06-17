@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraCancellationResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إلغاء التحويل الداخلي المتكرر.
+title: "RecurringIntraCancellationResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إلغاء التحويل الداخلي المتكرر."
 type: docs
 weight: 540
 url: /ar/net/aspose.finance.ofx.bank/recurringintracancellationresponse/

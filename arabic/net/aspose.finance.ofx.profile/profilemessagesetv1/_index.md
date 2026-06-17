@@ -1,6 +1,6 @@
 ---
-title: ProfileMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+title: "ProfileMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
 description: 
 type: docs
 weight: 4710

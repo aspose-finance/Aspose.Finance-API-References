@@ -1,7 +1,7 @@
 ---
-title: Payee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تحدد عنوان الفوترة الكامل للمستفيد.
+title: "المستفيد"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تحدد عنوان الفوترة الكامل للمستفيد."
 type: docs
 weight: 4260
 url: /ar/net/aspose.finance.ofx/payee/
@@ -18,21 +18,21 @@ public class Payee
 
 | الاسم | الوصف |
 | --- | --- |
-| [Payee](payee)() | Initializes a new instance of [`Payee`](../payee) class. |
+| [Payee](payee)() | يُنشئ مثيلًا جديدًا من الفئة [`Payee`](../payee). |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx/payee/address1) { get; set; } | Gets or sets the payee’s address line 1. |
-| [Address2](../../aspose.finance.ofx/payee/address2) { get; set; } | Gets or sets the payee’s address line 2. |
-| [Address3](../../aspose.finance.ofx/payee/address3) { get; set; } | Gets or sets the payee’s address line 3. |
-| [City](../../aspose.finance.ofx/payee/city) { get; set; } | Gets or sets the payee’s city. |
-| [Country](../../aspose.finance.ofx/payee/country) { get; set; } | Gets or sets the payee’s country, 3-letter country code from ISO/DIS-3166. |
-| [Name](../../aspose.finance.ofx/payee/name) { get; set; } | Gets or sets the name of payee. |
-| [Phone](../../aspose.finance.ofx/payee/phone) { get; set; } | Gets or sets the payee’s telephone number. |
-| [PostalCode](../../aspose.finance.ofx/payee/postalcode) { get; set; } | Gets or sets the payee’s postal code. |
-| [State](../../aspose.finance.ofx/payee/state) { get; set; } | Gets or sets the payee’s state. |
+| [Address1](../../aspose.finance.ofx/payee/address1) { get; set; } | الحصول أو تعيين سطر العنوان 1 للمستفيد. |
+| [Address2](../../aspose.finance.ofx/payee/address2) { get; set; } | الحصول أو تعيين سطر العنوان 2 للمستفيد. |
+| [Address3](../../aspose.finance.ofx/payee/address3) { get; set; } | الحصول أو تعيين سطر العنوان 3 للمستفيد. |
+| [City](../../aspose.finance.ofx/payee/city) { get; set; } | الحصول أو تعيين مدينة المستفيد. |
+| [Country](../../aspose.finance.ofx/payee/country) { get; set; } | الحصول أو تعيين بلد المستفيد، رمز البلد المكوّن من 3 أحرف وفقًا لـ ISO/DIS-3166. |
+| [Name](../../aspose.finance.ofx/payee/name) { get; set; } | الحصول أو تعيين اسم المستفيد. |
+| [Phone](../../aspose.finance.ofx/payee/phone) { get; set; } | الحصول أو تعيين رقم هاتف المستفيد. |
+| [PostalCode](../../aspose.finance.ofx/payee/postalcode) { get; set; } | الحصول أو تعيين الرمز البريدي للمستفيد. |
+| [State](../../aspose.finance.ofx/payee/state) { get; set; } | الحصول أو تعيين ولاية المستفيد. |
 
 ### انظر أيضًا
 

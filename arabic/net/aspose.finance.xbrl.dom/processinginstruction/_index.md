@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل تعليمات معالجة تُستخدم في XML كطريقة للحفاظ على معلومات خاصة بالمُعالج في نص المستند.
+title: "ProcessingInstruction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل تعليمات معالجة تُستخدم في XML كطريقة للحفاظ على معلومات خاصة بالمُعالج في نص المستند."
 type: docs
 weight: 7480
 url: /ar/net/aspose.finance.xbrl.dom/processinginstruction/

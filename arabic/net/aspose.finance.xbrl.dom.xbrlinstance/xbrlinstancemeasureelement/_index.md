@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceMeasureElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر قياس مثيل xbrl.
+title: "XbrlInstanceMeasureElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر قياس مثيل xbrl."
 type: docs
 weight: 7540
 url: /ar/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstancemeasureelement/

@@ -1,7 +1,7 @@
 ---
-title: HTMLParagraphElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل فقرات. راجع تعريف عنصر P في HTML 4.01.
+title: "HTMLParagraphElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل فقرات. راجع تعريف عنصر P في HTML 4.01."
 type: docs
 weight: 7130
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlparagraphelement/

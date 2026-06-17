@@ -1,7 +1,7 @@
 ---
-title: الرمز
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الرمز.
+title: "الرمز"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الرمز."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/abstractsyncrequest/token/

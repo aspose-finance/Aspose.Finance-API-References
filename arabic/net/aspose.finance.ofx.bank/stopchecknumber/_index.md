@@ -1,7 +1,7 @@
 ---
-title: StopCheckNumber
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عنصر إيقاف الفحص.
+title: "StopCheckNumber"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عنصر إيقاف الفحص."
 type: docs
 weight: 710
 url: /ar/net/aspose.finance.ofx.bank/stopchecknumber/

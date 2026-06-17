@@ -1,7 +1,7 @@
 ---
-title: BalanceEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الرصيد
+title: "BalanceEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الرصيد"
 type: docs
 weight: 240
 url: /ar/net/aspose.finance.ofx/balanceenum/

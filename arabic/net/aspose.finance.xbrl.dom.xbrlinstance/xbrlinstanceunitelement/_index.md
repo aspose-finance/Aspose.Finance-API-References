@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceUnitElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر وحدة مثيل xbrl.
+title: "XbrlInstanceUnitElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر وحدة مثيل xbrl."
 type: docs
 weight: 7560
 url: /ar/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceunitelement/

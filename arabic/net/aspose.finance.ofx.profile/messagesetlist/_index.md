@@ -1,7 +1,7 @@
 ---
-title: MessageSetList
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات قائمة مجموعة الرسائل.
+title: "MessageSetList"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات قائمة مجموعة الرسائل."
 type: docs
 weight: 4620
 url: /ar/net/aspose.finance.ofx.profile/messagesetlist/

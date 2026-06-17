@@ -1,7 +1,7 @@
 ---
-title: ContributionAmt
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تخصيص مبلغ المساهمة.
+title: "ContributionAmt"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تخصيص مبلغ المساهمة."
 type: docs
 weight: 2750
 url: /ar/net/aspose.finance.ofx.investment/contributionamt/

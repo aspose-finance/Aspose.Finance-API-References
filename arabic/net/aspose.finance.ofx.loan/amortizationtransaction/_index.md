@@ -1,7 +1,7 @@
 ---
-title: AmortizationTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة الإهلاك.
+title: "AmortizationTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة الإهلاك."
 type: docs
 weight: 3780
 url: /ar/net/aspose.finance.ofx.loan/amortizationtransaction/

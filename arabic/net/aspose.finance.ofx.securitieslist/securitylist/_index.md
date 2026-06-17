@@ -1,7 +1,7 @@
 ---
-title: قائمة الأوراق المالية
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب قائمة الأوراق المالية.
+title: "قائمة الأوراق المالية"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب قائمة الأوراق المالية."
 type: docs
 weight: 5160
 url: /ar/net/aspose.finance.ofx.securitieslist/securitylist/

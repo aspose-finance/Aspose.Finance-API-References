@@ -1,7 +1,7 @@
 ---
-title: InterModResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تعديل التحويل بين البنوك.
+title: "InterModResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تعديل التحويل بين البنوك."
 type: docs
 weight: 2430
 url: /ar/net/aspose.finance.ofx.intertransfer/intermodresponse/

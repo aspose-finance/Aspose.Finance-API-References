@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementEndResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة بيان إغلاق بطاقة الائتمان.
+title: "CreditCardStatementEndResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة بيان إغلاق بطاقة الائتمان."
 type: docs
 weight: 1970
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/

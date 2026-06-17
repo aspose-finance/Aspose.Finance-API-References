@@ -1,7 +1,7 @@
 ---
-title: SignonResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تسجيل الدخول.
+title: "SignonResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تسجيل الدخول."
 type: docs
 weight: 5450
 url: /ar/net/aspose.finance.ofx.signon/signonresponse/

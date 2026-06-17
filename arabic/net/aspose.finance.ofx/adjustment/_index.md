@@ -1,7 +1,7 @@
 ---
-title: تعديل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تعديل.
+title: "تعديل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تعديل."
 type: docs
 weight: 210
 url: /ar/net/aspose.finance.ofx/adjustment/

@@ -1,7 +1,7 @@
 ---
-title: HTMLFrameElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل إطار HTML. راجع تعريف عنصر FRAME في HTML 4.01.
+title: "HTMLFrameElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل إطار HTML. راجع تعريف عنصر FRAME في HTML 4.01."
 type: docs
 weight: 6900
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlframeelement/

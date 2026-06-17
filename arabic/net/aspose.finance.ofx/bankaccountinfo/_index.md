@@ -1,7 +1,7 @@
 ---
-title: BankAccountInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم OFX تجميع معلومات حساب البنك لتنزيل معلومات الحساب من FI.
+title: "BankAccountInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم OFX تجميع معلومات حساب البنك لتنزيل معلومات الحساب من FI."
 type: docs
 weight: 790
 url: /ar/net/aspose.finance.ofx/bankaccountinfo/

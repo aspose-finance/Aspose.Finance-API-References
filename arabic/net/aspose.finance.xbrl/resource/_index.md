@@ -1,7 +1,7 @@
 ---
-title: Resource
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية المجردة لـ Xlink من نوع Resource.
+title: "Resource"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية المجردة لـ Xlink من نوع Resource."
 type: docs
 weight: 8010
 url: /ar/net/aspose.finance.xbrl/resource/

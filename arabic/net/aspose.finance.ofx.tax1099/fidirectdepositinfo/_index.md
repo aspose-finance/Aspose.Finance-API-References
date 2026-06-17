@@ -1,7 +1,7 @@
 ---
-title: FIDirectDepositInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة اختيارية للإيداع المباشر.
+title: "FIDirectDepositInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة اختيارية للإيداع المباشر."
 type: docs
 weight: 5930
 url: /ar/net/aspose.finance.ofx.tax1099/fidirectdepositinfo/

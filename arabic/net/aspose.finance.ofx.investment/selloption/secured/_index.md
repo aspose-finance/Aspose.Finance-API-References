@@ -1,7 +1,7 @@
 ---
-title: Secured
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط كيفية تأمين الخيار.
+title: "Secured"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط كيفية تأمين الخيار."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.investment/selloption/secured/

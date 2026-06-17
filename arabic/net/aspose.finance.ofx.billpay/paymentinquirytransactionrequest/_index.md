@@ -1,7 +1,7 @@
 ---
-title: PaymentInquiryTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة استعلام حالة الدفع.
+title: "PaymentInquiryTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة استعلام حالة الدفع."
 type: docs
 weight: 1100
 url: /ar/net/aspose.finance.ofx.billpay/paymentinquirytransactionrequest/

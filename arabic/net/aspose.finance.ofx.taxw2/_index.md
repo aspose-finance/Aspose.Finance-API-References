@@ -1,6 +1,6 @@
 ---
-title: Aspose.Finance.Ofx.TaxW2
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+title: "Aspose.Finance.Ofx.TaxW2"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
 description: 
 type: docs
 weight: 190

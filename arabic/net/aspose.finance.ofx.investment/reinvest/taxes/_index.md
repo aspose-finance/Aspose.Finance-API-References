@@ -1,7 +1,7 @@
 ---
-title: الضرائب
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الضرائب على الصفقة.
+title: "الضرائب"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الضرائب على الصفقة."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.investment/reinvest/taxes/

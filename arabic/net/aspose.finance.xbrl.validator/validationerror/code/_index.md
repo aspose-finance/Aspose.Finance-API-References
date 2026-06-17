@@ -1,7 +1,7 @@
 ---
-title: Code
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على رمز خطأ التحقق.
+title: "الرمز"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على رمز خطأ التحقق."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl.validator/validationerror/code/

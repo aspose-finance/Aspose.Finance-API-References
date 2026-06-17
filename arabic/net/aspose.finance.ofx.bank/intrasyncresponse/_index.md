@@ -1,7 +1,7 @@
 ---
-title: IntraSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة المعاملة الداخلية.
+title: "IntraSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة المعاملة الداخلية."
 type: docs
 weight: 500
 url: /ar/net/aspose.finance.ofx.bank/intrasyncresponse/

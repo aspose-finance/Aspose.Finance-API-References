@@ -1,7 +1,7 @@
 ---
-title: Earnings
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أرباح 401k. هذا هو تغير القيمة السوقية. يشمل الأرباح/الفوائد ومكاسب رأس المال - المحققة وغير المحققة.
+title: "Earnings"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أرباح 401k. هذا هو تغير القيمة السوقية. يشمل الأرباح/الفوائد ومكاسب رأس المال - المحققة وغير المحققة."
 type: docs
 weight: 2830
 url: /ar/net/aspose.finance.ofx.investment/earnings/

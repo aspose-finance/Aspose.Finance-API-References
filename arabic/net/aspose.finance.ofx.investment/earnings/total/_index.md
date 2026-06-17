@@ -1,7 +1,7 @@
 ---
-title: الإجمالي
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن مجموع الأرباح من جميع مصادر الصناديق.
+title: "الإجمالي"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مجموع الأرباح من جميع مصادر الصناديق."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.ofx.investment/earnings/total/

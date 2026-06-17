@@ -1,7 +1,7 @@
 ---
-title: PaymentCancelRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب إلغاء الدفع.
+title: "PaymentCancelRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب إلغاء الدفع."
 type: docs
 weight: 1050
 url: /ar/net/aspose.finance.ofx.billpay/paymentcancelrequest/

@@ -1,7 +1,7 @@
 ---
-title: Show
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الـ show للقوس.
+title: "Show"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الـ show للقوس."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.xbrl/arc/show/

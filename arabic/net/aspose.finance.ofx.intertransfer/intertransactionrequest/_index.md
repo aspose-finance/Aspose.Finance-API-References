@@ -1,7 +1,7 @@
 ---
-title: InterTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة التحويل بين البنوك.
+title: "InterTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة التحويل بين البنوك."
 type: docs
 weight: 2480
 url: /ar/net/aspose.finance.ofx.intertransfer/intertransactionrequest/

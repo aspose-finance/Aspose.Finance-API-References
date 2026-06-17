@@ -1,7 +1,7 @@
 ---
-title: التأمين
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يحدد تأمين الحياة ضد الحوادث والصحة على القرض.
+title: "التأمين"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يحدد تأمين الحياة ضد الحوادث والصحة على القرض."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/loantransactionamount/insurance/

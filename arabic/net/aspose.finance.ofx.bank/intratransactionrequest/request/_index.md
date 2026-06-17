@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين IntraRequestaspose.finance.ofx.bank/intrarequest أو IntraModRequestaspose.finance.ofx.bank/intramodrequest أو IntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest.
+title: "Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين IntraRequestaspose.finance.ofx.bank/intrarequest أو IntraModRequestaspose.finance.ofx.bank/intramodrequest أو IntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.bank/intratransactionrequest/request/

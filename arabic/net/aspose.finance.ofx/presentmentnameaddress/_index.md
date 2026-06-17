@@ -1,7 +1,7 @@
 ---
-title: PresentmentNameAddress
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: معلومات العميل مع الفاتورة.
+title: "PresentmentNameAddress"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "معلومات العميل مع الفاتورة."
 type: docs
 weight: 4350
 url: /ar/net/aspose.finance.ofx/presentmentnameaddress/
@@ -18,7 +18,7 @@ public class PresentmentNameAddress
 
 | الاسم | الوصف |
 | --- | --- |
-| [PresentmentNameAddress](presentmentnameaddress)() | Initializes a new instance of [`PresentmentNameAddress`](../presentmentnameaddress) class. |
+| [PresentmentNameAddress](presentmentnameaddress)() | يُنشئ مثيلًا جديدًا من الفئة [`PresentmentNameAddress`](../presentmentnameaddress). |
 
 ## الخصائص
 

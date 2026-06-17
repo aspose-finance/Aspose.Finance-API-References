@@ -1,7 +1,7 @@
 ---
-title: EscrowBalance
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة رصيد الضمان.
+title: "EscrowBalance"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة رصيد الضمان."
 type: docs
 weight: 3830
 url: /ar/net/aspose.finance.ofx.loan/escrowbalance/

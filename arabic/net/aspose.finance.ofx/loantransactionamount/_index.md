@@ -1,7 +1,7 @@
 ---
-title: LoanTransactionAmount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مبلغ معاملة القرض.
+title: "LoanTransactionAmount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مبلغ معاملة القرض."
 type: docs
 weight: 4150
 url: /ar/net/aspose.finance.ofx/loantransactionamount/

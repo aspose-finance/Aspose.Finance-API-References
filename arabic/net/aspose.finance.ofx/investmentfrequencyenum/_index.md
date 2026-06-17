@@ -1,7 +1,7 @@
 ---
-title: InvestmentFrequencyEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع تردد الاستثمار.
+title: "InvestmentFrequencyEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع تردد الاستثمار."
 type: docs
 weight: 3670
 url: /ar/net/aspose.finance.ofx/investmentfrequencyenum/

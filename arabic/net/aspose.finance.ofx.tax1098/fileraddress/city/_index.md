@@ -1,14 +1,14 @@
 ---
-title: City
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the filer address city.
+title: "City"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مدينة عنوان المودع."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.tax1098/fileraddress/city/
 ---
 ## FilerAddress.City property
 
-Gets or sets the filer address city.
+يحصل أو يعيّن مدينة عنوان المودع.
 
 ```csharp
 public string City { get; set; }

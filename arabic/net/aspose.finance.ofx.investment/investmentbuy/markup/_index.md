@@ -1,7 +1,7 @@
 ---
-title: العلامة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الجزء من سعر الوحدة الذي يُعزى إلى هامش الوكيل.
+title: "العلامة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الجزء من سعر الوحدة الذي يُعزى إلى هامش الوكيل."
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.ofx.investment/investmentbuy/markup/

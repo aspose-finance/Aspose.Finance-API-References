@@ -1,7 +1,7 @@
 ---
-title: تحويل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: استثمار تحويل فئة.
+title: "تحويل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "استثمار تحويل فئة."
 type: docs
 weight: 3580
 url: /ar/net/aspose.finance.ofx.investment/transfer/

@@ -1,7 +1,7 @@
 ---
-title: SignonInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات تسجيل الدخول.
+title: "SignonInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات تسجيل الدخول."
 type: docs
 weight: 4790
 url: /ar/net/aspose.finance.ofx.profile/signoninfo/

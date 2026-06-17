@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة كشف الاستثمار.
+title: "InvestmentStatementTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة كشف الاستثمار."
 type: docs
 weight: 3150
 url: /ar/net/aspose.finance.ofx.investment/investmentstatementtransactionresponse/

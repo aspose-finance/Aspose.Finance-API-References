@@ -1,7 +1,7 @@
 ---
-title: LoanMailRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب بريد القرض.
+title: "LoanMailRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب بريد القرض."
 type: docs
 weight: 3860
 url: /ar/net/aspose.finance.ofx.loan/loanmailrequest/

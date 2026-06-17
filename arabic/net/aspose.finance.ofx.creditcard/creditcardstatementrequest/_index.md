@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: طلب تنزيل بطاقة الائتمان هو مطابق دلاليًا لطلب تنزيل كشف الحساب البنكي.
+title: "CreditCardStatementRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "طلب تنزيل بطاقة الائتمان هو مطابق دلاليًا لطلب تنزيل كشف الحساب البنكي."
 type: docs
 weight: 2000
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardstatementrequest/

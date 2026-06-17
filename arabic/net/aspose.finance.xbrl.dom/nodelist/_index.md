@@ -1,7 +1,7 @@
 ---
-title: قائمة العقد
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: قائمة العقدة.
+title: "قائمة العقد"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "قائمة العقدة."
 type: docs
 weight: 7470
 url: /ar/net/aspose.finance.xbrl.dom/nodelist/

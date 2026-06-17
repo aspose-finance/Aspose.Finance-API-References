@@ -1,7 +1,7 @@
 ---
-title: الشعار
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن عنوان URL لشعار المستفيد.
+title: "الشعار"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن عنوان URL لشعار المستفيد."
 type: docs
 weight: 130
 url: /ar/net/aspose.finance.ofx.billerdirectory/billerinfo/logo/

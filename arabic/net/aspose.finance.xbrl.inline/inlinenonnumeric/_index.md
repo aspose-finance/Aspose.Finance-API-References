@@ -1,7 +1,7 @@
 ---
-title: InlineNonnumeric
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة للعنصر غير الرقمي XBRL في مستند XBRL مضمن.
+title: "InlineNonnumeric"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة للعنصر غير الرقمي XBRL في مستند XBRL مضمن."
 type: docs
 weight: 7750
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonnumeric/

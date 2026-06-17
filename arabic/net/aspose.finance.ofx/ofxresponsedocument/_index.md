@@ -1,7 +1,7 @@
 ---
-title: OfxResponseDocument
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مستند استجابة Ofx.
+title: "OfxResponseDocument"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مستند استجابة Ofx."
 type: docs
 weight: 4240
 url: /ar/net/aspose.finance.ofx/ofxresponsedocument/

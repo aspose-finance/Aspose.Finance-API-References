@@ -1,7 +1,7 @@
 ---
-title: قانوني
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الموظف القانوني.
+title: "قانوني"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الموظف القانوني."
 type: docs
 weight: 190
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v200/statutory/

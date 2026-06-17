@@ -1,7 +1,7 @@
 ---
-title: CallTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع المكالمة.
+title: "CallTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع المكالمة."
 type: docs
 weight: 5030
 url: /ar/net/aspose.finance.ofx.securitieslist/calltypeenum/

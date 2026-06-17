@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول على أو تعيين Currencyaspose.finance.ofx.securitieslist/generalsecurityinfo/currency.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول على أو تعيين Currencyaspose.finance.ofx.securitieslist/generalsecurityinfo/currency."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/currency/

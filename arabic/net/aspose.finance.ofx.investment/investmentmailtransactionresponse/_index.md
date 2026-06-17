@@ -1,7 +1,7 @@
 ---
-title: InvestmentMailTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة البريد الإلكتروني للاستثمار.
+title: "InvestmentMailTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة البريد الإلكتروني للاستثمار."
 type: docs
 weight: 3030
 url: /ar/net/aspose.finance.ofx.investment/investmentmailtransactionresponse/

@@ -1,7 +1,7 @@
 ---
-title: Reason
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن سبب الرفض.
+title: "Reason"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن سبب الرفض."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/presentmentaccountinfo/reason/

@@ -1,7 +1,7 @@
 ---
-title: StateTaxWithheldAggregate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة الضريبة الحكومية المحتجزة.
+title: "StateTaxWithheldAggregate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة الضريبة الحكومية المحتجزة."
 type: docs
 weight: 6000
 url: /ar/net/aspose.finance.ofx.tax1099/statetaxwithheldaggregate/

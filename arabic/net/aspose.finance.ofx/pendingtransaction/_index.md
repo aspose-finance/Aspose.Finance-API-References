@@ -1,7 +1,7 @@
 ---
-title: PendingTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تصف معاملة معلقة واحدة. تقوم بتحديد نوع المعاملة وتاريخ بدءها. يمكن للفئة أيضًا توفير معلومات إضافية لمساعدة العميل في التعرف على المعاملة رقم الشيك اسم المستفيد والمذكرة.
+title: "PendingTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تصف معاملة معلقة واحدة. تقوم بتحديد نوع المعاملة وتاريخ بدءها. يمكن للفئة أيضًا توفير معلومات إضافية لمساعدة العميل في التعرف على المعاملة رقم الشيك اسم المستفيد والمذكرة."
 type: docs
 weight: 4270
 url: /ar/net/aspose.finance.ofx/pendingtransaction/

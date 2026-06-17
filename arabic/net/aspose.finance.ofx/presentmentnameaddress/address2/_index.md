@@ -1,7 +1,7 @@
 ---
-title: Address2
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط سطر العنوان 2 للعميل.
+title: "Address2"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط سطر العنوان 2 للعميل."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/presentmentnameaddress/address2/

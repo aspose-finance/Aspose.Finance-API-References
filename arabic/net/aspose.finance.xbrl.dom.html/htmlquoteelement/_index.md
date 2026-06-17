@@ -1,7 +1,7 @@
 ---
-title: HTMLQuoteElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عناصر Q و BLOCKQUOTE. راجع تعريف عنصر Q في HTML 4.01.
+title: "HTMLQuoteElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عناصر Q و BLOCKQUOTE. راجع تعريف عنصر Q في HTML 4.01."
 type: docs
 weight: 7160
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlquoteelement/

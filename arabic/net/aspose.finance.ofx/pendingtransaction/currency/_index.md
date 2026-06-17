@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين Currencyaspose.finance.ofx/pendingtransaction/currency.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين Currencyaspose.finance.ofx/pendingtransaction/currency."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx/pendingtransaction/currency/

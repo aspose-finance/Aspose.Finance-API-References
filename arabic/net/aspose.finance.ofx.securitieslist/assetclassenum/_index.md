@@ -1,7 +1,7 @@
 ---
-title: AssetClassEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد فئة الأصول.
+title: "AssetClassEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد فئة الأصول."
 type: docs
 weight: 5020
 url: /ar/net/aspose.finance.ofx.securitieslist/assetclassenum/

@@ -1,14 +1,14 @@
 ---
-title: Address3
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين سطر العنوان 3 للمدفوع له.
+title: "Address3"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين سطر العنوان 3 للمدفوع له."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx/payee/address3/
 ---
 ## Payee.Address3 property
 
-Gets or sets the payee’s address line 3.
+الحصول أو تعيين سطر العنوان 3 للمستفيد.
 
 ```csharp
 public string Address3 { get; set; }

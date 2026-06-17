@@ -1,7 +1,7 @@
 ---
-title: نص
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل المحتوى النصي.
+title: "نص"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل المحتوى النصي."
 type: docs
 weight: 7490
 url: /ar/net/aspose.finance.xbrl.dom/text/

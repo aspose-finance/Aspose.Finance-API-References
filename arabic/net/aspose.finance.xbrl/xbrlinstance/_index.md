@@ -1,7 +1,7 @@
 ---
-title: XbrlInstance
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مثيل XBRL هو جزء XML يحتوي على عنصر جذر يحمل علامة xbrl. يحتوي مثيل XBRL على حقائق تقرير الأعمال حيث يتطابق كل حقيقة مع مفهوم Concept./concept معرف في نظام DTS الداعم لها. كما يحتوي مثيل XBRL على سياقات ووحدات توفر معلومات إضافية ضرورية لتفسير الحقائق في المثيل.
+title: "XbrlInstance"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مثيل XBRL هو جزء XML يحتوي على عنصر جذر يحمل علامة xbrl. يحتوي مثيل XBRL على حقائق تقرير الأعمال حيث يتطابق كل حقيقة مع مفهوم Concept./concept معرف في نظام DTS الداعم لها. كما يحتوي مثيل XBRL على سياقات ووحدات توفر معلومات إضافية ضرورية لتفسير الحقائق في المثيل."
 type: docs
 weight: 8250
 url: /ar/net/aspose.finance.xbrl/xbrlinstance/

@@ -1,14 +1,14 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the name of the reward program.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط اسم برنامج المكافأة."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx/rewardinfotype/name/
 ---
 ## RewardInfoType.Name property
 
-Gets or sets the name of the reward program.
+يحصل أو يضبط اسم برنامج المكافأة.
 
 ```csharp
 public string Name { get; set; }

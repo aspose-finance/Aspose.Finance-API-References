@@ -1,7 +1,7 @@
 ---
-title: WireTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة التحويل البنكي.
+title: "WireTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة التحويل البنكي."
 type: docs
 weight: 6450
 url: /ar/net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/

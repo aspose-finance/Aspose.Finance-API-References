@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط عنوان المحدد.
+title: "Title"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط عنوان المحدد."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl/locator/title/

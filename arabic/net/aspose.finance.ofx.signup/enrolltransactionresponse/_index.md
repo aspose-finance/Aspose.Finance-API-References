@@ -1,7 +1,7 @@
 ---
-title: EnrollTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة التسجيل.
+title: "EnrollTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة التسجيل."
 type: docs
 weight: 5660
 url: /ar/net/aspose.finance.ofx.signup/enrolltransactionresponse/

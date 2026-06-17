@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة المعاملة المتكررة داخل البنك.
+title: "RecurringIntraSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة المعاملة المتكررة داخل البنك."
 type: docs
 weight: 590
 url: /ar/net/aspose.finance.ofx.bank/recurringintrasyncrequest/

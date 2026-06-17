@@ -1,7 +1,7 @@
 ---
-title: ContextEntity
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الكيان الخاص بـ Context./context.
+title: "ContextEntity"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الكيان الخاص بـ Context./context."
 type: docs
 weight: 6580
 url: /ar/net/aspose.finance.xbrl/contextentity/

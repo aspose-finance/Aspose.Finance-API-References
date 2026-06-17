@@ -1,7 +1,7 @@
 ---
-title: StopCheckSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة إيقاف الفحص.
+title: "StopCheckSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة إيقاف الفحص."
 type: docs
 weight: 740
 url: /ar/net/aspose.finance.ofx.bank/stopchecksyncrequest/

@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن العملة الافتراضية لاستجابة تحويل داخل البنك.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن العملة الافتراضية لاستجابة تحويل داخل البنك."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.bank/intraresponse/currency/

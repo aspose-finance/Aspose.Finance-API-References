@@ -1,7 +1,7 @@
 ---
-title: WireCancellationRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب إلغاء التحويل البنكي.
+title: "WireCancellationRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب إلغاء التحويل البنكي."
 type: docs
 weight: 6380
 url: /ar/net/aspose.finance.ofx.wiretransfer/wirecancellationrequest/

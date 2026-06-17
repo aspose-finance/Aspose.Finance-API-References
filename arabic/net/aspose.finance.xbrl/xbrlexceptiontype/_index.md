@@ -1,7 +1,7 @@
 ---
-title: XbrlExceptionType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يمثل رمز نوع الاستثناء المخصص.
+title: "XbrlExceptionType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يمثل رمز نوع الاستثناء المخصص."
 type: docs
 weight: 8240
 url: /ar/net/aspose.finance.xbrl/xbrlexceptiontype/

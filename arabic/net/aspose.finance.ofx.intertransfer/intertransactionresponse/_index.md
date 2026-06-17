@@ -1,7 +1,7 @@
 ---
-title: InterTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة التحويل بين البنوك.
+title: "InterTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة التحويل بين البنوك."
 type: docs
 weight: 2490
 url: /ar/net/aspose.finance.ofx.intertransfer/intertransactionresponse/

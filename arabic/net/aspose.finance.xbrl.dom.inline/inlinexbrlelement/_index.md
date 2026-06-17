@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية لعنصر inline xbrl.
+title: "InlineXbrlElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية لعنصر inline xbrl."
 type: docs
 weight: 7330
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlelement/

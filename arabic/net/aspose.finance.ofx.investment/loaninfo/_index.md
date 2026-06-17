@@ -1,7 +1,7 @@
 ---
-title: LoanInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: القروض المستحقة ضد الحساب
+title: "LoanInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "القروض المستحقة ضد الحساب"
 type: docs
 weight: 3200
 url: /ar/net/aspose.finance.ofx.investment/loaninfo/

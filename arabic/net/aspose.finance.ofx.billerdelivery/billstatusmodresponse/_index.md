@@ -1,7 +1,7 @@
 ---
-title: BillStatusModResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تعديل حالة الفاتورة.
+title: "BillStatusModResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تعديل حالة الفاتورة."
 type: docs
 weight: 1500
 url: /ar/net/aspose.finance.ofx.billerdelivery/billstatusmodresponse/

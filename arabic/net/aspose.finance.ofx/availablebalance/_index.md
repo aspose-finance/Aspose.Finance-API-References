@@ -1,7 +1,7 @@
 ---
-title: AvailableBalance
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة الرصيد المتاح.
+title: "AvailableBalance"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة الرصيد المتاح."
 type: docs
 weight: 220
 url: /ar/net/aspose.finance.ofx/availablebalance/

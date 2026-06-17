@@ -1,7 +1,7 @@
 ---
-title: DebtInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات الدين.
+title: "DebtInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات الدين."
 type: docs
 weight: 5070
 url: /ar/net/aspose.finance.ofx.securitieslist/debtinfo/

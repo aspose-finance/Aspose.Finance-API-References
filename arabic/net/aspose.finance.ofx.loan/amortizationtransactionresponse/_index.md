@@ -1,7 +1,7 @@
 ---
-title: AmortizationTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة بيان الإهلاك.
+title: "AmortizationTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة بيان الإهلاك."
 type: docs
 weight: 3810
 url: /ar/net/aspose.finance.ofx.loan/amortizationtransactionresponse/

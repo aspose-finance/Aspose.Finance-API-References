@@ -1,7 +1,7 @@
 ---
-title: TaxW2MessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل الضريبة W2.
+title: "TaxW2MessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل الضريبة W2."
 type: docs
 weight: 4910
 url: /ar/net/aspose.finance.ofx.profile/taxw2messagesetv1/

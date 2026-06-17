@@ -1,7 +1,7 @@
 ---
-title: استخدام
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط استخدام الـ arc للقوس.
+title: "استخدام"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط استخدام الـ arc للقوس."
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.xbrl/arc/use/

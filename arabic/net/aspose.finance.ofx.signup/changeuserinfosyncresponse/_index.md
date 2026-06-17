@@ -1,7 +1,7 @@
 ---
-title: ChangeUserInfoSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة تغيير معلومات المستخدم.
+title: "ChangeUserInfoSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة تغيير معلومات المستخدم."
 type: docs
 weight: 5600
 url: /ar/net/aspose.finance.ofx.signup/changeuserinfosyncresponse/

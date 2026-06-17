@@ -1,7 +1,7 @@
 ---
-title: دور المرجع
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد دور المرجع.
+title: "دور المرجع"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد دور المرجع."
 type: docs
 weight: 8000
 url: /ar/net/aspose.finance.xbrl/referencerole/

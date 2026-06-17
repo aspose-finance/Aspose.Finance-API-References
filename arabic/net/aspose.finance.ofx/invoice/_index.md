@@ -1,7 +1,7 @@
 ---
-title: Invoice
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة الفاتورة.
+title: "Invoice"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة الفاتورة."
 type: docs
 weight: 3700
 url: /ar/net/aspose.finance.ofx/invoice/

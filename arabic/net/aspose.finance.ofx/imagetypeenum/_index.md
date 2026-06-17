@@ -1,7 +1,7 @@
 ---
-title: ImageTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الصورة.
+title: "ImageTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الصورة."
 type: docs
 weight: 2340
 url: /ar/net/aspose.finance.ofx/imagetypeenum/

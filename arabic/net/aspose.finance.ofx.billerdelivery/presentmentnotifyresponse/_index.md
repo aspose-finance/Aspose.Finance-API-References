@@ -1,7 +1,7 @@
 ---
-title: PresentmentNotifyResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إشعار التسليم.
+title: "PresentmentNotifyResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إشعار التسليم."
 type: docs
 weight: 1800
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentnotifyresponse/

@@ -1,7 +1,7 @@
 ---
-title: SaveOptions
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يمثل خيارات الحفظ.
+title: "SaveOptions"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يمثل خيارات الحفظ."
 type: docs
 weight: 5000
 url: /ar/net/aspose.finance.ofx/saveoptions/

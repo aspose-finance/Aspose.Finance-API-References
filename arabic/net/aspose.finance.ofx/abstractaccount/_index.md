@@ -1,7 +1,7 @@
 ---
-title: AbstractAccount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة بالحساب.
+title: "AbstractAccount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة بالحساب."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/abstractaccount/

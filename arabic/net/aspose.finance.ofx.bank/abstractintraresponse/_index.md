@@ -1,7 +1,7 @@
 ---
-title: AbstractIntraResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة التحويل داخل البنك.
+title: "AbstractIntraResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة التحويل داخل البنك."
 type: docs
 weight: 270
 url: /ar/net/aspose.finance.ofx.bank/abstractintraresponse/

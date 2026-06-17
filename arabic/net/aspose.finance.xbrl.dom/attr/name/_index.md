@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على اسم هذه السمة.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على اسم هذه السمة."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl.dom/attr/name/

@@ -1,14 +1,14 @@
 ---
-title: معرف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the unit id.
+title: "معرف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن معرف الوحدة."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl/unit/id/
 ---
 ## Unit.Id property
 
-Gets or sets the unit id.
+يحصل أو يعيّن معرف الوحدة.
 
 ```csharp
 public string Id { get; set; }

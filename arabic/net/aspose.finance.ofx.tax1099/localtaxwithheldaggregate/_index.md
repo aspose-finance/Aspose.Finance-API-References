@@ -1,7 +1,7 @@
 ---
-title: LocalTaxWithheldAggregate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة الضريبة المحلية المحتجزة.
+title: "LocalTaxWithheldAggregate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة الضريبة المحلية المحتجزة."
 type: docs
 weight: 5940
 url: /ar/net/aspose.finance.ofx.tax1099/localtaxwithheldaggregate/

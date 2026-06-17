@@ -1,7 +1,7 @@
 ---
-title: حواشي
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يسترجع مجموعة Footnoteaspose.finance.xbrl/footnote.
+title: "حواشي"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يسترجع مجموعة Footnoteaspose.finance.xbrl/footnote."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/footnotelink/footnotes/

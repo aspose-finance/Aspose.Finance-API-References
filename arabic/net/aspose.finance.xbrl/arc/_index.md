@@ -1,7 +1,7 @@
 ---
-title: Arc
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية المجردة لـ Xlink بنوع Arc.
+title: "Arc"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية المجردة لـ Xlink بنوع Arc."
 type: docs
 weight: 6490
 url: /ar/net/aspose.finance.xbrl/arc/

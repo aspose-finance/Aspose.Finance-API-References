@@ -1,7 +1,7 @@
 ---
-title: BANKID
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين معرف البنك. رقم التوجيه ABA أو رقم S.W.I.F.T.
+title: "BANKID"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين معرف البنك. رقم التوجيه ABA أو رقم S.W.I.F.T."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.wiretransfer/extbankdescription/bankid/

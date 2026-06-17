@@ -1,7 +1,7 @@
 ---
-title: معرف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط معرف العنصر. راجع تعريف سمة المعرف في HTML 4.01.
+title: "معرف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط معرف العنصر. راجع تعريف سمة المعرف في HTML 4.01."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlelement/id/

@@ -1,7 +1,7 @@
 ---
-title: AbstractWireRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بطلب التحويل البنكي.
+title: "AbstractWireRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بطلب التحويل البنكي."
 type: docs
 weight: 6340
 url: /ar/net/aspose.finance.ofx.wiretransfer/abstractwirerequest/

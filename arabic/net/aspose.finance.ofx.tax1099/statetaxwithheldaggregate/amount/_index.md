@@ -1,7 +1,7 @@
 ---
-title: Amount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن المبلغ المحتجز.
+title: "Amount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن المبلغ المحتجز."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.tax1099/statetaxwithheldaggregate/amount/

@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlNonNumericElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl nonNumeric.
+title: "InlineXbrlNonNumericElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl nonNumeric."
 type: docs
 weight: 7400
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlnonnumericelement/

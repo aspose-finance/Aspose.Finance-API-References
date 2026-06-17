@@ -1,7 +1,7 @@
 ---
-title: EmailResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة البريد الإلكتروني الإصدار 1.
+title: "EmailResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة البريد الإلكتروني الإصدار 1."
 type: docs
 weight: 2230
 url: /ar/net/aspose.finance.ofx/emailresponsemessagesetv1/

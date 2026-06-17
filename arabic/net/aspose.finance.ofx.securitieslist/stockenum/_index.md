@@ -1,7 +1,7 @@
 ---
-title: StockEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع السهم.
+title: "StockEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع السهم."
 type: docs
 weight: 5210
 url: /ar/net/aspose.finance.ofx.securitieslist/stockenum/

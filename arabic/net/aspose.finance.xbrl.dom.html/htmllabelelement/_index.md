@@ -1,7 +1,7 @@
 ---
-title: HTMLLabelElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل نص تسمية حقل النموذج. راجع تعريف عنصر LABEL في HTML 4.01.
+title: "HTMLLabelElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل نص تسمية حقل النموذج. راجع تعريف عنصر LABEL في HTML 4.01."
 type: docs
 weight: 7010
 url: /ar/net/aspose.finance.xbrl.dom.html/htmllabelelement/

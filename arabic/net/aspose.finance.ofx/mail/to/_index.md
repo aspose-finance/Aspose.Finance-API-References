@@ -1,7 +1,7 @@
 ---
-title: إلى
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط إلى من يجب تسليم الرسالة.
+title: "إلى"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط إلى من يجب تسليم الرسالة."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx/mail/to/

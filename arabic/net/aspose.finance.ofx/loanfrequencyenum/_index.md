@@ -1,7 +1,7 @@
 ---
-title: LoanFrequencyEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد تردد القرض.
+title: "LoanFrequencyEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد تردد القرض."
 type: docs
 weight: 4070
 url: /ar/net/aspose.finance.ofx/loanfrequencyenum/

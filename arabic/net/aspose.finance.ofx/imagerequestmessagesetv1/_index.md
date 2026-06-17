@@ -1,7 +1,7 @@
 ---
-title: ImageRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب الصورة الإصدار 1.
+title: "ImageRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب الصورة الإصدار 1."
 type: docs
 weight: 2330
 url: /ar/net/aspose.finance.ofx/imagerequestmessagesetv1/

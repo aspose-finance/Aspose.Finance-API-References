@@ -1,7 +1,7 @@
 ---
-title: Payee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين المعلومات الكاملة Common.Payee.
+title: "المستفيد"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين المعلومات الكاملة Common.Payee."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.billpay/payeerequest/payee/

@@ -1,7 +1,7 @@
 ---
-title: CalculationLinkbaseRef
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تُستخدم لإشارة linkbase الحساب.
+title: "CalculationLinkbaseRef"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تُستخدم لإشارة linkbase الحساب."
 type: docs
 weight: 6550
 url: /ar/net/aspose.finance.xbrl/calculationlinkbaseref/

@@ -1,7 +1,7 @@
 ---
-title: StateInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات الولاية.
+title: "StateInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات الولاية."
 type: docs
 weight: 6200
 url: /ar/net/aspose.finance.ofx.taxw2/stateinfo/

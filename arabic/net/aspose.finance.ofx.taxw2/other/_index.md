@@ -1,7 +1,7 @@
 ---
-title: أخرى
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أخرى. الوصف والمبلغ للصندوق 14.
+title: "أخرى"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أخرى. الوصف والمبلغ للصندوق 14."
 type: docs
 weight: 6190
 url: /ar/net/aspose.finance.ofx.taxw2/other/

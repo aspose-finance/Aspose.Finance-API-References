@@ -1,7 +1,7 @@
 ---
-title: SubAccountEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الحساب الفرعي.
+title: "SubAccountEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الحساب الفرعي."
 type: docs
 weight: 3570
 url: /ar/net/aspose.finance.ofx.investment/subaccountenum/

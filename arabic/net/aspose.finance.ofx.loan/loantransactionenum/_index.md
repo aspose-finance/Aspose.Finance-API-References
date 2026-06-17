@@ -1,7 +1,7 @@
 ---
-title: LoanTransactionEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع معاملة القرض.
+title: "LoanTransactionEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع معاملة القرض."
 type: docs
 weight: 4010
 url: /ar/net/aspose.finance.ofx.loan/loantransactionenum/

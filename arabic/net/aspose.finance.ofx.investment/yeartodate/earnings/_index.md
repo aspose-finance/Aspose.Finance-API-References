@@ -1,7 +1,7 @@
 ---
-title: Earnings
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط Earningsaspose.finance.ofx.investment/yeartodate/earnings.
+title: "Earnings"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط Earningsaspose.finance.ofx.investment/yeartodate/earnings."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.investment/yeartodate/earnings/

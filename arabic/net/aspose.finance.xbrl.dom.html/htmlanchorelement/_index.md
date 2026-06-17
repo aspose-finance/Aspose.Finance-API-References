@@ -1,7 +1,7 @@
 ---
-title: HTMLAnchorElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الصفّ يُمثّل عنصر الارتباط. راجع تعريف عنصر A في HTML 4.01.
+title: "HTMLAnchorElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الصفّ يُمثّل عنصر الارتباط. راجع تعريف عنصر A في HTML 4.01."
 type: docs
 weight: 6730
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlanchorelement/

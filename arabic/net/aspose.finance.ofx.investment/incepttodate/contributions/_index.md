@@ -1,7 +1,7 @@
 ---
-title: المساهمات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الـ Contributionsaspose.finance.ofx.investment/incepttodate/contributions.
+title: "المساهمات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الـ Contributionsaspose.finance.ofx.investment/incepttodate/contributions."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.investment/incepttodate/contributions/

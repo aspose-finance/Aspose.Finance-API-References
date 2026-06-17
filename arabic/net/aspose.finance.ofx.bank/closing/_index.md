@@ -1,7 +1,7 @@
 ---
-title: Closing
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم حساب جاري أو توفير أو سوق المال أو شهادة إيداع أو خط ائتمان هذه الفئة لوصف معلومات إغلاق البيان.
+title: "Closing"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم حساب جاري أو توفير أو سوق المال أو شهادة إيداع أو خط ائتمان هذه الفئة لوصف معلومات إغلاق البيان."
 type: docs
 weight: 410
 url: /ar/net/aspose.finance.ofx.bank/closing/

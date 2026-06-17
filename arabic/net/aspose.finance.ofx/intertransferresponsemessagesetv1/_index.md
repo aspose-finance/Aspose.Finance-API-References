@@ -1,7 +1,7 @@
 ---
-title: InterTransferResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة Interbank Transfer الإصدار 1.
+title: "InterTransferResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة Interbank Transfer الإصدار 1."
 type: docs
 weight: 2610
 url: /ar/net/aspose.finance.ofx/intertransferresponsemessagesetv1/

@@ -1,7 +1,7 @@
 ---
-title: GetMimeRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب GET لـ MIME.
+title: "GetMimeRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب GET لـ MIME."
 type: docs
 weight: 2120
 url: /ar/net/aspose.finance.ofx.email/getmimerequest/

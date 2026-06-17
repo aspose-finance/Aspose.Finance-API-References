@@ -1,6 +1,6 @@
 ---
-title: السحوبات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+title: "السحوبات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
 description: 
 type: docs
 weight: 60

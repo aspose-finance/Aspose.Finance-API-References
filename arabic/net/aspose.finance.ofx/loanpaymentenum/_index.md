@@ -1,7 +1,7 @@
 ---
-title: LoanPaymentEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع سداد القرض.
+title: "LoanPaymentEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع سداد القرض."
 type: docs
 weight: 4100
 url: /ar/net/aspose.finance.ofx/loanpaymentenum/

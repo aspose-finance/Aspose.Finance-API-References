@@ -1,7 +1,7 @@
 ---
-title: Languages
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين اللغات المدعومة.
+title: "Languages"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين اللغات المدعومة."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.profile/messagesetcore/languages/

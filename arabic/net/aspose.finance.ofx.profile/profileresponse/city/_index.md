@@ -1,7 +1,7 @@
 ---
-title: City
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين مدينة عنوان FI.
+title: "City"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين مدينة عنوان FI."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.profile/profileresponse/city/

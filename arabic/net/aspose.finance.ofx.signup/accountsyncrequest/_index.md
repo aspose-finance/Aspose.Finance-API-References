@@ -1,7 +1,7 @@
 ---
-title: AccountSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة تفعيل الخدمة.
+title: "AccountSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة تفعيل الخدمة."
 type: docs
 weight: 5530
 url: /ar/net/aspose.finance.ofx.signup/accountsyncrequest/

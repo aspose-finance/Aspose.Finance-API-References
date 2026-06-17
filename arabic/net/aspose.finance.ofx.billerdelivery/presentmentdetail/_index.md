@@ -1,7 +1,7 @@
 ---
-title: PresentmentDetail
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تفاصيل العرض.
+title: "PresentmentDetail"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تفاصيل العرض."
 type: docs
 weight: 1620
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentdetail/

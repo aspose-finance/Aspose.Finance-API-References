@@ -1,7 +1,7 @@
 ---
-title: PaymentInstrument
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أداة الدفع.
+title: "PaymentInstrument"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أداة الدفع."
 type: docs
 weight: 1900
 url: /ar/net/aspose.finance.ofx.billerdirectory/paymentinstrument/

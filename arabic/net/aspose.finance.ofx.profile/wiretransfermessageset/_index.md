@@ -1,7 +1,7 @@
 ---
-title: WireTransferMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل التحويلات البنكية.
+title: "WireTransferMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل التحويلات البنكية."
 type: docs
 weight: 4940
 url: /ar/net/aspose.finance.ofx.profile/wiretransfermessageset/

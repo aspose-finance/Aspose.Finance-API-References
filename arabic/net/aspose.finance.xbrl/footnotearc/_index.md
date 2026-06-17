@@ -1,7 +1,7 @@
 ---
-title: FootnoteArc
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي Xlink./xlink من نوع Arc. إنها موجودة في FootnoteLink.
+title: "FootnoteArc"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي Xlink./xlink من نوع Arc. إنها موجودة في FootnoteLink."
 type: docs
 weight: 7670
 url: /ar/net/aspose.finance.xbrl/footnotearc/
@@ -39,8 +39,8 @@ public class FootnoteArc : Arc
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetFromLocs](../../aspose.finance.xbrl/footnotearc/getfromlocs)() | Gets the collection of from [`Loc`](../loc) in the [`FootnoteArc`](../footnotearc). |
-| [GetToFootnotes](../../aspose.finance.xbrl/footnotearc/gettofootnotes)() | Gets the collection of to [`Footnote`](../footnote) in the [`FootnoteArc`](../footnotearc). |
+| [GetFromLocs](../../aspose.finance.xbrl/footnotearc/getfromlocs)() | يحصل على مجموعة من [`Loc`](../loc) في الـ[`FootnoteArc`](../footnotearc). |
+| [GetToFootnotes](../../aspose.finance.xbrl/footnotearc/gettofootnotes)() | يحصل على مجموعة إلى [`Footnote`](../footnote) في [`FootnoteArc`](../footnotearc). |
 
 ### انظر أيضًا
 

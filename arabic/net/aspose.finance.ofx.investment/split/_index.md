@@ -1,7 +1,7 @@
 ---
-title: Split
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: استثمار أسهم أو صندوق مشترك تقسيم فئة.
+title: "Split"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "استثمار أسهم أو صندوق مشترك تقسيم فئة."
 type: docs
 weight: 3560
 url: /ar/net/aspose.finance.ofx.investment/split/

@@ -1,7 +1,7 @@
 ---
-title: LocalCacheService
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي خدمة ذاكرة تخزين مؤقت محلية لملفات المخطط و قاعدة الروابط الخارجية.
+title: "LocalCacheService"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي خدمة ذاكرة تخزين مؤقت محلية لملفات المخطط و قاعدة الروابط الخارجية."
 type: docs
 weight: 7890
 url: /ar/net/aspose.finance.xbrl/localcacheservice/

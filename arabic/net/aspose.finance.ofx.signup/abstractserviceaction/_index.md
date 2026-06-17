@@ -1,7 +1,7 @@
 ---
-title: AbstractServiceAction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بإجراءات الخدمة.
+title: "AbstractServiceAction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بإجراءات الخدمة."
 type: docs
 weight: 5480
 url: /ar/net/aspose.finance.ofx.signup/abstractserviceaction/

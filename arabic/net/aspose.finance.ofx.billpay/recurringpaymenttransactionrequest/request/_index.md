@@ -1,7 +1,7 @@
 ---
-title: Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest أو RecurringPaymentModRequestaspose.finance.ofx.billpay/recurringpaymentmodrequest أو RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest.
+title: "Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest أو RecurringPaymentModRequestaspose.finance.ofx.billpay/recurringpaymentmodrequest أو RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request/

@@ -1,7 +1,7 @@
 ---
-title: Phone
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين رقم الهاتف للحساب.
+title: "Phone"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين رقم الهاتف للحساب."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx/accountinfo/phone/

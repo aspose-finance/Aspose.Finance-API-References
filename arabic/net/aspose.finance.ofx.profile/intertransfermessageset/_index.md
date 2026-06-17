@@ -1,7 +1,7 @@
 ---
-title: InterTransferMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل التحويلات بين البنوك.
+title: "InterTransferMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل التحويلات بين البنوك."
 type: docs
 weight: 4550
 url: /ar/net/aspose.finance.ofx.profile/intertransfermessageset/

@@ -1,7 +1,7 @@
 ---
-title: LedgerBalance
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة رصيد دفتر الأستاذ.
+title: "LedgerBalance"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة رصيد دفتر الأستاذ."
 type: docs
 weight: 3730
 url: /ar/net/aspose.finance.ofx/ledgerbalance/

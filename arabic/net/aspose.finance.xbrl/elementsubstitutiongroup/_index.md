@@ -1,7 +1,7 @@
 ---
-title: ElementSubstitutionGroup
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: عدد نوع الاستبدال Concept./concept.
+title: "ElementSubstitutionGroup"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "عدد نوع الاستبدال Concept./concept."
 type: docs
 weight: 7640
 url: /ar/net/aspose.finance.xbrl/elementsubstitutiongroup/

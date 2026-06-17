@@ -1,7 +1,7 @@
 ---
-title: TransferStatusEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد قيم حالة معالجة التحويل.
+title: "TransferStatusEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد قيم حالة معالجة التحويل."
 type: docs
 weight: 6320
 url: /ar/net/aspose.finance.ofx/transferstatusenum/
@@ -20,9 +20,9 @@ public enum TransferStatusEnum
 | --- | --- | --- |
 | WILLPROCESSON | `0` | سيتم معالجتها |
 | POSTEDON | `1` | تم الإرسال |
-| NOFUNDSON | `2` | Funds not available to make transfer |
-| CANCELEDON | `3` | User canceled payment |
-| FAILEDON | `4` | Unable to make transfer for unspecified reasons |
+| NOFUNDSON | `2` | الأموال غير متوفرة لإجراء التحويل |
+| CANCELEDON | `3` | المستخدم ألغى الدفع |
+| FAILEDON | `4` | غير قادر على إجراء التحويل لأسباب غير محددة |
 
 ### انظر أيضًا
 

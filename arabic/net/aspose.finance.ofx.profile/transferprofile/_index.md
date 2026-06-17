@@ -1,7 +1,7 @@
 ---
-title: TransferProfile
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة ملف تعريف التحويل الداخلي بين البنوك.
+title: "TransferProfile"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة ملف تعريف التحويل الداخلي بين البنوك."
 type: docs
 weight: 4920
 url: /ar/net/aspose.finance.ofx.profile/transferprofile/

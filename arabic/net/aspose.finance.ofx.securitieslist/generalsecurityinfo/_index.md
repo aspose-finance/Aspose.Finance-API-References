@@ -1,7 +1,7 @@
 ---
-title: GeneralSecurityInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحتوي الفئة على حقول مشتركة لجميع أنواع الأوراق المالية.
+title: "GeneralSecurityInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحتوي الفئة على حقول مشتركة لجميع أنواع الأوراق المالية."
 type: docs
 weight: 5090
 url: /ar/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/

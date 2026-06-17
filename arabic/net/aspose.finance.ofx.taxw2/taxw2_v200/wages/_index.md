@@ -1,7 +1,7 @@
 ---
-title: الأجور
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الأجور والبقشيش والتعويضات الأخرى.
+title: "الأجور"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الأجور والبقشيش والتعويضات الأخرى."
 type: docs
 weight: 220
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v200/wages/

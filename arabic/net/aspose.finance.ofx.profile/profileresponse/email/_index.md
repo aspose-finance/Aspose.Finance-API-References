@@ -1,7 +1,7 @@
 ---
-title: Email
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين عنوان البريد الإلكتروني لـ FI.
+title: "Email"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين عنوان البريد الإلكتروني لـ FI."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.profile/profileresponse/email/

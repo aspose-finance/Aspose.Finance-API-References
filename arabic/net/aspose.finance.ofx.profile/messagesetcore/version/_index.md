@@ -1,7 +1,7 @@
 ---
-title: Version
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن رقم الإصدار لمجموعة الرسائل.
+title: "Version"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن رقم الإصدار لمجموعة الرسائل."
 type: docs
 weight: 120
 url: /ar/net/aspose.finance.ofx.profile/messagesetcore/version/

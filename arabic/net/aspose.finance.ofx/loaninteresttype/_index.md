@@ -1,7 +1,7 @@
 ---
-title: LoanInterestType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفائدة المدفوعة على القرض.
+title: "LoanInterestType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفائدة المدفوعة على القرض."
 type: docs
 weight: 4080
 url: /ar/net/aspose.finance.ofx/loaninteresttype/

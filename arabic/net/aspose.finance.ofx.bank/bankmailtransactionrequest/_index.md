@@ -1,7 +1,7 @@
 ---
-title: BankMailTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة بريد البنك.
+title: "BankMailTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة بريد البنك."
 type: docs
 weight: 350
 url: /ar/net/aspose.finance.ofx.bank/bankmailtransactionrequest/

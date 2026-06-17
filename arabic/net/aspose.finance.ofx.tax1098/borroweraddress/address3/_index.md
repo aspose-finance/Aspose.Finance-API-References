@@ -1,7 +1,7 @@
 ---
-title: Address3
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين سطر عنوان المقترض 3.
+title: "Address3"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين سطر عنوان المقترض 3."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.tax1098/borroweraddress/address3/

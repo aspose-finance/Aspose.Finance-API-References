@@ -1,7 +1,7 @@
 ---
-title: AbstractRecurringIntraResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة التحويل المتكرر داخل البنك.
+title: "AbstractRecurringIntraResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة باستجابة التحويل المتكرر داخل البنك."
 type: docs
 weight: 300
 url: /ar/net/aspose.finance.ofx.bank/abstractrecurringintraresponse/

@@ -1,7 +1,7 @@
 ---
-title: StatusModByEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد الحالة المعدلة بواسطة.
+title: "StatusModByEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد الحالة المعدلة بواسطة."
 type: docs
 weight: 1840
 url: /ar/net/aspose.finance.ofx.billerdelivery/statusmodbyenum/

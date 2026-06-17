@@ -1,7 +1,7 @@
 ---
-title: التصنيف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن التصنيف.
+title: "التصنيف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن التصنيف."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/rating/

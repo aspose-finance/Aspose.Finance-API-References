@@ -1,7 +1,7 @@
 ---
-title: الخصائص
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على سمات العنصر.
+title: "الخصائص"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على سمات العنصر."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl.dom/element/attributes/

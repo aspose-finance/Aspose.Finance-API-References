@@ -1,7 +1,7 @@
 ---
-title: Void
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ما إذا كان هذا W2 باطلاً وسيتم توفير W2 جديد.
+title: "فارغ"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ما إذا كان هذا W2 باطلاً وسيتم توفير W2 جديد."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.taxw2/abstracttaxw2/void/

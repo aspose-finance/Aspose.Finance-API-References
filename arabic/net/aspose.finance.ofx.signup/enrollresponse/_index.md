@@ -1,7 +1,7 @@
 ---
-title: EnrollResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة التسجيل.
+title: "EnrollResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة التسجيل."
 type: docs
 weight: 5640
 url: /ar/net/aspose.finance.ofx.signup/enrollresponse/

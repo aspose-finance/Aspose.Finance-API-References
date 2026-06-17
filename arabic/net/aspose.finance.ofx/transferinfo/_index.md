@@ -1,7 +1,7 @@
 ---
-title: TransferInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحدد هذه الفئة الحسابات التي هي جزء من مبلغ المال المراد تحويله وتاريخ التحويل.
+title: "TransferInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحدد هذه الفئة الحسابات التي هي جزء من مبلغ المال المراد تحويله وتاريخ التحويل."
 type: docs
 weight: 6300
 url: /ar/net/aspose.finance.ofx/transferinfo/

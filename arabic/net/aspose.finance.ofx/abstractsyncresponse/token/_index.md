@@ -1,7 +1,7 @@
 ---
-title: الرمز
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين رمز المزامنة الجديد.
+title: "الرمز"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين رمز المزامنة الجديد."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx/abstractsyncresponse/token/

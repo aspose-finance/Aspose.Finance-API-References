@@ -1,7 +1,7 @@
 ---
-title: COMMENT_NODE
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: نوع عقدة التعليق.
+title: "COMMENT_NODE"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "نوع عقدة التعليق."
 type: docs
 weight: 200
 url: /ar/net/aspose.finance.xbrl.dom/node/comment_node/

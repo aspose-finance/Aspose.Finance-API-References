@@ -1,7 +1,7 @@
 ---
-title: IncTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تضمين المعاملات
+title: "IncTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تضمين المعاملات"
 type: docs
 weight: 2350
 url: /ar/net/aspose.finance.ofx/inctransaction/

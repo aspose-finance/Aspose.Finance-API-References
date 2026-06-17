@@ -1,7 +1,7 @@
 ---
-title: Language
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن لغة الـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+title: "Language"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن لغة الـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl.inline/inlinefootnote/language/

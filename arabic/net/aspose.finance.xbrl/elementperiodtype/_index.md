@@ -1,7 +1,7 @@
 ---
-title: ElementPeriodType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: عدد نوع الفترة Concept./concept.
+title: "ElementPeriodType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "عدد نوع الفترة Concept./concept."
 type: docs
 weight: 7630
 url: /ar/net/aspose.finance.xbrl/elementperiodtype/

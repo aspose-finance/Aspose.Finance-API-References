@@ -1,7 +1,7 @@
 ---
-title: AbstractMessageSetVersion
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بتنفيذ مجموعة الرسائل
+title: "AbstractMessageSetVersion"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بتنفيذ مجموعة الرسائل"
 type: docs
 weight: 4380
 url: /ar/net/aspose.finance.ofx.profile/abstractmessagesetversion/

@@ -1,7 +1,7 @@
 ---
-title: StatementTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة البيان.
+title: "StatementTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة البيان."
 type: docs
 weight: 690
 url: /ar/net/aspose.finance.ofx.bank/statementtransactionrequest/

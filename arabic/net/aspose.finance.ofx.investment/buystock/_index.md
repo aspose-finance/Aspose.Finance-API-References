@@ -1,7 +1,7 @@
 ---
-title: BuyStock
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة شراء أسهم الاستثمار.
+title: "BuyStock"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة شراء أسهم الاستثمار."
 type: docs
 weight: 2730
 url: /ar/net/aspose.finance.ofx.investment/buystock/

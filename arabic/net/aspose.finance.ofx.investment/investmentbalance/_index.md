@@ -1,7 +1,7 @@
 ---
-title: InvestmentBalance
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة رصيد الاستثمارات.
+title: "InvestmentBalance"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة رصيد الاستثمارات."
 type: docs
 weight: 2930
 url: /ar/net/aspose.finance.ofx.investment/investmentbalance/

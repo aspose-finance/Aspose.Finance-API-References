@@ -1,7 +1,7 @@
 ---
-title: الأولوية
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط أولوية القوس.
+title: "الأولوية"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط أولوية القوس."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.xbrl/arc/priority/

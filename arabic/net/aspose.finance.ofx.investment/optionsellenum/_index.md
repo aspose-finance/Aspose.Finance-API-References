@@ -1,7 +1,7 @@
 ---
-title: OptionSellEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد بيع الخيار.
+title: "OptionSellEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد بيع الخيار."
 type: docs
 weight: 3360
 url: /ar/net/aspose.finance.ofx.investment/optionsellenum/

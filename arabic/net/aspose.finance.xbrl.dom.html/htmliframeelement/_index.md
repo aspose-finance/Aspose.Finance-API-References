@@ -1,7 +1,7 @@
 ---
-title: HTMLIFrameElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل نوافذ فرعية مضمنة. راجع تعريف عنصر IFRAME في HTML 4.01.
+title: "HTMLIFrameElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل نوافذ فرعية مضمنة. راجع تعريف عنصر IFRAME في HTML 4.01."
 type: docs
 weight: 6960
 url: /ar/net/aspose.finance.xbrl.dom.html/htmliframeelement/

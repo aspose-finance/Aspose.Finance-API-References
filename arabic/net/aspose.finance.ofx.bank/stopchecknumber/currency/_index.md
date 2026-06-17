@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط العملة Currencyaspose.finance.ofx.bank/stopchecknumber/currency.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط العملة Currencyaspose.finance.ofx.bank/stopchecknumber/currency."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.bank/stopchecknumber/currency/

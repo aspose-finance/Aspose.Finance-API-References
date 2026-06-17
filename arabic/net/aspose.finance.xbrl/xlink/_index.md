@@ -1,7 +1,7 @@
 ---
-title: Xlink
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجردة لجميع أنواع الروابط في XBRL مثل الرابط البسيط والرابط الممتد وما إلى ذلك.
+title: "Xlink"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجردة لجميع أنواع الروابط في XBRL مثل الرابط البسيط والرابط الممتد وما إلى ذلك."
 type: docs
 weight: 8270
 url: /ar/net/aspose.finance.xbrl/xlink/

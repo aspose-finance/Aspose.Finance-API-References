@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: احصل أو عيّن الاسم.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "احصل أو عيّن الاسم."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/referencepart/name/

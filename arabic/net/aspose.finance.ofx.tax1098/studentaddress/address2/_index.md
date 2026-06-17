@@ -1,7 +1,7 @@
 ---
-title: Address2
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن سطر العنوان الثاني للطالب.
+title: "Address2"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن سطر العنوان الثاني للطالب."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.tax1098/studentaddress/address2/

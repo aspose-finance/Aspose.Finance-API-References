@@ -1,7 +1,7 @@
 ---
-title: Profit
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الربح أو الخسارة المتحققة.
+title: "الربح"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الربح أو الخسارة المتحققة."
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099b_v100/profit/

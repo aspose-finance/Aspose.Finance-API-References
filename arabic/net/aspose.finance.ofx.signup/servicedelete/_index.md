@@ -1,7 +1,7 @@
 ---
-title: ServiceDelete
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة حذف الخدمة.
+title: "ServiceDelete"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة حذف الخدمة."
 type: docs
 weight: 5690
 url: /ar/net/aspose.finance.ofx.signup/servicedelete/

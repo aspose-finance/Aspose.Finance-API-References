@@ -1,7 +1,7 @@
 ---
-title: Code
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن رمز الصندوق 12.
+title: "الرمز"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن رمز الصندوق 12."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.taxw2/codes/code/

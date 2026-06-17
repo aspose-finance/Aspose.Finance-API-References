@@ -1,7 +1,7 @@
 ---
-title: AbstractResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة بالاستجابة.
+title: "AbstractResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة بالاستجابة."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx/abstractresponse/

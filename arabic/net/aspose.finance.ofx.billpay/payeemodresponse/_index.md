@@ -1,7 +1,7 @@
 ---
-title: PayeeModResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تعديل المستفيد.
+title: "PayeeModResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تعديل المستفيد."
 type: docs
 weight: 980
 url: /ar/net/aspose.finance.ofx.billpay/payeemodresponse/

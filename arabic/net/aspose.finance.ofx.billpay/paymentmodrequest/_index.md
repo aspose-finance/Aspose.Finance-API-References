@@ -1,7 +1,7 @@
 ---
-title: PaymentModRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تعديل الدفع.
+title: "PaymentModRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تعديل الدفع."
 type: docs
 weight: 1180
 url: /ar/net/aspose.finance.ofx.billpay/paymentmodrequest/

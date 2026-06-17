@@ -1,7 +1,7 @@
 ---
-title: Length
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على عدد السمات في الخريطة.
+title: "Length"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على عدد السمات في الخريطة."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl.dom/namednodemap/length/

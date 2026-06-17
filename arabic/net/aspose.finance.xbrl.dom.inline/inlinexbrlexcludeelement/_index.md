@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlExcludeElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl exclude.
+title: "InlineXbrlExcludeElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl exclude."
 type: docs
 weight: 7340
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlexcludeelement/

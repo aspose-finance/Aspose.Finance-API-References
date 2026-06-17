@@ -1,7 +1,7 @@
 ---
-title: AbstractResponseMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع فئات مجموعة رسائل الاستجابة.
+title: "AbstractResponseMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع فئات مجموعة رسائل الاستجابة."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx/abstractresponsemessageset/

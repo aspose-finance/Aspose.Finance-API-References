@@ -1,7 +1,7 @@
 ---
-title: ContextSenario
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: سيناريو Context./context.
+title: "ContextSenario"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "سيناريو Context./context."
 type: docs
 weight: 6610
 url: /ar/net/aspose.finance.xbrl/contextsenario/

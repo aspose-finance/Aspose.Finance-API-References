@@ -1,7 +1,7 @@
 ---
-title: الدخل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة دخل الاستثمار.
+title: "الدخل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة دخل الاستثمار."
 type: docs
 weight: 2880
 url: /ar/net/aspose.finance.ofx.investment/income/

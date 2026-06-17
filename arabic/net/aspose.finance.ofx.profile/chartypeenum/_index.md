@@ -1,7 +1,7 @@
 ---
-title: CharTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الأحرف المسموح بها في كلمة المرور.
+title: "CharTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الأحرف المسموح بها في كلمة المرور."
 type: docs
 weight: 4430
 url: /ar/net/aspose.finance.ofx.profile/chartypeenum/

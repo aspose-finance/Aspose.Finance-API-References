@@ -1,7 +1,7 @@
 ---
-title: GetMimeResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة GET لـ MIME.
+title: "GetMimeResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة GET لـ MIME."
 type: docs
 weight: 2130
 url: /ar/net/aspose.finance.ofx.email/getmimeresponse/

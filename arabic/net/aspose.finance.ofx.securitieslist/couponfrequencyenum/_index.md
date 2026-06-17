@@ -1,7 +1,7 @@
 ---
-title: CouponFrequencyEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد تردد القسيمة.
+title: "CouponFrequencyEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد تردد القسيمة."
 type: docs
 weight: 5040
 url: /ar/net/aspose.finance.ofx.securitieslist/couponfrequencyenum/

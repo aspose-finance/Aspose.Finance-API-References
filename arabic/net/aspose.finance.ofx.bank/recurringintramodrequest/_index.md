@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraModRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تعديل التحويل الداخلي المتكرر.
+title: "RecurringIntraModRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تعديل التحويل الداخلي المتكرر."
 type: docs
 weight: 550
 url: /ar/net/aspose.finance.ofx.bank/recurringintramodrequest/

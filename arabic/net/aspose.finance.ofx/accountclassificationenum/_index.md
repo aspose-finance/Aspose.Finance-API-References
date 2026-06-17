@@ -1,7 +1,7 @@
 ---
-title: AccountClassificationEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع تصنيف الحساب.
+title: "AccountClassificationEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع تصنيف الحساب."
 type: docs
 weight: 150
 url: /ar/net/aspose.finance.ofx/accountclassificationenum/

@@ -1,7 +1,7 @@
 ---
-title: PayeeDeleteRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب حذف المستفيد.
+title: "PayeeDeleteRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب حذف المستفيد."
 type: docs
 weight: 950
 url: /ar/net/aspose.finance.ofx.billpay/payeedeleterequest/

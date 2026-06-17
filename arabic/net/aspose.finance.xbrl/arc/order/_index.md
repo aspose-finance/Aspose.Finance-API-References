@@ -1,7 +1,7 @@
 ---
-title: Order
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط ترتيب القوس.
+title: "Order"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط ترتيب القوس."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl/arc/order/

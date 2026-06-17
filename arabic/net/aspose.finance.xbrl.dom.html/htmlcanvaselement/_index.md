@@ -1,7 +1,7 @@
 ---
-title: HTMLCanvasElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الصفّ يوفّر خصائص وطرقًا للتلاعب بتخطيط وعرض عناصر canvas.
+title: "HTMLCanvasElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الصفّ يوفّر خصائص وطرقًا للتلاعب بتخطيط وعرض عناصر canvas."
 type: docs
 weight: 6810
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlcanvaselement/

@@ -1,7 +1,7 @@
 ---
-title: AmortizationType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع السداد.
+title: "AmortizationType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع السداد."
 type: docs
 weight: 3820
 url: /ar/net/aspose.finance.ofx.loan/amortizationtype/

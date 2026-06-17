@@ -1,7 +1,7 @@
 ---
-title: HTMLOptionElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل خيارًا قابلًا للتحديد. راجع تعريف عنصر OPTION في HTML 4.01.
+title: "HTMLOptionElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل خيارًا قابلًا للتحديد. راجع تعريف عنصر OPTION في HTML 4.01."
 type: docs
 weight: 7120
 url: /ar/net/aspose.finance.xbrl.dom.html/htmloptionelement/

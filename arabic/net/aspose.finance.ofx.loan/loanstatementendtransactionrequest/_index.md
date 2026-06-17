@@ -1,7 +1,7 @@
 ---
-title: LoanStatementEndTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة بيان إغلاق القرض.
+title: "LoanStatementEndTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة بيان إغلاق القرض."
 type: docs
 weight: 3940
 url: /ar/net/aspose.finance.ofx.loan/loanstatementendtransactionrequest/

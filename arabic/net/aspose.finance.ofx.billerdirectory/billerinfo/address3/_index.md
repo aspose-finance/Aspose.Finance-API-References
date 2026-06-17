@@ -1,7 +1,7 @@
 ---
-title: Address3
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين سطر العنوان 3 للفاتور.
+title: "Address3"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين سطر العنوان 3 للفاتور."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.billerdirectory/billerinfo/address3/

@@ -1,7 +1,7 @@
 ---
-title: Auction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ما إذا كان يجب شراء الدين في المزاد.
+title: "Auction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ما إذا كان يجب شراء الدين في المزاد."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.investment/openorderbuydebt/auction/

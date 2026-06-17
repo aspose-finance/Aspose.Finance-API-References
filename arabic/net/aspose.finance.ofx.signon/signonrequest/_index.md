@@ -1,7 +1,7 @@
 ---
-title: SignonRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تسجيل الدخول.
+title: "SignonRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تسجيل الدخول."
 type: docs
 weight: 5440
 url: /ar/net/aspose.finance.ofx.signon/signonrequest/

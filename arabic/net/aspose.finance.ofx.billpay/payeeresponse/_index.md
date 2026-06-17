@@ -1,7 +1,7 @@
 ---
-title: PayeeResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إضافة المستفيد.
+title: "PayeeResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إضافة المستفيد."
 type: docs
 weight: 1000
 url: /ar/net/aspose.finance.ofx.billpay/payeeresponse/

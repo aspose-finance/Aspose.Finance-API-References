@@ -1,7 +1,7 @@
 ---
-title: BillDetailTable
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يسمح جدول تفاصيل الفاتورة للمُصدرين بإرسال بيانات جدولة إلى العميل بطريقة مرنة. قد يحتوي الجدول على مكالمات هاتفية من فاتورة هاتف أو قراءات عداد كهربائي لفاتورة مرفق.
+title: "BillDetailTable"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يسمح جدول تفاصيل الفاتورة للمُصدرين بإرسال بيانات جدولة إلى العميل بطريقة مرنة. قد يحتوي الجدول على مكالمات هاتفية من فاتورة هاتف أو قراءات عداد كهربائي لفاتورة مرفق."
 type: docs
 weight: 1420
 url: /ar/net/aspose.finance.ofx.billerdelivery/billdetailtable/

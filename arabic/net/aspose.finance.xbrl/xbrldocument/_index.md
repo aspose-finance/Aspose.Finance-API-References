@@ -1,7 +1,7 @@
 ---
-title: XbrlDocument
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مستند XBRL يحتوي على نسخة XBRL واحدة أو أكثر.
+title: "XbrlDocument"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مستند XBRL يحتوي على نسخة XBRL واحدة أو أكثر."
 type: docs
 weight: 8220
 url: /ar/net/aspose.finance.xbrl/xbrldocument/

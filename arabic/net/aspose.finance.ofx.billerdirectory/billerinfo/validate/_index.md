@@ -1,7 +1,7 @@
 ---
-title: تحقق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن عنوان URL للتحقق.
+title: "تحقق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن عنوان URL للتحقق."
 type: docs
 weight: 210
 url: /ar/net/aspose.finance.ofx.billerdirectory/billerinfo/validate/

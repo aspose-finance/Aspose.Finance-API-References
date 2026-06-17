@@ -1,7 +1,7 @@
 ---
-title: تضمين
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ما إذا كان علم تضمين المعاملات مفعلاً
+title: "تضمين"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ما إذا كان علم تضمين المعاملات مفعلاً"
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/inctransaction/include/

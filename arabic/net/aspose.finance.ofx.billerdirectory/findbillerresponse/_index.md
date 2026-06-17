@@ -1,7 +1,7 @@
 ---
-title: FindBillerResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة العثور على مُصدر الفاتورة.
+title: "FindBillerResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة العثور على مُصدر الفاتورة."
 type: docs
 weight: 1870
 url: /ar/net/aspose.finance.ofx.billerdirectory/findbillerresponse/

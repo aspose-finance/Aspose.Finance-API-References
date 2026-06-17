@@ -1,7 +1,7 @@
 ---
-title: PaymentProcessStatusEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد حالة معالجة الدفع.
+title: "PaymentProcessStatusEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد حالة معالجة الدفع."
 type: docs
 weight: 1200
 url: /ar/net/aspose.finance.ofx.billpay/paymentprocessstatusenum/
@@ -18,7 +18,7 @@ public enum PaymentProcessStatusEnum
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| CANCELEDON | `0` | User canceled payment |
+| CANCELEDON | `0` | المستخدم ألغى الدفع |
 | WILLPROCESSON | `1` | سيتم معالجتها |
 | PROCESSEDON | `2` | تمت معالجته للدفع |
 | NOFUNDSON | `3` | الأموال غير متوفرة لإجراء الدفع |

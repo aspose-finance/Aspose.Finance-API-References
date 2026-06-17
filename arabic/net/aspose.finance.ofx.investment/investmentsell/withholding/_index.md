@@ -1,7 +1,7 @@
 ---
-title: الاقتطاع
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن استقطاعات الضريبة الفيدرالية.
+title: "الاقتطاع"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن استقطاعات الضريبة الفيدرالية."
 type: docs
 weight: 210
 url: /ar/net/aspose.finance.ofx.investment/investmentsell/withholding/

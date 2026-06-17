@@ -1,7 +1,7 @@
 ---
-title: ContributionPctTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع نسبة المساهمة.
+title: "ContributionPctTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع نسبة المساهمة."
 type: docs
 weight: 2780
 url: /ar/net/aspose.finance.ofx.investment/contributionpcttypeenum/

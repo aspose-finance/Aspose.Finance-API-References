@@ -1,7 +1,7 @@
 ---
-title: LoanStatementTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تصف هذه الفئة معاملة واحدة. تحدد نوع المعاملة وتاريخ نشرها. يمكن للفئة أيضًا تقديم معلومات إضافية لمساعدة العميل على التعرف على رقم الشيك واسم المعاملة ومذكرة وصور المعاملة.
+title: "LoanStatementTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تصف هذه الفئة معاملة واحدة. تحدد نوع المعاملة وتاريخ نشرها. يمكن للفئة أيضًا تقديم معلومات إضافية لمساعدة العميل على التعرف على رقم الشيك واسم المعاملة ومذكرة وصور المعاملة."
 type: docs
 weight: 3980
 url: /ar/net/aspose.finance.ofx.loan/loanstatementtransaction/

@@ -1,7 +1,7 @@
 ---
-title: ServiceChange
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تعديل الخدمة.
+title: "ServiceChange"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تعديل الخدمة."
 type: docs
 weight: 5680
 url: /ar/net/aspose.finance.ofx.signup/servicechange/

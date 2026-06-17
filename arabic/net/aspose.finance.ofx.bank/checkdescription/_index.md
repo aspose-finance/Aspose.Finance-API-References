@@ -1,7 +1,7 @@
 ---
-title: CheckDescription
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يجب أن يتضمن وصف الشيك اسم المستفيد أو الوصف. يمكنه أيضًا أن يتضمن رقم الشيك وتاريخ كتابة المستخدم للشيك ومبلغ المعاملة.
+title: "CheckDescription"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يجب أن يتضمن وصف الشيك اسم المستفيد أو الوصف. يمكنه أيضًا أن يتضمن رقم الشيك وتاريخ كتابة المستخدم للشيك ومبلغ المعاملة."
 type: docs
 weight: 370
 url: /ar/net/aspose.finance.ofx.bank/checkdescription/

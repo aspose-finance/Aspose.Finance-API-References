@@ -1,7 +1,7 @@
 ---
-title: DebtEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الدين.
+title: "DebtEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الدين."
 type: docs
 weight: 5060
 url: /ar/net/aspose.finance.ofx.securitieslist/debtenum/

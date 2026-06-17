@@ -1,6 +1,6 @@
 ---
-title: SaveFormat
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+title: "SaveFormat"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
 description: 
 type: docs
 weight: 8040

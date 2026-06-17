@@ -1,7 +1,7 @@
 ---
-title: ProfileTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة الملف التعريفي.
+title: "ProfileTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة الملف التعريفي."
 type: docs
 weight: 4750
 url: /ar/net/aspose.finance.ofx.profile/profiletransactionresponse/

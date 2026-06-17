@@ -1,7 +1,7 @@
 ---
-title: IdScopeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع نطاق معرف المستفيد.
+title: "IdScopeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع نطاق معرف المستفيد."
 type: docs
 weight: 940
 url: /ar/net/aspose.finance.ofx.billpay/idscopeenum/

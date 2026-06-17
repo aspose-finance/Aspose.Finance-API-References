@@ -1,7 +1,7 @@
 ---
-title: PayerAddress
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عنوان الدافع.
+title: "PayerAddress"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عنوان الدافع."
 type: docs
 weight: 5960
 url: /ar/net/aspose.finance.ofx.tax1099/payeraddress/

@@ -1,7 +1,7 @@
 ---
-title: Add
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: أضف XbrlInstanceaspose.finance.xbrl/xbrlinstance إلى المجموعة.
+title: "Add"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "أضف XbrlInstanceaspose.finance.xbrl/xbrlinstance إلى المجموعة."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl/xbrlinstancecollection/add/

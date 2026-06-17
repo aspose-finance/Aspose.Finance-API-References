@@ -1,7 +1,7 @@
 ---
-title: ELEMENT_NODE
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: نوع عقدة العنصر.
+title: "ELEMENT_NODE"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "نوع عقدة العنصر."
 type: docs
 weight: 230
 url: /ar/net/aspose.finance.xbrl.dom/node/element_node/

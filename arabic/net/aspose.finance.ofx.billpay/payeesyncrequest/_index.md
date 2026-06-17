@@ -1,7 +1,7 @@
 ---
-title: PayeeSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة قائمة المستفيدين.
+title: "PayeeSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة قائمة المستفيدين."
 type: docs
 weight: 1010
 url: /ar/net/aspose.finance.ofx.billpay/payeesyncrequest/

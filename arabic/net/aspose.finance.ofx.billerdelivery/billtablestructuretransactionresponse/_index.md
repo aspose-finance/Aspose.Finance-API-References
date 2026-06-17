@@ -1,7 +1,7 @@
 ---
-title: BillTableStructureTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة بنية جدول الفاتورة.
+title: "BillTableStructureTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة بنية جدول الفاتورة."
 type: docs
 weight: 1560
 url: /ar/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/

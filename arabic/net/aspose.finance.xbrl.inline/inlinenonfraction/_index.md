@@ -1,7 +1,7 @@
 ---
-title: InlineNonfraction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة للعنصر الرقمي XBRL الذي ليس fractionItemType في مستند XBRL مضمن.
+title: "InlineNonfraction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة للعنصر الرقمي XBRL الذي ليس fractionItemType في مستند XBRL مضمن."
 type: docs
 weight: 7740
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonfraction/

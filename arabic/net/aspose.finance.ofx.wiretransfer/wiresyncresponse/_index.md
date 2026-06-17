@@ -1,7 +1,7 @@
 ---
-title: WireSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة معاملة التحويل البنكي.
+title: "WireSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة معاملة التحويل البنكي."
 type: docs
 weight: 6440
 url: /ar/net/aspose.finance.ofx.wiretransfer/wiresyncresponse/

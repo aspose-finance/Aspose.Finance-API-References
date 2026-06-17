@@ -1,7 +1,7 @@
 ---
-title: PresentmentMailResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة بريد عرض الفاتورة.
+title: "PresentmentMailResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة بريد عرض الفاتورة."
 type: docs
 weight: 1740
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentmailresponse/

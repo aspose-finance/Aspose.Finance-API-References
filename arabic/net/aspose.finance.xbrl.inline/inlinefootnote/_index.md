@@ -1,7 +1,7 @@
 ---
-title: InlineFootnote
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة للحاشية في مستند XBRL مضمن.
+title: "InlineFootnote"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة للحاشية في مستند XBRL مضمن."
 type: docs
 weight: 7720
 url: /ar/net/aspose.finance.xbrl.inline/inlinefootnote/

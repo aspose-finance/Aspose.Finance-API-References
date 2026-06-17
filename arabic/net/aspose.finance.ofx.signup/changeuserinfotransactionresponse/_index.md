@@ -1,7 +1,7 @@
 ---
-title: ChangeUserInfoTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة تغيير معلومات المستخدم.
+title: "ChangeUserInfoTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة تغيير معلومات المستخدم."
 type: docs
 weight: 5620
 url: /ar/net/aspose.finance.ofx.signup/changeuserinfotransactionresponse/

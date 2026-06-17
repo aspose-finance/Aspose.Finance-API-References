@@ -1,7 +1,7 @@
 ---
-title: MFAChallengeTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة تحدي MFA
+title: "MFAChallengeTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة تحدي MFA"
 type: docs
 weight: 5390
 url: /ar/net/aspose.finance.ofx.signon/mfachallengetransactionresponse/

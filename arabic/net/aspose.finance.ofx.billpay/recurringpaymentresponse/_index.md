@@ -1,7 +1,7 @@
 ---
-title: RecurringPaymentResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة الدفع المتكرر.
+title: "RecurringPaymentResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة الدفع المتكرر."
 type: docs
 weight: 1330
 url: /ar/net/aspose.finance.ofx.billpay/recurringpaymentresponse/

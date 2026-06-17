@@ -1,7 +1,7 @@
 ---
-title: HTMLFormElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تشمل سلوكًا مشابهًا للمجموعة والعنصر. توفر وصولًا مباشرًا إلى عناصر التحكم في النموذج المحتواة وكذلك سمات عنصر النموذج. راجع تعريف عنصر FORM في HTML 4.01.
+title: "HTMLFormElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تشمل سلوكًا مشابهًا للمجموعة والعنصر. توفر وصولًا مباشرًا إلى عناصر التحكم في النموذج المحتواة وكذلك سمات عنصر النموذج. راجع تعريف عنصر FORM في HTML 4.01."
 type: docs
 weight: 6890
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlformelement/

@@ -1,7 +1,7 @@
 ---
-title: الوزن
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الوزن.
+title: "الوزن"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الوزن."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/calculationarc/weight/

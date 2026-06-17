@@ -1,7 +1,7 @@
 ---
-title: AccountEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الحساب.
+title: "AccountEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الحساب."
 type: docs
 weight: 160
 url: /ar/net/aspose.finance.ofx/accountenum/

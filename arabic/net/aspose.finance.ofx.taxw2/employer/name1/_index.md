@@ -1,7 +1,7 @@
 ---
-title: Name1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن سطر اسم صاحب العمل 1.
+title: "Name1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن سطر اسم صاحب العمل 1."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.taxw2/employer/name1/

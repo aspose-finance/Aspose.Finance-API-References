@@ -1,7 +1,7 @@
 ---
-title: PresentmentDirMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل دليل الفاتور.
+title: "PresentmentDirMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل دليل الفاتور."
 type: docs
 weight: 4650
 url: /ar/net/aspose.finance.ofx.profile/presentmentdirmessagesetv1/

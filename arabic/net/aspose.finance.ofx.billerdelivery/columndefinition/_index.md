@@ -1,7 +1,7 @@
 ---
-title: ColumnDefinition
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تعريف العمود.
+title: "ColumnDefinition"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تعريف العمود."
 type: docs
 weight: 1580
 url: /ar/net/aspose.finance.ofx.billerdelivery/columndefinition/

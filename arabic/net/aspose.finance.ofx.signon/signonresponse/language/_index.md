@@ -1,7 +1,7 @@
 ---
-title: Language
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن اللغة المستخدمة في الردود النصية.
+title: "Language"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن اللغة المستخدمة في الردود النصية."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.signon/signonresponse/language/

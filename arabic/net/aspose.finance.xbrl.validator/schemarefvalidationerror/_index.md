@@ -1,7 +1,7 @@
 ---
-title: SchemaRefValidationError
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة لأخطاء تتعلق بالتحقق من القوس.
+title: "SchemaRefValidationError"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة لأخطاء تتعلق بالتحقق من القوس."
 type: docs
 weight: 8190
 url: /ar/net/aspose.finance.xbrl.validator/schemarefvalidationerror/

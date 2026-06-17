@@ -1,7 +1,7 @@
 ---
-title: CreditcardRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب Creditcard الإصدار 1.
+title: "CreditcardRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب Creditcard الإصدار 1."
 type: docs
 weight: 2070
 url: /ar/net/aspose.finance.ofx/creditcardrequestmessagesetv1/

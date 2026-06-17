@@ -1,7 +1,7 @@
 ---
-title: MutualFundTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الصندوق المشترك.
+title: "MutualFundTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الصندوق المشترك."
 type: docs
 weight: 5110
 url: /ar/net/aspose.finance.ofx.securitieslist/mutualfundtypeenum/

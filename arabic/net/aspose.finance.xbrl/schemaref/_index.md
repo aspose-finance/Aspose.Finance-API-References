@@ -1,7 +1,7 @@
 ---
-title: SchemaRef
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذا الصنف هو إشارة إلى مخطط تصنيف يصبح جزءًا من نظام DTS الداعم لنسخة XBRL.
+title: "SchemaRef"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذا الصنف هو إشارة إلى مخطط تصنيف يصبح جزءًا من نظام DTS الداعم لنسخة XBRL."
 type: docs
 weight: 8060
 url: /ar/net/aspose.finance.xbrl/schemaref/

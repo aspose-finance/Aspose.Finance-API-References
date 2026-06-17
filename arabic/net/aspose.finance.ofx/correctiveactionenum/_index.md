@@ -1,7 +1,7 @@
 ---
-title: CorrectiveActionEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد الإجراء التصحيحي.
+title: "CorrectiveActionEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد الإجراء التصحيحي."
 type: docs
 weight: 1940
 url: /ar/net/aspose.finance.ofx/correctiveactionenum/

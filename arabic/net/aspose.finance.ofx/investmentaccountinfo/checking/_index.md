@@ -1,7 +1,7 @@
 ---
-title: التحقق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ما إذا كان الحساب يمتلك صلاحية كتابة الشيكات.
+title: "التحقق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ما إذا كان الحساب يمتلك صلاحية كتابة الشيكات."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx/investmentaccountinfo/checking/

@@ -1,7 +1,7 @@
 ---
-title: MailSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة البريد الإلكتروني.
+title: "MailSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة البريد الإلكتروني."
 type: docs
 weight: 2180
 url: /ar/net/aspose.finance.ofx.email/mailsyncrequest/

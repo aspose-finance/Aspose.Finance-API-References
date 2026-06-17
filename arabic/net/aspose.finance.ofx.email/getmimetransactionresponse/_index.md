@@ -1,7 +1,7 @@
 ---
-title: GetMimeTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة GET لـ MIME.
+title: "GetMimeTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة GET لـ MIME."
 type: docs
 weight: 2150
 url: /ar/net/aspose.finance.ofx.email/getmimetransactionresponse/

@@ -1,7 +1,7 @@
 ---
-title: صاحب العمل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات صاحب العمل.
+title: "صاحب العمل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات صاحب العمل."
 type: docs
 weight: 6170
 url: /ar/net/aspose.finance.ofx.taxw2/employer/

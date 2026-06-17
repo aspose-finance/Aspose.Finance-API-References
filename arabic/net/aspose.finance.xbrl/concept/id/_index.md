@@ -1,7 +1,7 @@
 ---
-title: معرف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: احصل أو عيّن معرف المفهوم.
+title: "معرف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "احصل أو عيّن معرف المفهوم."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl/concept/id/

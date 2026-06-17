@@ -1,7 +1,7 @@
 ---
-title: PositionOption
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة موقف الاستثمار في الخيار.
+title: "PositionOption"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة موقف الاستثمار في الخيار."
 type: docs
 weight: 3400
 url: /ar/net/aspose.finance.ofx.investment/positionoption/

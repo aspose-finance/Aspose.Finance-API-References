@@ -1,7 +1,7 @@
 ---
-title: UsProductEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: صنّف الحسابات وفقًا لنوع حسابها.
+title: "UsProductEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "صنّف الحسابات وفقًا لنوع حسابها."
 type: docs
 weight: 6330
 url: /ar/net/aspose.finance.ofx/usproductenum/
@@ -18,17 +18,17 @@ public enum UsProductEnum
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Item401K | `0` | A 401(K) account |
-| Item403B | `1` | A 403(B) account |
-| IRA | `2` | An IRA account |
-| KEOGH | `3` | Keogh (Money Purchase/Profit Sharing) |
-| OTHER | `4` | Other account type |
-| SARSEP | `5` | Salary Reduction Simplified Employer Pension plan |
-| SIMPLE | `6` | Savings Incentive Match Plan for employees |
-| NORMAL | `7` | Regular account |
-| TDA | `8` | Tax Deferred Annuity |
-| TRUST | `9` | Trust (including UTMA) |
-| UGMA | `10` | Custodial account |
+| Item401K | `0` | حساب 401(K) |
+| Item403B | `1` | حساب 403(B) |
+| IRA | `2` | حساب IRA |
+| KEOGH | `3` | Keogh (شراء المال/تقاسم الأرباح) |
+| OTHER | `4` | نوع حساب آخر |
+| SARSEP | `5` | خطة تقاعد صاحب العمل المبسطة لتقليل الراتب |
+| SIMPLE | `6` | خطة مطابقة حافز الادخار للموظفين |
+| NORMAL | `7` | حساب عادي |
+| TDA | `8` | معاش مؤجل ضريبي |
+| TRUST | `9` | صندوق ائتماني (بما في ذلك UTMA) |
+| UGMA | `10` | حساب وصاية |
 
 ### انظر أيضًا
 

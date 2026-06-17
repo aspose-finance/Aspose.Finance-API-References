@@ -1,7 +1,7 @@
 ---
-title: BuyDebt
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة شراء دين الاستثمار.
+title: "BuyDebt"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة شراء دين الاستثمار."
 type: docs
 weight: 2680
 url: /ar/net/aspose.finance.ofx.investment/buydebt/
@@ -18,7 +18,7 @@ public class BuyDebt : AbstractInvestmentBuyTransaction
 
 | الاسم | الوصف |
 | --- | --- |
-| [BuyDebt](buydebt)() | Initializes a new instance of [`BuyDebt`](../buydebt) class. |
+| [BuyDebt](buydebt)() | يُنشئ مثيلاً جديدًا من الفئة [`BuyDebt`](../buydebt). |
 
 ## الخصائص
 

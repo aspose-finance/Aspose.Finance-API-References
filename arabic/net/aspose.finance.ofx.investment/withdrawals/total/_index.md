@@ -1,14 +1,14 @@
 ---
-title: الإجمالي
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the sum of withdrawals from all fund sources.
+title: "الإجمالي"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مجموع السحوبات من جميع مصادر الصناديق."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.ofx.investment/withdrawals/total/
 ---
 ## Withdrawals.Total property
 
-Gets or sets the sum of withdrawals from all fund sources.
+يحصل أو يعيّن مجموع السحوبات من جميع مصادر الصناديق.
 
 ```csharp
 public string Total { get; set; }

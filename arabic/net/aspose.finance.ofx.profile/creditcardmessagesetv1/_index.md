@@ -1,7 +1,7 @@
 ---
-title: CreditcardMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل بطاقة الائتمان
+title: "CreditcardMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل بطاقة الائتمان"
 type: docs
 weight: 4470
 url: /ar/net/aspose.finance.ofx.profile/creditcardmessagesetv1/

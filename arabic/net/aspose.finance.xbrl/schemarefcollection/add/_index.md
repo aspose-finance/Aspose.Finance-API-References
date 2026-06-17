@@ -1,7 +1,7 @@
 ---
-title: Add
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: أضف SchemaRefaspose.finance.xbrl/schemaref إلى المجموعة.
+title: "Add"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "أضف SchemaRefaspose.finance.xbrl/schemaref إلى المجموعة."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/schemarefcollection/add/

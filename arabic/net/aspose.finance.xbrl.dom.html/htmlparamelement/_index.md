@@ -1,7 +1,7 @@
 ---
-title: HTMLParamElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل المعلمات المرسلة إلى عنصر OBJECT. راجع تعريف عنصر PARAM في HTML 4.01.
+title: "HTMLParamElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل المعلمات المرسلة إلى عنصر OBJECT. راجع تعريف عنصر PARAM في HTML 4.01."
 type: docs
 weight: 7140
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlparamelement/

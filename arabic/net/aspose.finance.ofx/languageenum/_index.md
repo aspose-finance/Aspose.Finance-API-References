@@ -1,7 +1,7 @@
 ---
-title: LanguageEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد اللغة.
+title: "LanguageEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد اللغة."
 type: docs
 weight: 3710
 url: /ar/net/aspose.finance.ofx/languageenum/
@@ -18,16 +18,16 @@ public enum LanguageEnum
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| AAR | `0` | Afar |
-| ABK | `1` | Abkhazian |
-| ACE | `2` | Achinese |
-| ACH | `3` | Acoli |
-| ADA | `4` | Adangme |
-| AFA | `5` | Afro-Asiatic (Other) |
-| AFH | `6` | Afrihili |
-| AFR | `7` | Afrikaans |
-| AKA | `8` | Akan |
-| AKK | `9` | Akkadian |
+| AAR | `0` | الأفار |
+| ABK | `1` | الأبخازية |
+| ACE | `2` | الأشينيزية |
+| ACH | `3` | الأكولي |
+| ADA | `4` | الأدانغمية |
+| AFA | `5` | الأفروآسيوية (أخرى) |
+| AFH | `6` | أفريهيلي |
+| AFR | `7` | الأفريكانية |
+| AKA | `8` | الأكان |
+| AKK | `9` | الأكادية |
 | ALB | `10` | الألبانية |
 | ALE | `11` | الأليوتية |
 | ALG | `12` | لغات الألغونكوية |
@@ -103,31 +103,31 @@ public enum LanguageEnum
 | CHY | `82` | الشايان |
 | CMC | `83` | لغات تشام |
 | COP | `84` | القبطية |
-| COR | `85` | Cornish |
-| COS | `86` | Corsican |
-| CPE | `87` | Creoles and pidgins, English based |
-| CPF | `88` | Creoles and pidgins, French-based |
-| CPP | `89` | Creoles and pidgins, Portuguese-based |
-| CRE | `90` | Cree |
-| CRP | `91` | Creoles and pidgins |
-| CUS | `92` | Cushitic |
-| CZE | `93` | Czech |
-| DAK | `94` | Dakota |
-| DAN | `95` | Danish |
-| DAR | `96` | Dargwa |
-| DAY | `97` | Land Dayak languages |
-| DEL | `98` | Delaware |
-| DEN | `99` | Slave (Athapascan) |
-| DGR | `100` | Dogrib |
-| DIN | `101` | Dinka |
-| DIV | `102` | Dhivehi |
-| DOI | `103` | Dogri (macrolanguage) |
-| DRA | `104` | Dravidian |
-| DUA | `105` | Duala |
-| DUM | `106` | Middle Dutch (ca. 1050-1350) |
-| DUT | `107` | Dutch |
-| DYU | `108` | Dyula |
-| DZO | `109` | Dzongkha |
+| COR | `85` | الكورنيشية |
+| COS | `86` | الكورسيكية |
+| CPE | `87` | الكريولية والبيجين، المستندة إلى الإنجليزية |
+| CPF | `88` | الكريولية والبيجين، المستندة إلى الفرنسية |
+| CPP | `89` | الكريولية والبيجين، المستندة إلى البرتغالية |
+| CRE | `90` | الكري |
+| CRP | `91` | الكريولية والبيجين |
+| CUS | `92` | الكوشية |
+| CZE | `93` | التشيكية |
+| DAK | `94` | الداكوتا |
+| DAN | `95` | الدنماركية |
+| DAR | `96` | الدارغوا |
+| DAY | `97` | لغات لاند داياك |
+| DEL | `98` | الديلوار |
+| DEN | `99` | سليف (الأثاباسكان) |
+| DGR | `100` | الدوغريب |
+| DIN | `101` | الدنكا |
+| DIV | `102` | الديفهي |
+| DOI | `103` | الدوجري (لغة ماكرو) |
+| DRA | `104` | الدرافيدية |
+| DUA | `105` | الدوالا |
+| DUM | `106` | الهولندية الوسطى (حوالي 1050-1350) |
+| DUT | `107` | الهولندية |
+| DYU | `108` | الديوولا |
+| DZO | `109` | الدزونغخا |
 | EFI | `110` | إفيك |
 | EGY | `111` | المصرية (القديمة) |
 | EKA | `112` | إكاجوك |
@@ -303,27 +303,27 @@ public enum LanguageEnum
 | NBL | `282` | نيديبيلي الجنوبي |
 | NDE | `283` | نيديبيلي الشمالي |
 | NDO | `284` | ندونجا |
-| NDS | `285` | Low German |
-| NEP | `286` | Nepali |
-| NEW | `287` | Newari |
-| NIA | `288` | Nias |
-| NIC | `289` | Niger-Kordofanian |
-| NIU | `290` | Niuean |
-| NNO | `291` | Norwegian Nynorsk |
-| NOB | `292` | Norwegian Bokmål |
-| NON | `293` | Old Norse |
-| NOR | `294` | Norwegian |
-| NSO | `295` | Pedi |
-| NUB | `296` | Nubian languages |
-| NYA | `297` | Nyanja |
-| NYM | `298` | Nyamwezi |
-| NYN | `299` | Nyankole |
-| NYO | `300` | Nyoro |
-| NZI | `301` | Nzima |
-| OCI | `302` | Occitan (post 1500) |
-| OJI | `303` | Ojibwa |
-| ORI | `304` | Oriya |
-| ORM | `305` | Oromo |
+| NDS | `285` | الألمانية الدنيا |
+| NEP | `286` | النيبالية |
+| NEW | `287` | النيواري |
+| NIA | `288` | نياس |
+| NIC | `289` | النجر-الكوردوفانية |
+| NIU | `290` | النيونية |
+| NNO | `291` | النرويجية نينورسك |
+| NOB | `292` | النرويجية بوكمال |
+| NON | `293` | النوردية القديمة |
+| NOR | `294` | النرويجية |
+| NSO | `295` | بيدي |
+| NUB | `296` | اللغات النوبية |
+| NYA | `297` | نيانجا |
+| NYM | `298` | نيامويزي |
+| NYN | `299` | نيانكولي |
+| NYO | `300` | نيوورو |
+| NZI | `301` | نزيما |
+| OCI | `302` | الأوكيتانية (بعد 1500) |
+| OJI | `303` | الأوجيبوا |
+| ORI | `304` | الأوريا |
+| ORM | `305` | الأورومو |
 | OSA | `306` | Osage |
 | OSS | `307` | Ossetian |
 | OTA | `308` | Ottoman Turkish (1500-1928) |

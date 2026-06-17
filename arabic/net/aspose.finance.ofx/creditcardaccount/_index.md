@@ -1,7 +1,7 @@
 ---
-title: CreditCardAccount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم OFX تجميع Credit Card Account لتحديد حساب بطاقة ائتمان في FI. يحتوي التجميع على معلومات كافية لتحديد الحساب بشكل فريد لأغراض statement downloads وتحويل الأموال.
+title: "CreditCardAccount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم OFX تجميع Credit Card Account لتحديد حساب بطاقة ائتمان في FI. يحتوي التجميع على معلومات كافية لتحديد الحساب بشكل فريد لأغراض statement downloads وتحويل الأموال."
 type: docs
 weight: 2040
 url: /ar/net/aspose.finance.ofx/creditcardaccount/

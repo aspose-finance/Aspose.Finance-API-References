@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن InterResponseaspose.finance.ofx.intertransfer/interresponse أو InterModResponseaspose.finance.ofx.intertransfer/intermodresponse أو InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن InterResponseaspose.finance.ofx.intertransfer/interresponse أو InterModResponseaspose.finance.ofx.intertransfer/intermodresponse أو InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.intertransfer/intertransactionresponse/response/

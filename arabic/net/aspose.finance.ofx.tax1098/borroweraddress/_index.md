@@ -1,7 +1,7 @@
 ---
-title: BorrowerAddress
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عنوان المقترض.
+title: "BorrowerAddress"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عنوان المقترض."
 type: docs
 weight: 5760
 url: /ar/net/aspose.finance.ofx.tax1098/borroweraddress/

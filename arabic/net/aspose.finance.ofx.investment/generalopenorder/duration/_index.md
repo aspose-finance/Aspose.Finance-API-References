@@ -1,14 +1,14 @@
 ---
-title: المدة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets how long the order is good for.
+title: "المدة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن المدة التي يكون فيها الأمر صالحًا."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.investment/generalopenorder/duration/
 ---
 ## GeneralOpenOrder.Duration property
 
-Gets or sets how long the order is good for.
+يحصل أو يعيّن المدة التي يكون فيها الأمر صالحًا.
 
 ```csharp
 public DurationEnum Duration { get; set; }

@@ -1,7 +1,7 @@
 ---
-title: BuyMutualFund
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة شراء صندوق استثماري مشترك.
+title: "BuyMutualFund"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة شراء صندوق استثماري مشترك."
 type: docs
 weight: 2700
 url: /ar/net/aspose.finance.ofx.investment/buymutualfund/

@@ -1,7 +1,7 @@
 ---
-title: BankMailTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة بريد البنك.
+title: "BankMailTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة بريد البنك."
 type: docs
 weight: 360
 url: /ar/net/aspose.finance.ofx.bank/bankmailtransactionresponse/

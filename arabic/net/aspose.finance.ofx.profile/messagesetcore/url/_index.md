@@ -1,7 +1,7 @@
 ---
-title: Url
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن عنوان URL حيث تُرسل الرسائل في هذه المجموعة.
+title: "Url"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن عنوان URL حيث تُرسل الرسائل في هذه المجموعة."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.profile/messagesetcore/url/

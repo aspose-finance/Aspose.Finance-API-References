@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الاسم المختصر للبنك.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الاسم المختصر للبنك."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.wiretransfer/extbankdescription/name/

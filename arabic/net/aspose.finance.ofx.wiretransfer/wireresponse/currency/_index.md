@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط العملة المستخدمة في التحويل.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط العملة المستخدمة في التحويل."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.wiretransfer/wireresponse/currency/

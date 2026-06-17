@@ -1,7 +1,7 @@
 ---
-title: العناصر
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة كائنات Itemaspose.finance.xbrl/item في مثيل XBRL.
+title: "العناصر"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة كائنات Itemaspose.finance.xbrl/item في مثيل XBRL."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl/xbrlinstance/items/
