@@ -1,7 +1,7 @@
 ---
-title: AbstractTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有交易响应相关类的抽象基类。
+title: "AbstractTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有交易响应相关类的抽象基类。"
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx/abstracttransactionresponse/

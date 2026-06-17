@@ -1,7 +1,7 @@
 ---
-title: 名称
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账户的名称/用户自定义昵称。
+title: "名称"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账户的名称/用户自定义昵称。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/accountinfo/name/

@@ -1,7 +1,7 @@
 ---
-title: 节点
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Node 类是整个 Document 对象模型的主要数据类型。它表示文档树中的单个节点。
+title: "节点"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Node 类是整个 Document 对象模型的主要数据类型。它表示文档树中的单个节点。"
 type: docs
 weight: 7460
 url: /zh/net/aspose.finance.xbrl.dom/node/

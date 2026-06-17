@@ -1,7 +1,7 @@
 ---
-title: CreditCardAccount
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: OFX 使用 Credit Card Account 聚合来识别 FI 中的信用卡账户。该聚合包含足够的信息，以在对账单下载和资金转账的目的下唯一标识账户。
+title: "CreditCardAccount"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "OFX 使用 Credit Card Account 聚合来识别 FI 中的信用卡账户。该聚合包含足够的信息，以在对账单下载和资金转账的目的下唯一标识账户。"
 type: docs
 weight: 2040
 url: /zh/net/aspose.finance.ofx/creditcardaccount/

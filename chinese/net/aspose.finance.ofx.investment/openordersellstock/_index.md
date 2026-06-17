@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSellStock
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单卖出股票类.
+title: "OpenOrderSellStock"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单卖出股票类."
 type: docs
 weight: 3320
 url: /zh/net/aspose.finance.ofx.investment/openordersellstock/

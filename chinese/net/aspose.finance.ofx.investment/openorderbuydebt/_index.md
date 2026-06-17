@@ -1,7 +1,7 @@
 ---
-title: OpenOrderBuyDebt
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单买入债券类.
+title: "OpenOrderBuyDebt"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单买入债券类."
 type: docs
 weight: 3230
 url: /zh/net/aspose.finance.ofx.investment/openorderbuydebt/

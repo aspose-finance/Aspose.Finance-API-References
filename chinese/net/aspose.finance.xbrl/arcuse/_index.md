@@ -1,7 +1,7 @@
 ---
-title: ArcUse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: arc 用法枚举。
+title: "ArcUse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "arc 用法枚举。"
 type: docs
 weight: 6500
 url: /zh/net/aspose.finance.xbrl/arcuse/

@@ -1,7 +1,7 @@
 ---
-title: HTMLUnknownElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示未知的 HTML 元素。
+title: "HTMLUnknownElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示未知的 HTML 元素。"
 type: docs
 weight: 7310
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlunknownelement/

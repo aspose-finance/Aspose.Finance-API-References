@@ -1,7 +1,7 @@
 ---
-title: Locator
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 具有 Locator 类型的 Xlink 基础抽象类。
+title: "Locator"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "具有 Locator 类型的 Xlink 基础抽象类。"
 type: docs
 weight: 7900
 url: /zh/net/aspose.finance.xbrl/locator/

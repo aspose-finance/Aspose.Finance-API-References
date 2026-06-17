@@ -1,7 +1,7 @@
 ---
-title: 描述
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置描述。
+title: "描述"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置描述。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099oid_v100/description/

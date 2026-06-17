@@ -1,7 +1,7 @@
 ---
-title: Mail
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 Mailaspose.finance.ofx.bank/bankmailrequest/mail。
+title: "Mail"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 Mailaspose.finance.ofx.bank/bankmailrequest/mail。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/bankmailrequest/mail/

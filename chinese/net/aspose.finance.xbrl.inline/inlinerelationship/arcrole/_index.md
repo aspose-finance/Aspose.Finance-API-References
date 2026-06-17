@@ -1,7 +1,7 @@
 ---
-title: Arcrole
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship 的 arcrole。
+title: "Arcrole"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship 的 arcrole。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinerelationship/arcrole/

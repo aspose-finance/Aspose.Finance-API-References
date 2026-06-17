@@ -1,7 +1,7 @@
 ---
-title: RoleType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于定义自定义角色类型。
+title: "RoleType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于定义自定义角色类型。"
 type: docs
 weight: 8030
 url: /zh/net/aspose.finance.xbrl/roletype/

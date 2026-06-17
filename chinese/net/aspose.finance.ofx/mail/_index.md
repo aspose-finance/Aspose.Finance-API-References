@@ -1,7 +1,7 @@
 ---
-title: Mail
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 邮件类。
+title: "Mail"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "邮件类。"
 type: docs
 weight: 4170
 url: /zh/net/aspose.finance.ofx/mail/

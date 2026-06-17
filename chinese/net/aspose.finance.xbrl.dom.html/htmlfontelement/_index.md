@@ -1,7 +1,7 @@
 ---
-title: HTMLFontElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示字体的局部更改。请参阅 HTML 4.01 中的 FONT 元素定义。此元素在 HTML 4.01 中已弃用。
+title: "HTMLFontElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示字体的局部更改。请参阅 HTML 4.01 中的 FONT 元素定义。此元素在 HTML 4.01 中已弃用。"
 type: docs
 weight: 6880
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlfontelement/

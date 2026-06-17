@@ -1,7 +1,7 @@
 ---
-title: 元素
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Element 接口表示内联 xbrl 文档中的元素。
+title: "元素"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Element 接口表示内联 xbrl 文档中的元素。"
 type: docs
 weight: 6700
 url: /zh/net/aspose.finance.xbrl.dom/element/

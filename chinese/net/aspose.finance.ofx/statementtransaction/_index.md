@@ -1,7 +1,7 @@
 ---
-title: StatementTransaction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类描述单个交易。它标识交易的类型以及交易的发布日期。该类还可以提供额外信息，以帮助客户识别交易的支票号码、收款人名称和备注。交易可以拥有标准行业代码，客户可使用该代码对交易进行分类。
+title: "StatementTransaction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类描述单个交易。它标识交易的类型以及交易的发布日期。该类还可以提供额外信息，以帮助客户识别交易的支票号码、收款人名称和备注。交易可以拥有标准行业代码，客户可使用该代码对交易进行分类。"
 type: docs
 weight: 5730
 url: /zh/net/aspose.finance.ofx/statementtransaction/

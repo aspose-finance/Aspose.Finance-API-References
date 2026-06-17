@@ -1,7 +1,7 @@
 ---
-title: Label
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置资源的 label。
+title: "Label"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置资源的 label。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/resource/label/

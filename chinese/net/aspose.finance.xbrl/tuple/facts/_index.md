@@ -1,7 +1,7 @@
 ---
-title: 事实
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取元组中 Factaspose.finance.xbrl/fact 对象的集合。
+title: "事实"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取元组中 Factaspose.finance.xbrl/fact 对象的集合。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/tuple/facts/

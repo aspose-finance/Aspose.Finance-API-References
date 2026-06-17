@@ -1,7 +1,7 @@
 ---
-title: Substring
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 从节点中提取一段数据。
+title: "Substring"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "从节点中提取一段数据。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.dom/characterdata/substring/

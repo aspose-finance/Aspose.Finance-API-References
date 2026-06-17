@@ -1,7 +1,7 @@
 ---
-title: PeriodToDate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 截至本期的累计贡献.
+title: "PeriodToDate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "截至本期的累计贡献."
 type: docs
 weight: 3370
 url: /zh/net/aspose.finance.ofx.investment/periodtodate/

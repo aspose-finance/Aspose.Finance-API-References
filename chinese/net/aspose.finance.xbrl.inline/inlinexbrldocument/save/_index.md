@@ -1,7 +1,7 @@
 ---
-title: 保存
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 创建并将 inline xbrl 文件保存到磁盘。
+title: "保存"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "创建并将 inline xbrl 文件保存到磁盘。"
 type: docs
 weight: 270
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/save/
@@ -36,7 +36,7 @@ public void Save(Stream stream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 流 | 流 | The stream. |
+| 流 | 流 | 该流。 |
 
 ### 另请参阅
 
@@ -78,7 +78,7 @@ public void Save(Stream stream, SaveOptions saveOptions)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 流 | 流 | The stream. |
+| 流 | 流 | 该流。 |
 | saveOptions | SaveOptions | 保存选项。 |
 
 ### 另请参阅

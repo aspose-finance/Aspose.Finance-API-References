@@ -1,7 +1,7 @@
 ---
-title: ExtendedPayee
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类向客户端传达收款人标识符。它还包含收款人的处理日参数。即使对于没有 payeeid 的收款人，只要其处理日参数与处理器的默认值不同，也可以将其发送给客户端。
+title: "ExtendedPayee"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类向客户端传达收款人标识符。它还包含收款人的处理日参数。即使对于没有 payeeid 的收款人，只要其处理日参数与处理器的默认值不同，也可以将其发送给客户端。"
 type: docs
 weight: 900
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayee/

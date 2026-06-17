@@ -1,7 +1,7 @@
 ---
-title: Spaces
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置是否允许在这些字符之外使用空格。
+title: "Spaces"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置是否允许在这些字符之外使用空格。"
 type: docs
 weight: 160
 url: /zh/net/aspose.finance.ofx.profile/signoninfo/spaces/

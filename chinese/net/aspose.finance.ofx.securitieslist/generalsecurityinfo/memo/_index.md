@@ -1,7 +1,7 @@
 ---
-title: Memo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置备注。
+title: "Memo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置备注。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/memo/

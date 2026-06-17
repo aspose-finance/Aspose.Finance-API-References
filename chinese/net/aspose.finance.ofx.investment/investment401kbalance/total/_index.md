@@ -1,7 +1,7 @@
 ---
-title: 总计
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置使用全部缴款购买的所有证券的当前价值。
+title: "总计"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置使用全部缴款购买的所有证券的当前价值。"
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.investment/investment401kbalance/total/

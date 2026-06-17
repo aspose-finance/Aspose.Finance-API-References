@@ -1,7 +1,7 @@
 ---
-title: SeverityEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 严重性枚举。
+title: "SeverityEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "严重性枚举。"
 type: docs
 weight: 5280
 url: /zh/net/aspose.finance.ofx/severityenum/

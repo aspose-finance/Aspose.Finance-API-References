@@ -1,7 +1,7 @@
 ---
-title: HTMLFrameSetElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类表示框架网格。请参阅 HTML 4.01 中的 FRAMESET 元素定义。
+title: "HTMLFrameSetElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类表示框架网格。请参阅 HTML 4.01 中的 FRAMESET 元素定义。"
 type: docs
 weight: 6910
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlframesetelement/

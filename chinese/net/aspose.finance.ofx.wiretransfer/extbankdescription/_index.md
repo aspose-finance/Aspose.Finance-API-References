@@ -1,7 +1,7 @@
 ---
-title: ExtBankDescription
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 扩展银行描述类。
+title: "ExtBankDescription"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "扩展银行描述类。"
 type: docs
 weight: 6360
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/

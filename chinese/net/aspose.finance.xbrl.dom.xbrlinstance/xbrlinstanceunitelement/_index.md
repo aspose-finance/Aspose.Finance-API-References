@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceUnitElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 xbrl 实例单位元素。
+title: "XbrlInstanceUnitElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 xbrl 实例单位元素。"
 type: docs
 weight: 7560
 url: /zh/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceunitelement/

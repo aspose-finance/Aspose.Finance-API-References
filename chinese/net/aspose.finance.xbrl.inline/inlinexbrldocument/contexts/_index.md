@@ -1,7 +1,7 @@
 ---
-title: 上下文
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取 inline XBRL 文档中 Contextaspose.finance.xbrl/context 的集合。
+title: "上下文"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取 inline XBRL 文档中 Contextaspose.finance.xbrl/context 的集合。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/contexts/

@@ -1,7 +1,7 @@
 ---
-title: InvestmentClosing
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类提供用于客户端检索投资报表图像的图像信息。
+title: "InvestmentClosing"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类提供用于客户端检索投资报表图像的图像信息。"
 type: docs
 weight: 2960
 url: /zh/net/aspose.finance.ofx.investment/investmentclosing/

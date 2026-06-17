@@ -1,7 +1,7 @@
 ---
-title: FindBillerRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 查找账单方请求类。
+title: "FindBillerRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "查找账单方请求类。"
 type: docs
 weight: 1860
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillerrequest/

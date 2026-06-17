@@ -1,7 +1,7 @@
 ---
-title: LoadOptions
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 用于为不同类型配置文件加载选项的基类
+title: "LoadOptions"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "用于为不同类型配置文件加载选项的基类"
 type: docs
 weight: 3750
 url: /zh/net/aspose.finance.ofx/loadoptions/

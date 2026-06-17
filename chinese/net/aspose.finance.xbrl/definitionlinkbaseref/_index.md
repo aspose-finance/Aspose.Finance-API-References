@@ -1,7 +1,7 @@
 ---
-title: DefinitionLinkbaseRef
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于定义链接库引用。
+title: "DefinitionLinkbaseRef"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于定义链接库引用。"
 type: docs
 weight: 6640
 url: /zh/net/aspose.finance.xbrl/definitionlinkbaseref/

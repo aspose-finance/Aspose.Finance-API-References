@@ -1,7 +1,7 @@
 ---
-title: InvestmentMailResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资电子邮件响应类。
+title: "InvestmentMailResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资电子邮件响应类。"
 type: docs
 weight: 2990
 url: /zh/net/aspose.finance.ofx.investment/investmentmailresponse/

@@ -1,7 +1,7 @@
 ---
-title: 支票
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账户是否具有支票写入权限。
+title: "支票"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账户是否具有支票写入权限。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/investmentaccountinfo/checking/

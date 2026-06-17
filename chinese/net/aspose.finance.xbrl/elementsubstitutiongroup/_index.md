@@ -1,7 +1,7 @@
 ---
-title: ElementSubstitutionGroup
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Concept./concept 替代类型枚举。
+title: "ElementSubstitutionGroup"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Concept./concept 替代类型枚举。"
 type: docs
 weight: 7640
 url: /zh/net/aspose.finance.xbrl/elementsubstitutiongroup/

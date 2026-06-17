@@ -1,7 +1,7 @@
 ---
-title: HTMLLabelElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示表单字段标签文本。请参阅 HTML 4.01 中的 LABEL 元素定义。
+title: "HTMLLabelElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示表单字段标签文本。请参阅 HTML 4.01 中的 LABEL 元素定义。"
 type: docs
 weight: 7010
 url: /zh/net/aspose.finance.xbrl.dom.html/htmllabelelement/

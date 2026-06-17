@@ -1,7 +1,7 @@
 ---
-title: XbrlLinkbaseSchemaRefElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 xbrl linkbase schemaRef 元素。
+title: "XbrlLinkbaseSchemaRefElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 xbrl linkbase schemaRef 元素。"
 type: docs
 weight: 7610
 url: /zh/net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbaseschemarefelement/

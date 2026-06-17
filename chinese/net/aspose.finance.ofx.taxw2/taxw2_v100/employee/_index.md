@@ -1,7 +1,7 @@
 ---
-title: Employee
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 Employeeaspose.finance.ofx.taxw2/taxw2_v100/employee。
+title: "Employee"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 Employeeaspose.finance.ofx.taxw2/taxw2_v100/employee。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/employee/

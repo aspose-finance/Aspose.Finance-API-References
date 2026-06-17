@@ -1,7 +1,7 @@
 ---
-title: 名称
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置银行的缩写名称。
+title: "名称"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置银行的缩写名称。"
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/name/

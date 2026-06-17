@@ -1,7 +1,7 @@
 ---
-title: Investment401kSourceEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 用于 401k 账户的资金来源类型枚举。
+title: "Investment401kSourceEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "用于 401k 账户的资金来源类型枚举。"
 type: docs
 weight: 3630
 url: /zh/net/aspose.finance.ofx/investment401ksourceenum/

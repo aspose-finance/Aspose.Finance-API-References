@@ -1,7 +1,7 @@
 ---
-title: WireBeneficiary
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类描述电汇的接收方。
+title: "WireBeneficiary"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类描述电汇的接收方。"
 type: docs
 weight: 6370
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/

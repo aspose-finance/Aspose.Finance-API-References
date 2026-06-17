@@ -1,7 +1,7 @@
 ---
-title: LoanMailSyncRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款邮件同步请求类。
+title: "LoanMailSyncRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款邮件同步请求类。"
 type: docs
 weight: 3880
 url: /zh/net/aspose.finance.ofx.loan/loanmailsyncrequest/

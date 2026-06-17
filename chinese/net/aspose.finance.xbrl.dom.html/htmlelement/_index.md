@@ -1,7 +1,7 @@
 ---
-title: HTMLElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: All HTML element classes derive from this class. Elements that only expose the HTML core attributes are represented by this class these elements are as follows special SUB SUP SPAN BDOfont TT I B U S STRIKE BIG SMALL phrase EM STRONG DFN CODE SAMP KBD VAR CITE ACRONYM ABBR list DD DTNOFRAMES NOSCRIPTADDRESS CENTERT.
+title: "HTMLElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有 HTML 元素类都派生自此类。仅公开 HTML 核心属性的元素由此类表示，这些元素如下特殊 SUB SUP SPAN BDOfont TT I B U S STRIKE BIG SMALL phrase EM STRONG DFN CODE SAMP KBD VAR CITE ACRONYM ABBR list DD DTNOFRAMES NOSCRIPTADDRESS CENTERT。"
 type: docs
 weight: 6860
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlelement/

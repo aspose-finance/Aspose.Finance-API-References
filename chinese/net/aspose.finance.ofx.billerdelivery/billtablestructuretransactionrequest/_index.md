@@ -1,7 +1,7 @@
 ---
-title: BillTableStructureTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单表结构事务请求类。
+title: "BillTableStructureTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单表结构事务请求类。"
 type: docs
 weight: 1550
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/

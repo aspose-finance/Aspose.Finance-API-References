@@ -1,7 +1,7 @@
 ---
-title: 城市
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置雇主城市。
+title: "城市"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置雇主城市。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.taxw2/employer/city/

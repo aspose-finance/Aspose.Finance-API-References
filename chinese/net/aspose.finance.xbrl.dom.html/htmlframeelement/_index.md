@@ -1,7 +1,7 @@
 ---
-title: HTMLFrameElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 HTML 框架。请参阅 HTML 4.01 中的 FRAME 元素定义。
+title: "HTMLFrameElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 HTML 框架。请参阅 HTML 4.01 中的 FRAME 元素定义。"
 type: docs
 weight: 6900
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlframeelement/

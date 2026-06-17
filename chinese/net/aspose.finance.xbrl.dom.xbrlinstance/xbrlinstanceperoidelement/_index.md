@@ -1,7 +1,7 @@
 ---
-title: XbrlInstancePeroidElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 xbrl 实例期间元素。
+title: "XbrlInstancePeroidElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 xbrl 实例期间元素。"
 type: docs
 weight: 7550
 url: /zh/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceperoidelement/

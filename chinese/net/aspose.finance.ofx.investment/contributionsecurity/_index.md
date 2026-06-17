@@ -1,7 +1,7 @@
 ---
-title: ContributionSecurity
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 缴费证券类。
+title: "ContributionSecurity"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "缴费证券类。"
 type: docs
 weight: 2790
 url: /zh/net/aspose.finance.ofx.investment/contributionsecurity/

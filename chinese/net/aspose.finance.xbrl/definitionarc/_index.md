@@ -1,7 +1,7 @@
 ---
-title: DefinitionArc
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Arc 类型的 Xlink./xlink。它定义了概念之间的各种关系。
+title: "DefinitionArc"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Arc 类型的 Xlink./xlink。它定义了概念之间的各种关系。"
 type: docs
 weight: 6620
 url: /zh/net/aspose.finance.xbrl/definitionarc/

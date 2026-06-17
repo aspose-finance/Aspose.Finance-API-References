@@ -1,7 +1,7 @@
 ---
-title: Ticker
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置股票代码。
+title: "Ticker"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置股票代码。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.securitieslist/securityrequest/ticker/

@@ -1,7 +1,7 @@
 ---
-title: BillPubInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款的账单发布者信息。
+title: "BillPubInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款的账单发布者信息。"
 type: docs
 weight: 890
 url: /zh/net/aspose.finance.ofx.billpay/billpubinfo/

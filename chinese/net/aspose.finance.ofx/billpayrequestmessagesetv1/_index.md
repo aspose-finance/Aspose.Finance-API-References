@@ -1,7 +1,7 @@
 ---
-title: BillPayRequestMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Bill pay request messages set version 1 类。
+title: "BillPayRequestMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Bill pay request messages set version 1 类。"
 type: docs
 weight: 1380
 url: /zh/net/aspose.finance.ofx/billpayrequestmessagesetv1/

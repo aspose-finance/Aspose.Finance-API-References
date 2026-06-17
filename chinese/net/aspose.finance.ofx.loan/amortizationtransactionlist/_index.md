@@ -1,7 +1,7 @@
 ---
-title: AmortizationTransactionList
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 摊销报表列表类。
+title: "AmortizationTransactionList"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "摊销报表列表类。"
 type: docs
 weight: 3790
 url: /zh/net/aspose.finance.ofx.loan/amortizationtransactionlist/

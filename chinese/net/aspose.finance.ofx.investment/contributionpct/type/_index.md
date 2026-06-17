@@ -1,7 +1,7 @@
 ---
-title: 类型
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置缴费百分比类型。
+title: "类型"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置缴费百分比类型。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/contributionpct/type/

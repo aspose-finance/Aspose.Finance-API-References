@@ -1,7 +1,7 @@
 ---
-title: LoanResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款响应消息集版本 1 类。
+title: "LoanResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款响应消息集版本 1 类。"
 type: docs
 weight: 4140
 url: /zh/net/aspose.finance.ofx/loanresponsemessagesetv1/

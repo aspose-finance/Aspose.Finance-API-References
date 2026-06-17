@@ -1,7 +1,7 @@
 ---
-title: JournalFund
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 在同一投资账户的子账户之间记录现金持有情况。
+title: "JournalFund"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "在同一投资账户的子账户之间记录现金持有情况。"
 type: docs
 weight: 3180
 url: /zh/net/aspose.finance.ofx.investment/journalfund/

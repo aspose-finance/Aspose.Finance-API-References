@@ -1,7 +1,7 @@
 ---
-title: Contributions
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 401k 贡献类，包括贷款付款。
+title: "Contributions"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "401k 贡献类，包括贷款付款。"
 type: docs
 weight: 2810
 url: /zh/net/aspose.finance.ofx.investment/contributions/

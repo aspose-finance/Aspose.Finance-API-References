@@ -1,7 +1,7 @@
 ---
-title: 项
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取 XBRL 实例中 Itemaspose.finance.xbrl/item 对象的集合。
+title: "项"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取 XBRL 实例中 Itemaspose.finance.xbrl/item 对象的集合。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/items/

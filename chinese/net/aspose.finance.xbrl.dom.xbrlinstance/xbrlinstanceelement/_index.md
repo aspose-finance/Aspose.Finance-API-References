@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: xbrl 实例元素的基类。
+title: "XbrlInstanceElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "xbrl 实例元素的基类。"
 type: docs
 weight: 7520
 url: /zh/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceelement/

@@ -1,7 +1,7 @@
 ---
-title: CheckStatusEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 检查状态枚举。
+title: "CheckStatusEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "检查状态枚举。"
 type: docs
 weight: 400
 url: /zh/net/aspose.finance.ofx.bank/checkstatusenum/

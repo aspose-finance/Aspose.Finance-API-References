@@ -1,7 +1,7 @@
 ---
-title: ChallengeResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 挑战响应类。
+title: "ChallengeResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "挑战响应类。"
 type: docs
 weight: 5300
 url: /zh/net/aspose.finance.ofx.signon/challengeresponse/

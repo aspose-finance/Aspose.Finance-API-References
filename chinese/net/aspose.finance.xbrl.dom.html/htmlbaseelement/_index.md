@@ -1,7 +1,7 @@
 ---
-title: HTMLBaseElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示文档基础 URI。参见 HTML 4.01 中的 BASE 元素定义。
+title: "HTMLBaseElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示文档基础 URI。参见 HTML 4.01 中的 BASE 元素定义。"
 type: docs
 weight: 6770
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlbaseelement/

@@ -1,7 +1,7 @@
 ---
-title: Denominator
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 股票拆分的拆分比例分母。
+title: "Denominator"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 股票拆分的拆分比例分母。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/split/denominator/

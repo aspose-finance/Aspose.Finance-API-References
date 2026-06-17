@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlHeaderElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 inline xbrl header 元素。
+title: "InlineXbrlHeaderElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 inline xbrl header 元素。"
 type: docs
 weight: 7370
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlheaderelement/

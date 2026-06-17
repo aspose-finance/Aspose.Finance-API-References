@@ -1,7 +1,7 @@
 ---
-title: IntraCancellationResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 内部银行转账取消响应类。
+title: "IntraCancellationResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "内部银行转账取消响应类。"
 type: docs
 weight: 440
 url: /zh/net/aspose.finance.ofx.bank/intracancellationresponse/

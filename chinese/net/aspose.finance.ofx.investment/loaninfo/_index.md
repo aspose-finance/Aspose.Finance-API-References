@@ -1,7 +1,7 @@
 ---
-title: LoanInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账户未偿还贷款
+title: "LoanInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账户未偿还贷款"
 type: docs
 weight: 3200
 url: /zh/net/aspose.finance.ofx.investment/loaninfo/

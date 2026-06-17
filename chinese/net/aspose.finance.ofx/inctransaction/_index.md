@@ -1,7 +1,7 @@
 ---
-title: IncTransaction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Include transactions 类
+title: "IncTransaction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Include transactions 类"
 type: docs
 weight: 2350
 url: /zh/net/aspose.finance.ofx/inctransaction/

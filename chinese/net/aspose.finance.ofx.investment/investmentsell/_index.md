@@ -1,7 +1,7 @@
 ---
-title: InvestmentSell
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资卖出交易类。
+title: "InvestmentSell"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资卖出交易类。"
 type: docs
 weight: 3070
 url: /zh/net/aspose.finance.ofx.investment/investmentsell/

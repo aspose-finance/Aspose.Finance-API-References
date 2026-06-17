@@ -1,7 +1,7 @@
 ---
-title: Memo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置用户给收款人的备注。
+title: "Memo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置用户给收款人的备注。"
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/memo/

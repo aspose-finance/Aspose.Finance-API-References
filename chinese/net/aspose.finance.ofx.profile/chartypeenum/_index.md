@@ -1,7 +1,7 @@
 ---
-title: CharTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 密码中允许的字符类型枚举。
+title: "CharTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "密码中允许的字符类型枚举。"
 type: docs
 weight: 4430
 url: /zh/net/aspose.finance.ofx.profile/chartypeenum/

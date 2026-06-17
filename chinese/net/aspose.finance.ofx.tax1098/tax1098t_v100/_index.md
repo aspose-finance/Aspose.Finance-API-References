@@ -1,7 +1,7 @@
 ---
-title: Tax1098T_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税表 1098T V100 类的学费声明。
+title: "Tax1098T_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税表 1098T V100 类的学费声明。"
 type: docs
 weight: 5830
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098t_v100/

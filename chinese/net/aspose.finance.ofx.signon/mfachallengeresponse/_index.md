@@ -1,7 +1,7 @@
 ---
-title: MFAChallengeResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: MFA 挑战响应类。
+title: "MFAChallengeResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "MFA 挑战响应类。"
 type: docs
 weight: 5370
 url: /zh/net/aspose.finance.ofx.signon/mfachallengeresponse/

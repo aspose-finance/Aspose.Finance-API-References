@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceMeasureElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 xbrl 实例度量元素。
+title: "XbrlInstanceMeasureElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 xbrl 实例度量元素。"
 type: docs
 weight: 7540
 url: /zh/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstancemeasureelement/

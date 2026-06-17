@@ -1,7 +1,7 @@
 ---
-title: BillPaymentStatus
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单付款状态类。
+title: "BillPaymentStatus"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单付款状态类。"
 type: docs
 weight: 1430
 url: /zh/net/aspose.finance.ofx.billerdelivery/billpaymentstatus/

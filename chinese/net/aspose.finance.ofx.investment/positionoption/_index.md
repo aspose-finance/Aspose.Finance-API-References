@@ -1,7 +1,7 @@
 ---
-title: PositionOption
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资持仓期权类.
+title: "PositionOption"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资持仓期权类."
 type: docs
 weight: 3400
 url: /zh/net/aspose.finance.ofx.investment/positionoption/

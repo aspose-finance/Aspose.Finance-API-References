@@ -1,7 +1,7 @@
 ---
-title: SignonResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 登录响应消息集第 1 版类。
+title: "SignonResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "登录响应消息集第 1 版类。"
 type: docs
 weight: 5470
 url: /zh/net/aspose.finance.ofx/signonresponsemessagesetv1/

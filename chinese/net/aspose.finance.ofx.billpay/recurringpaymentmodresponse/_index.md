@@ -1,7 +1,7 @@
 ---
-title: RecurringPaymentModResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 循环付款修改响应类。
+title: "RecurringPaymentModResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "循环付款修改响应类。"
 type: docs
 weight: 1310
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentmodresponse/

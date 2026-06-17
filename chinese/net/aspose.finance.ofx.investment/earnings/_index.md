@@ -1,7 +1,7 @@
 ---
-title: Earnings
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 401k 收益类。这是市场价值的变动。它包括股息/利息和资本增值——已实现和未实现的。
+title: "Earnings"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "401k 收益类。这是市场价值的变动。它包括股息/利息和资本增值——已实现和未实现的。"
 type: docs
 weight: 2830
 url: /zh/net/aspose.finance.ofx.investment/earnings/

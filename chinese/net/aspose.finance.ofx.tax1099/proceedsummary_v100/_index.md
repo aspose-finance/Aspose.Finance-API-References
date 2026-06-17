@@ -1,7 +1,7 @@
 ---
-title: ProceedSummary_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1099-B 表格收益汇总类。
+title: "ProceedSummary_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1099-B 表格收益汇总类。"
 type: docs
 weight: 5980
 url: /zh/net/aspose.finance.ofx.tax1099/proceedsummary_v100/

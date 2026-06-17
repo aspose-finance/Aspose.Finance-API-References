@@ -1,7 +1,7 @@
 ---
-title: SignonResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 登录响应类。
+title: "SignonResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "登录响应类。"
 type: docs
 weight: 5450
 url: /zh/net/aspose.finance.ofx.signon/signonresponse/

@@ -1,7 +1,7 @@
 ---
-title: ServiceChange
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 服务变更类。
+title: "ServiceChange"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "服务变更类。"
 type: docs
 weight: 5680
 url: /zh/net/aspose.finance.ofx.signup/servicechange/

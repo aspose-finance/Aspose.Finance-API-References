@@ -1,7 +1,7 @@
 ---
-title: VestInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 归属变更日期。提供任意特定过去、当前或未来日期的归属比例。
+title: "VestInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "归属变更日期。提供任意特定过去、当前或未来日期的归属比例。"
 type: docs
 weight: 3600
 url: /zh/net/aspose.finance.ofx.investment/vestinfo/

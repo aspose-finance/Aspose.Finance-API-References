@@ -1,7 +1,7 @@
 ---
-title: Arc
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Xlink 的 Arc 类型的基抽象类。
+title: "Arc"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Xlink 的 Arc 类型的基抽象类。"
 type: docs
 weight: 6490
 url: /zh/net/aspose.finance.xbrl/arc/

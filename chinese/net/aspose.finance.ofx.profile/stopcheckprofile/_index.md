@@ -1,7 +1,7 @@
 ---
-title: StopCheckProfile
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 停止检查配置文件类。
+title: "StopCheckProfile"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "停止检查配置文件类。"
 type: docs
 weight: 4840
 url: /zh/net/aspose.finance.ofx.profile/stopcheckprofile/

@@ -1,7 +1,7 @@
 ---
-title: BuyStock
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资买入股票交易类。
+title: "BuyStock"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资买入股票交易类。"
 type: docs
 weight: 2730
 url: /zh/net/aspose.finance.ofx.investment/buystock/

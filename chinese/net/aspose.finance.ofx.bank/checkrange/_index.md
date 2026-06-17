@@ -1,7 +1,7 @@
 ---
-title: CheckRange
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 支票范围类。
+title: "CheckRange"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "支票范围类。"
 type: docs
 weight: 390
 url: /zh/net/aspose.finance.ofx.bank/checkrange/

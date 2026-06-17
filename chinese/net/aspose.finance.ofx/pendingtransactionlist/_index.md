@@ -1,7 +1,7 @@
 ---
-title: PendingTransactionList
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 待处理账单交易数据收集类
+title: "PendingTransactionList"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "待处理账单交易数据收集类"
 type: docs
 weight: 4280
 url: /zh/net/aspose.finance.ofx/pendingtransactionlist/

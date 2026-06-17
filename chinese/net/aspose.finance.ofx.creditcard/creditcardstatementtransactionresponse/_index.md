@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 信用卡下载交易响应类。
+title: "CreditCardStatementTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "信用卡下载交易响应类。"
 type: docs
 weight: 2030
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/

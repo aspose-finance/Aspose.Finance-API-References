@@ -1,7 +1,7 @@
 ---
-title: OfxRequestDocument
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Ofx 请求文档类。
+title: "OfxRequestDocument"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Ofx 请求文档类。"
 type: docs
 weight: 4230
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/

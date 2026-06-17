@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlFootnoteElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 inline xbrl footnote 元素。
+title: "InlineXbrlFootnoteElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 inline xbrl footnote 元素。"
 type: docs
 weight: 7350
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlfootnoteelement/

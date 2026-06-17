@@ -1,7 +1,7 @@
 ---
-title: HTMLOptionElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示可选择的选项。请参阅 HTML 4.01 中的 OPTION 元素定义。
+title: "HTMLOptionElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示可选择的选项。请参阅 HTML 4.01 中的 OPTION 元素定义。"
 type: docs
 weight: 7120
 url: /zh/net/aspose.finance.xbrl.dom.html/htmloptionelement/

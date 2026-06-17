@@ -1,7 +1,7 @@
 ---
-title: Actuate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置弧的 actuate。
+title: "Actuate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置弧的 actuate。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/arc/actuate/

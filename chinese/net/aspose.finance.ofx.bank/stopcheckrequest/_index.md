@@ -1,7 +1,7 @@
 ---
-title: StopCheckRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 停止检查请求类。
+title: "StopCheckRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "停止检查请求类。"
 type: docs
 weight: 720
 url: /zh/net/aspose.finance.ofx.bank/stopcheckrequest/

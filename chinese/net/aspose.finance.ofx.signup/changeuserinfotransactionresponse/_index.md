@@ -1,7 +1,7 @@
 ---
-title: ChangeUserInfoTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 更改用户信息事务响应类。
+title: "ChangeUserInfoTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "更改用户信息事务响应类。"
 type: docs
 weight: 5620
 url: /zh/net/aspose.finance.ofx.signup/changeuserinfotransactionresponse/

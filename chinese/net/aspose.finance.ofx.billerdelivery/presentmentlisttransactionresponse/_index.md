@@ -1,7 +1,7 @@
 ---
-title: PresentmentListTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单列表事务响应类。
+title: "PresentmentListTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单列表事务响应类。"
 type: docs
 weight: 1720
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlisttransactionresponse/

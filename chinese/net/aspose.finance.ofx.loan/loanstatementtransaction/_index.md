@@ -1,7 +1,7 @@
 ---
-title: LoanStatementTransaction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类描述单个交易。它标识交易的类型和记账日期。该类还可以提供额外信息，以帮助客户识别交易的支票号码、名称、备注和图像。
+title: "LoanStatementTransaction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类描述单个交易。它标识交易的类型和记账日期。该类还可以提供额外信息，以帮助客户识别交易的支票号码、名称、备注和图像。"
 type: docs
 weight: 3980
 url: /zh/net/aspose.finance.ofx.loan/loanstatementtransaction/

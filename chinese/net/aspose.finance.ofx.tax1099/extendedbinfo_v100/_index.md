@@ -1,7 +1,7 @@
 ---
-title: ExtendedBInfo_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 在 1099B 经纪人摘要报告中通常出现的扩展 1099B 信息。
+title: "ExtendedBInfo_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "在 1099B 经纪人摘要报告中通常出现的扩展 1099B 信息。"
 type: docs
 weight: 5920
 url: /zh/net/aspose.finance.ofx.tax1099/extendedbinfo_v100/

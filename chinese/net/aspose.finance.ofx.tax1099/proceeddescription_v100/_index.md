@@ -1,7 +1,7 @@
 ---
-title: ProceedDescription_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1099-B 表格收益描述类。
+title: "ProceedDescription_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1099-B 表格收益描述类。"
 type: docs
 weight: 5970
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/

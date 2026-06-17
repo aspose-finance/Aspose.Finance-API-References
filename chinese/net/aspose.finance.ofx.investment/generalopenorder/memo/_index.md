@@ -1,14 +1,14 @@
 ---
-title: Memo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets or sets the other information about order.
+title: "Memo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置关于订单的其他信息。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.investment/generalopenorder/memo/
 ---
 ## GeneralOpenOrder.Memo property
 
-Gets or sets the other information about order.
+获取或设置关于订单的其他信息。
 
 ```csharp
 public string Memo { get; set; }

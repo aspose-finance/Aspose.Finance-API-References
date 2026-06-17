@@ -1,7 +1,7 @@
 ---
-title: MutualFundTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 共同基金类型枚举。
+title: "MutualFundTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "共同基金类型枚举。"
 type: docs
 weight: 5110
 url: /zh/net/aspose.finance.ofx.securitieslist/mutualfundtypeenum/

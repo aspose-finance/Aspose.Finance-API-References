@@ -1,7 +1,7 @@
 ---
-title: 图像数据
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Image information 类。
+title: "图像数据"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Image information 类。"
 type: docs
 weight: 2310
 url: /zh/net/aspose.finance.ofx/imagedata/

@@ -1,7 +1,7 @@
 ---
-title: 特殊
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置是否允许在这些字符之外使用特殊字符。
+title: "特殊"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置是否允许在这些字符之外使用特殊字符。"
 type: docs
 weight: 170
 url: /zh/net/aspose.finance.ofx.profile/signoninfo/special/

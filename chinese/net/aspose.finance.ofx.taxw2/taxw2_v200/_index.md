@@ -1,7 +1,7 @@
 ---
-title: TaxW2_V200
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Tax W2 v200 表单类，适用于税务年度大于 2001。
+title: "TaxW2_V200"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Tax W2 v200 表单类，适用于税务年度大于 2001。"
 type: docs
 weight: 6260
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v200/

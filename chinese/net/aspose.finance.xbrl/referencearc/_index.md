@@ -1,7 +1,7 @@
 ---
-title: ReferenceArc
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Arc 类型的 Xlink./xlink。它将概念与参考资源连接起来。
+title: "ReferenceArc"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Arc 类型的 Xlink./xlink。它将概念与参考资源连接起来。"
 type: docs
 weight: 7960
 url: /zh/net/aspose.finance.xbrl/referencearc/

@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置简单链接的 title。
+title: "Title"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置简单链接的 title。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl/simplelink/title/

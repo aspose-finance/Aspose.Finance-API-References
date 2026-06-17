@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 循环内部银行交易请求类。
+title: "RecurringIntraTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "循环内部银行交易请求类。"
 type: docs
 weight: 610
 url: /zh/net/aspose.finance.ofx.bank/recurringintratransactionrequest/

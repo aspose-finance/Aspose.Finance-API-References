@@ -1,7 +1,7 @@
 ---
-title: AbstractSecurityInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 安全信息相关类的抽象基类。
+title: "AbstractSecurityInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "安全信息相关类的抽象基类。"
 type: docs
 weight: 5010
 url: /zh/net/aspose.finance.ofx.securitieslist/abstractsecurityinfo/

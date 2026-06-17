@@ -1,7 +1,7 @@
 ---
-title: StopCheckTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 停止检查交易响应类。
+title: "StopCheckTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "停止检查交易响应类。"
 type: docs
 weight: 770
 url: /zh/net/aspose.finance.ofx.bank/stopchecktransactionresponse/

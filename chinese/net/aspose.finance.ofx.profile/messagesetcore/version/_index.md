@@ -1,7 +1,7 @@
 ---
-title: Version
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置消息集的版本号。
+title: "Version"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置消息集的版本号。"
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.profile/messagesetcore/version/

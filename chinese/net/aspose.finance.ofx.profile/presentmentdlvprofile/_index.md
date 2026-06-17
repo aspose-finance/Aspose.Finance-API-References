@@ -1,7 +1,7 @@
 ---
-title: PresentmentDlvProfile
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单方交付配置文件类。
+title: "PresentmentDlvProfile"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单方交付配置文件类。"
 type: docs
 weight: 4690
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvprofile/

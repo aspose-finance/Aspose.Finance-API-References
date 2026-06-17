@@ -1,7 +1,7 @@
 ---
-title: Xlink 类型
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Xlink 类型枚举。
+title: "Xlink 类型"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Xlink 类型枚举。"
 type: docs
 weight: 8280
 url: /zh/net/aspose.finance.xbrl/xlinktype/

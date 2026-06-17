@@ -1,7 +1,7 @@
 ---
-title: BankMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 用于银行业务的消息集。
+title: "BankMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "用于银行业务的消息集。"
 type: docs
 weight: 4390
 url: /zh/net/aspose.finance.ofx.profile/bankmessageset/

@@ -1,7 +1,7 @@
 ---
-title: Memo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置受益人的信息。
+title: "Memo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置受益人的信息。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/memo/

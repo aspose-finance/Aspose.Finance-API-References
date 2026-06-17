@@ -1,7 +1,7 @@
 ---
-title: CreditcardResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Creditcard response messages set version 1 类。
+title: "CreditcardResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Creditcard response messages set version 1 类。"
 type: docs
 weight: 2080
 url: /zh/net/aspose.finance.ofx/creditcardresponsemessagesetv1/

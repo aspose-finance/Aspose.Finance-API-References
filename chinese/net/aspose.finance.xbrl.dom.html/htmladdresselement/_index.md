@@ -1,7 +1,7 @@
 ---
-title: HTMLAddressElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 address 元素。参见 HTML 4.01 中的 ADDRESS 元素定义。
+title: "HTMLAddressElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 address 元素。参见 HTML 4.01 中的 ADDRESS 元素定义。"
 type: docs
 weight: 6720
 url: /zh/net/aspose.finance.xbrl.dom.html/htmladdresselement/

@@ -1,7 +1,7 @@
 ---
-title: 名称
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置收款人名称或交易描述。
+title: "名称"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置收款人名称或交易描述。"
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx/statementtransaction/name/

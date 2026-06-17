@@ -1,7 +1,7 @@
 ---
-title: PayeeTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 收款人交易请求类。
+title: "PayeeTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "收款人交易请求类。"
 type: docs
 weight: 1030
 url: /zh/net/aspose.finance.ofx.billpay/payeetransactionrequest/

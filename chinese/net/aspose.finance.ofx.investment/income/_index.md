@@ -1,7 +1,7 @@
 ---
-title: Income
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资收入类。
+title: "Income"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资收入类。"
 type: docs
 weight: 2880
 url: /zh/net/aspose.finance.ofx.investment/income/

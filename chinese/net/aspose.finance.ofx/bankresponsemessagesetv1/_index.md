@@ -1,7 +1,7 @@
 ---
-title: BankResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Bank response messages set version 1 类。
+title: "BankResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Bank response messages set version 1 类。"
 type: docs
 weight: 810
 url: /zh/net/aspose.finance.ofx/bankresponsemessagesetv1/

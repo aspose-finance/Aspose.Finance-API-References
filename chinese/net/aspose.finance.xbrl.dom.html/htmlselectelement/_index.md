@@ -1,7 +1,7 @@
 ---
-title: HTMLSelectElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 select 元素，允许选择一个选项。包含的选项可以通过 select 元素作为集合直接访问。请参阅 HTML 4.01 中的 SELECT 元素定义。
+title: "HTMLSelectElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 select 元素，允许选择一个选项。包含的选项可以通过 select 元素作为集合直接访问。请参阅 HTML 4.01 中的 SELECT 元素定义。"
 type: docs
 weight: 7180
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlselectelement/

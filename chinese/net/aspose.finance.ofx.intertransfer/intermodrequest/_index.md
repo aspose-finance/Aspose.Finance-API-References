@@ -1,7 +1,7 @@
 ---
-title: InterModRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 跨行转账修改请求类。
+title: "InterModRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "跨行转账修改请求类。"
 type: docs
 weight: 2420
 url: /zh/net/aspose.finance.ofx.intertransfer/intermodrequest/

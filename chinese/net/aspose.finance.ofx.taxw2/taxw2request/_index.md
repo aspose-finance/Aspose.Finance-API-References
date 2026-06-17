@@ -1,7 +1,7 @@
 ---
-title: TaxW2Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 W2 请求类。此类从服务器请求 W2 税表。
+title: "TaxW2Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 W2 请求类。此类从服务器请求 W2 税表。"
 type: docs
 weight: 6210
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2request/

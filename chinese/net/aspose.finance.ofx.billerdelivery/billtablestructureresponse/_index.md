@@ -1,7 +1,7 @@
 ---
-title: BillTableStructureResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 表结构响应类。
+title: "BillTableStructureResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "表结构响应类。"
 type: docs
 weight: 1540
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructureresponse/

@@ -1,7 +1,7 @@
 ---
-title: Subject
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置消息的主题（纯文本，不是 HTML）。
+title: "Subject"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置消息的主题（纯文本，不是 HTML）。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx/mail/subject/

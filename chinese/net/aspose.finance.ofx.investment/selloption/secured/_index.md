@@ -1,7 +1,7 @@
 ---
-title: Secured
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 期权的担保方式。
+title: "Secured"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 期权的担保方式。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/selloption/secured/

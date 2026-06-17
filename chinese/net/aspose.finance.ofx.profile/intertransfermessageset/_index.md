@@ -1,7 +1,7 @@
 ---
-title: InterTransferMessageSet
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 跨行转账消息集。
+title: "InterTransferMessageSet"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "跨行转账消息集。"
 type: docs
 weight: 4550
 url: /zh/net/aspose.finance.ofx.profile/intertransfermessageset/

@@ -1,7 +1,7 @@
 ---
-title: Attributes
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取元素的属性。
+title: "Attributes"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取元素的属性。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.dom/element/attributes/

@@ -1,7 +1,7 @@
 ---
-title: BillDetailTable
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单明细表允许账单方以灵活的方式向客户发送表格数据。该表可能包含电话账单中的通话记录或公用事业账单中的电表读数。
+title: "BillDetailTable"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单明细表允许账单方以灵活的方式向客户发送表格数据。该表可能包含电话账单中的通话记录或公用事业账单中的电表读数。"
 type: docs
 weight: 1420
 url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailtable/

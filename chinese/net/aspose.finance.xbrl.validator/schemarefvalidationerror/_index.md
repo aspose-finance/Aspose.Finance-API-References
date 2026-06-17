@@ -1,7 +1,7 @@
 ---
-title: SchemaRefValidationError
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类用于 Arc 验证相关错误。
+title: "SchemaRefValidationError"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类用于 Arc 验证相关错误。"
 type: docs
 weight: 8190
 url: /zh/net/aspose.finance.xbrl.validator/schemarefvalidationerror/

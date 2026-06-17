@@ -1,7 +1,7 @@
 ---
-title: OfxExtensionType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: OFX 扩展类。
+title: "OfxExtensionType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "OFX 扩展类。"
 type: docs
 weight: 4220
 url: /zh/net/aspose.finance.ofx/ofxextensiontype/

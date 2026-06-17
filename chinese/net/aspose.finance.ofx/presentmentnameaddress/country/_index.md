@@ -1,7 +1,7 @@
 ---
-title: 国家
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置客户的国家。来自 ISO/DIS-3166 的 3 字母国家代码。
+title: "国家"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置客户的国家。来自 ISO/DIS-3166 的 3 字母国家代码。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/presentmentnameaddress/country/

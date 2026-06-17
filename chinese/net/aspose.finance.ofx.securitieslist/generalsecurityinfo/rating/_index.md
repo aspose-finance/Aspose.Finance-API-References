@@ -1,7 +1,7 @@
 ---
-title: 评级
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置评级。
+title: "评级"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置评级。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/rating/

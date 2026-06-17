@@ -1,7 +1,7 @@
 ---
-title: PaymentSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款同步响应类。
+title: "PaymentSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款同步响应类。"
 type: docs
 weight: 1250
 url: /zh/net/aspose.finance.ofx.billpay/paymentsyncresponse/

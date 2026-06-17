@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraCancellationRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 定期内部银行转账取消请求类。
+title: "RecurringIntraCancellationRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "定期内部银行转账取消请求类。"
 type: docs
 weight: 530
 url: /zh/net/aspose.finance.ofx.bank/recurringintracancellationrequest/

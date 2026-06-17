@@ -1,7 +1,7 @@
 ---
-title: IncPosition
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 在响应中包含投资持仓。
+title: "IncPosition"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "在响应中包含投资持仓。"
 type: docs
 weight: 2860
 url: /zh/net/aspose.finance.ofx.investment/incposition/

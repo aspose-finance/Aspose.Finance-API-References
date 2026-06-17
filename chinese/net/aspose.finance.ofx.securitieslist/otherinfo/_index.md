@@ -1,7 +1,7 @@
 ---
-title: OtherInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 使用此类来表示除债务、共同基金、期权和股票之外的证券类型。
+title: "OtherInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "使用此类来表示除债务、共同基金、期权和股票之外的证券类型。"
 type: docs
 weight: 5140
 url: /zh/net/aspose.finance.ofx.securitieslist/otherinfo/

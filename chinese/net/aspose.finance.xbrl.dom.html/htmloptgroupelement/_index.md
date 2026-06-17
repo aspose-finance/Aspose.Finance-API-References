@@ -1,7 +1,7 @@
 ---
-title: HTMLOptGroupElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类将选项分组在逻辑子区段中。请参阅 HTML 4.01 中的 OPTGROUP 元素定义。
+title: "HTMLOptGroupElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类将选项分组在逻辑子区段中。请参阅 HTML 4.01 中的 OPTGROUP 元素定义。"
 type: docs
 weight: 7110
 url: /zh/net/aspose.finance.xbrl.dom.html/htmloptgroupelement/

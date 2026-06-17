@@ -1,7 +1,7 @@
 ---
-title: EscrowBalance
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 托管余额类。
+title: "EscrowBalance"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "托管余额类。"
 type: docs
 weight: 3830
 url: /zh/net/aspose.finance.ofx.loan/escrowbalance/

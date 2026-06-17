@@ -1,7 +1,7 @@
 ---
-title: LedgerBalance
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 分类账余额类。
+title: "LedgerBalance"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "分类账余额类。"
 type: docs
 weight: 3730
 url: /zh/net/aspose.finance.ofx/ledgerbalance/

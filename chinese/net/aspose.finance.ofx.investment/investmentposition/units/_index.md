@@ -1,7 +1,7 @@
 ---
-title: 单位
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置单位。
+title: "单位"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置单位。"
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.investment/investmentposition/units/

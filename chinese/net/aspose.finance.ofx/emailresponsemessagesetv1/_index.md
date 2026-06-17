@@ -1,7 +1,7 @@
 ---
-title: EmailResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Email response messages set version 1 类。
+title: "EmailResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Email response messages set version 1 类。"
 type: docs
 weight: 2230
 url: /zh/net/aspose.finance.ofx/emailresponsemessagesetv1/

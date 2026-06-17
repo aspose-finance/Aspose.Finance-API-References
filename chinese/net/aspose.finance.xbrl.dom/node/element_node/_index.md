@@ -1,7 +1,7 @@
 ---
-title: ELEMENT_NODE
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 元素节点类型。
+title: "ELEMENT_NODE"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "元素节点类型。"
 type: docs
 weight: 230
 url: /zh/net/aspose.finance.xbrl.dom/node/element_node/

@@ -1,7 +1,7 @@
 ---
-title: ContextEntity
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Context./context.的实体。
+title: "ContextEntity"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Context./context.的实体。"
 type: docs
 weight: 6580
 url: /zh/net/aspose.finance.xbrl/contextentity/

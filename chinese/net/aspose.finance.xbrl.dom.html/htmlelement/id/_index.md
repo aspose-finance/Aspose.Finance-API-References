@@ -1,7 +1,7 @@
 ---
-title: Id
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置元素的标识符。请参阅 HTML 4.01 中的 id 属性定义。
+title: "Id"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置元素的标识符。请参阅 HTML 4.01 中的 id 属性定义。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlelement/id/

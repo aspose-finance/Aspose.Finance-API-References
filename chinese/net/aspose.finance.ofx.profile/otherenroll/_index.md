@@ -1,7 +1,7 @@
 ---
-title: OtherEnroll
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 其他一些注册过程
+title: "OtherEnroll"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "其他一些注册过程"
 type: docs
 weight: 4630
 url: /zh/net/aspose.finance.ofx.profile/otherenroll/

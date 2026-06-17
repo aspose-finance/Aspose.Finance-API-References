@@ -1,7 +1,7 @@
 ---
-title: InterCancellationRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 跨行转账取消请求类。
+title: "InterCancellationRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "跨行转账取消请求类。"
 type: docs
 weight: 2400
 url: /zh/net/aspose.finance.ofx.intertransfer/intercancellationrequest/

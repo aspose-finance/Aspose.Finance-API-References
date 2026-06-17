@@ -1,7 +1,7 @@
 ---
-title: DebtClassEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 债务分类枚举。
+title: "DebtClassEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "债务分类枚举。"
 type: docs
 weight: 5050
 url: /zh/net/aspose.finance.ofx.securitieslist/debtclassenum/

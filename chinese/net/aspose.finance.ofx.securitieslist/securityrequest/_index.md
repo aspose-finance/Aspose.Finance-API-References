@@ -1,7 +1,7 @@
 ---
-title: SecurityRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 证券列表请求类。
+title: "SecurityRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "证券列表请求类。"
 type: docs
 weight: 5200
 url: /zh/net/aspose.finance.ofx.securitieslist/securityrequest/

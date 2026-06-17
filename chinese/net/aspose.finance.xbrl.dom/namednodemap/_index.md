@@ -1,7 +1,7 @@
 ---
-title: 命名节点映射
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 表示可通过名称访问的属性集合。
+title: "命名节点映射"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "表示可通过名称访问的属性集合。"
 type: docs
 weight: 7450
 url: /zh/net/aspose.finance.xbrl.dom/namednodemap/

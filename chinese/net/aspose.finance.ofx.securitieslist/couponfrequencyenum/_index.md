@@ -1,7 +1,7 @@
 ---
-title: CouponFrequencyEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 票息频率枚举。
+title: "CouponFrequencyEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "票息频率枚举。"
 type: docs
 weight: 5040
 url: /zh/net/aspose.finance.ofx.securitieslist/couponfrequencyenum/

@@ -1,7 +1,7 @@
 ---
-title: 注释
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 继承自 CharacterData，表示注释的内容。
+title: "注释"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "继承自 CharacterData，表示注释的内容。"
 type: docs
 weight: 6680
 url: /zh/net/aspose.finance.xbrl.dom/comment/

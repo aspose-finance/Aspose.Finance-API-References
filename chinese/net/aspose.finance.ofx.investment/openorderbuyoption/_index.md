@@ -1,7 +1,7 @@
 ---
-title: OpenOrderBuyOption
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单买入期权类.
+title: "OpenOrderBuyOption"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单买入期权类."
 type: docs
 weight: 3250
 url: /zh/net/aspose.finance.ofx.investment/openorderbuyoption/

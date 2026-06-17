@@ -1,7 +1,7 @@
 ---
-title: OfxVersionEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Ofx 版本枚举。
+title: "OfxVersionEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Ofx 版本枚举。"
 type: docs
 weight: 4250
 url: /zh/net/aspose.finance.ofx/ofxversionenum/

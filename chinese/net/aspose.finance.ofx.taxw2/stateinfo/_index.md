@@ -1,7 +1,7 @@
 ---
-title: StateInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 州信息类。
+title: "StateInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "州信息类。"
 type: docs
 weight: 6200
 url: /zh/net/aspose.finance.ofx.taxw2/stateinfo/

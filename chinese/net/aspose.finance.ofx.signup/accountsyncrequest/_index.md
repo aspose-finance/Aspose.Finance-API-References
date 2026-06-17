@@ -1,7 +1,7 @@
 ---
-title: AccountSyncRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 服务激活同步请求类。
+title: "AccountSyncRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "服务激活同步请求类。"
 type: docs
 weight: 5530
 url: /zh/net/aspose.finance.ofx.signup/accountsyncrequest/

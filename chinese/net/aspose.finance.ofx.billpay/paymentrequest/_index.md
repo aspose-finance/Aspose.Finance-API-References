@@ -1,7 +1,7 @@
 ---
-title: PaymentRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款请求类。
+title: "PaymentRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款请求类。"
 type: docs
 weight: 1220
 url: /zh/net/aspose.finance.ofx.billpay/paymentrequest/

@@ -1,7 +1,7 @@
 ---
-title: Percent
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置基金中属于此资产类别的比例。
+title: "Percent"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置基金中属于此资产类别的比例。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.securitieslist/financialinstitutionportion/percent/

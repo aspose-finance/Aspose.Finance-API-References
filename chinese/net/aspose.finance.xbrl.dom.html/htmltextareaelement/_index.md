@@ -1,7 +1,7 @@
 ---
-title: HTMLTextAreaElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示多行文本字段。请参阅 HTML 4.01 中的 TEXTAREA 元素定义。
+title: "HTMLTextAreaElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示多行文本字段。请参阅 HTML 4.01 中的 TEXTAREA 元素定义。"
 type: docs
 weight: 7280
 url: /zh/net/aspose.finance.xbrl.dom.html/htmltextareaelement/

@@ -1,7 +1,7 @@
 ---
-title: Currency
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Currency 类。
+title: "Currency"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Currency 类。"
 type: docs
 weight: 2090
 url: /zh/net/aspose.finance.ofx/currency/

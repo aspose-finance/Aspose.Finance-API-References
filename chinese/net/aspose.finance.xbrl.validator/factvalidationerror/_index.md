@@ -1,7 +1,7 @@
 ---
-title: FactValidationError
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于事实验证相关错误。
+title: "FactValidationError"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于事实验证相关错误。"
 type: docs
 weight: 8150
 url: /zh/net/aspose.finance.xbrl.validator/factvalidationerror/

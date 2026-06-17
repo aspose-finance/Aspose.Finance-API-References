@@ -1,7 +1,7 @@
 ---
-title: CheckMailResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 支票邮件通知消息响应类。当服务器收到银行电子邮件同步消息且支票已被退回时，会返回此响应。
+title: "CheckMailResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "支票邮件通知消息响应类。当服务器收到银行电子邮件同步消息且支票已被退回时，会返回此响应。"
 type: docs
 weight: 380
 url: /zh/net/aspose.finance.ofx.bank/checkmailresponse/

@@ -1,7 +1,7 @@
 ---
-title: ProfileTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 配置文件事务响应类。
+title: "ProfileTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "配置文件事务响应类。"
 type: docs
 weight: 4750
 url: /zh/net/aspose.finance.ofx.profile/profiletransactionresponse/

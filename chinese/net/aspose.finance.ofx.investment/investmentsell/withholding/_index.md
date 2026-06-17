@@ -1,7 +1,7 @@
 ---
-title: 预扣税
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置联邦税预扣。
+title: "预扣税"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置联邦税预扣。"
 type: docs
 weight: 210
 url: /zh/net/aspose.finance.ofx.investment/investmentsell/withholding/

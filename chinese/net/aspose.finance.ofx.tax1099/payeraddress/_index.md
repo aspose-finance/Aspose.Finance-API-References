@@ -1,7 +1,7 @@
 ---
-title: PayerAddress
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款人地址类。
+title: "PayerAddress"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款人地址类。"
 type: docs
 weight: 5960
 url: /zh/net/aspose.finance.ofx.tax1099/payeraddress/

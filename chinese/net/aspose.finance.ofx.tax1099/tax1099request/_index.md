@@ -1,7 +1,7 @@
 ---
-title: Tax1099Request
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1099 请求类。此类从服务器请求所有类型的 1099 税表。
+title: "Tax1099Request"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1099 请求类。此类从服务器请求所有类型的 1099 税表。"
 type: docs
 weight: 6080
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099request/

@@ -1,7 +1,7 @@
 ---
-title: SignonRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 登录请求类。
+title: "SignonRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "登录请求类。"
 type: docs
 weight: 5440
 url: /zh/net/aspose.finance.ofx.signon/signonrequest/

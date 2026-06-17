@@ -1,7 +1,7 @@
 ---
-title: PresentmentAccount
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类通过账单发布者 biller ID 与账户号码的组合，唯一标识客户在账单方的账户。
+title: "PresentmentAccount"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类通过账单发布者 biller ID 与账户号码的组合，唯一标识客户在账单方的账户。"
 type: docs
 weight: 4290
 url: /zh/net/aspose.finance.ofx/presentmentaccount/

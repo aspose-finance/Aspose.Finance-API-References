@@ -1,7 +1,7 @@
 ---
-title: HTMLUListElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示无序列表。请参阅 HTML 4.01 中的 UL 元素定义。
+title: "HTMLUListElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示无序列表。请参阅 HTML 4.01 中的 UL 元素定义。"
 type: docs
 weight: 7300
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlulistelement/

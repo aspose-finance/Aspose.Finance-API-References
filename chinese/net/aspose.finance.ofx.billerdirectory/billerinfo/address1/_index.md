@@ -1,7 +1,7 @@
 ---
-title: Address1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账单人地址第1行。
+title: "Address1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账单人地址第1行。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/address1/

@@ -1,7 +1,7 @@
 ---
-title: Loc
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Locator 类型的 Xlink./xlink。
+title: "Loc"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Locator 类型的 Xlink./xlink。"
 type: docs
 weight: 7880
 url: /zh/net/aspose.finance.xbrl/loc/

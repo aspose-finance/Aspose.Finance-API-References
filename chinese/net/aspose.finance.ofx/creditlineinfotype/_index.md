@@ -1,7 +1,7 @@
 ---
-title: CreditLineInfoType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 提供 CREDITLINE 账户额外信息的集合。不用于其他账户类型。
+title: "CreditLineInfoType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "提供 CREDITLINE 账户额外信息的集合。不用于其他账户类型。"
 type: docs
 weight: 2060
 url: /zh/net/aspose.finance.ofx/creditlineinfotype/

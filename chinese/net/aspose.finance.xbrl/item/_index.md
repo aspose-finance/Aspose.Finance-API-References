@@ -1,7 +1,7 @@
 ---
-title: Item
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Item 是 XBRL item 元素的替代组中的一个元素。它包含简单事实的值以及用于正确解释该事实的数值项的上下文和单位的引用。
+title: "Item"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Item 是 XBRL item 元素的替代组中的一个元素。它包含简单事实的值以及用于正确解释该事实的数值项的上下文和单位的引用。"
 type: docs
 weight: 7800
 url: /zh/net/aspose.finance.xbrl/item/

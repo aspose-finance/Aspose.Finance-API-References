@@ -1,7 +1,7 @@
 ---
-title: InlineFact
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此抽象类是 inline 文档中 fact 的基类，包括 InlineFraction./inlinefraction InlineNonfraction./inlinenonfraction InlineNonnumeric./inlinenonnumeric InlineTuple./inlinetuple。
+title: "InlineFact"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此抽象类是 inline 文档中 fact 的基类，包括 InlineFraction./inlinefraction InlineNonfraction./inlinenonfraction InlineNonnumeric./inlinenonnumeric InlineTuple./inlinetuple。"
 type: docs
 weight: 7710
 url: /zh/net/aspose.finance.xbrl.inline/inlinefact/

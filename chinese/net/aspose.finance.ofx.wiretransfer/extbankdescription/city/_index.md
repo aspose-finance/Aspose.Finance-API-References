@@ -1,7 +1,7 @@
 ---
-title: 城市
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置银行的城市。
+title: "城市"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置银行的城市。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/city/

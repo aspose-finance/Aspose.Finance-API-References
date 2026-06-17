@@ -1,7 +1,7 @@
 ---
-title: LabelLinkbaseRef
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于标签链接库引用。
+title: "LabelLinkbaseRef"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于标签链接库引用。"
 type: docs
 weight: 7840
 url: /zh/net/aspose.finance.xbrl/labellinkbaseref/

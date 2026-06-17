@@ -1,7 +1,7 @@
 ---
-title: LoanStatementTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款下载交易响应类。
+title: "LoanStatementTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款下载交易响应类。"
 type: docs
 weight: 4000
 url: /zh/net/aspose.finance.ofx.loan/loanstatementtransactionresponse/

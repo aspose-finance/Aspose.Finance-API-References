@@ -1,7 +1,7 @@
 ---
-title: Tax1098E_V100
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Tax 1098E V100 表单类学生贷款利息报表。
+title: "Tax1098E_V100"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Tax 1098E V100 表单类学生贷款利息报表。"
 type: docs
 weight: 5800
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098e_v100/

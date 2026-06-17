@@ -1,7 +1,7 @@
 ---
-title: FIDirectDepositInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 可选的直接存款类。
+title: "FIDirectDepositInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "可选的直接存款类。"
 type: docs
 weight: 5930
 url: /zh/net/aspose.finance.ofx.tax1099/fidirectdepositinfo/

@@ -1,7 +1,7 @@
 ---
-title: PaymentMailResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款电子邮件响应类。
+title: "PaymentMailResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款电子邮件响应类。"
 type: docs
 weight: 1130
 url: /zh/net/aspose.finance.ofx.billpay/paymentmailresponse/

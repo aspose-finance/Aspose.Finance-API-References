@@ -1,7 +1,7 @@
 ---
-title: Add
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 向集合中添加 XbrlInstanceaspose.finance.xbrl/xbrlinstance。
+title: "Add"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "向集合中添加 XbrlInstanceaspose.finance.xbrl/xbrlinstance。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/xbrlinstancecollection/add/

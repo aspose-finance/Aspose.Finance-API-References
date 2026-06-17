@@ -1,7 +1,7 @@
 ---
-title: TAX1098s
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 Tax1098_V100aspose.finance.ofx.tax1098/tax1098_v100、Tax1098T_V100aspose.finance.ofx.tax1098/tax1098t_v100 或 Tax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100 的集合。
+title: "TAX1098s"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 Tax1098_V100aspose.finance.ofx.tax1098/tax1098_v100、Tax1098T_V100aspose.finance.ofx.tax1098/tax1098t_v100 或 Tax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100 的集合。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098response/tax1098s/

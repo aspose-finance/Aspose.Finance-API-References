@@ -1,7 +1,7 @@
 ---
-title: 保存
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 创建并保存 XBRL 文件到磁盘。
+title: "保存"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "创建并保存 XBRL 文件到磁盘。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/xbrldocument/save/

@@ -1,7 +1,7 @@
 ---
-title: COMMENT_NODE
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 注释节点类型。
+title: "COMMENT_NODE"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "注释节点类型。"
 type: docs
 weight: 200
 url: /zh/net/aspose.finance.xbrl.dom/node/comment_node/

@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlHiddenElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 inline xbrl hidden 元素。
+title: "InlineXbrlHiddenElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 inline xbrl hidden 元素。"
 type: docs
 weight: 7380
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlhiddenelement/

@@ -1,7 +1,7 @@
 ---
-title: Activity
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置自上个期间以来账户的净流入和流出。
+title: "Activity"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置自上个期间以来账户的净流入和流出。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/activity/

@@ -1,7 +1,7 @@
 ---
-title: 品牌
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置给定支付类型的接受品牌。
+title: "品牌"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置给定支付类型的接受品牌。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdirectory/paymentinstrument/brand/

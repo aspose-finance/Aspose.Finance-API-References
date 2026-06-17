@@ -1,7 +1,7 @@
 ---
-title: IntraModRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 内部银行转账修改请求类。
+title: "IntraModRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "内部银行转账修改请求类。"
 type: docs
 weight: 450
 url: /zh/net/aspose.finance.ofx.bank/intramodrequest/

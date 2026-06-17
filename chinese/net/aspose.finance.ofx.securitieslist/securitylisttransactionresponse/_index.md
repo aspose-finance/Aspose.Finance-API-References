@@ -1,7 +1,7 @@
 ---
-title: SecurityListTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 证券列表交易响应类。
+title: "SecurityListTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "证券列表交易响应类。"
 type: docs
 weight: 5190
 url: /zh/net/aspose.finance.ofx.securitieslist/securitylisttransactionresponse/

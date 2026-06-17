@@ -1,7 +1,7 @@
 ---
-title: Context
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类包含实体、期间和情景，它们共同提供理解项目值的适当上下文。
+title: "Context"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类包含实体、期间和情景，它们共同提供理解项目值的适当上下文。"
 type: docs
 weight: 6570
 url: /zh/net/aspose.finance.xbrl/context/

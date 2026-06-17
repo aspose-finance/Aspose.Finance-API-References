@@ -1,7 +1,7 @@
 ---
-title: Order
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置弧的顺序。
+title: "Order"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置弧的顺序。"
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/arc/order/

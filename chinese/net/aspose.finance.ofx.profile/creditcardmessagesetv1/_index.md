@@ -1,7 +1,7 @@
 ---
-title: CreditcardMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 信用卡消息集版本1
+title: "CreditcardMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "信用卡消息集版本1"
 type: docs
 weight: 4470
 url: /zh/net/aspose.finance.ofx.profile/creditcardmessagesetv1/

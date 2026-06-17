@@ -1,7 +1,7 @@
 ---
-title: 角色
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置定位器的角色。
+title: "角色"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置定位器的角色。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/locator/role/

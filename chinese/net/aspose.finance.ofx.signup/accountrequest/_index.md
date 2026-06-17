@@ -1,7 +1,7 @@
 ---
-title: AccountRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账户服务请求类。
+title: "AccountRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账户服务请求类。"
 type: docs
 weight: 5510
 url: /zh/net/aspose.finance.ofx.signup/accountrequest/

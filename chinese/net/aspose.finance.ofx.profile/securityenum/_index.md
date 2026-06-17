@@ -1,7 +1,7 @@
 ---
-title: SecurityEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 安全级别枚举。
+title: "SecurityEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "安全级别枚举。"
 type: docs
 weight: 4760
 url: /zh/net/aspose.finance.ofx.profile/securityenum/

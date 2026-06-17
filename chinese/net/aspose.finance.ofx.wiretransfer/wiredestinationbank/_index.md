@@ -1,7 +1,7 @@
 ---
-title: WireDestinationBank
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 受益人银行类。
+title: "WireDestinationBank"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "受益人银行类。"
 type: docs
 weight: 6400
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiredestinationbank/

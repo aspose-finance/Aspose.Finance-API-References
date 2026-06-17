@@ -1,7 +1,7 @@
 ---
-title: TaxW2Response
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 W2 响应类。
+title: "TaxW2Response"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 W2 响应类。"
 type: docs
 weight: 6220
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2response/

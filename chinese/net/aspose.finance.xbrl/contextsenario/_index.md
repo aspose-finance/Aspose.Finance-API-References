@@ -1,7 +1,7 @@
 ---
-title: ContextSenario
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Context./context 的情景。
+title: "ContextSenario"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Context./context 的情景。"
 type: docs
 weight: 6610
 url: /zh/net/aspose.finance.xbrl/contextsenario/

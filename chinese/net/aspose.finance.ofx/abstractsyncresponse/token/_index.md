@@ -1,7 +1,7 @@
 ---
-title: Token
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置新的同步令牌。
+title: "Token"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置新的同步令牌。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/abstractsyncresponse/token/

@@ -1,7 +1,7 @@
 ---
-title: StopCheckSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 停止检查同步响应类。
+title: "StopCheckSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "停止检查同步响应类。"
 type: docs
 weight: 750
 url: /zh/net/aspose.finance.ofx.bank/stopchecksyncresponse/

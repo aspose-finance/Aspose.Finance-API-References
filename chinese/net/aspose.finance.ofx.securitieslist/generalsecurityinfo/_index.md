@@ -1,7 +1,7 @@
 ---
-title: GeneralSecurityInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类包含所有证券类型共有的字段。
+title: "GeneralSecurityInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类包含所有证券类型共有的字段。"
 type: docs
 weight: 5090
 url: /zh/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/

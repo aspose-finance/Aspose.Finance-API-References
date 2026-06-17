@@ -1,7 +1,7 @@
 ---
-title: PositionStock
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资持仓股票类.
+title: "PositionStock"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资持仓股票类."
 type: docs
 weight: 3420
 url: /zh/net/aspose.finance.ofx.investment/positionstock/

@@ -1,7 +1,7 @@
 ---
-title: ContributionPctTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贡献百分比类型枚举。
+title: "ContributionPctTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贡献百分比类型枚举。"
 type: docs
 weight: 2780
 url: /zh/net/aspose.finance.ofx.investment/contributionpcttypeenum/

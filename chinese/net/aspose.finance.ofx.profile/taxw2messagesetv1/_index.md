@@ -1,7 +1,7 @@
 ---
-title: TaxW2MessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 W2 消息集第 1 版。
+title: "TaxW2MessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 W2 消息集第 1 版。"
 type: docs
 weight: 4910
 url: /zh/net/aspose.finance.ofx.profile/taxw2messagesetv1/

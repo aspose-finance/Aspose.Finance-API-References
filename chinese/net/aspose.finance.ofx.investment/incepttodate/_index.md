@@ -1,7 +1,7 @@
 ---
-title: InceptToDate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 自创始以来的累计贡献
+title: "InceptToDate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "自创始以来的累计贡献"
 type: docs
 weight: 2870
 url: /zh/net/aspose.finance.ofx.investment/incepttodate/

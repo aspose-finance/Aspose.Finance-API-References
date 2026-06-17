@@ -1,7 +1,7 @@
 ---
-title: FootnoteLink
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类包含定位器资源和弧线，用于描述 XBRL 实例中事实之间的不规则关系。
+title: "FootnoteLink"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类包含定位器资源和弧线，用于描述 XBRL 实例中事实之间的不规则关系。"
 type: docs
 weight: 7680
 url: /zh/net/aspose.finance.xbrl/footnotelink/

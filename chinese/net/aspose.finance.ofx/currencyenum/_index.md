@@ -1,7 +1,7 @@
 ---
-title: CurrencyEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 基于 ISO-4217 的货币标识符枚举。
+title: "CurrencyEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "基于 ISO-4217 的货币标识符枚举。"
 type: docs
 weight: 2100
 url: /zh/net/aspose.finance.ofx/currencyenum/
@@ -73,56 +73,56 @@ public enum CurrencyEnum
 | GYD | `52` | 圭亚那元 |
 | HKD | `53` | 港元 |
 | HNL | `54` | 洪都拉斯伦皮拉 |
-| HRK | `55` | Croatian kuna |
-| HTG | `56` | Haitian gourde |
-| HUF | `57` | Hungarian forint |
-| IDR | `58` | Indonesian rupiah |
-| ILS | `59` | Israeli new sheqel |
-| INR | `60` | Indian rupee |
-| IQD | `61` | Iraqi dinar |
-| IRR | `62` | Iranian rial |
-| ISK | `63` | Icelandic króna |
-| JMD | `64` | Jamaican dollar |
-| JOD | `65` | Jordanian dinar |
-| JPY | `66` | Japanese yen |
-| KES | `67` | Kenyan shilling |
-| KGS | `68` | Kyrgyzstani som |
-| KHR | `69` | Cambodian riel |
-| KMF | `70` | Comoro franc |
-| KPW | `71` | North Korean won |
-| KRW | `72` | South Korean won |
-| KWD | `73` | Kuwaiti dinar |
-| KYD | `74` | Cayman Islands dollar |
-| KZT | `75` | Kazakhstani tenge |
-| LAK | `76` | Lao kip |
-| LBP | `77` | Lebanese pound |
-| LKR | `78` | Sri Lanka rupee |
-| LRD | `79` | Liberian dollar |
-| LSL | `80` | Lesotho loti |
-| LTL | `81` | Lithuanian litas |
-| LVL | `82` | Latvian lats |
-| LYD | `83` | Libyan dinar |
-| MAD | `84` | Moroccan dirham |
-| MDL | `85` | Moldovan leu |
-| MGF | `86` | Malagasy ariary |
-| MKD | `87` | Macedonian denar |
-| MMK | `88` | Myanma kyat |
-| MNT | `89` | Mongolian tugrik |
-| MOP | `90` | Macanese pataca |
-| MRO | `91` | Mauritanian ouguiya |
-| MUR | `92` | Mauritian rupee |
-| MVR | `93` | Maldivian rufiyaa |
-| MWK | `94` | Malawian kwacha |
-| MXN | `95` | Mexican peso |
-| MYR | `96` | Malaysian ringgit |
-| MZN | `97` | Mozambican metical |
-| NAD | `98` | Namibian dollar |
-| NGN | `99` | Nigerian naira |
-| NIO | `100` | Cordoba oro |
-| NOK | `101` | Norwegian krone |
-| NPR | `102` | Nepalese rupee |
-| NZD | `103` | New Zealand dollar |
-| OMR | `104` | Omani rial |
+| HRK | `55` | 克罗地亚库纳 |
+| HTG | `56` | 海地古德 |
+| HUF | `57` | 匈牙利福林 |
+| IDR | `58` | 印度尼西亚盾 |
+| ILS | `59` | 以色列新谢克尔 |
+| INR | `60` | 印度卢比 |
+| IQD | `61` | 伊拉克第纳尔 |
+| IRR | `62` | 伊朗里亚尔 |
+| ISK | `63` | 冰岛克朗 |
+| JMD | `64` | 牙买加元 |
+| JOD | `65` | 约旦第纳尔 |
+| JPY | `66` | 日元 |
+| KES | `67` | 肯尼亚先令 |
+| KGS | `68` | 吉尔吉斯斯坦索姆 |
+| KHR | `69` | 柬埔寨瑞尔 |
+| KMF | `70` | 科摩罗法郎 |
+| KPW | `71` | 朝鲜元 |
+| KRW | `72` | 韩元 |
+| KWD | `73` | 科威特第纳尔 |
+| KYD | `74` | 开曼群岛元 |
+| KZT | `75` | 哈萨克斯坦坚戈 |
+| LAK | `76` | 老挝基普 |
+| LBP | `77` | 黎巴嫩镑 |
+| LKR | `78` | 斯里兰卡卢比 |
+| LRD | `79` | 利比里亚元 |
+| LSL | `80` | 莱索托洛蒂 |
+| LTL | `81` | 立陶宛里塔斯 |
+| LVL | `82` | 拉脱维亚拉特 |
+| LYD | `83` | 利比亚第纳尔 |
+| MAD | `84` | 摩洛哥迪拉姆 |
+| MDL | `85` | 摩尔多瓦列伊 |
+| MGF | `86` | 马达加斯加阿里亚里 |
+| MKD | `87` | 马其顿第纳尔 |
+| MMK | `88` | 缅元 |
+| MNT | `89` | 蒙古图格里克 |
+| MOP | `90` | 澳门币 |
+| MRO | `91` | 毛里塔尼亚乌吉亚 |
+| MUR | `92` | 毛里求斯卢比 |
+| MVR | `93` | 马尔代夫卢菲亚 |
+| MWK | `94` | 马拉维克瓦查 |
+| MXN | `95` | 墨西哥比索 |
+| MYR | `96` | 马来西亚林吉特 |
+| MZN | `97` | 莫桑比克梅蒂卡尔 |
+| NAD | `98` | 纳米比亚元 |
+| NGN | `99` | 尼日利亚奈拉 |
+| NIO | `100` | 科尔多瓦金 |
+| NOK | `101` | 挪威克朗 |
+| NPR | `102` | 尼泊尔卢比 |
+| NZD | `103` | 新西兰元 |
+| OMR | `104` | 阿曼里亚尔 |
 | PAB | `105` | 巴拿马巴波亚 |
 | PEN | `106` | 秘鲁新索尔 |
 | PGK | `107` | 巴布亚新几内亚基纳 |

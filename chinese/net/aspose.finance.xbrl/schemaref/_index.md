@@ -1,7 +1,7 @@
 ---
-title: SchemaRef
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是对一个分类法模式的引用，该模式成为支持 XBRL 实例的 DTS 的一部分。
+title: "SchemaRef"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是对一个分类法模式的引用，该模式成为支持 XBRL 实例的 DTS 的一部分。"
 type: docs
 weight: 8060
 url: /zh/net/aspose.finance.xbrl/schemaref/

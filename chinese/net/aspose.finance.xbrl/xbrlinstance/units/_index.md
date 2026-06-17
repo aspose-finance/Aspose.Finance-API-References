@@ -1,7 +1,7 @@
 ---
-title: 单位
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 XBRL 实例中 Unitaspose.finance.xbrl/unit 对象的集合。
+title: "单位"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 XBRL 实例中 Unitaspose.finance.xbrl/unit 对象的集合。"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/units/

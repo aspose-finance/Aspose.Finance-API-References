@@ -1,7 +1,7 @@
 ---
-title: Label
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Resource 类型的 Xlink./xlink。虽然每个 taxonomy 定义了一组表示业务报告 Concepts 的元素，但这些概念的人类可读 XBRL 文档，包括用作每个概念的人类可读名称的标签字符串以及其他说明性文档，均包含在 label Linkbase 中的 resource 元素里。
+title: "Label"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Resource 类型的 Xlink./xlink。虽然每个 taxonomy 定义了一组表示业务报告 Concepts 的元素，但这些概念的人类可读 XBRL 文档，包括用作每个概念的人类可读名称的标签字符串以及其他说明性文档，均包含在 label Linkbase 中的 resource 元素里。"
 type: docs
 weight: 7810
 url: /zh/net/aspose.finance.xbrl/label/

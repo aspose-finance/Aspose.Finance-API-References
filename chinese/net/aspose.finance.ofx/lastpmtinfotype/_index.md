@@ -1,7 +1,7 @@
 ---
-title: LastPmtInfoType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 最近付款信息类型类。
+title: "LastPmtInfoType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "最近付款信息类型类。"
 type: docs
 weight: 3720
 url: /zh/net/aspose.finance.ofx/lastpmtinfotype/

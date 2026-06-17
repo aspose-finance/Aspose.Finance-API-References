@@ -1,7 +1,7 @@
 ---
-title: InvestmentExpense
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资费用类。
+title: "InvestmentExpense"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资费用类。"
 type: docs
 weight: 2970
 url: /zh/net/aspose.finance.ofx.investment/investmentexpense/

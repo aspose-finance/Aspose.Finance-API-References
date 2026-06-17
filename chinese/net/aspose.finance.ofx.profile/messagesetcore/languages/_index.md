@@ -1,7 +1,7 @@
 ---
-title: Languages
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置支持的语言。
+title: "Languages"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置支持的语言。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/messagesetcore/languages/

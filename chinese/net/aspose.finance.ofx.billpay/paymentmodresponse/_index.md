@@ -1,7 +1,7 @@
 ---
-title: PaymentModResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 付款修改响应类。
+title: "PaymentModResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "付款修改响应类。"
 type: docs
 weight: 1190
 url: /zh/net/aspose.finance.ofx.billpay/paymentmodresponse/

@@ -1,7 +1,7 @@
 ---
-title: StockInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 股票信息类。
+title: "StockInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "股票信息类。"
 type: docs
 weight: 5220
 url: /zh/net/aspose.finance.ofx.securitieslist/stockinfo/

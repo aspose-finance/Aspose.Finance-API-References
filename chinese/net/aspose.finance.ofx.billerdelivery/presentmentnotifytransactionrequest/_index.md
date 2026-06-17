@@ -1,7 +1,7 @@
 ---
-title: PresentmentNotifyTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投递通知事务请求类。
+title: "PresentmentNotifyTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投递通知事务请求类。"
 type: docs
 weight: 1810
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/

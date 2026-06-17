@@ -1,14 +1,14 @@
 ---
-title: Definition
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets the definition in the ArcroleTypeaspose.finance.xbrl/arcroletype.
+title: "Definition"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取 ArcroleTypeaspose.finance.xbrl/arcroletype 中的定义。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/arcroletype/definition/
 ---
 ## ArcroleType.Definition property
 
-Gets the definition in the [`ArcroleType`](../../arcroletype).
+获取 [`ArcroleType`](../../arcroletype) 中的定义。
 
 ```csharp
 public string Definition { get; set; }

@@ -1,7 +1,7 @@
 ---
-title: HTMLLinkElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类指定指向外部资源的链接，并定义此文档与该资源之间的关系，或反之亦然。请参阅 HTML 4.01 中的 LINK 元素定义。
+title: "HTMLLinkElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类指定指向外部资源的链接，并定义此文档与该资源之间的关系，或反之亦然。请参阅 HTML 4.01 中的 LINK 元素定义。"
 type: docs
 weight: 7030
 url: /zh/net/aspose.finance.xbrl.dom.html/htmllinkelement/

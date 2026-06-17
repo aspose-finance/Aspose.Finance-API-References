@@ -1,7 +1,7 @@
 ---
-title: 城市
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置账单人所在城市。
+title: "城市"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置账单人所在城市。"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/city/

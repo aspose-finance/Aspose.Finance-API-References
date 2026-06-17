@@ -1,14 +1,14 @@
 ---
-title: 持续时间
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets or sets how long the order is good for.
+title: "持续时间"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置订单的有效期限。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/generalopenorder/duration/
 ---
 ## GeneralOpenOrder.Duration property
 
-Gets or sets how long the order is good for.
+获取或设置订单的有效期限。
 
 ```csharp
 public DurationEnum Duration { get; set; }

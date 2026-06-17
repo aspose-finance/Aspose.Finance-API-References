@@ -1,7 +1,7 @@
 ---
-title: PinChangeRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 用户密码更改请求类。
+title: "PinChangeRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "用户密码更改请求类。"
 type: docs
 weight: 5400
 url: /zh/net/aspose.finance.ofx.signon/pinchangerequest/

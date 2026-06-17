@@ -1,7 +1,7 @@
 ---
-title: AddlStateTaxWheldAggregate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 可选的州预扣税类，用于处理一个或多个州的预扣税声明。
+title: "AddlStateTaxWheldAggregate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "可选的州预扣税类，用于处理一个或多个州的预扣税声明。"
 type: docs
 weight: 5910
 url: /zh/net/aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/

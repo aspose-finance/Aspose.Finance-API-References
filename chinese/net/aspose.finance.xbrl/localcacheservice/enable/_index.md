@@ -1,7 +1,7 @@
 ---
-title: Enable
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取服务是否已启用。
+title: "启用"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取服务是否已启用。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/localcacheservice/enable/

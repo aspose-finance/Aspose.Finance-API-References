@@ -1,7 +1,7 @@
 ---
-title: 概念
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 概念有两种等价的定义方式。就语法层面而言，概念是一个 XML Schema 元素定义，定义该元素属于 item 元素替代组或 tuple 元素替代组。在语义层面，概念是对一种可以报告业务活动或业务性质的事实的定义。
+title: "概念"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "概念有两种等价的定义方式。就语法层面而言，概念是一个 XML Schema 元素定义，定义该元素属于 item 元素替代组或 tuple 元素替代组。在语义层面，概念是对一种可以报告业务活动或业务性质的事实的定义。"
 type: docs
 weight: 6560
 url: /zh/net/aspose.finance.xbrl/concept/

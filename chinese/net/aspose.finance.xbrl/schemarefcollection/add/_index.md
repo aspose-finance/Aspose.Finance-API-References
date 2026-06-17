@@ -1,7 +1,7 @@
 ---
-title: Add
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 向集合中添加 SchemaRefaspose.finance.xbrl/schemaref。
+title: "Add"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "向集合中添加 SchemaRefaspose.finance.xbrl/schemaref。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/schemarefcollection/add/

@@ -1,7 +1,7 @@
 ---
-title: PresentmentMailSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单呈现邮件同步响应类。
+title: "PresentmentMailSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单呈现邮件同步响应类。"
 type: docs
 weight: 1760
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse/

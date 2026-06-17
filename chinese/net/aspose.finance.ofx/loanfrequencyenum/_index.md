@@ -1,7 +1,7 @@
 ---
-title: LoanFrequencyEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 贷款频率枚举。
+title: "LoanFrequencyEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "贷款频率枚举。"
 type: docs
 weight: 4070
 url: /zh/net/aspose.finance.ofx/loanfrequencyenum/

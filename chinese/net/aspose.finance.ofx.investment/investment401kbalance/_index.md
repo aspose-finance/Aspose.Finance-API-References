@@ -1,7 +1,7 @@
 ---
-title: Investment401kBalance
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类包含一个可选的现金余额。它还包含标准 401k 子账户的余额。
+title: "Investment401kBalance"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类包含一个可选的现金余额。它还包含标准 401k 子账户的余额。"
 type: docs
 weight: 2910
 url: /zh/net/aspose.finance.ofx.investment/investment401kbalance/

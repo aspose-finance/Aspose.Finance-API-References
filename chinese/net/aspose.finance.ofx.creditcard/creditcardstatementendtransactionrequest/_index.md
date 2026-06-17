@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementEndTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 信用卡结算报表交易请求类。
+title: "CreditCardStatementEndTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "信用卡结算报表交易请求类。"
 type: docs
 weight: 1980
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/

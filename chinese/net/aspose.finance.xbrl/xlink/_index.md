@@ -1,7 +1,7 @@
 ---
-title: Xlink
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: XBRL 中各种链接的抽象类，例如简单链接、扩展链接等。
+title: "Xlink"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "XBRL 中各种链接的抽象类，例如简单链接、扩展链接等。"
 type: docs
 weight: 8270
 url: /zh/net/aspose.finance.xbrl/xlink/

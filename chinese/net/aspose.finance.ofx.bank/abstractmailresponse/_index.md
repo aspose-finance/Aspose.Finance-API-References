@@ -1,7 +1,7 @@
 ---
-title: AbstractMailResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 所有银行邮件响应相关类的抽象基类。
+title: "AbstractMailResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "所有银行邮件响应相关类的抽象基类。"
 type: docs
 weight: 280
 url: /zh/net/aspose.finance.ofx.bank/abstractmailresponse/

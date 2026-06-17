@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraCancellationResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 定期内部银行转账取消响应类。
+title: "RecurringIntraCancellationResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "定期内部银行转账取消响应类。"
 type: docs
 weight: 540
 url: /zh/net/aspose.finance.ofx.bank/recurringintracancellationresponse/

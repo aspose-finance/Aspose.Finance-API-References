@@ -1,14 +1,14 @@
 ---
-title: Footnotes
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Gets the collection of InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote in the inline XBRL document.
+title: "脚注"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取内联 XBRL 文档中 InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote 的集合。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/footnotes/
 ---
 ## InlineXbrlDocument.Footnotes property
 
-Gets the collection of [`InlineFootnote`](../../inlinefootnote) in the inline XBRL document.
+获取内联 XBRL 文档中 [`InlineFootnote`](../../inlinefootnote) 的集合。
 
 ```csharp
 public List<InlineFootnote> Footnotes { get; }

@@ -1,7 +1,7 @@
 ---
-title: 隐藏
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置此 fact 是否隐藏。
+title: "隐藏"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置此 fact 是否隐藏。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinefact/hidden/

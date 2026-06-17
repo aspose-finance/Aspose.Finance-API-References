@@ -1,7 +1,7 @@
 ---
-title: LoanAccount
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Open Financial Exchange 使用贷款账户来标识金融机构中的贷款账户。该类包含足够的信息，以唯一标识用于报表下载和资金转账的账户。
+title: "LoanAccount"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Open Financial Exchange 使用贷款账户来标识金融机构中的贷款账户。该类包含足够的信息，以唯一标识用于报表下载和资金转账的账户。"
 type: docs
 weight: 4030
 url: /zh/net/aspose.finance.ofx/loanaccount/

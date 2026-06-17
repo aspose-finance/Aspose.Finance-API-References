@@ -1,7 +1,7 @@
 ---
-title: ServiceDelete
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 服务删除类。
+title: "ServiceDelete"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "服务删除类。"
 type: docs
 weight: 5690
 url: /zh/net/aspose.finance.ofx.signup/servicedelete/

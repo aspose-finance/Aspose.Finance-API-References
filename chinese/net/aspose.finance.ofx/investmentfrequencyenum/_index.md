@@ -1,7 +1,7 @@
 ---
-title: InvestmentFrequencyEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资频率类型 enum。
+title: "InvestmentFrequencyEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资频率类型 enum。"
 type: docs
 weight: 3670
 url: /zh/net/aspose.finance.ofx/investmentfrequencyenum/

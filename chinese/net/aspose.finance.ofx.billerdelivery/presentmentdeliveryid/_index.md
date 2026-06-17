@@ -1,7 +1,7 @@
 ---
-title: PresentmentDeliveryId
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于标识账单交付实例并指示账单何时被查看。
+title: "PresentmentDeliveryId"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于标识账单交付实例并指示账单何时被查看。"
 type: docs
 weight: 1610
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/

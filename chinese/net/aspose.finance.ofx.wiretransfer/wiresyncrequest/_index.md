@@ -1,7 +1,7 @@
 ---
-title: WireSyncRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电汇事务同步请求类。
+title: "WireSyncRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电汇事务同步请求类。"
 type: docs
 weight: 6430
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiresyncrequest/

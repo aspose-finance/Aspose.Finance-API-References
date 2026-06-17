@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceCollection
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: XBRL 实例的集合。
+title: "XbrlInstanceCollection"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "XBRL 实例的集合。"
 type: docs
 weight: 8260
 url: /zh/net/aspose.finance.xbrl/xbrlinstancecollection/

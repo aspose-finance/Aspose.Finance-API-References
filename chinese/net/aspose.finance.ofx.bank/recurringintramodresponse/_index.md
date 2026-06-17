@@ -1,7 +1,7 @@
 ---
-title: RecurringIntraModResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 定期内部银行转账修改响应类。
+title: "RecurringIntraModResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "定期内部银行转账修改响应类。"
 type: docs
 weight: 560
 url: /zh/net/aspose.finance.ofx.bank/recurringintramodresponse/

@@ -1,7 +1,7 @@
 ---
-title: Id
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置上下文的 ID。
+title: "Id"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置上下文的 ID。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/context/id/

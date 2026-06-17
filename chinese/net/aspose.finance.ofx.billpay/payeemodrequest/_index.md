@@ -1,7 +1,7 @@
 ---
-title: PayeeModRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 收款人修改请求类。
+title: "PayeeModRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "收款人修改请求类。"
 type: docs
 weight: 970
 url: /zh/net/aspose.finance.ofx.billpay/payeemodrequest/

@@ -1,7 +1,7 @@
 ---
-title: Reason
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置拒绝原因。
+title: "Reason"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置拒绝原因。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/presentmentaccountinfo/reason/

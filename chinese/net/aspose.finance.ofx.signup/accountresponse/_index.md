@@ -1,7 +1,7 @@
 ---
-title: AccountResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账户服务响应类。
+title: "AccountResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账户服务响应类。"
 type: docs
 weight: 5520
 url: /zh/net/aspose.finance.ofx.signup/accountresponse/

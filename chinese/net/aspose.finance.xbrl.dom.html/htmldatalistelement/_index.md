@@ -1,7 +1,7 @@
 ---
-title: HTMLDataListElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示一组 option 元素，这些元素为其他控件提供预定义选项。
+title: "HTMLDataListElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示一组 option 元素，这些元素为其他控件提供预定义选项。"
 type: docs
 weight: 6830
 url: /zh/net/aspose.finance.xbrl.dom.html/htmldatalistelement/

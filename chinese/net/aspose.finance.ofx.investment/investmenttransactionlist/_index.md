@@ -1,7 +1,7 @@
 ---
-title: InvestmentTransactionList
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资交易列表类。
+title: "InvestmentTransactionList"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资交易列表类。"
 type: docs
 weight: 3170
 url: /zh/net/aspose.finance.ofx.investment/investmenttransactionlist/

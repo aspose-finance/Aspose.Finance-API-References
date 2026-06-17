@@ -1,7 +1,7 @@
 ---
-title: Tax1098RequestMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1098 请求消息集 版本 1 类。
+title: "Tax1098RequestMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1098 请求消息集 版本 1 类。"
 type: docs
 weight: 5870
 url: /zh/net/aspose.finance.ofx/tax1098requestmessagesetv1/

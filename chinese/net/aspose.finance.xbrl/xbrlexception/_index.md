@@ -1,7 +1,7 @@
 ---
-title: XbrlException
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 当出现 Aspose.Finance.Xbrl 指定的错误时抛出的异常。
+title: "XbrlException"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "当出现 Aspose.Finance.Xbrl 指定的错误时抛出的异常。"
 type: docs
 weight: 8230
 url: /zh/net/aspose.finance.xbrl/xbrlexception/

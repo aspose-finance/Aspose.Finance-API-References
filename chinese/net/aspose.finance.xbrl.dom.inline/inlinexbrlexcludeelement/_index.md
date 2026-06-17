@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlExcludeElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 inline xbrl exclude 元素。
+title: "InlineXbrlExcludeElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 inline xbrl exclude 元素。"
 type: docs
 weight: 7340
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlexcludeelement/

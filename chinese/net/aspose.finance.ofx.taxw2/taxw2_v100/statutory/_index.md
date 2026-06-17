@@ -1,7 +1,7 @@
 ---
-title: 法定
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置法定雇员。
+title: "法定"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置法定雇员。"
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/statutory/

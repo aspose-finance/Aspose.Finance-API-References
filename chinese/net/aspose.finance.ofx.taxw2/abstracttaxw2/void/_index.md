@@ -1,7 +1,7 @@
 ---
-title: Void
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置此 W2 是否作废以及是否将提供新的 W2。
+title: "Void"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置此 W2 是否作废以及是否将提供新的 W2。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.taxw2/abstracttaxw2/void/

@@ -1,7 +1,7 @@
 ---
-title: Profit
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置已实现的盈亏。
+title: "Profit"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置已实现的盈亏。"
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099b_v100/profit/

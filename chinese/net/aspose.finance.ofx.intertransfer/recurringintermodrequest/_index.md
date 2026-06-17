@@ -1,7 +1,7 @@
 ---
-title: RecurringInterModRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 循环跨行修改请求类。
+title: "RecurringInterModRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "循环跨行修改请求类。"
 type: docs
 weight: 2520
 url: /zh/net/aspose.finance.ofx.intertransfer/recurringintermodrequest/

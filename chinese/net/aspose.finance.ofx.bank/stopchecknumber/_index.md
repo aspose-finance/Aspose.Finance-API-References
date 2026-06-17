@@ -1,7 +1,7 @@
 ---
-title: StopCheckNumber
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 停止检查项类。
+title: "StopCheckNumber"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "停止检查项类。"
 type: docs
 weight: 710
 url: /zh/net/aspose.finance.ofx.bank/stopchecknumber/

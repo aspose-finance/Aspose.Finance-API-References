@@ -1,7 +1,7 @@
 ---
-title: JournalSecurity
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 在同一投资账户的子账户之间记录证券持有情况.
+title: "JournalSecurity"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "在同一投资账户的子账户之间记录证券持有情况."
 type: docs
 weight: 3190
 url: /zh/net/aspose.finance.ofx.investment/journalsecurity/

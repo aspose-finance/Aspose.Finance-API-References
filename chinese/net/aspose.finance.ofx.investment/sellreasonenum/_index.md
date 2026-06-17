@@ -1,7 +1,7 @@
 ---
-title: SellReasonEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 卖出原因枚举。
+title: "SellReasonEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "卖出原因枚举。"
 type: docs
 weight: 3530
 url: /zh/net/aspose.finance.ofx.investment/sellreasonenum/

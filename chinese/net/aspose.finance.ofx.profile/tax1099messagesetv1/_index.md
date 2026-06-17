@@ -1,7 +1,7 @@
 ---
-title: Tax1099MessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 税务 1099 消息集第 1 版。
+title: "Tax1099MessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "税务 1099 消息集第 1 版。"
 type: docs
 weight: 4890
 url: /zh/net/aspose.finance.ofx.profile/tax1099messagesetv1/

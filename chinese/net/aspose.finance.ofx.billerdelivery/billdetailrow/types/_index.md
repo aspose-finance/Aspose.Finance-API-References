@@ -1,7 +1,7 @@
 ---
-title: 类型
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 MessageTypeaspose.finance.ofx/messagetype 或 CharTypeaspose.finance.ofx/chartype 的集合。
+title: "类型"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 MessageTypeaspose.finance.ofx/messagetype 或 CharTypeaspose.finance.ofx/chartype 的集合。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailrow/types/

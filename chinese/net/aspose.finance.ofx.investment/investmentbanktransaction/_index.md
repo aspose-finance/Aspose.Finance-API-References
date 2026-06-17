@@ -1,7 +1,7 @@
 ---
-title: InvestmentBankTransaction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于在投资报表下载中下载银行交易。
+title: "InvestmentBankTransaction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于在投资报表下载中下载银行交易。"
 type: docs
 weight: 2940
 url: /zh/net/aspose.finance.ofx.investment/investmentbanktransaction/

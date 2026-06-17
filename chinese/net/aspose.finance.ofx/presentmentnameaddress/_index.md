@@ -1,7 +1,7 @@
 ---
-title: PresentmentNameAddress
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 与账单方的客户信息。
+title: "PresentmentNameAddress"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "与账单方的客户信息。"
 type: docs
 weight: 4350
 url: /zh/net/aspose.finance.ofx/presentmentnameaddress/

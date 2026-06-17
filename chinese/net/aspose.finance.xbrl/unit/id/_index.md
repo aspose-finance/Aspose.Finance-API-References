@@ -1,7 +1,7 @@
 ---
-title: Id
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置单位 ID。
+title: "Id"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置单位 ID。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/unit/id/

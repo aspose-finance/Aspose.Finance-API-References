@@ -1,7 +1,7 @@
 ---
-title: ClientRoutingEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 客户端路由枚举。
+title: "ClientRoutingEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "客户端路由枚举。"
 type: docs
 weight: 4450
 url: /zh/net/aspose.finance.ofx.profile/clientroutingenum/

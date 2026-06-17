@@ -1,7 +1,7 @@
 ---
-title: Currency
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置报表的默认货币。
+title: "Currency"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置报表的默认货币。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/currency/

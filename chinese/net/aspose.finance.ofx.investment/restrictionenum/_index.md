@@ -1,7 +1,7 @@
 ---
-title: RestrictionEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 限制枚举。
+title: "RestrictionEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "限制枚举。"
 type: docs
 weight: 3460
 url: /zh/net/aspose.finance.ofx.investment/restrictionenum/

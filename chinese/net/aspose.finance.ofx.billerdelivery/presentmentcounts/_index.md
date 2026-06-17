@@ -1,7 +1,7 @@
 ---
-title: PresentmentCounts
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单计数类。
+title: "PresentmentCounts"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单计数类。"
 type: docs
 weight: 1600
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentcounts/

@@ -1,7 +1,7 @@
 ---
-title: ExtendedPayment
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类为收款人提供在多个发票上应用付款的信息。它的结构支持对发票数据进行电子处理，并允许指定多个发票以及每个发票的多行项目。
+title: "ExtendedPayment"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类为收款人提供在多个发票上应用付款的信息。它的结构支持对发票数据进行电子处理，并允许指定多个发票以及每个发票的多行项目。"
 type: docs
 weight: 910
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayment/

@@ -1,7 +1,7 @@
 ---
-title: PresentationArc
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是具有 Arc 类型的 Xlink./xlink。它定义了概念在呈现时相互关联的方式。
+title: "PresentationArc"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是具有 Arc 类型的 Xlink./xlink。它定义了概念在呈现时相互关联的方式。"
 type: docs
 weight: 7910
 url: /zh/net/aspose.finance.xbrl/presentationarc/

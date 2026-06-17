@@ -1,7 +1,7 @@
 ---
-title: BillStatusCounts
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单状态计数类。
+title: "BillStatusCounts"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单状态计数类。"
 type: docs
 weight: 1480
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatuscounts/

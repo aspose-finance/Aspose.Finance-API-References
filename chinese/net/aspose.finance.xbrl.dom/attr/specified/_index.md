@@ -1,7 +1,7 @@
 ---
-title: 已指定
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 如果此属性在实例文档中被显式赋值则为 true，否则为 false。
+title: "已指定"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "如果此属性在实例文档中被显式赋值则为 true，否则为 false。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl.dom/attr/specified/

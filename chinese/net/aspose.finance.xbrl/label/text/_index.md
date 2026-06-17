@@ -1,7 +1,7 @@
 ---
-title: 文本
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置标签的文本。
+title: "文本"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置标签的文本。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/label/text/

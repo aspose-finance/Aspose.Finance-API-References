@@ -1,7 +1,7 @@
 ---
-title: BillPaymentAccountInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: OFX 使用 payments account information 类从 FI 下载账户信息。
+title: "BillPaymentAccountInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "OFX 使用 payments account information 类从 FI 下载账户信息。"
 type: docs
 weight: 1400
 url: /zh/net/aspose.finance.ofx/billpaymentaccountinfo/

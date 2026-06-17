@@ -1,7 +1,7 @@
 ---
-title: DebtInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 债务信息类。
+title: "DebtInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "债务信息类。"
 type: docs
 weight: 5070
 url: /zh/net/aspose.finance.ofx.securitieslist/debtinfo/

@@ -1,6 +1,6 @@
 ---
-title: InlineValidationError
-second_title: Aspose.Finance 适用于 .NET API 参考
+title: "InlineValidationError"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
 description: 
 type: docs
 weight: 8180

@@ -1,7 +1,7 @@
 ---
-title: PresentmentDeliveryResponseMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单方交付响应消息集第 1 版类。
+title: "PresentmentDeliveryResponseMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单方交付响应消息集第 1 版类。"
 type: docs
 weight: 4320
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/

@@ -1,7 +1,7 @@
 ---
-title: XbrlDocument
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 包含一个或多个 XBRL 实例的 XBRL 文档。
+title: "XbrlDocument"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "包含一个或多个 XBRL 实例的 XBRL 文档。"
 type: docs
 weight: 8220
 url: /zh/net/aspose.finance.xbrl/xbrldocument/

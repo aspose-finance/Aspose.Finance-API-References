@@ -1,7 +1,7 @@
 ---
-title: AbstractInvestmentBuyTransaction
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资买入交易相关类的抽象基类。
+title: "AbstractInvestmentBuyTransaction"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资买入交易相关类的抽象基类。"
 type: docs
 weight: 2620
 url: /zh/net/aspose.finance.ofx.investment/abstractinvestmentbuytransaction/

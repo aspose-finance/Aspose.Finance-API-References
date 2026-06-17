@@ -1,7 +1,7 @@
 ---
-title: ChangeUserInfoSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 更改用户信息同步响应类。
+title: "ChangeUserInfoSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "更改用户信息同步响应类。"
 type: docs
 weight: 5600
 url: /zh/net/aspose.finance.ofx.signup/changeuserinfosyncresponse/

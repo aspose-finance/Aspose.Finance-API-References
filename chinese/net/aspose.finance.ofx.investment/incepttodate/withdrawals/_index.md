@@ -1,7 +1,7 @@
 ---
-title: Withdrawals
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 Withdrawalsaspose.finance.ofx.investment/incepttodate/withdrawals。
+title: "Withdrawals"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 Withdrawalsaspose.finance.ofx.investment/incepttodate/withdrawals。"
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/incepttodate/withdrawals/

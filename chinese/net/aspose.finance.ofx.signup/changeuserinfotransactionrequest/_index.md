@@ -1,7 +1,7 @@
 ---
-title: ChangeUserInfoTransactionRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 更改用户信息事务请求类。
+title: "ChangeUserInfoTransactionRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "更改用户信息事务请求类。"
 type: docs
 weight: 5610
 url: /zh/net/aspose.finance.ofx.signup/changeuserinfotransactionrequest/

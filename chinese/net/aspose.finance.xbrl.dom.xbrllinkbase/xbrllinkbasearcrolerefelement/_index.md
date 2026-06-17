@@ -1,7 +1,7 @@
 ---
-title: XbrlLinkbaseArcroleRefElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 xbrl linkbase arcroleRef 元素。
+title: "XbrlLinkbaseArcroleRefElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 xbrl linkbase arcroleRef 元素。"
 type: docs
 weight: 7570
 url: /zh/net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbasearcrolerefelement/

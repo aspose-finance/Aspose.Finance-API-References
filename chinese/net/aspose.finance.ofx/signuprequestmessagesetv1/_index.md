@@ -1,7 +1,7 @@
 ---
-title: SignupRequestMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 注册请求消息集第 1 版类。
+title: "SignupRequestMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "注册请求消息集第 1 版类。"
 type: docs
 weight: 5710
 url: /zh/net/aspose.finance.ofx/signuprequestmessagesetv1/

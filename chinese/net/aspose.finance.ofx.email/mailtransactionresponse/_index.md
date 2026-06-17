@@ -1,7 +1,7 @@
 ---
-title: MailTransactionResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电子邮件消息事务响应类。
+title: "MailTransactionResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电子邮件消息事务响应类。"
 type: docs
 weight: 2210
 url: /zh/net/aspose.finance.ofx.email/mailtransactionresponse/

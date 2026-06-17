@@ -1,7 +1,7 @@
 ---
-title: Count
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此集合中模式引用的数量。
+title: "Count"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此集合中模式引用的数量。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/schemarefcollection/count/

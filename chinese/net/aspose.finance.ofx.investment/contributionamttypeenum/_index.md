@@ -1,6 +1,6 @@
 ---
-title: ContributionAmtTypeEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
+title: "ContributionAmtTypeEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
 description: 
 type: docs
 weight: 2760

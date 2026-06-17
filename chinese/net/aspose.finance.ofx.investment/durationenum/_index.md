@@ -1,7 +1,7 @@
 ---
-title: DurationEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 持续时间枚举。
+title: "DurationEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "持续时间枚举。"
 type: docs
 weight: 2820
 url: /zh/net/aspose.finance.ofx.investment/durationenum/
@@ -18,9 +18,9 @@ public enum DurationEnum
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| DAY | `0` | Day |
-| GOODTILCANCEL | `1` | Good Til Cancel |
-| IMMEDIATE | `2` | Immediate |
+| DAY | `0` | 天 |
+| GOODTILCANCEL | `1` | 有效至取消 |
+| IMMEDIATE | `2` | 立即 |
 
 ### 另请参阅
 

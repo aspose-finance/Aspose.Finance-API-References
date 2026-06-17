@@ -1,7 +1,7 @@
 ---
-title: Decimals
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置小数。
+title: "Decimals"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置小数。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/item/decimals/

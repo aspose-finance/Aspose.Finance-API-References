@@ -1,7 +1,7 @@
 ---
-title: 角色
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置资源的 role。
+title: "角色"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置资源的 role。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/resource/role/

@@ -1,7 +1,7 @@
 ---
-title: CorrectiveActionEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 纠正措施 enum。
+title: "CorrectiveActionEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "纠正措施 enum。"
 type: docs
 weight: 1940
 url: /zh/net/aspose.finance.ofx/correctiveactionenum/

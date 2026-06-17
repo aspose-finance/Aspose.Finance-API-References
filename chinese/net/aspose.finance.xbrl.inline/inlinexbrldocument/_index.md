@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlDocument
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 一个内联 XBRL 文档。
+title: "InlineXbrlDocument"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "一个内联 XBRL 文档。"
 type: docs
 weight: 7790
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/

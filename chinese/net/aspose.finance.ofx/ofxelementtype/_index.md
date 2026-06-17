@@ -1,7 +1,7 @@
 ---
-title: OfxElementType
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Ofx 自定义元素类。
+title: "OfxElementType"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Ofx 自定义元素类。"
 type: docs
 weight: 4190
 url: /zh/net/aspose.finance.ofx/ofxelementtype/

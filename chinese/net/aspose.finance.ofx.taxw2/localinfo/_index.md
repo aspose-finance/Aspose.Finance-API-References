@@ -1,7 +1,7 @@
 ---
-title: LocalInfo
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 本地信息类。
+title: "LocalInfo"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "本地信息类。"
 type: docs
 weight: 6180
 url: /zh/net/aspose.finance.ofx.taxw2/localinfo/

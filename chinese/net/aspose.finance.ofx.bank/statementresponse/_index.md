@@ -1,7 +1,7 @@
 ---
-title: StatementResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 报表响应类。
+title: "StatementResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "报表响应类。"
 type: docs
 weight: 680
 url: /zh/net/aspose.finance.ofx.bank/statementresponse/

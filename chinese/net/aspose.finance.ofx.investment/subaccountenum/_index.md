@@ -1,7 +1,7 @@
 ---
-title: SubAccountEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 子账户类型枚举。
+title: "SubAccountEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "子账户类型枚举。"
 type: docs
 weight: 3570
 url: /zh/net/aspose.finance.ofx.investment/subaccountenum/

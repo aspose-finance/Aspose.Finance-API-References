@@ -1,6 +1,6 @@
 ---
-title: Aspose.Finance.Ofx.Tax1099
-second_title: Aspose.Finance 适用于 .NET API 参考
+title: "Aspose.Finance.Ofx.Tax1099"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
 description: 
 type: docs
 weight: 180

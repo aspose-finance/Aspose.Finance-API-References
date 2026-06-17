@@ -1,7 +1,7 @@
 ---
-title: Locators
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取 Locaspose.finance.xbrl/loc 的集合。
+title: "Locators"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取 Locaspose.finance.xbrl/loc 的集合。"
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/definitionlink/locators/

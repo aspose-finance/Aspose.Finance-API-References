@@ -1,7 +1,7 @@
 ---
-title: SimpleLink
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 简单类型 Xlink。
+title: "SimpleLink"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "简单类型 Xlink。"
 type: docs
 weight: 8090
 url: /zh/net/aspose.finance.xbrl/simplelink/

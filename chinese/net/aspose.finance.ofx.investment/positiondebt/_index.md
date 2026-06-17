@@ -1,7 +1,7 @@
 ---
-title: PositionDebt
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 投资持仓债券类.
+title: "PositionDebt"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "投资持仓债券类."
 type: docs
 weight: 3380
 url: /zh/net/aspose.finance.ofx.investment/positiondebt/

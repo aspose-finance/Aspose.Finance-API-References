@@ -1,7 +1,7 @@
 ---
-title: BillDetailRow
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 账单明细行类。
+title: "BillDetailRow"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "账单明细行类。"
 type: docs
 weight: 1410
 url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailrow/

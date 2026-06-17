@@ -1,7 +1,7 @@
 ---
-title: InterCancellationResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 跨行转账取消响应类。
+title: "InterCancellationResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "跨行转账取消响应类。"
 type: docs
 weight: 2410
 url: /zh/net/aspose.finance.ofx.intertransfer/intercancellationresponse/

@@ -1,7 +1,7 @@
 ---
-title: 参考角色
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 引用角色枚举。
+title: "参考角色"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "引用角色枚举。"
 type: docs
 weight: 8000
 url: /zh/net/aspose.finance.xbrl/referencerole/

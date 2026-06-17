@@ -1,7 +1,7 @@
 ---
-title: 名称
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置受益人的名称。
+title: "名称"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置受益人的名称。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/name/

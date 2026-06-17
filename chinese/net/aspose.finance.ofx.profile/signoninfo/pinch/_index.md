@@ -1,7 +1,7 @@
 ---
-title: Pinch
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置服务器是否支持 PIN 更改请求。
+title: "Pinch"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置服务器是否支持 PIN 更改请求。"
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.profile/signoninfo/pinch/

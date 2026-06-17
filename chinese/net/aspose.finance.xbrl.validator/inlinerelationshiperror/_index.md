@@ -1,6 +1,6 @@
 ---
-title: InlineRelationshipError
-second_title: Aspose.Finance 适用于 .NET API 参考
+title: "InlineRelationshipError"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
 description: 
 type: docs
 weight: 8170

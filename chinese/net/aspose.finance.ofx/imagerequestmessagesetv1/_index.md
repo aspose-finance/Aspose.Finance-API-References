@@ -1,7 +1,7 @@
 ---
-title: ImageRequestMessageSetV1
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: Image request messages set version 1 类。
+title: "ImageRequestMessageSetV1"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "Image request messages set version 1 类。"
 type: docs
 weight: 2330
 url: /zh/net/aspose.finance.ofx/imagerequestmessagesetv1/

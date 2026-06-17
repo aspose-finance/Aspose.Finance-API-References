@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSellDebt
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 开放订单卖出债券类.
+title: "OpenOrderSellDebt"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "开放订单卖出债券类."
 type: docs
 weight: 3280
 url: /zh/net/aspose.finance.ofx.investment/openorderselldebt/

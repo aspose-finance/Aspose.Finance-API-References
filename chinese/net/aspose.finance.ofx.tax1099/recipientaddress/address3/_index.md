@@ -1,7 +1,7 @@
 ---
-title: 地址3
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置收件人地址第 3 行。
+title: "地址3"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置收件人地址第 3 行。"
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1099/recipientaddress/address3/

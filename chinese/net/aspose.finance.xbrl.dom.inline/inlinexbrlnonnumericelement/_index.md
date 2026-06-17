@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlNonNumericElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示 inline xbrl nonNumeric 元素。
+title: "InlineXbrlNonNumericElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示 inline xbrl nonNumeric 元素。"
 type: docs
 weight: 7400
 url: /zh/net/aspose.finance.xbrl.dom.inline/inlinexbrlnonnumericelement/

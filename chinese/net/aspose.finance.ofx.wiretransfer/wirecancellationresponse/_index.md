@@ -1,7 +1,7 @@
 ---
-title: WireCancellationResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电汇取消响应类。
+title: "WireCancellationResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电汇取消响应类。"
 type: docs
 weight: 6390
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirecancellationresponse/

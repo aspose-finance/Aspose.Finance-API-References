@@ -1,7 +1,7 @@
 ---
-title: Refresh
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置是否请求刷新当前状态。
+title: "Refresh"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置是否请求刷新当前状态。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/abstractsyncrequest/refresh/

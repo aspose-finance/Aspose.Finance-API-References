@@ -1,7 +1,7 @@
 ---
-title: RecurringInterSyncResponse
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 循环跨行交易同步响应类。
+title: "RecurringInterSyncResponse"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "循环跨行交易同步响应类。"
 type: docs
 weight: 2570
 url: /zh/net/aspose.finance.ofx.intertransfer/recurringintersyncresponse/

@@ -1,7 +1,7 @@
 ---
-title: Numerator
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置 股票拆分的拆分比例分子。
+title: "Numerator"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置 股票拆分的拆分比例分子。"
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.investment/split/numerator/

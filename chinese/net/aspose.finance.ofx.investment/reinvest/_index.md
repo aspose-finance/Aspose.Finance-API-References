@@ -1,7 +1,7 @@
 ---
-title: 再投资
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 收入再投资类.
+title: "再投资"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "收入再投资类."
 type: docs
 weight: 3440
 url: /zh/net/aspose.finance.ofx.investment/reinvest/

@@ -1,7 +1,7 @@
 ---
-title: ReturnOfCapital
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 资本回报类.
+title: "ReturnOfCapital"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "资本回报类."
 type: docs
 weight: 3470
 url: /zh/net/aspose.finance.ofx.investment/returnofcapital/

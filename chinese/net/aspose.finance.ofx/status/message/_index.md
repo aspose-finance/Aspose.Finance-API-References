@@ -1,7 +1,7 @@
 ---
-title: Message
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置来自 FI 的文本说明。
+title: "Message"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置来自 FI 的文本说明。"
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/status/message/

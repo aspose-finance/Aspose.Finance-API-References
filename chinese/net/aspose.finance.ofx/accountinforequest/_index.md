@@ -1,7 +1,7 @@
 ---
-title: AccountInfoRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 客户端使用此类请求自上次请求以来状态已更改的账户信息。此请求通常用于检索状态从 PEND 更改为 ACTIVE 的账户列表。
+title: "AccountInfoRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "客户端使用此类请求自上次请求以来状态已更改的账户信息。此请求通常用于检索状态从 PEND 更改为 ACTIVE 的账户列表。"
 type: docs
 weight: 190
 url: /zh/net/aspose.finance.ofx/accountinforequest/

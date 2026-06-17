@@ -1,7 +1,7 @@
 ---
-title: Graduate
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置是否为研究生。
+title: "Graduate"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置是否为研究生。"
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098t_v100/graduate/

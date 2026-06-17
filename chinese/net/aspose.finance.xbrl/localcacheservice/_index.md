@@ -1,7 +1,7 @@
 ---
-title: LocalCacheService
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类是用于模式和链接库外部文件的本地缓存服务。
+title: "LocalCacheService"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类是用于模式和链接库外部文件的本地缓存服务。"
 type: docs
 weight: 7890
 url: /zh/net/aspose.finance.xbrl/localcacheservice/

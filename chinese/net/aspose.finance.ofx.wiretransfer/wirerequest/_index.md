@@ -1,7 +1,7 @@
 ---
-title: WireRequest
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 电汇请求类。
+title: "WireRequest"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "电汇请求类。"
 type: docs
 weight: 6410
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirerequest/

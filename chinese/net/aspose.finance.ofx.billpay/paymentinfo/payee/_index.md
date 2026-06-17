@@ -1,7 +1,7 @@
 ---
-title: 收款人
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置完整的 Payeeaspose.finance.ofx.billpay/paymentinfo/payee 计费信息。
+title: "收款人"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置完整的 Payeeaspose.finance.ofx.billpay/paymentinfo/payee 计费信息。"
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/payee/

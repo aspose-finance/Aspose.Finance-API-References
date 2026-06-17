@@ -1,7 +1,7 @@
 ---
-title: BalanceEnum
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 余额类型 enum
+title: "BalanceEnum"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "余额类型 enum"
 type: docs
 weight: 240
 url: /zh/net/aspose.finance.ofx/balanceenum/

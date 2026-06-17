@@ -1,7 +1,7 @@
 ---
-title: HTMLInputElement
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 该类表示表单控件。根据页面查看的环境，value 属性在文件上传输入类型下可能为只读。对于密码输入类型，返回的实际值可能被掩码以防止未经授权的使用。请参阅 HTML 4.01 中的 INPUT 元素定义。
+title: "HTMLInputElement"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "该类表示表单控件。根据页面查看的环境，value 属性在文件上传输入类型下可能为只读。对于密码输入类型，返回的实际值可能被掩码以防止未经授权的使用。请参阅 HTML 4.01 中的 INPUT 元素定义。"
 type: docs
 weight: 6980
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlinputelement/

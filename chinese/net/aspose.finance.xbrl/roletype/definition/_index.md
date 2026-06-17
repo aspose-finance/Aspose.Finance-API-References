@@ -1,7 +1,7 @@
 ---
-title: Definition
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取 RoleTypeaspose.finance.xbrl/roletype 中的定义。
+title: "Definition"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取 RoleTypeaspose.finance.xbrl/roletype 中的定义。"
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/roletype/definition/

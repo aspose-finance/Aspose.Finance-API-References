@@ -1,7 +1,7 @@
 ---
-title: InlineReferences
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 此类用于内联 XBRL 文档中的引用。
+title: "InlineReferences"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "此类用于内联 XBRL 文档中的引用。"
 type: docs
 weight: 7760
 url: /zh/net/aspose.finance.xbrl.inline/inlinereferences/

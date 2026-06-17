@@ -1,7 +1,7 @@
 ---
-title: Markdown
-second_title: Aspose.Finance 适用于 .NET API 参考
-description: 获取或设置归因于经销商折价的单价部分。
+title: "Markdown"
+second_title: "Aspose.Finance 适用于 .NET API 参考"
+description: "获取或设置归因于经销商折价的单价部分。"
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.investment/investmentsell/markdown/
