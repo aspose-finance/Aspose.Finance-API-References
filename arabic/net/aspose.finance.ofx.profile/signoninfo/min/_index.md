@@ -1,7 +1,7 @@
 ---
-title: Min
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو الضبط للحد الأدنى لعدد أحرف كلمة المرور.
+title: "Min"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو الضبط للحد الأدنى لعدد أحرف كلمة المرور."
 type: docs
 weight: 130
 url: /ar/net/aspose.finance.ofx.profile/signoninfo/min/

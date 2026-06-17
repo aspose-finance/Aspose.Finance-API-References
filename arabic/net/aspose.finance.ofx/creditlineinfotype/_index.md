@@ -1,7 +1,7 @@
 ---
-title: CreditLineInfoType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة من المعلومات التي تقدم معلومات إضافية لحسابات CREDITLINE. لا تُستخدم لأنواع الحسابات الأخرى.
+title: "CreditLineInfoType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة من المعلومات التي تقدم معلومات إضافية لحسابات CREDITLINE. لا تُستخدم لأنواع الحسابات الأخرى."
 type: docs
 weight: 2060
 url: /ar/net/aspose.finance.ofx/creditlineinfotype/

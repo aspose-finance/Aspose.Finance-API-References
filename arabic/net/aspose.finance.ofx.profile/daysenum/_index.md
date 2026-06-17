@@ -1,7 +1,7 @@
 ---
-title: DaysEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد أيام الأسبوع.
+title: "DaysEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد أيام الأسبوع."
 type: docs
 weight: 4480
 url: /ar/net/aspose.finance.ofx.profile/daysenum/

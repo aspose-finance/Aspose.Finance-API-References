@@ -1,7 +1,7 @@
 ---
-title: الإغلاقات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط مجموعة Closingaspose.finance.ofx.bank/closing.
+title: "الإغلاقات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط مجموعة Closingaspose.finance.ofx.bank/closing."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.bank/statementendresponse/closings/

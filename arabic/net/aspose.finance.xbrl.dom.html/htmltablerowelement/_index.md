@@ -1,7 +1,7 @@
 ---
-title: HTMLTableRowElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل صفًا في جدول. راجع تعريف عنصر TR في HTML 4.01.
+title: "HTMLTableRowElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل صفًا في جدول. راجع تعريف عنصر TR في HTML 4.01."
 type: docs
 weight: 7250
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltablerowelement/

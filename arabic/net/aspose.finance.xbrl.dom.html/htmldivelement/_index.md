@@ -1,7 +1,7 @@
 ---
-title: HTMLDivElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل حاوية كتلة عامة. راجع تعريف عنصر DIV في HTML 4.01.
+title: "HTMLDivElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل حاوية كتلة عامة. راجع تعريف عنصر DIV في HTML 4.01."
 type: docs
 weight: 6850
 url: /ar/net/aspose.finance.xbrl.dom.html/htmldivelement/

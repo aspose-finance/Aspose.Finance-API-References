@@ -1,7 +1,7 @@
 ---
-title: Tax1099DIV_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نموذج الضريبة 1099-DIV V100.
+title: "Tax1099DIV_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نموذج الضريبة 1099-DIV V100."
 type: docs
 weight: 6030
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099div_v100/

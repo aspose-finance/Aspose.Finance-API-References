@@ -1,7 +1,7 @@
 ---
-title: ElementBalanceType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: عدد نوع الرصيد Concept./concept.
+title: "ElementBalanceType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "عدد نوع الرصيد Concept./concept."
 type: docs
 weight: 7620
 url: /ar/net/aspose.finance.xbrl/elementbalancetype/

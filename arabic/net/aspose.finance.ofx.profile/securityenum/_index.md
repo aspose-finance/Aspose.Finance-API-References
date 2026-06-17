@@ -1,7 +1,7 @@
 ---
-title: SecurityEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد مستوى الأمان.
+title: "SecurityEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد مستوى الأمان."
 type: docs
 weight: 4760
 url: /ar/net/aspose.finance.ofx.profile/securityenum/

@@ -1,7 +1,7 @@
 ---
-title: OfxElementType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عنصر Ofx المخصص.
+title: "OfxElementType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عنصر Ofx المخصص."
 type: docs
 weight: 4190
 url: /ar/net/aspose.finance.ofx/ofxelementtype/

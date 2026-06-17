@@ -1,7 +1,7 @@
 ---
-title: ContextPeriod
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفترة الخاصة بـ Context./context.
+title: "ContextPeriod"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفترة الخاصة بـ Context./context."
 type: docs
 weight: 6590
 url: /ar/net/aspose.finance.xbrl/contextperiod/

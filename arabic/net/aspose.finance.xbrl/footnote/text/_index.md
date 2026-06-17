@@ -1,7 +1,7 @@
 ---
-title: نص
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن نص الحاشية.
+title: "نص"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن نص الحاشية."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/footnote/text/

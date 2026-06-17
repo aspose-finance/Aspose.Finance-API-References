@@ -1,7 +1,7 @@
 ---
-title: رخصة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يوفر طرقًا لترخيص المكوّن.
+title: "رخصة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يوفر طرقًا لترخيص المكوّن."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance/license/

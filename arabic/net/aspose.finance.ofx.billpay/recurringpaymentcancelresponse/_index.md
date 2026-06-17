@@ -1,7 +1,7 @@
 ---
-title: RecurringPaymentCancelResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إلغاء الدفع المتكرر.
+title: "RecurringPaymentCancelResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إلغاء الدفع المتكرر."
 type: docs
 weight: 1290
 url: /ar/net/aspose.finance.ofx.billpay/recurringpaymentcancelresponse/

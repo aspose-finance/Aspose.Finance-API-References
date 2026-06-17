@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن RecurringPaymentResponseaspose.finance.ofx.billpay/recurringpaymentresponse أو RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse أو RecurringPaymentCancelResponseaspose.finance.ofx.billpay/recurringpaymentcancelresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن RecurringPaymentResponseaspose.finance.ofx.billpay/recurringpaymentresponse أو RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse أو RecurringPaymentCancelResponseaspose.finance.ofx.billpay/recurringpaymentcancelresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/response/

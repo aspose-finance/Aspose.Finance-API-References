@@ -1,7 +1,7 @@
 ---
-title: InlineReferences
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة للمراجع في مستند XBRL مضمن.
+title: "InlineReferences"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة للمراجع في مستند XBRL مضمن."
 type: docs
 weight: 7760
 url: /ar/net/aspose.finance.xbrl.inline/inlinereferences/

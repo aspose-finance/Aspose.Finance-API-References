@@ -1,7 +1,7 @@
 ---
-title: تحميل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الحمولة على المعاملة.
+title: "تحميل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الحمولة على المعاملة."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx.investment/investmentsell/load/

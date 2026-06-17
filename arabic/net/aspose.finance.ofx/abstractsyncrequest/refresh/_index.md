@@ -1,7 +1,7 @@
 ---
-title: تحديث
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين ما إذا كان هناك طلب لتحديث الحالة الحالية.
+title: "تحديث"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين ما إذا كان هناك طلب لتحديث الحالة الحالية."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.ofx/abstractsyncrequest/refresh/

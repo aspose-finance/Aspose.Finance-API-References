@@ -1,7 +1,7 @@
 ---
-title: MailTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة رسالة البريد الإلكتروني.
+title: "MailTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة رسالة البريد الإلكتروني."
 type: docs
 weight: 2200
 url: /ar/net/aspose.finance.ofx.email/mailtransactionrequest/

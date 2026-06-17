@@ -1,7 +1,7 @@
 ---
-title: Show
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط سمة العرض للرابط البسيط.
+title: "Show"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط سمة العرض للرابط البسيط."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.xbrl/simplelink/show/

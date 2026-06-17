@@ -1,7 +1,7 @@
 ---
-title: Percent
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن نسبة الصندوق التي تندرج تحت فئة الأصول هذه.
+title: "Percent"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن نسبة الصندوق التي تندرج تحت فئة الأصول هذه."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.securitieslist/portion/percent/

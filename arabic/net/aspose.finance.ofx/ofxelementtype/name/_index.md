@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الاسم المعروض سهل الاستخدام للعنصر المخصص.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الاسم المعروض سهل الاستخدام للعنصر المخصص."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx/ofxelementtype/name/

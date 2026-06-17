@@ -1,7 +1,7 @@
 ---
-title: BillPaymentStatusCounts
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عدد حالات دفع الفاتورة.
+title: "BillPaymentStatusCounts"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عدد حالات دفع الفاتورة."
 type: docs
 weight: 1450
 url: /ar/net/aspose.finance.ofx.billerdelivery/billpaymentstatuscounts/

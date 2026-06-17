@@ -1,7 +1,7 @@
 ---
-title: RecurringInstructions
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة التعليمات المتكررة.
+title: "RecurringInstructions"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة التعليمات المتكررة."
 type: docs
 weight: 4980
 url: /ar/net/aspose.finance.ofx/recurringinstructions/

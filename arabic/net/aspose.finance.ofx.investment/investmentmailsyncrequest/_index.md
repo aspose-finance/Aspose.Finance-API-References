@@ -1,7 +1,7 @@
 ---
-title: InvestmentMailSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة البريد الإلكتروني للاستثمار.
+title: "InvestmentMailSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة البريد الإلكتروني للاستثمار."
 type: docs
 weight: 3000
 url: /ar/net/aspose.finance.ofx.investment/investmentmailsyncrequest/

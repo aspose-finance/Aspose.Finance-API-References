@@ -1,7 +1,7 @@
 ---
-title: ChangeUserInfoRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تغيير معلومات المستخدم.
+title: "ChangeUserInfoRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تغيير معلومات المستخدم."
 type: docs
 weight: 5570
 url: /ar/net/aspose.finance.ofx.signup/changeuserinforequest/

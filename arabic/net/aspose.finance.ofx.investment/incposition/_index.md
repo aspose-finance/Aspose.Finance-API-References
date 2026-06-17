@@ -1,7 +1,7 @@
 ---
-title: IncPosition
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تضمين مراكز الاستثمار في الاستجابة.
+title: "IncPosition"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تضمين مراكز الاستثمار في الاستجابة."
 type: docs
 weight: 2860
 url: /ar/net/aspose.finance.ofx.investment/incposition/

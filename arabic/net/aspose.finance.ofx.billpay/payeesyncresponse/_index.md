@@ -1,7 +1,7 @@
 ---
-title: PayeeSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة قائمة المستفيدين.
+title: "PayeeSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة قائمة المستفيدين."
 type: docs
 weight: 1020
 url: /ar/net/aspose.finance.ofx.billpay/payeesyncresponse/

@@ -1,7 +1,7 @@
 ---
-title: LocalInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة المعلومات المحلية.
+title: "LocalInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة المعلومات المحلية."
 type: docs
 weight: 6180
 url: /ar/net/aspose.finance.ofx.taxw2/localinfo/

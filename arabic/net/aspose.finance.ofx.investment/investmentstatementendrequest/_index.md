@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementEndRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب إغلاق البيان.
+title: "InvestmentStatementEndRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب إغلاق البيان."
 type: docs
 weight: 3080
 url: /ar/net/aspose.finance.ofx.investment/investmentstatementendrequest/

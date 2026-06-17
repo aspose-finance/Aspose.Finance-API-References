@@ -1,7 +1,7 @@
 ---
-title: OfxExtensionType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة امتداد OFX.
+title: "OfxExtensionType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة امتداد OFX."
 type: docs
 weight: 4220
 url: /ar/net/aspose.finance.ofx/ofxextensiontype/

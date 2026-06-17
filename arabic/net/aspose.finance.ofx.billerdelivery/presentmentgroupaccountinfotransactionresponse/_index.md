@@ -1,7 +1,7 @@
 ---
-title: PresentmentGroupAccountInfoTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة معلومات حساب المجموعة.
+title: "PresentmentGroupAccountInfoTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة معلومات حساب المجموعة."
 type: docs
 weight: 1680
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/

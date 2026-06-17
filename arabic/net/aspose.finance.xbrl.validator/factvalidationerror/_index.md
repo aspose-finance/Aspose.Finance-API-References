@@ -1,7 +1,7 @@
 ---
-title: FactValidationError
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة لأخطاء التحقق من الحقيقة.
+title: "FactValidationError"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة لأخطاء التحقق من الحقيقة."
 type: docs
 weight: 8150
 url: /ar/net/aspose.finance.xbrl.validator/factvalidationerror/

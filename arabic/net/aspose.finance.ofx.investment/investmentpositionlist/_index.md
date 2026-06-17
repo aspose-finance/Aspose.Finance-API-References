@@ -1,7 +1,7 @@
 ---
-title: InvestmentPositionList
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة قائمة مراكز الاستثمار.
+title: "InvestmentPositionList"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة قائمة مراكز الاستثمار."
 type: docs
 weight: 3060
 url: /ar/net/aspose.finance.ofx.investment/investmentpositionlist/

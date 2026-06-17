@@ -1,7 +1,7 @@
 ---
-title: BankMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل للبنوك.
+title: "BankMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل للبنوك."
 type: docs
 weight: 4390
 url: /ar/net/aspose.finance.ofx.profile/bankmessageset/

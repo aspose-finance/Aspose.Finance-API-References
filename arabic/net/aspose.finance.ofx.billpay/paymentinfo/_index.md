@@ -1,7 +1,7 @@
 ---
-title: PaymentInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تُستخدم فئة معلومات الدفع لتحديد معلومات الدفع التفصيلية. تُستخدم لكل من الدفعات الفردية والدفعات المتكررة.
+title: "PaymentInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تُستخدم فئة معلومات الدفع لتحديد معلومات الدفع التفصيلية. تُستخدم لكل من الدفعات الفردية والدفعات المتكررة."
 type: docs
 weight: 1070
 url: /ar/net/aspose.finance.ofx.billpay/paymentinfo/

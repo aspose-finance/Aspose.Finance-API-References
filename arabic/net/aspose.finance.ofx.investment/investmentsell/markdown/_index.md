@@ -1,14 +1,14 @@
 ---
-title: ماركداون
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the portion of the unit price that is attributed to the dealer markdown.
+title: "ماركداون"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الجزء من سعر الوحدة الذي يُنسب إلى تخفيض التاجر."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.ofx.investment/investmentsell/markdown/
 ---
 ## InvestmentSell.Markdown property
 
-Gets or sets the portion of the unit price that is attributed to the dealer markdown.
+يحصل أو يضبط الجزء من سعر الوحدة الذي يُنسب إلى تخفيض التاجر.
 
 ```csharp
 public string Markdown { get; set; }

@@ -1,7 +1,7 @@
 ---
-title: ElementList
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: قائمة العنصر.
+title: "ElementList"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "قائمة العنصر."
 type: docs
 weight: 6710
 url: /ar/net/aspose.finance.xbrl.dom/elementlist/

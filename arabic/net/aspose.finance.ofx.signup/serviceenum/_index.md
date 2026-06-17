@@ -1,7 +1,7 @@
 ---
-title: ServiceEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الخدمة.
+title: "ServiceEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الخدمة."
 type: docs
 weight: 5700
 url: /ar/net/aspose.finance.ofx.signup/serviceenum/

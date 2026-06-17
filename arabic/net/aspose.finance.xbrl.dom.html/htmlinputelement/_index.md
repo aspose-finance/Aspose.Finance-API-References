@@ -1,7 +1,7 @@
 ---
-title: HTMLInputElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر تحكم في النموذج. اعتمادًا على البيئة التي تُعرض فيها الصفحة قد تكون خاصية القيمة للنوع file upload من النوع input للقراءة فقط. بالنسبة لنوع input لكلمة المرور قد يتم إخفاء القيمة الفعلية التي تم إرجاعها لمنع الاستخدام غير المصرح به. راجع تعريف عنصر INPUT في HTML 4.01.
+title: "HTMLInputElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر تحكم في النموذج. اعتمادًا على البيئة التي تُعرض فيها الصفحة قد تكون خاصية القيمة للنوع file upload من النوع input للقراءة فقط. بالنسبة لنوع input لكلمة المرور قد يتم إخفاء القيمة الفعلية التي تم إرجاعها لمنع الاستخدام غير المصرح به. راجع تعريف عنصر INPUT في HTML 4.01."
 type: docs
 weight: 6980
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlinputelement/

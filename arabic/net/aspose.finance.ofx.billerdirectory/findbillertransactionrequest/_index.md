@@ -1,7 +1,7 @@
 ---
-title: FindBillerTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة العثور على مُصدر الفاتورة.
+title: "FindBillerTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة العثور على مُصدر الفاتورة."
 type: docs
 weight: 1880
 url: /ar/net/aspose.finance.ofx.billerdirectory/findbillertransactionrequest/

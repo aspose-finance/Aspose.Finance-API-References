@@ -1,14 +1,14 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the recipient state.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يحدد ولاية المستلم."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.tax1099/recipientaddress/state/
 ---
 ## RecipientAddress.State property
 
-Gets or sets the recipient state.
+يحصل أو يحدد ولاية المستلم.
 
 ```csharp
 public string State { get; set; }

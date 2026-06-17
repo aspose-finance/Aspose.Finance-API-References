@@ -1,7 +1,7 @@
 ---
-title: Address1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن سطر العنوان 1.
+title: "Address1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن سطر العنوان 1."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.signup/changeuserinforesponse/address1/

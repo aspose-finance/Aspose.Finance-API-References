@@ -1,7 +1,7 @@
 ---
-title: SSN
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن رقم الضمان الاجتماعي للموظف.
+title: "SSN"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن رقم الضمان الاجتماعي للموظف."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2request/ssn/

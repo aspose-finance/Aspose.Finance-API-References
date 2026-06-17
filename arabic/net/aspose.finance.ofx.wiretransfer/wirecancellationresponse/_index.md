@@ -1,7 +1,7 @@
 ---
-title: WireCancellationResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إلغاء التحويل البنكي.
+title: "WireCancellationResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إلغاء التحويل البنكي."
 type: docs
 weight: 6390
 url: /ar/net/aspose.finance.ofx.wiretransfer/wirecancellationresponse/

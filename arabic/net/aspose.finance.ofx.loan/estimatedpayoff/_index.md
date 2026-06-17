@@ -1,7 +1,7 @@
 ---
-title: EstimatedPayoff
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة رصيد السداد التقديري.
+title: "EstimatedPayoff"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة رصيد السداد التقديري."
 type: docs
 weight: 3840
 url: /ar/net/aspose.finance.ofx.loan/estimatedpayoff/

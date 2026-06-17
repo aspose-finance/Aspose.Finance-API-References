@@ -1,7 +1,7 @@
 ---
-title: MFAChallenge
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة سؤال التحدي.
+title: "MFAChallenge"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة سؤال التحدي."
 type: docs
 weight: 5340
 url: /ar/net/aspose.finance.ofx.signon/mfachallenge/

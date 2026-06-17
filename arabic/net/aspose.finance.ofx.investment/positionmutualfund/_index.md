@@ -1,7 +1,7 @@
 ---
-title: PositionMutualFund
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة موقف الاستثمار في الدين.
+title: "PositionMutualFund"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة موقف الاستثمار في الدين."
 type: docs
 weight: 3390
 url: /ar/net/aspose.finance.ofx.investment/positionmutualfund/

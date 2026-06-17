@@ -1,7 +1,7 @@
 ---
-title: حواشي
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote في مستند XBRL المضمن.
+title: "حواشي"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote في مستند XBRL المضمن."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/footnotes/

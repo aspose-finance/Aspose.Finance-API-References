@@ -1,7 +1,7 @@
 ---
-title: السحوبات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة سحب 401k تشمل سحب القروض.
+title: "السحوبات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة سحب 401k تشمل سحب القروض."
 type: docs
 weight: 3610
 url: /ar/net/aspose.finance.ofx.investment/withdrawals/
@@ -24,14 +24,14 @@ public class Withdrawals
 
 | الاسم | الوصف |
 | --- | --- |
-| [AfterTax](../../aspose.finance.ofx.investment/withdrawals/aftertax) { get; set; } | Gets or sets the after tax withdrawals. |
-| [Match](../../aspose.finance.ofx.investment/withdrawals/match) { get; set; } | Gets or sets the employer matching withdrawals. |
-| [OtherNonvest](../../aspose.finance.ofx.investment/withdrawals/othernonvest) { get; set; } | Gets or sets the other non-vesting withdrawals. |
-| [OtherVest](../../aspose.finance.ofx.investment/withdrawals/othervest) { get; set; } | Gets or sets the other vesting withdrawals. |
-| [PreTax](../../aspose.finance.ofx.investment/withdrawals/pretax) { get; set; } | Gets or sets the pretax withdrawals. |
-| [ProfitSharing](../../aspose.finance.ofx.investment/withdrawals/profitsharing) { get; set; } | Gets or sets the profit sharing withdrawals. |
-| [Rollover](../../aspose.finance.ofx.investment/withdrawals/rollover) { get; set; } | Gets or sets the rollover withdrawals. |
-| [Total](../../aspose.finance.ofx.investment/withdrawals/total) { get; set; } | Gets or sets the sum of withdrawals from all fund sources. |
+| [AfterTax](../../aspose.finance.ofx.investment/withdrawals/aftertax) { get; set; } | يحصل أو يعيّن السحوبات بعد الضريبة. |
+| [Match](../../aspose.finance.ofx.investment/withdrawals/match) { get; set; } | يحصل أو يعيّن سحوبات المطابقة من صاحب العمل. |
+| [OtherNonvest](../../aspose.finance.ofx.investment/withdrawals/othernonvest) { get; set; } | يحصل أو يعيّن السحوبات غير المستحقة الأخرى. |
+| [OtherVest](../../aspose.finance.ofx.investment/withdrawals/othervest) { get; set; } | يحصل أو يعيّن السحوبات المستحقة الأخرى. |
+| [PreTax](../../aspose.finance.ofx.investment/withdrawals/pretax) { get; set; } | يحصل أو يعيّن السحوبات قبل الضريبة. |
+| [ProfitSharing](../../aspose.finance.ofx.investment/withdrawals/profitsharing) { get; set; } | يحصل أو يعيّن سحوبات مشاركة الأرباح. |
+| [Rollover](../../aspose.finance.ofx.investment/withdrawals/rollover) { get; set; } | يحصل أو يعيّن سحوبات التحويل. |
+| [Total](../../aspose.finance.ofx.investment/withdrawals/total) { get; set; } | يحصل أو يعيّن مجموع السحوبات من جميع مصادر الصناديق. |
 
 ### انظر أيضًا
 

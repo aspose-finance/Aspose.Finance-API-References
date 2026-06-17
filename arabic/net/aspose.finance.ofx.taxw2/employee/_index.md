@@ -1,7 +1,7 @@
 ---
-title: Employee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات الموظف.
+title: "Employee"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات الموظف."
 type: docs
 weight: 6160
 url: /ar/net/aspose.finance.ofx.taxw2/employee/

@@ -1,7 +1,7 @@
 ---
-title: InceptToDate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: إجمالي المساهمات حتى الآن منذ التأسيس
+title: "InceptToDate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "إجمالي المساهمات حتى الآن منذ التأسيس"
 type: docs
 weight: 2870
 url: /ar/net/aspose.finance.ofx.investment/incepttodate/

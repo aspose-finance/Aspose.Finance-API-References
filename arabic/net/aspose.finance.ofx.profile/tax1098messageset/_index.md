@@ -1,7 +1,7 @@
 ---
-title: Tax1098MessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل الضريبة 1098.
+title: "Tax1098MessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل الضريبة 1098."
 type: docs
 weight: 4860
 url: /ar/net/aspose.finance.ofx.profile/tax1098messageset/

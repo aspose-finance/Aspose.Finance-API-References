@@ -1,7 +1,7 @@
 ---
-title: نص
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط نص التسيمة.
+title: "نص"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط نص التسيمة."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/label/text/

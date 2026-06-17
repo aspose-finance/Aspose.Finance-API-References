@@ -1,7 +1,7 @@
 ---
-title: ChangeUserInfoSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة تغيير معلومات المستخدم.
+title: "ChangeUserInfoSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة تغيير معلومات المستخدم."
 type: docs
 weight: 5590
 url: /ar/net/aspose.finance.ofx.signup/changeuserinfosyncrequest/

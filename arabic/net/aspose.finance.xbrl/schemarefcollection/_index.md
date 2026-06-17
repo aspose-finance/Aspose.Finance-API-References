@@ -1,7 +1,7 @@
 ---
-title: SchemaRefCollection
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة من مراجع المخطط.
+title: "SchemaRefCollection"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة من مراجع المخطط."
 type: docs
 weight: 8070
 url: /ar/net/aspose.finance.xbrl/schemarefcollection/

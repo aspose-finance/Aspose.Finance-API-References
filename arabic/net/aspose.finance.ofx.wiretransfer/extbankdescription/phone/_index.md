@@ -1,7 +1,7 @@
 ---
-title: Phone
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين رقم هاتف البنك.
+title: "Phone"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين رقم هاتف البنك."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.ofx.wiretransfer/extbankdescription/phone/

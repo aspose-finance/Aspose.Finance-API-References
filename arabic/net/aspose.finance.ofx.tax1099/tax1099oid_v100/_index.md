@@ -1,7 +1,7 @@
 ---
-title: Tax1099OID_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نموذج الضريبة 1099-OID V100.
+title: "Tax1099OID_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نموذج الضريبة 1099-OID V100."
 type: docs
 weight: 6060
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099oid_v100/

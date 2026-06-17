@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ولاية المستفيد.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ولاية المستفيد."
 type: docs
 weight: 200
 url: /ar/net/aspose.finance.ofx.billerdirectory/billerinfo/state/

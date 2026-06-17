@@ -1,7 +1,7 @@
 ---
-title: PaymentInstrumentEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع أداة الدفع.
+title: "PaymentInstrumentEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع أداة الدفع."
 type: docs
 weight: 1910
 url: /ar/net/aspose.finance.ofx.billerdirectory/paymentinstrumentenum/

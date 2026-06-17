@@ -1,7 +1,7 @@
 ---
-title: CheckStatusEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: عدد حالة الفحص.
+title: "CheckStatusEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "عدد حالة الفحص."
 type: docs
 weight: 400
 url: /ar/net/aspose.finance.ofx.bank/checkstatusenum/

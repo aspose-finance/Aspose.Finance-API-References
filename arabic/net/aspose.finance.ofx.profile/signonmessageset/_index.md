@@ -1,7 +1,7 @@
 ---
-title: SignonMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل تسجيل الدخول.
+title: "SignonMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل تسجيل الدخول."
 type: docs
 weight: 4800
 url: /ar/net/aspose.finance.ofx.profile/signonmessageset/

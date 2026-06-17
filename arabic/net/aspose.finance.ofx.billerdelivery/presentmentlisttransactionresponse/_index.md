@@ -1,7 +1,7 @@
 ---
-title: PresentmentListTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة قائمة Bill.
+title: "PresentmentListTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة قائمة Bill."
 type: docs
 weight: 1720
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentlisttransactionresponse/

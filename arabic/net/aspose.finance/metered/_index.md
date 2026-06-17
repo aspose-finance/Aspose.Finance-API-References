@@ -1,7 +1,7 @@
 ---
-title: مقاس
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يوفر طرقًا لتعيين المفتاح القائم على القياس.
+title: "مقاس"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يوفر طرقًا لتعيين المفتاح القائم على القياس."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance/metered/

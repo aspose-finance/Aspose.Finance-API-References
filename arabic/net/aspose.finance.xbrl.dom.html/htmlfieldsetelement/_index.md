@@ -1,7 +1,7 @@
 ---
-title: HTMLFieldSetElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تنظم عناصر التحكم في النموذج في مجموعات منطقية. راجع تعريف عنصر FIELDSET في HTML 4.01.
+title: "HTMLFieldSetElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تنظم عناصر التحكم في النموذج في مجموعات منطقية. راجع تعريف عنصر FIELDSET في HTML 4.01."
 type: docs
 weight: 6870
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlfieldsetelement/

@@ -1,7 +1,7 @@
 ---
-title: MFAChallengeTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة تحدي MFA
+title: "MFAChallengeTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة تحدي MFA"
 type: docs
 weight: 5380
 url: /ar/net/aspose.finance.ofx.signon/mfachallengetransactionrequest/

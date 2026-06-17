@@ -1,7 +1,7 @@
 ---
-title: HTMLObjectElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل كائنًا مدمجًا عام. من حيث المبدأ جميع الخصائص على عنصر OBJECT قابلة للقراءة والكتابة، ولكن في بعض البيئات قد تصبح بعض الخصائص للقراءة فقط بمجرد إنشاء الكائن الأساسي. راجع تعريف عنصر OBJECT في HTML 4.01.
+title: "HTMLObjectElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل كائنًا مدمجًا عام. من حيث المبدأ جميع الخصائص على عنصر OBJECT قابلة للقراءة والكتابة، ولكن في بعض البيئات قد تصبح بعض الخصائص للقراءة فقط بمجرد إنشاء الكائن الأساسي. راجع تعريف عنصر OBJECT في HTML 4.01."
 type: docs
 weight: 7100
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlobjectelement/

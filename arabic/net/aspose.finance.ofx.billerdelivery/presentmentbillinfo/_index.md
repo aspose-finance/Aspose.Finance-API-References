@@ -1,7 +1,7 @@
 ---
-title: PresentmentBillInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات الفاتورة.
+title: "PresentmentBillInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات الفاتورة."
 type: docs
 weight: 1590
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/

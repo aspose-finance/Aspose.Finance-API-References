@@ -1,7 +1,7 @@
 ---
-title: CheckMailResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة رسالة إشعار البريد الإلكتروني للشيك. يُرجع الخادم هذه الاستجابة عندما يتم إرجاع شيك إذا تلقى رسالة مزامنة بريد إلكتروني مصرفية.
+title: "CheckMailResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة رسالة إشعار البريد الإلكتروني للشيك. يُرجع الخادم هذه الاستجابة عندما يتم إرجاع شيك إذا تلقى رسالة مزامنة بريد إلكتروني مصرفية."
 type: docs
 weight: 380
 url: /ar/net/aspose.finance.ofx.bank/checkmailresponse/

@@ -1,7 +1,7 @@
 ---
-title: معرف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن المعرف.
+title: "معرف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن المعرف."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl/footnotelink/id/

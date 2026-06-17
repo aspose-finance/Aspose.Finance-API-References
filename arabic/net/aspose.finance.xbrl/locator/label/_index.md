@@ -1,7 +1,7 @@
 ---
-title: Label
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط تسمية المحدد.
+title: "Label"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط تسمية المحدد."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/locator/label/

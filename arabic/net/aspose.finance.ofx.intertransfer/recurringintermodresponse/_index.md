@@ -1,7 +1,7 @@
 ---
-title: RecurringInterModResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تعديل التحويل المتكرر بين البنوك.
+title: "RecurringInterModResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تعديل التحويل المتكرر بين البنوك."
 type: docs
 weight: 2530
 url: /ar/net/aspose.finance.ofx.intertransfer/recurringintermodresponse/

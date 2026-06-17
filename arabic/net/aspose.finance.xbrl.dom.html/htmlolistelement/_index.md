@@ -1,7 +1,7 @@
 ---
-title: HTMLOListElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل قائمة مرتبة. راجع تعريف عنصر OL في HTML 4.01.
+title: "HTMLOListElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل قائمة مرتبة. راجع تعريف عنصر OL في HTML 4.01."
 type: docs
 weight: 7090
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlolistelement/

@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب كشف الاستثمار الإصدار 1.
+title: "InvestmentStatementRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب كشف الاستثمار الإصدار 1."
 type: docs
 weight: 3680
 url: /ar/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/

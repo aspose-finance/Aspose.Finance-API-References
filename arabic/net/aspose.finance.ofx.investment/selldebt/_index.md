@@ -1,7 +1,7 @@
 ---
-title: SellDebt
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة بيع الدين الاستثماري.
+title: "SellDebt"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة بيع الدين الاستثماري."
 type: docs
 weight: 3490
 url: /ar/net/aspose.finance.ofx.investment/selldebt/

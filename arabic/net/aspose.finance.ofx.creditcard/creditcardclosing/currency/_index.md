@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين Currencyaspose.finance.ofx.creditcard/creditcardclosing/currency.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين Currencyaspose.finance.ofx.creditcard/creditcardclosing/currency."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardclosing/currency/

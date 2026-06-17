@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن العنوان الاستشاري للعنصر. راجع تعريف سمة العنوان في HTML 4.01.
+title: "Title"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن العنوان الاستشاري للعنصر. راجع تعريف سمة العنوان في HTML 4.01."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlelement/title/

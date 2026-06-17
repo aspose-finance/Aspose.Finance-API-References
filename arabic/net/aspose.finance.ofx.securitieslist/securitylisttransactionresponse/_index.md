@@ -1,7 +1,7 @@
 ---
-title: SecurityListTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة قائمة الأوراق المالية.
+title: "SecurityListTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة قائمة الأوراق المالية."
 type: docs
 weight: 5190
 url: /ar/net/aspose.finance.ofx.securitieslist/securitylisttransactionresponse/

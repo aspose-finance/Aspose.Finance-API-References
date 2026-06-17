@@ -1,14 +1,14 @@
 ---
-title: هاتف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the recipient telephone number.
+title: "هاتف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يحدد رقم هاتف المستلم."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx.tax1099/recipientaddress/phone/
 ---
 ## RecipientAddress.PHONE property
 
-Gets or sets the recipient telephone number.
+يحصل أو يحدد رقم هاتف المستلم.
 
 ```csharp
 public string PHONE { get; set; }

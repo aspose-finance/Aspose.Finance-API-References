@@ -1,14 +1,14 @@
 ---
-title: الروابط
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets the collection of LabelLinkaspose.finance.xbrl/labellink.
+title: "الروابط"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة من LabelLinkaspose.finance.xbrl/labellink."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/labellinkbaseref/links/
 ---
 ## LabelLinkbaseRef.Links property
 
-Gets the collection of [`LabelLink`](../../labellink).
+يحصل على مجموعة من [`LabelLink`](../../labellink).
 
 ```csharp
 public List<LabelLink> Links { get; }

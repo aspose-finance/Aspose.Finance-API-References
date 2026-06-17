@@ -1,7 +1,7 @@
 ---
-title: PresentmentAccountInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات حساب عرض الفاتورة.
+title: "PresentmentAccountInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات حساب عرض الفاتورة."
 type: docs
 weight: 4300
 url: /ar/net/aspose.finance.ofx/presentmentaccountinfo/

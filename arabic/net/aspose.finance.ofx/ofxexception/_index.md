@@ -1,7 +1,7 @@
 ---
-title: OfxException
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استثناء Ofx.
+title: "OfxException"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استثناء Ofx."
 type: docs
 weight: 4200
 url: /ar/net/aspose.finance.ofx/ofxexception/

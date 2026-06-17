@@ -1,7 +1,7 @@
 ---
-title: اللغة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن رمز اللغة المحدد في RFC 1766. راجع تعريف سمة lang في HTML 4.01.
+title: "اللغة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن رمز اللغة المحدد في RFC 1766. راجع تعريف سمة lang في HTML 4.01."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlelement/lang/

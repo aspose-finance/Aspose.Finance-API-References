@@ -1,7 +1,7 @@
 ---
-title: TransferProcessingStatus
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحتوي حالة معالجة التحويل على حالة المعالجة الحالية للتحويل. تهدف هذه الفئة إلى وصف تغييرات الحالة في التحويل المرتبط بعد إنشائه.
+title: "TransferProcessingStatus"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحتوي حالة معالجة التحويل على حالة المعالجة الحالية للتحويل. تهدف هذه الفئة إلى وصف تغييرات الحالة في التحويل المرتبط بعد إنشائه."
 type: docs
 weight: 6310
 url: /ar/net/aspose.finance.ofx/transferprocessingstatus/

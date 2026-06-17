@@ -1,7 +1,7 @@
 ---
-title: LoanStatementEndResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة بيان إغلاق القرض.
+title: "LoanStatementEndResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة بيان إغلاق القرض."
 type: docs
 weight: 3930
 url: /ar/net/aspose.finance.ofx.loan/loanstatementendresponse/

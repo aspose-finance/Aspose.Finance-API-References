@@ -1,7 +1,7 @@
 ---
-title: Tax1098TransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة الضريبة 1098.
+title: "Tax1098TransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة الضريبة 1098."
 type: docs
 weight: 5840
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098transactionrequest/

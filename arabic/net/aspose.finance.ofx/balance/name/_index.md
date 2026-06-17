@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن اسم الرصيد
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن اسم الرصيد"
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx/balance/name/

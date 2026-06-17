@@ -1,7 +1,7 @@
 ---
-title: ImageData
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات الصورة.
+title: "ImageData"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات الصورة."
 type: docs
 weight: 2310
 url: /ar/net/aspose.finance.ofx/imagedata/

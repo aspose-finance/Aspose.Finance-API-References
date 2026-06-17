@@ -1,7 +1,7 @@
 ---
-title: AbstractStringType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بالسلسلة.
+title: "AbstractStringType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بالسلسلة."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.ofx/abstractstringtype/

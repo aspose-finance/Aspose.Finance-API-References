@@ -1,7 +1,7 @@
 ---
-title: Memo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن المعلومات الإضافية
+title: "Memo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن المعلومات الإضافية"
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx/pendingtransaction/memo/

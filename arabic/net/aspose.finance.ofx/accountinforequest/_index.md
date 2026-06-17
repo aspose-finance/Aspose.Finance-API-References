@@ -1,7 +1,7 @@
 ---
-title: AccountInfoRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم العميل هذه الفئة لطلب معلومات حول الحسابات التي تغيرت حالتها منذ آخر مرة تم فيها تقديم الطلب. يُستخدم هذا الطلب عادةً لاسترجاع قائمة بالحسابات التي تغيرت حالتها من PEND إلى ACTIVE.
+title: "AccountInfoRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم العميل هذه الفئة لطلب معلومات حول الحسابات التي تغيرت حالتها منذ آخر مرة تم فيها تقديم الطلب. يُستخدم هذا الطلب عادةً لاسترجاع قائمة بالحسابات التي تغيرت حالتها من PEND إلى ACTIVE."
 type: docs
 weight: 190
 url: /ar/net/aspose.finance.ofx/accountinforequest/

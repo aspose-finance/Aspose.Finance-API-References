@@ -1,7 +1,7 @@
 ---
-title: AbstractRecurringInterResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة باستجابات interbank المتكررة.
+title: "AbstractRecurringInterResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة باستجابات interbank المتكررة."
 type: docs
 weight: 2390
 url: /ar/net/aspose.finance.ofx.intertransfer/abstractrecurringinterresponse/

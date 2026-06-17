@@ -1,7 +1,7 @@
 ---
-title: الحقائق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط مجموعة من الحقائق الفرعية لـ InlineTupleaspose.finance.xbrl.inline/inlinetuple.
+title: "الحقائق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط مجموعة من الحقائق الفرعية لـ InlineTupleaspose.finance.xbrl.inline/inlinetuple."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl.inline/inlinetuple/facts/

@@ -1,7 +1,7 @@
 ---
-title: InvestmentSell
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة بيع الاستثمار.
+title: "InvestmentSell"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة بيع الاستثمار."
 type: docs
 weight: 3070
 url: /ar/net/aspose.finance.ofx.investment/investmentsell/
@@ -18,7 +18,7 @@ public class InvestmentSell : AbstractInvestmentTransaction
 
 | الاسم | الوصف |
 | --- | --- |
-| [InvestmentSell](investmentsell)() | Initializes a new instance of [`InvestmentSell`](../investmentsell) class. |
+| [InvestmentSell](investmentsell)() | يُنشئ مثيلاً جديدًا من الفئة [`InvestmentSell`](../investmentsell). |
 
 ## الخصائص
 
@@ -32,11 +32,11 @@ public class InvestmentSell : AbstractInvestmentTransaction
 | [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | يحصل أو يضبط الـ[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
 | [Load](../../aspose.finance.ofx.investment/investmentsell/load) { get; set; } | يحصل أو يضبط الحمولة على المعاملة. |
 | [LoanId](../../aspose.finance.ofx.investment/investmentsell/loanid) { get; set; } | يحصل أو يضبط ما إذا كانت المعاملة ناتجة عن قرض أو سداد قرض، وأي قرض كان. لحسابات 401(k) فقط. |
-| [Markdown](../../aspose.finance.ofx.investment/investmentsell/markdown) { get; set; } | Gets or sets the portion of the unit price that is attributed to the dealer markdown. |
+| [Markdown](../../aspose.finance.ofx.investment/investmentsell/markdown) { get; set; } | يحصل أو يضبط الجزء من سعر الوحدة الذي يُنسب إلى تخفيض التاجر. |
 | [OriginCurrency](../../aspose.finance.ofx.investment/investmentsell/origincurrency) { get; set; } | يحصل أو يضبط أصل الـ[`Currency`](./currency). |
-| [Penalty](../../aspose.finance.ofx.investment/investmentsell/penalty) { get; set; } | Gets or sets the amount withheld due to a penalty |
+| [Penalty](../../aspose.finance.ofx.investment/investmentsell/penalty) { get; set; } | يحصل أو يضبط المبلغ المحتجز بسبب الغرامة. |
 | [SecurityId](../../aspose.finance.ofx.investment/investmentsell/securityid) { get; set; } | يحصل أو يضبط الـ[`SecurityId`](./securityid). |
-| [StateWithholding](../../aspose.finance.ofx.investment/investmentsell/statewithholding) { get; set; } | Gets or sets the used for withholdings for state taxes on a withdrawal. |
+| [StateWithholding](../../aspose.finance.ofx.investment/investmentsell/statewithholding) { get; set; } | يحصل أو يضبط ما يُستخدم للخصومات الضريبية للولاية عند السحب. |
 | [SubAccountFund](../../aspose.finance.ofx.investment/investmentsell/subaccountfund) { get; set; } | يحصل أو يعيّن من أين جاء المال للمعاملة أو إلى أين يذهب. |
 | [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentsell/subaccountsecurity) { get; set; } | يحصل أو يعيّن نوع الحساب الفرعي للأمان |
 | [Taxes](../../aspose.finance.ofx.investment/investmentsell/taxes) { get; set; } | يحصل أو يضبط الضرائب على الصفقة. |

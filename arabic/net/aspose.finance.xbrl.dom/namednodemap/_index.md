@@ -1,7 +1,7 @@
 ---
-title: خريطة العقد المسمّاة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تمثل مجموعات من السمات التي يمكن الوصول إليها بالاسم.
+title: "خريطة العقد المسمّاة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تمثل مجموعات من السمات التي يمكن الوصول إليها بالاسم."
 type: docs
 weight: 7450
 url: /ar/net/aspose.finance.xbrl.dom/namednodemap/

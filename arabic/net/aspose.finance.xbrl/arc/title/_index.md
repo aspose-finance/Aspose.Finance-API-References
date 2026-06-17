@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط عنوان القوس.
+title: "Title"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط عنوان القوس."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.xbrl/arc/title/

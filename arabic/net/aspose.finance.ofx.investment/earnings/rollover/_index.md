@@ -1,7 +1,7 @@
 ---
-title: تحويل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن أرباح التحويل.
+title: "تحويل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن أرباح التحويل."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.investment/earnings/rollover/

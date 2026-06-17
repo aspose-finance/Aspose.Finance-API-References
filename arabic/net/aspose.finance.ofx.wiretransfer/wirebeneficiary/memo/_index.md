@@ -1,7 +1,7 @@
 ---
-title: Memo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط المعلومات الخاصة بالمستفيد.
+title: "Memo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط المعلومات الخاصة بالمستفيد."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/memo/

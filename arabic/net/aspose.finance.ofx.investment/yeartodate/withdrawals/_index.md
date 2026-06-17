@@ -1,7 +1,7 @@
 ---
-title: السحوبات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط Withdrawalsaspose.finance.ofx.investment/yeartodate/withdrawals.
+title: "السحوبات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط Withdrawalsaspose.finance.ofx.investment/yeartodate/withdrawals."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.investment/yeartodate/withdrawals/

@@ -1,7 +1,7 @@
 ---
-title: Tax1098Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب الضريبة 1098. هذا يطلب جميع نماذج الضرائب 1098 من الخادم.
+title: "Tax1098Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب الضريبة 1098. هذا يطلب جميع نماذج الضرائب 1098 من الخادم."
 type: docs
 weight: 5810
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098request/

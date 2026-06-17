@@ -1,7 +1,7 @@
 ---
-title: HTMLTableColGroupElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر COLGROUP. راجع تعريف عنصر COLGROUP في HTML 4.01.
+title: "HTMLTableColGroupElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر COLGROUP. راجع تعريف عنصر COLGROUP في HTML 4.01."
 type: docs
 weight: 7230
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltablecolgroupelement/

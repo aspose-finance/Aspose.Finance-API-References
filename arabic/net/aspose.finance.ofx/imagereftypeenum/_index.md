@@ -1,7 +1,7 @@
 ---
-title: ImageRefTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع مرجع الصورة.
+title: "ImageRefTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع مرجع الصورة."
 type: docs
 weight: 2320
 url: /ar/net/aspose.finance.ofx/imagereftypeenum/

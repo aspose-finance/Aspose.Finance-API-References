@@ -1,7 +1,7 @@
 ---
-title: StopCheckSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة إيقاف الفحص.
+title: "StopCheckSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة إيقاف الفحص."
 type: docs
 weight: 750
 url: /ar/net/aspose.finance.ofx.bank/stopchecksyncresponse/

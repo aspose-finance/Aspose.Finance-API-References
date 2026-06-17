@@ -1,7 +1,7 @@
 ---
-title: HTMLTemplateElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر القالب
+title: "HTMLTemplateElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر القالب"
 type: docs
 weight: 7270
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltemplateelement/

@@ -1,7 +1,7 @@
 ---
-title: AbstractWireResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة باستجابة التحويل البنكي.
+title: "AbstractWireResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة باستجابة التحويل البنكي."
 type: docs
 weight: 6350
 url: /ar/net/aspose.finance.ofx.wiretransfer/abstractwireresponse/

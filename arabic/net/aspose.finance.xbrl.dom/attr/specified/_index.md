@@ -1,7 +1,7 @@
 ---
-title: Specified
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: صحيح إذا تم إعطاء هذه السمة قيمة صريحة في مستند الحالة، وإلا خطأ.
+title: "Specified"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "صحيح إذا تم إعطاء هذه السمة قيمة صريحة في مستند الحالة، وإلا خطأ."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.xbrl.dom/attr/specified/

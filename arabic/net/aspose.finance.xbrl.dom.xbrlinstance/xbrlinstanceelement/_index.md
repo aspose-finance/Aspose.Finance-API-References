@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية لعنصر مثيل xbrl.
+title: "XbrlInstanceElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية لعنصر مثيل xbrl."
 type: docs
 weight: 7520
 url: /ar/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceelement/

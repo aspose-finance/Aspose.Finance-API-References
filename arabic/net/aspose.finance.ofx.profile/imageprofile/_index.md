@@ -1,7 +1,7 @@
 ---
-title: ImageProfile
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة ملف تعريف الصورة.
+title: "ImageProfile"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة ملف تعريف الصورة."
 type: docs
 weight: 4540
 url: /ar/net/aspose.finance.ofx.profile/imageprofile/

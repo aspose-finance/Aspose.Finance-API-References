@@ -1,7 +1,7 @@
 ---
-title: InvestmentPosition
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحتوي الفئة على حقول ذات صلة بجميع أنواع مراكز الاستثمار.
+title: "InvestmentPosition"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحتوي الفئة على حقول ذات صلة بجميع أنواع مراكز الاستثمار."
 type: docs
 weight: 3050
 url: /ar/net/aspose.finance.ofx.investment/investmentposition/

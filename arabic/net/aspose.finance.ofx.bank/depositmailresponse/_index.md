@@ -1,7 +1,7 @@
 ---
-title: DepositMailResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة رسالة إشعار إيداع البريد. يُرجع الخادم هذه الاستجابة عندما يتم إرجاع إيداع إذا تلقى رسالة مزامنة بريد إلكتروني مصرفية.
+title: "DepositMailResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة رسالة إشعار إيداع البريد. يُرجع الخادم هذه الاستجابة عندما يتم إرجاع إيداع إذا تلقى رسالة مزامنة بريد إلكتروني مصرفية."
 type: docs
 weight: 420
 url: /ar/net/aspose.finance.ofx.bank/depositmailresponse/

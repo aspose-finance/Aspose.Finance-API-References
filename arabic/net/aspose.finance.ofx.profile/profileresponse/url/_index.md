@@ -1,7 +1,7 @@
 ---
-title: Url
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن عنوان URL للمعلومات العامة حول FI وليس لإرسال البيانات.
+title: "Url"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن عنوان URL للمعلومات العامة حول FI وليس لإرسال البيانات."
 type: docs
 weight: 170
 url: /ar/net/aspose.finance.ofx.profile/profileresponse/url/

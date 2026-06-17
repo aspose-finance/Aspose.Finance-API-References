@@ -1,7 +1,7 @@
 ---
-title: XbrlLinkbaseRoleRefElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر xbrl linkbase roleRef.
+title: "XbrlLinkbaseRoleRefElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر xbrl linkbase roleRef."
 type: docs
 weight: 7600
 url: /ar/net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbaserolerefelement/

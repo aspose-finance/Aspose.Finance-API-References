@@ -1,7 +1,7 @@
 ---
-title: BillPubInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: معلومات ناشر الفاتورة للدفع.
+title: "BillPubInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "معلومات ناشر الفاتورة للدفع."
 type: docs
 weight: 890
 url: /ar/net/aspose.finance.ofx.billpay/billpubinfo/

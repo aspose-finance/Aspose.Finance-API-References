@@ -1,7 +1,7 @@
 ---
-title: PaymentProcessingStatus
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحتوي الفئة على حالة المعالجة الحالية للدفع. تهدف هذه الفئة إلى وصف تغييرات الحالة للدفع المرتبط بعد إنشائه.
+title: "PaymentProcessingStatus"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحتوي الفئة على حالة المعالجة الحالية للدفع. تهدف هذه الفئة إلى وصف تغييرات الحالة للدفع المرتبط بعد إنشائه."
 type: docs
 weight: 1210
 url: /ar/net/aspose.finance.ofx.billpay/paymentprocessingstatus/

@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceCollection
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة من نسخ XBRL.
+title: "XbrlInstanceCollection"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة من نسخ XBRL."
 type: docs
 weight: 8260
 url: /ar/net/aspose.finance.xbrl/xbrlinstancecollection/

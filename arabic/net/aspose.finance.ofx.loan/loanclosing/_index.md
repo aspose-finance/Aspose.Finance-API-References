@@ -1,7 +1,7 @@
 ---
-title: LoanClosing
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم حساب القرض فئة LoanClosing لوصف معلومات إغلاق البيان.
+title: "LoanClosing"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم حساب القرض فئة LoanClosing لوصف معلومات إغلاق البيان."
 type: docs
 weight: 3850
 url: /ar/net/aspose.finance.ofx.loan/loanclosing/

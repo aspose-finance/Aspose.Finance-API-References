@@ -1,7 +1,7 @@
 ---
-title: StatementResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة البيان.
+title: "StatementResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة البيان."
 type: docs
 weight: 680
 url: /ar/net/aspose.finance.ofx.bank/statementresponse/

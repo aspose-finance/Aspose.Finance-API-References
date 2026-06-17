@@ -1,14 +1,14 @@
 ---
-title: City
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the recipient city.
+title: "City"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يحدد مدينة المستلم."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.tax1099/recipientaddress/city/
 ---
 ## RecipientAddress.City property
 
-Gets or sets the recipient city.
+يحصل أو يحدد مدينة المستلم.
 
 ```csharp
 public string City { get; set; }

@@ -1,7 +1,7 @@
 ---
-title: Phone
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط رقم هاتف الدافع.
+title: "Phone"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط رقم هاتف الدافع."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.tax1099/payeraddress/phone/

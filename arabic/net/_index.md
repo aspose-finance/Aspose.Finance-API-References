@@ -1,10 +1,10 @@
 ---
-title: Aspose.Finance لـ .NET
+title: "Aspose.Finance لـ .NET"
 type: docs
 weight: 10
 url: /ar/net/
 keywords: "Aspose.Finance for .NET, Aspose Finance, Aspose API Reference."
-description: واجهة برمجة تطبيقات المالية قابلة للتوسيع، سهلة الاستخدام ومضغوطة وتوفر جميع الوظائف الشائعة بحيث يكتب المطورون أقل قدر من الشيفرة للقيام بالعمليات الشائعة.
+description: "واجهة برمجة تطبيقات المالية قابلة للتوسيع، سهلة الاستخدام ومضغوطة وتوفر جميع الوظائف الشائعة بحيث يكتب المطورون أقل قدر من الشيفرة للقيام بالعمليات الشائعة."
 is_root: true
 ---
 ## مساحات الأسماء

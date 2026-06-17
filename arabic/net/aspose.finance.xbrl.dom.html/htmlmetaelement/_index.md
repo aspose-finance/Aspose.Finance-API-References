@@ -1,7 +1,7 @@
 ---
-title: HTMLMetaElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تحتوي على معلومات ميتا عامة حول المستند. راجع تعريف عنصر META في HTML 4.01.
+title: "HTMLMetaElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تحتوي على معلومات ميتا عامة حول المستند. راجع تعريف عنصر META في HTML 4.01."
 type: docs
 weight: 7060
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlmetaelement/

@@ -1,7 +1,7 @@
 ---
-title: PresentmentGroupAccountInfoTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة معلومات حساب المجموعة. تحدد هذه الفئة ما إذا كان العميل يطلب معلومات حساب لمستخدم واحد أو مجموعة من المستخدمين.
+title: "PresentmentGroupAccountInfoTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة معلومات حساب المجموعة. تحدد هذه الفئة ما إذا كان العميل يطلب معلومات حساب لمستخدم واحد أو مجموعة من المستخدمين."
 type: docs
 weight: 1670
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/

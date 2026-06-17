@@ -1,7 +1,7 @@
 ---
-title: السياق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحتوي هذه الفئة على الكيان والفترة والسيناريو الذين معًا يوفرون السياق المناسب لفهم قيم العناصر.
+title: "السياق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحتوي هذه الفئة على الكيان والفترة والسيناريو الذين معًا يوفرون السياق المناسب لفهم قيم العناصر."
 type: docs
 weight: 6570
 url: /ar/net/aspose.finance.xbrl/context/

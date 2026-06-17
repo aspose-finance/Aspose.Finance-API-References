@@ -1,7 +1,7 @@
 ---
-title: Mail
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الـ Mailaspose.finance.ofx.bank/bankmailresponse/mail.
+title: "Mail"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الـ Mailaspose.finance.ofx.bank/bankmailresponse/mail."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.bank/bankmailresponse/mail/

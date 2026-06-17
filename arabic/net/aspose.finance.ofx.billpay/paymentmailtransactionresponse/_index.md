@@ -1,7 +1,7 @@
 ---
-title: PaymentMailTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة بريد الدفع.
+title: "PaymentMailTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة بريد الدفع."
 type: docs
 weight: 1170
 url: /ar/net/aspose.finance.ofx.billpay/paymentmailtransactionresponse/

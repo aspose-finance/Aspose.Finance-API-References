@@ -1,7 +1,7 @@
 ---
-title: DefinitionLink
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مُصممة لاحتواء مجموعة متنوعة من العلاقات المتنوعة بين المفاهيم في التصنيفات.
+title: "DefinitionLink"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مُصممة لاحتواء مجموعة متنوعة من العلاقات المتنوعة بين المفاهيم في التصنيفات."
 type: docs
 weight: 6630
 url: /ar/net/aspose.finance.xbrl/definitionlink/

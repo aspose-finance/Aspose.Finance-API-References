@@ -1,7 +1,7 @@
 ---
-title: Corrected
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ما إذا كان هذا نموذجاً مصحّحاً.
+title: "Corrected"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ما إذا كان هذا نموذجاً مصحّحاً."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.ofx.tax1099/abstracttaxform1099/corrected/

@@ -1,7 +1,7 @@
 ---
-title: الأنواع
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين مجموعة MessageTypeaspose.finance.ofx/messagetype أو CharTypeaspose.finance.ofx/chartype.
+title: "الأنواع"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين مجموعة MessageTypeaspose.finance.ofx/messagetype أو CharTypeaspose.finance.ofx/chartype."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.billerdelivery/billdetailrow/types/

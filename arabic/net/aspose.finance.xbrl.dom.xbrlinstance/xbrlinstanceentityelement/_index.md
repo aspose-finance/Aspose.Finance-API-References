@@ -1,7 +1,7 @@
 ---
-title: XbrlInstanceEntityElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر كيان مثيل xbrl.
+title: "XbrlInstanceEntityElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر كيان مثيل xbrl."
 type: docs
 weight: 7530
 url: /ar/net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceentityelement/

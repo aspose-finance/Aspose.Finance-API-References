@@ -1,7 +1,7 @@
 ---
-title: StudentAddress
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عنوان الطالب.
+title: "StudentAddress"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عنوان الطالب."
 type: docs
 weight: 5790
 url: /ar/net/aspose.finance.ofx.tax1098/studentaddress/

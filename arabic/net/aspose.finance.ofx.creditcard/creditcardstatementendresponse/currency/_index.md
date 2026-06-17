@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن العملة الافتراضية المستخدمة لمعلومات الإغلاق.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن العملة الافتراضية المستخدمة لمعلومات الإغلاق."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/currency/

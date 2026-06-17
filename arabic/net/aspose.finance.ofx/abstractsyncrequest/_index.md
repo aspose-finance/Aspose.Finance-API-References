@@ -1,7 +1,7 @@
 ---
-title: AbstractSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بطلب المزامنة
+title: "AbstractSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بطلب المزامنة"
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.ofx/abstractsyncrequest/

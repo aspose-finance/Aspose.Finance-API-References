@@ -1,7 +1,7 @@
 ---
-title: CheckSupportEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد دعم الشيك.
+title: "CheckSupportEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد دعم الشيك."
 type: docs
 weight: 1930
 url: /ar/net/aspose.finance.ofx/checksupportenum/

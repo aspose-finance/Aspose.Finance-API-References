@@ -1,14 +1,14 @@
 ---
-title: الوحدات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the quantity of the security the open order is for.
+title: "الوحدات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن كمية الورقة المالية التي يتعلق بها الأمر المفتوح."
 type: docs
 weight: 150
 url: /ar/net/aspose.finance.ofx.investment/generalopenorder/units/
 ---
 ## GeneralOpenOrder.Units property
 
-Gets or sets the quantity of the security the open order is for.
+يحصل أو يعيّن كمية الورقة المالية التي يتعلق بها الأمر المفتوح.
 
 ```csharp
 public string Units { get; set; }

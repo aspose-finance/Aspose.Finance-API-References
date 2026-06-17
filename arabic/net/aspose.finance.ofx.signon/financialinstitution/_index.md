@@ -1,7 +1,7 @@
 ---
-title: FinancialInstitution
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة المؤسسة المالية.
+title: "FinancialInstitution"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة المؤسسة المالية."
 type: docs
 weight: 5330
 url: /ar/net/aspose.finance.ofx.signon/financialinstitution/

@@ -1,7 +1,7 @@
 ---
-title: InterCancellationRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب إلغاء تحويل interbank.
+title: "InterCancellationRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب إلغاء تحويل interbank."
 type: docs
 weight: 2400
 url: /ar/net/aspose.finance.ofx.intertransfer/intercancellationrequest/

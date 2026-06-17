@@ -1,7 +1,7 @@
 ---
-title: LoanStatementTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة تنزيل القرض.
+title: "LoanStatementTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة تنزيل القرض."
 type: docs
 weight: 4000
 url: /ar/net/aspose.finance.ofx.loan/loanstatementtransactionresponse/

@@ -1,7 +1,7 @@
 ---
-title: Role
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط دور المحدد.
+title: "الدور"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط دور المحدد."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl/locator/role/

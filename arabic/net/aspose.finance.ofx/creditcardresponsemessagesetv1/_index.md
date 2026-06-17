@@ -1,7 +1,7 @@
 ---
-title: CreditcardResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة Creditcard الإصدار 1.
+title: "CreditcardResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة Creditcard الإصدار 1."
 type: docs
 weight: 2080
 url: /ar/net/aspose.finance.ofx/creditcardresponsemessagesetv1/

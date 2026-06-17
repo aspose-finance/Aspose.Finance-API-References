@@ -1,7 +1,7 @@
 ---
-title: HTMLHeadElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل معلومات رأس المستند. راجع تعريف عنصر HEAD في HTML 4.01.
+title: "HTMLHeadElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل معلومات رأس المستند. راجع تعريف عنصر HEAD في HTML 4.01."
 type: docs
 weight: 6930
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlheadelement/

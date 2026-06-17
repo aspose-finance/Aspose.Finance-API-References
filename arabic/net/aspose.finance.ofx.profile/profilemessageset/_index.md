@@ -1,7 +1,7 @@
 ---
-title: ProfileMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل الملف التعريفي.
+title: "ProfileMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل الملف التعريفي."
 type: docs
 weight: 4700
 url: /ar/net/aspose.finance.ofx.profile/profilemessageset/

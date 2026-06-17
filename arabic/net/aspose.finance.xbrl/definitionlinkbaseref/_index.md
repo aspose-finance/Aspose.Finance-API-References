@@ -1,7 +1,7 @@
 ---
-title: DefinitionLinkbaseRef
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تُستخدم لتعريف مرجع قاعدة الروابط.
+title: "DefinitionLinkbaseRef"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تُستخدم لتعريف مرجع قاعدة الروابط."
 type: docs
 weight: 6640
 url: /ar/net/aspose.finance.xbrl/definitionlinkbaseref/

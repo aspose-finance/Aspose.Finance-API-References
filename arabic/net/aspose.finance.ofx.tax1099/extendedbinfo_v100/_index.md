@@ -1,7 +1,7 @@
 ---
-title: ExtendedBInfo_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: معلومات 1099B الموسعة عادةً ما توجد في تقارير ملخص وسيط 1099B.
+title: "ExtendedBInfo_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "معلومات 1099B الموسعة عادةً ما توجد في تقارير ملخص وسيط 1099B."
 type: docs
 weight: 5920
 url: /ar/net/aspose.finance.ofx.tax1099/extendedbinfo_v100/

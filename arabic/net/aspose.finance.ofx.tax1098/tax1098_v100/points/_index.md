@@ -1,7 +1,7 @@
 ---
-title: Points
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين النقاط المدفوعة عند شراء السكن الرئيسي.
+title: "Points"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين النقاط المدفوعة عند شراء السكن الرئيسي."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098_v100/points/

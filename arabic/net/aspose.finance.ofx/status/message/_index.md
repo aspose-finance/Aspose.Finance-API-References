@@ -1,14 +1,14 @@
 ---
-title: Message
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the textual explanation from the FI.
+title: "Message"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الشرح النصي من FI."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/status/message/
 ---
 ## Status.Message property
 
-Gets or sets the textual explanation from the FI.
+يحصل أو يعيّن الشرح النصي من FI.
 
 ```csharp
 public string Message { get; set; }

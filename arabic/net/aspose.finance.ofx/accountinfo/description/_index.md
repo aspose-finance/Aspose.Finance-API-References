@@ -1,7 +1,7 @@
 ---
-title: الوصف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين وصف الحساب
+title: "الوصف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين وصف الحساب"
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/accountinfo/description/

@@ -1,7 +1,7 @@
 ---
-title: BuyOther
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة شراء أخرى للاستثمار.
+title: "BuyOther"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة شراء أخرى للاستثمار."
 type: docs
 weight: 2720
 url: /ar/net/aspose.finance.ofx.investment/buyother/

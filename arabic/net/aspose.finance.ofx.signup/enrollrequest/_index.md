@@ -1,7 +1,7 @@
 ---
-title: EnrollRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب التسجيل.
+title: "EnrollRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب التسجيل."
 type: docs
 weight: 5630
 url: /ar/net/aspose.finance.ofx.signup/enrollrequest/

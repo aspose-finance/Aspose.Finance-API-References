@@ -1,7 +1,7 @@
 ---
-title: PaymentSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة الدفع.
+title: "PaymentSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة الدفع."
 type: docs
 weight: 1240
 url: /ar/net/aspose.finance.ofx.billpay/paymentsyncrequest/

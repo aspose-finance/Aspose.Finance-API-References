@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlFootnoteElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl footnote.
+title: "InlineXbrlFootnoteElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl footnote."
 type: docs
 weight: 7350
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlfootnoteelement/

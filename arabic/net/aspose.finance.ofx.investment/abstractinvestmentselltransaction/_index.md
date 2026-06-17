@@ -1,7 +1,7 @@
 ---
-title: AbstractInvestmentSellTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بمعاملات بيع الاستثمار.
+title: "AbstractInvestmentSellTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بمعاملات بيع الاستثمار."
 type: docs
 weight: 2630
 url: /ar/net/aspose.finance.ofx.investment/abstractinvestmentselltransaction/

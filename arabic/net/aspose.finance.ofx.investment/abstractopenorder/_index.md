@@ -1,7 +1,7 @@
 ---
-title: AbstractOpenOrder
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة بأوامر الفتح.
+title: "AbstractOpenOrder"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة بأوامر الفتح."
 type: docs
 weight: 2660
 url: /ar/net/aspose.finance.ofx.investment/abstractopenorder/

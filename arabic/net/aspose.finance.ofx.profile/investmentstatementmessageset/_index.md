@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل بيان الاستثمار.
+title: "InvestmentStatementMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل بيان الاستثمار."
 type: docs
 weight: 4570
 url: /ar/net/aspose.finance.ofx.profile/investmentstatementmessageset/

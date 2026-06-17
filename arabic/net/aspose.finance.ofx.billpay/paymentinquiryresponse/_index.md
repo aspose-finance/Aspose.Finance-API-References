@@ -1,7 +1,7 @@
 ---
-title: PaymentInquiryResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة استعلام حالة الدفع.
+title: "PaymentInquiryResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة استعلام حالة الدفع."
 type: docs
 weight: 1090
 url: /ar/net/aspose.finance.ofx.billpay/paymentinquiryresponse/

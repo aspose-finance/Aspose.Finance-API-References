@@ -1,7 +1,7 @@
 ---
-title: Tax1098E_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: نموذج Tax 1098E V100 فئة بيان فائدة القرض الطلابي.
+title: "Tax1098E_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "نموذج Tax 1098E V100 فئة بيان فائدة القرض الطلابي."
 type: docs
 weight: 5800
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098e_v100/
@@ -30,7 +30,7 @@ public class Tax1098E_V100 : AbstractTax1098
 | [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress) { get; set; } | الحصول أو تعيين [`LenderAddress`](./lenderaddress). |
 | [LenderId](../../aspose.finance.ofx.tax1098/tax1098e_v100/lenderid) { get; set; } | الحصول أو تعيين الرقم الفيدرالي للتعريف الخاص بالمقرض. |
 | [LoanPriorSeptember2004AndNoLOF](../../aspose.finance.ofx.tax1098/tax1098e_v100/loanpriorseptember2004andnolof) { get; set; } | يحصل أو يعيّن ما إذا كان القرض مُنشأ قبل 1/9/2004 ولا يوجد LOF في المربع 1. |
-| [ServerId](../../aspose.finance.ofx.tax1098/tax1098e_v100/serverid) { get; set; } | Gets or sets the ID assigned by the host server to the form. |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098e_v100/serverid) { get; set; } | يحصل أو يعيّن الـ ID المخصص من قبل الخادم المضيف للنموذج. |
 | [StudentLoanInterest](../../aspose.finance.ofx.tax1098/tax1098e_v100/studentloaninterest) { get; set; } | يحصل أو يعيّن فائدة القرض الطلابي المستلمة من المقرض. |
 | [TaxYear](../../aspose.finance.ofx.tax1098/tax1098e_v100/taxyear) { get; set; } | يحصل أو يعيّن سنة الضريبة لهذا النموذج، بالتنسيق “YYYY”. |
 

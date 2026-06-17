@@ -1,7 +1,7 @@
 ---
-title: IntraSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة المعاملة الداخلية.
+title: "IntraSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة المعاملة الداخلية."
 type: docs
 weight: 490
 url: /ar/net/aspose.finance.ofx.bank/intrasyncrequest/

@@ -1,7 +1,7 @@
 ---
-title: AccountRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب خدمة الحساب.
+title: "AccountRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب خدمة الحساب."
 type: docs
 weight: 5510
 url: /ar/net/aspose.finance.ofx.signup/accountrequest/

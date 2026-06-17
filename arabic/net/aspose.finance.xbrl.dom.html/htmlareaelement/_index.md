@@ -1,7 +1,7 @@
 ---
-title: HTMLAreaElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الصفّ يُمثّل تعريف منطقة خريطة الصورة من جانب العميل. راجع تعريف عنصر AREA في HTML 4.01.
+title: "HTMLAreaElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الصفّ يُمثّل تعريف منطقة خريطة الصورة من جانب العميل. راجع تعريف عنصر AREA في HTML 4.01."
 type: docs
 weight: 6750
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlareaelement/

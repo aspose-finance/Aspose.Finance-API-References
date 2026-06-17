@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الولاية أو المقاطعة.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الولاية أو المقاطعة."
 type: docs
 weight: 170
 url: /ar/net/aspose.finance.ofx.signup/enrollrequest/state/

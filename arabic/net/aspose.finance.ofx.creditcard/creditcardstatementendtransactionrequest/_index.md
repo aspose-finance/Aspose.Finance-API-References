@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementEndTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة بيان إغلاق بطاقة الائتمان.
+title: "CreditCardStatementEndTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة بيان إغلاق بطاقة الائتمان."
 type: docs
 weight: 1980
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/

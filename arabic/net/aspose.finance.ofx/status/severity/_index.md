@@ -1,14 +1,14 @@
 ---
-title: Severity
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the severity of the error.
+title: "Severity"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن شدة الخطأ."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx/status/severity/
 ---
 ## Status.Severity property
 
-Gets or sets the severity of the error.
+يحصل أو يعيّن شدة الخطأ.
 
 ```csharp
 public SeverityEnum Severity { get; set; }

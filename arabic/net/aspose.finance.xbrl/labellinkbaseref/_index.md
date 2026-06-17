@@ -1,7 +1,7 @@
 ---
-title: LabelLinkbaseRef
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تُستخدم لتسمية مرجع قاعدة الروابط.
+title: "LabelLinkbaseRef"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تُستخدم لتسمية مرجع قاعدة الروابط."
 type: docs
 weight: 7840
 url: /ar/net/aspose.finance.xbrl/labellinkbaseref/

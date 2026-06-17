@@ -1,7 +1,7 @@
 ---
-title: Language
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن اللغة المطلوبة لاستجابات النص.
+title: "Language"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن اللغة المطلوبة لاستجابات النص."
 type: docs
 weight: 120
 url: /ar/net/aspose.finance.ofx.signon/signonrequest/language/

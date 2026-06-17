@@ -1,7 +1,7 @@
 ---
-title: XbrlException
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الاستثناء الذي يُرمى عندما يحدث خطأ محدد في Aspose.Finance.Xbrl.
+title: "XbrlException"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الاستثناء الذي يُرمى عندما يحدث خطأ محدد في Aspose.Finance.Xbrl."
 type: docs
 weight: 8230
 url: /ar/net/aspose.finance.xbrl/xbrlexception/

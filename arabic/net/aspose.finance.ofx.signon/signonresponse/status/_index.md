@@ -1,7 +1,7 @@
 ---
-title: Status
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الـ Statusaspose.finance.ofx.signon/signonresponse/status.
+title: "Status"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الـ Statusaspose.finance.ofx.signon/signonresponse/status."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.signon/signonresponse/status/

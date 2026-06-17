@@ -1,7 +1,7 @@
 ---
-title: PayeeModRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تعديل المستفيد.
+title: "PayeeModRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تعديل المستفيد."
 type: docs
 weight: 970
 url: /ar/net/aspose.finance.ofx.billpay/payeemodrequest/

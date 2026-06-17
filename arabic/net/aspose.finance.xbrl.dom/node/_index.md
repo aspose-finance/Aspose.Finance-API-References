@@ -1,7 +1,7 @@
 ---
-title: عقدة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة Node هي نوع البيانات الأساسي لنموذج كائن Document بالكامل. تمثل عقدة واحدة في شجرة المستند.
+title: "عقدة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة Node هي نوع البيانات الأساسي لنموذج كائن Document بالكامل. تمثل عقدة واحدة في شجرة المستند."
 type: docs
 weight: 7460
 url: /ar/net/aspose.finance.xbrl.dom/node/

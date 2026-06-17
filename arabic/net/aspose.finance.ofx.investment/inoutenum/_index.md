@@ -1,7 +1,7 @@
 ---
-title: InOutEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع إجراء التحويل.
+title: "InOutEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع إجراء التحويل."
 type: docs
 weight: 2850
 url: /ar/net/aspose.finance.ofx.investment/inoutenum/

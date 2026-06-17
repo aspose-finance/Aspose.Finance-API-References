@@ -1,7 +1,7 @@
 ---
-title: Discount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الخصم Discountaspose.finance.ofx/invoice/discount.
+title: "Discount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الخصم Discountaspose.finance.ofx/invoice/discount."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx/invoice/discount/

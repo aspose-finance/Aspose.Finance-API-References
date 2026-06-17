@@ -1,7 +1,7 @@
 ---
-title: EmailMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل البريد الإلكتروني.
+title: "EmailMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل البريد الإلكتروني."
 type: docs
 weight: 4500
 url: /ar/net/aspose.finance.ofx.profile/emailmessagesetv1/

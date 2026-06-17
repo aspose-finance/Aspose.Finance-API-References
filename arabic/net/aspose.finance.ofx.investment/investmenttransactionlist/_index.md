@@ -1,7 +1,7 @@
 ---
-title: InvestmentTransactionList
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة قائمة معاملات الاستثمار.
+title: "InvestmentTransactionList"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة قائمة معاملات الاستثمار."
 type: docs
 weight: 3170
 url: /ar/net/aspose.finance.ofx.investment/investmenttransactionlist/

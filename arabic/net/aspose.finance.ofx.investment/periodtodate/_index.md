@@ -1,7 +1,7 @@
 ---
-title: PeriodToDate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: المساهمات حتى الآن للفترة.
+title: "PeriodToDate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "المساهمات حتى الآن للفترة."
 type: docs
 weight: 3370
 url: /ar/net/aspose.finance.ofx.investment/periodtodate/

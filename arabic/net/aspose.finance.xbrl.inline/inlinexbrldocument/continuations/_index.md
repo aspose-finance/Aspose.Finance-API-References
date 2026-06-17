@@ -1,7 +1,7 @@
 ---
-title: الاستمرارات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation في مستند XBRL المتضمن.
+title: "الاستمرارات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation في مستند XBRL المتضمن."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/continuations/

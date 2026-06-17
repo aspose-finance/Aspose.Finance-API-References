@@ -1,7 +1,7 @@
 ---
-title: AccountSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة تفعيل الخدمة.
+title: "AccountSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة تفعيل الخدمة."
 type: docs
 weight: 5540
 url: /ar/net/aspose.finance.ofx.signup/accountsyncresponse/

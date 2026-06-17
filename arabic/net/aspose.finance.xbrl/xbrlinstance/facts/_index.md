@@ -1,7 +1,7 @@
 ---
-title: الحقائق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة كائنات Factaspose.finance.xbrl/fact في مثيل XBRL.
+title: "الحقائق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة كائنات Factaspose.finance.xbrl/fact في مثيل XBRL."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/xbrlinstance/facts/

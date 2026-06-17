@@ -1,7 +1,7 @@
 ---
-title: StatementImage
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: توفر الفئة عنوانًا أو أكثر من URLs يشير إلى صورة مكتملة العرض للفاتورة بصيغة HTML.
+title: "StatementImage"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "توفر الفئة عنوانًا أو أكثر من URLs يشير إلى صورة مكتملة العرض للفاتورة بصيغة HTML."
 type: docs
 weight: 1830
 url: /ar/net/aspose.finance.ofx.billerdelivery/statementimage/

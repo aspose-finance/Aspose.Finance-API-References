@@ -1,7 +1,7 @@
 ---
-title: SignonResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة تسجيل الدخول الإصدار 1.
+title: "SignonResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة تسجيل الدخول الإصدار 1."
 type: docs
 weight: 5470
 url: /ar/net/aspose.finance.ofx/signonresponsemessagesetv1/

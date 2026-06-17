@@ -1,7 +1,7 @@
 ---
-title: CharacterData
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تُوسّع CharacterData الفئة Node بمجموعة من السمات والطرق للوصول إلى بيانات الأحرف في DOM.
+title: "CharacterData"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تُوسّع CharacterData الفئة Node بمجموعة من السمات والطرق للوصول إلى بيانات الأحرف في DOM."
 type: docs
 weight: 6670
 url: /ar/net/aspose.finance.xbrl.dom/characterdata/

@@ -1,7 +1,7 @@
 ---
-title: ExtBankDescription
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة وصف البنك الموسع.
+title: "ExtBankDescription"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة وصف البنك الموسع."
 type: docs
 weight: 6360
 url: /ar/net/aspose.finance.ofx.wiretransfer/extbankdescription/

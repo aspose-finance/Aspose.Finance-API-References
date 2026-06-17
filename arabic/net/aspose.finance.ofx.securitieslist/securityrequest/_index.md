@@ -1,7 +1,7 @@
 ---
-title: SecurityRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب قائمة الأوراق المالية.
+title: "SecurityRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب قائمة الأوراق المالية."
 type: docs
 weight: 5200
 url: /ar/net/aspose.finance.ofx.securitieslist/securityrequest/

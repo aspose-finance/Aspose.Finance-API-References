@@ -1,7 +1,7 @@
 ---
-title: DimensionMember
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عضو البُعد. تم تعريفها في https//www.xbrl.org/specification/dimensions/rec-2012-01-25/dimensions-rec-2006-09-18corrected-errata-2012-01-25-clean.html.
+title: "DimensionMember"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عضو البُعد. تم تعريفها في https//www.xbrl.org/specification/dimensions/rec-2012-01-25/dimensions-rec-2006-09-18corrected-errata-2012-01-25-clean.html."
 type: docs
 weight: 6650
 url: /ar/net/aspose.finance.xbrl/dimensionmember/

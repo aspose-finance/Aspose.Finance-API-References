@@ -1,7 +1,7 @@
 ---
-title: Spaces
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو الضبط ما إذا كانت المسافات مسموحة بالإضافة إلى تلك الأحرف.
+title: "Spaces"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو الضبط ما إذا كانت المسافات مسموحة بالإضافة إلى تلك الأحرف."
 type: docs
 weight: 160
 url: /ar/net/aspose.finance.ofx.profile/signoninfo/spaces/

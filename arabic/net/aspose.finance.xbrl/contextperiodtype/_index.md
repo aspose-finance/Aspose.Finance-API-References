@@ -1,7 +1,7 @@
 ---
-title: ContextPeriodType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: ContextPeriod./contextperiod نوع تعداد.
+title: "ContextPeriodType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "ContextPeriod./contextperiod نوع تعداد."
 type: docs
 weight: 6600
 url: /ar/net/aspose.finance.xbrl/contextperiodtype/

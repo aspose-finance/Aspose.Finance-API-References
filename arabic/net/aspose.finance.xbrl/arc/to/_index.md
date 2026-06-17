@@ -1,7 +1,7 @@
 ---
-title: إلى
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط تسمية to للقوس.
+title: "إلى"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط تسمية to للقوس."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.xbrl/arc/to/

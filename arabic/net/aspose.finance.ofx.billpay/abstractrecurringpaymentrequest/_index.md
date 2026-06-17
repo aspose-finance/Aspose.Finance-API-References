@@ -1,7 +1,7 @@
 ---
-title: AbstractRecurringPaymentRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية المجردة لجميع الفئات المتعلقة بطلبات الدفع المتكرر.
+title: "AbstractRecurringPaymentRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية المجردة لجميع الفئات المتعلقة بطلبات الدفع المتكرر."
 type: docs
 weight: 870
 url: /ar/net/aspose.finance.ofx.billpay/abstractrecurringpaymentrequest/

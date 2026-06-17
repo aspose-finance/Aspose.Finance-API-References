@@ -1,7 +1,7 @@
 ---
-title: PresentationLink
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مُصممة لوصف العلاقات التقديمية بين المفاهيم في التصنيفات.
+title: "PresentationLink"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مُصممة لوصف العلاقات التقديمية بين المفاهيم في التصنيفات."
 type: docs
 weight: 7920
 url: /ar/net/aspose.finance.xbrl/presentationlink/

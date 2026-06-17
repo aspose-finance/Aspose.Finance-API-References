@@ -1,7 +1,7 @@
 ---
-title: MessageType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نوع سلسلة الرسالة.
+title: "MessageType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نوع سلسلة الرسالة."
 type: docs
 weight: 4180
 url: /ar/net/aspose.finance.ofx/messagetype/

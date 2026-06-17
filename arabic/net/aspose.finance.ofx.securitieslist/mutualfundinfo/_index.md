@@ -1,7 +1,7 @@
 ---
-title: MutualFundInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات الصندوق المشترك.
+title: "MutualFundInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات الصندوق المشترك."
 type: docs
 weight: 5100
 url: /ar/net/aspose.finance.ofx.securitieslist/mutualfundinfo/

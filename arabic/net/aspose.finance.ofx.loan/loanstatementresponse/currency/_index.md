@@ -1,7 +1,7 @@
 ---
-title: العملة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط العملة الافتراضية للبيان.
+title: "العملة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط العملة الافتراضية للبيان."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.loan/loanstatementresponse/currency/

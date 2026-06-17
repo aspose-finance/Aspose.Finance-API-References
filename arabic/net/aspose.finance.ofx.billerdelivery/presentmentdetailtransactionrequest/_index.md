@@ -1,7 +1,7 @@
 ---
-title: PresentmentDetailTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة تفاصيل الفاتورة.
+title: "PresentmentDetailTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة تفاصيل الفاتورة."
 type: docs
 weight: 1650
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/

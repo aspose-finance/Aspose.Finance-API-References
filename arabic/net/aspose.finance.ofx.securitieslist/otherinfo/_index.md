@@ -1,7 +1,7 @@
 ---
-title: OtherInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: استخدم هذه الفئة لأنواع الأوراق المالية غير الديون وصناديق الاستثمار المشتركة والخيارات والأسهم.
+title: "OtherInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "استخدم هذه الفئة لأنواع الأوراق المالية غير الديون وصناديق الاستثمار المشتركة والخيارات والأسهم."
 type: docs
 weight: 5140
 url: /ar/net/aspose.finance.ofx.securitieslist/otherinfo/

@@ -1,7 +1,7 @@
 ---
-title: Match
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن القيمة الحالية لجميع الأوراق المالية المشتراة بمساهمات مطابقة صاحب العمل.
+title: "Match"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن القيمة الحالية لجميع الأوراق المالية المشتراة بمساهمات مطابقة صاحب العمل."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.investment/investment401kbalance/match/

@@ -1,7 +1,7 @@
 ---
-title: PresentmentNotifyTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة إشعار التسليم.
+title: "PresentmentNotifyTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة إشعار التسليم."
 type: docs
 weight: 1810
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/

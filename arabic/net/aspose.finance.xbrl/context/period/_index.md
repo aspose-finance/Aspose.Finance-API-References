@@ -1,7 +1,7 @@
 ---
-title: Period
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن فترة السياق.
+title: "Period"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن فترة السياق."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.xbrl/context/period/

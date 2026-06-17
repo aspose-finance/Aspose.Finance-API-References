@@ -1,7 +1,7 @@
 ---
-title: LineItem
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عنصر السطر.
+title: "LineItem"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عنصر السطر."
 type: docs
 weight: 3740
 url: /ar/net/aspose.finance.ofx/lineitem/

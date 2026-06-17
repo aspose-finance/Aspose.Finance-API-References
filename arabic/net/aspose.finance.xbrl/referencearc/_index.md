@@ -1,7 +1,7 @@
 ---
-title: ReferenceArc
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي Xlink./xlink من نوع Arc. إنها تربط المفاهيم بالموارد المرجعية.
+title: "ReferenceArc"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي Xlink./xlink من نوع Arc. إنها تربط المفاهيم بالموارد المرجعية."
 type: docs
 weight: 7960
 url: /ar/net/aspose.finance.xbrl/referencearc/

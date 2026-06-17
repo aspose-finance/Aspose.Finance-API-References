@@ -1,7 +1,7 @@
 ---
-title: SecurityListMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل معلومات الأمان.
+title: "SecurityListMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل معلومات الأمان."
 type: docs
 weight: 4780
 url: /ar/net/aspose.finance.ofx.profile/securitylistmessagesetv1/

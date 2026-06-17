@@ -1,7 +1,7 @@
 ---
-title: ProfileTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة الملف التعريفي.
+title: "ProfileTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة الملف التعريفي."
 type: docs
 weight: 4740
 url: /ar/net/aspose.finance.ofx.profile/profiletransactionrequest/

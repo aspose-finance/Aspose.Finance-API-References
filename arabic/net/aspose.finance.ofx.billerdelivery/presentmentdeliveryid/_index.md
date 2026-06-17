@@ -1,7 +1,7 @@
 ---
-title: PresentmentDeliveryId
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحدد هذه الفئة حالة تسليم الفاتورة وتقترح متى تم رؤية الفاتورة.
+title: "PresentmentDeliveryId"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحدد هذه الفئة حالة تسليم الفاتورة وتقترح متى تم رؤية الفاتورة."
 type: docs
 weight: 1610
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/

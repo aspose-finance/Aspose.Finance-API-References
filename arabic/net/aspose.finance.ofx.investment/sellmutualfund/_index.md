@@ -1,7 +1,7 @@
 ---
-title: SellMutualFund
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة بيع الصندوق المشترك الاستثماري.
+title: "SellMutualFund"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة بيع الصندوق المشترك الاستثماري."
 type: docs
 weight: 3500
 url: /ar/net/aspose.finance.ofx.investment/sellmutualfund/
@@ -18,13 +18,13 @@ public class SellMutualFund : AbstractInvestmentSellTransaction
 
 | الاسم | الوصف |
 | --- | --- |
-| [SellMutualFund](sellmutualfund)() | Initializes a new instance of [`SellMutualFund`](../sellmutualfund) class. |
+| [SellMutualFund](sellmutualfund)() | يُنشئ مثيلاً جديدًا من الفئة [`SellMutualFund`](../sellmutualfund). |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [AverageCostBasis](../../aspose.finance.ofx.investment/sellmutualfund/averagecostbasis) { get; set; } | Gets or sets the average cost basis. |
+| [AverageCostBasis](../../aspose.finance.ofx.investment/sellmutualfund/averagecostbasis) { get; set; } | يحصل أو يضبط أساس التكلفة المتوسط. |
 | [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | يحصل أو يضبط الـ [`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
 | [RelateFITransactionID](../../aspose.finance.ofx.investment/sellmutualfund/relatefitransactionid) { get; set; } | يحصل أو يعيّن معرف الصفقة المرتبطة. |
 | [SellType](../../aspose.finance.ofx.investment/sellmutualfund/selltype) { get; set; } | يسترجع أو يعيّن نوع البيع. |

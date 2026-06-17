@@ -1,7 +1,7 @@
 ---
-title: MailTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة رسالة البريد الإلكتروني.
+title: "MailTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة رسالة البريد الإلكتروني."
 type: docs
 weight: 2210
 url: /ar/net/aspose.finance.ofx.email/mailtransactionresponse/

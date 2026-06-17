@@ -1,7 +1,7 @@
 ---
-title: SyncEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد وضع المزامنة.
+title: "SyncEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد وضع المزامنة."
 type: docs
 weight: 4850
 url: /ar/net/aspose.finance.ofx.profile/syncenum/

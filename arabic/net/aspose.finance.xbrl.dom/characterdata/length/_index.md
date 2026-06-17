@@ -1,7 +1,7 @@
 ---
-title: Length
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets the number of 16-bit units that are available through data. This may have the value zero i.e. CharacterData nodes may be empty.
+title: "Length"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على عدد الوحدات ذات 16 بت المتاحة عبر البيانات. قد تكون القيمة صفرًا أي أن عقد CharacterData قد تكون فارغة."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl.dom/characterdata/length/

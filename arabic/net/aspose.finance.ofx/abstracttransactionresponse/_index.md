@@ -1,7 +1,7 @@
 ---
-title: AbstractTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة باستجابة المعاملة.
+title: "AbstractTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة باستجابة المعاملة."
 type: docs
 weight: 140
 url: /ar/net/aspose.finance.ofx/abstracttransactionresponse/

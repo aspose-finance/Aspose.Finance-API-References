@@ -1,7 +1,7 @@
 ---
-title: BuyOption
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة شراء خيار الاستثمار.
+title: "BuyOption"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة شراء خيار الاستثمار."
 type: docs
 weight: 2710
 url: /ar/net/aspose.finance.ofx.investment/buyoption/

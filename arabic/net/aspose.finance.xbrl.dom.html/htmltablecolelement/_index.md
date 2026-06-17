@@ -1,7 +1,7 @@
 ---
-title: HTMLTableColElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر COL. راجع تعريف عنصر COL في HTML 4.01.
+title: "HTMLTableColElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر COL. راجع تعريف عنصر COL في HTML 4.01."
 type: docs
 weight: 7220
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltablecolelement/

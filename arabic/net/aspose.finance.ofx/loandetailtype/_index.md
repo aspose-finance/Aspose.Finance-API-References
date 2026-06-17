@@ -1,7 +1,7 @@
 ---
-title: LoanDetailType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تفاصيل القرض.
+title: "LoanDetailType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تفاصيل القرض."
 type: docs
 weight: 4060
 url: /ar/net/aspose.finance.ofx/loandetailtype/

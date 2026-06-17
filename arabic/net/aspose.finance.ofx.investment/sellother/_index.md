@@ -1,7 +1,7 @@
 ---
-title: SellOther
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: استثمار بيع نوع آخر من الأوراق المالية فئة.
+title: "SellOther"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "استثمار بيع نوع آخر من الأوراق المالية فئة."
 type: docs
 weight: 3520
 url: /ar/net/aspose.finance.ofx.investment/sellother/

@@ -1,6 +1,6 @@
 ---
-title: XbrlInstanceContextElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
+title: "XbrlInstanceContextElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
 description: 
 type: docs
 weight: 7500

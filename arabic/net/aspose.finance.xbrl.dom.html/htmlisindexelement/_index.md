@@ -1,7 +1,7 @@
 ---
-title: HTMLIsIndexElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تُستخدم لإدخال نص أحادي السطر. راجع تعريف عنصر ISINDEX في HTML 4.01. هذا العنصر مهمل في HTML 4.01.
+title: "HTMLIsIndexElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تُستخدم لإدخال نص أحادي السطر. راجع تعريف عنصر ISINDEX في HTML 4.01. هذا العنصر مهمل في HTML 4.01."
 type: docs
 weight: 6990
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlisindexelement/

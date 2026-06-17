@@ -1,7 +1,7 @@
 ---
-title: HTMLFrameSetElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تمثل شبكة من الإطارات. راجع تعريف عنصر FRAMESET في HTML 4.01.
+title: "HTMLFrameSetElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تمثل شبكة من الإطارات. راجع تعريف عنصر FRAMESET في HTML 4.01."
 type: docs
 weight: 6910
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlframesetelement/

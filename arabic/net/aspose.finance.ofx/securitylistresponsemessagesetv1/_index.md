@@ -1,7 +1,7 @@
 ---
-title: SecurityListResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة قائمة الأوراق المالية الإصدار 1.
+title: "SecurityListResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة قائمة الأوراق المالية الإصدار 1."
 type: docs
 weight: 5250
 url: /ar/net/aspose.finance.ofx/securitylistresponsemessagesetv1/

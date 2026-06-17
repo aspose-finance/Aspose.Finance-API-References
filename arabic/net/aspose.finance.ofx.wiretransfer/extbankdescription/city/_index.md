@@ -1,7 +1,7 @@
 ---
-title: City
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين مدينة البنك.
+title: "City"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين مدينة البنك."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.wiretransfer/extbankdescription/city/

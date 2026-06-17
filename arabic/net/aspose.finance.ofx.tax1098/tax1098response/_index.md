@@ -1,7 +1,7 @@
 ---
-title: Tax1098Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة الضريبة 1098.
+title: "Tax1098Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة الضريبة 1098."
 type: docs
 weight: 5820
 url: /ar/net/aspose.finance.ofx.tax1098/tax1098response/

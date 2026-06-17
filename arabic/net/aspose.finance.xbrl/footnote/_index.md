@@ -1,7 +1,7 @@
 ---
-title: حاشية
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي Xlink./xlink بنوع Resource. إنها المورد الوحيد المسموح به في FootnoteLink./footnotelink.
+title: "حاشية"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي Xlink./xlink بنوع Resource. إنها المورد الوحيد المسموح به في FootnoteLink./footnotelink."
 type: docs
 weight: 7660
 url: /ar/net/aspose.finance.xbrl/footnote/

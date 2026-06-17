@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن اسم المستفيد أو وصف المعاملة.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن اسم المستفيد أو وصف المعاملة."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx/pendingtransaction/name/

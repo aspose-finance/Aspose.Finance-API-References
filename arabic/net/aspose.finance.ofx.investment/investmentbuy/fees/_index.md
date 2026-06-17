@@ -1,7 +1,7 @@
 ---
-title: الرسوم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الرسوم المطبقة على الصفقة.
+title: "الرسوم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الرسوم المطبقة على الصفقة."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.investment/investmentbuy/fees/

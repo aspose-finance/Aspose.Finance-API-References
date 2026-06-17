@@ -1,7 +1,7 @@
 ---
-title: PresentmentCounts
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة عدد الفواتير.
+title: "PresentmentCounts"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة عدد الفواتير."
 type: docs
 weight: 1600
 url: /ar/net/aspose.finance.ofx.billerdelivery/presentmentcounts/

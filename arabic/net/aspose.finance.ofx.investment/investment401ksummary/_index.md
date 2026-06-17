@@ -1,7 +1,7 @@
 ---
-title: Investment401kSummary
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: قائمة المساهمات في حساب 401k.
+title: "Investment401kSummary"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "قائمة المساهمات في حساب 401k."
 type: docs
 weight: 2920
 url: /ar/net/aspose.finance.ofx.investment/investment401ksummary/

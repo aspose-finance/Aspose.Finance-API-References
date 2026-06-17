@@ -1,7 +1,7 @@
 ---
-title: HTMLDListElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل قائمة تعريف. راجع تعريف عنصر DL في HTML 4.01.
+title: "HTMLDListElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل قائمة تعريف. راجع تعريف عنصر DL في HTML 4.01."
 type: docs
 weight: 6820
 url: /ar/net/aspose.finance.xbrl.dom.html/htmldlistelement/

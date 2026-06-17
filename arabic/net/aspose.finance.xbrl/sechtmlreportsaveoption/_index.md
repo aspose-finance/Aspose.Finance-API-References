@@ -1,7 +1,7 @@
 ---
-title: SecHtmlReportSaveOption
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يمثل الخيارات لحفظ تقرير sec html.
+title: "SecHtmlReportSaveOption"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يمثل الخيارات لحفظ تقرير sec html."
 type: docs
 weight: 8080
 url: /ar/net/aspose.finance.xbrl/sechtmlreportsaveoption/

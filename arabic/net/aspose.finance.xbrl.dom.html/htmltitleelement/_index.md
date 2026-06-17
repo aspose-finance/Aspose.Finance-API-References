@@ -1,7 +1,7 @@
 ---
-title: HTMLTitleElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر العنوان. راجع تعريف عنصر TITLE في HTML 4.01.
+title: "HTMLTitleElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر العنوان. راجع تعريف عنصر TITLE في HTML 4.01."
 type: docs
 weight: 7290
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltitleelement/

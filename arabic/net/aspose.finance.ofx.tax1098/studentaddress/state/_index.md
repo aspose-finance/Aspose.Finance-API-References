@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط ولاية عنوان الطالب.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط ولاية عنوان الطالب."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.tax1098/studentaddress/state/

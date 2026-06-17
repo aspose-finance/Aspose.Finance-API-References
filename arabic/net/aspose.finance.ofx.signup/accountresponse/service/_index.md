@@ -1,7 +1,7 @@
 ---
-title: Service
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الخدمة التي سيتم إضافتها/تغييرها/حذفها.
+title: "Service"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الخدمة التي سيتم إضافتها/تغييرها/حذفها."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.signup/accountresponse/service/

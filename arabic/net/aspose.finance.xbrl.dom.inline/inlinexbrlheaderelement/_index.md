@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlHeaderElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl header.
+title: "InlineXbrlHeaderElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl header."
 type: docs
 weight: 7370
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlheaderelement/

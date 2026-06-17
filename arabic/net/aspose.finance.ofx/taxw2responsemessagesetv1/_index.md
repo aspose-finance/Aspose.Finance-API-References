@@ -1,7 +1,7 @@
 ---
-title: TaxW2ResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة ضريبة W2 الإصدار 1.
+title: "TaxW2ResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة ضريبة W2 الإصدار 1."
 type: docs
 weight: 6280
 url: /ar/net/aspose.finance.ofx/taxw2responsemessagesetv1/

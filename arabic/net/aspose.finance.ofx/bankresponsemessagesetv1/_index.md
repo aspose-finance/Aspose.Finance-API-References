@@ -1,7 +1,7 @@
 ---
-title: BankResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة البنك الإصدار 1.
+title: "BankResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة البنك الإصدار 1."
 type: docs
 weight: 810
 url: /ar/net/aspose.finance.ofx/bankresponsemessagesetv1/

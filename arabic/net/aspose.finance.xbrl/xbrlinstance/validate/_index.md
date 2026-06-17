@@ -1,7 +1,7 @@
 ---
-title: تحقق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يُصادق على مثيل XBRL هذا.
+title: "تحقق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يُصادق على مثيل XBRL هذا."
 type: docs
 weight: 250
 url: /ar/net/aspose.finance.xbrl/xbrlinstance/validate/

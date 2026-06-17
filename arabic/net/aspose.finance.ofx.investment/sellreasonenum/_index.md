@@ -1,7 +1,7 @@
 ---
-title: SellReasonEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد سبب البيع.
+title: "SellReasonEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد سبب البيع."
 type: docs
 weight: 3530
 url: /ar/net/aspose.finance.ofx.investment/sellreasonenum/

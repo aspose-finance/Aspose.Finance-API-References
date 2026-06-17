@@ -1,7 +1,7 @@
 ---
-title: الوحدات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة Unitaspose.finance.xbrl/unit في مستند XBRL المضمن.
+title: "الوحدات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة Unitaspose.finance.xbrl/unit في مستند XBRL المضمن."
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/units/

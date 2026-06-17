@@ -1,7 +1,7 @@
 ---
-title: HTMLSelectElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر select الذي يسمح باختيار خيار. يمكن الوصول إلى الخيارات المحتواة مباشرة عبر عنصر select كمجموعة. راجع تعريف عنصر SELECT في HTML 4.01.
+title: "HTMLSelectElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر select الذي يسمح باختيار خيار. يمكن الوصول إلى الخيارات المحتواة مباشرة عبر عنصر select كمجموعة. راجع تعريف عنصر SELECT في HTML 4.01."
 type: docs
 weight: 7180
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlselectelement/

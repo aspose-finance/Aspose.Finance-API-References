@@ -1,7 +1,7 @@
 ---
-title: السمة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: واجهة Attr تمثل سمة في كائن Element. عادةً ما يتم تعريف القيم المسموح بها للسمة في مخطط مرتبط بالمستند.
+title: "السمة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "واجهة Attr تمثل سمة في كائن Element. عادةً ما يتم تعريف القيم المسموح بها للسمة في مخطط مرتبط بالمستند."
 type: docs
 weight: 6660
 url: /ar/net/aspose.finance.xbrl.dom/attr/

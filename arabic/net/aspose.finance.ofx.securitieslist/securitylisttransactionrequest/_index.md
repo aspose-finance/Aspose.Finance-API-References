@@ -1,7 +1,7 @@
 ---
-title: SecurityListTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة قائمة الأوراق المالية.
+title: "SecurityListTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة قائمة الأوراق المالية."
 type: docs
 weight: 5180
 url: /ar/net/aspose.finance.ofx.securitieslist/securitylisttransactionrequest/

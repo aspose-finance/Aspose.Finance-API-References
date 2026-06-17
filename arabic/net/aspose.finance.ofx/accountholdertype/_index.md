@@ -1,7 +1,7 @@
 ---
-title: AccountHolderType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات صاحب الحساب.
+title: "AccountHolderType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات صاحب الحساب."
 type: docs
 weight: 170
 url: /ar/net/aspose.finance.ofx/accountholdertype/
@@ -37,7 +37,7 @@ public class AccountHolderType
 | [LastName](../../aspose.finance.ofx/accountholdertype/lastname) { get; set; } | يحصل أو يعيّن اسم العائلة للمستخدم. |
 | [MiddleName](../../aspose.finance.ofx/accountholdertype/middlename) { get; set; } | يحصل أو يعيّن الاسم الأوسط للمستخدم. |
 | [PostalCode](../../aspose.finance.ofx/accountholdertype/postalcode) { get; set; } | يحصل أو يعيّن الرمز البريدي. |
-| [State](../../aspose.finance.ofx/accountholdertype/state) { get; set; } | Gets or sets the state. |
+| [State](../../aspose.finance.ofx/accountholdertype/state) { get; set; } | يحصل أو يضبط الحالة. |
 
 ### انظر أيضًا
 

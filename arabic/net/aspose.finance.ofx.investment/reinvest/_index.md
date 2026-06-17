@@ -1,7 +1,7 @@
 ---
-title: إعادة استثمار
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة إعادة استثمار الدخل.
+title: "إعادة استثمار"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة إعادة استثمار الدخل."
 type: docs
 weight: 3440
 url: /ar/net/aspose.finance.ofx.investment/reinvest/

@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlReferencesElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl references.
+title: "InlineXbrlReferencesElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl references."
 type: docs
 weight: 7410
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlreferenceselement/

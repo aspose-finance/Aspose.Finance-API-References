@@ -1,7 +1,7 @@
 ---
-title: DOCUMENT_NODE
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: نوع عقدة المستند.
+title: "DOCUMENT_NODE"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "نوع عقدة المستند."
 type: docs
 weight: 210
 url: /ar/net/aspose.finance.xbrl.dom/node/document_node/

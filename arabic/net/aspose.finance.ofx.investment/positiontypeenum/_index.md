@@ -1,7 +1,7 @@
 ---
-title: PositionTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع المركز.
+title: "PositionTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع المركز."
 type: docs
 weight: 3430
 url: /ar/net/aspose.finance.ofx.investment/positiontypeenum/
@@ -18,8 +18,8 @@ public enum PositionTypeEnum
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| LONG | `0` | Holder for options, Long for all others. |
-| SHORT | `1` | Writer for options, Short for all others. |
+| LONG | `0` | حامل للخيارات، Long للبقية. |
+| SHORT | `1` | كاتب للخيارات، Short للبقية. |
 
 ### انظر أيضًا
 

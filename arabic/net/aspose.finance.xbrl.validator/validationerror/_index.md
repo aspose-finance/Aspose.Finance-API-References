@@ -1,7 +1,7 @@
 ---
-title: خطأ_التحقق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة للفئة الأساسية لأخطاء التحقق المتعلقة.
+title: "خطأ_التحقق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة للفئة الأساسية لأخطاء التحقق المتعلقة."
 type: docs
 weight: 8200
 url: /ar/net/aspose.finance.xbrl.validator/validationerror/

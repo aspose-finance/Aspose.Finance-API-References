@@ -1,7 +1,7 @@
 ---
-title: LongShortEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد طويل قصير.
+title: "LongShortEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد طويل قصير."
 type: docs
 weight: 5950
 url: /ar/net/aspose.finance.ofx.tax1099/longshortenum/

@@ -1,7 +1,7 @@
 ---
-title: HTMLTableSectionElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عناصر THEAD و TFOOT و TBODY.
+title: "HTMLTableSectionElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عناصر THEAD و TFOOT و TBODY."
 type: docs
 weight: 7260
 url: /ar/net/aspose.finance.xbrl.dom.html/htmltablesectionelement/

@@ -1,7 +1,7 @@
 ---
-title: InvestmentTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تحتوي هذه الفئة على حقول شائعة للعديد من معاملات الاستثمار.
+title: "InvestmentTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تحتوي هذه الفئة على حقول شائعة للعديد من معاملات الاستثمار."
 type: docs
 weight: 3160
 url: /ar/net/aspose.finance.ofx.investment/investmenttransaction/

@@ -1,7 +1,7 @@
 ---
-title: LoanAccountInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: معلومات حساب القرض.
+title: "LoanAccountInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "معلومات حساب القرض."
 type: docs
 weight: 4050
 url: /ar/net/aspose.finance.ofx/loanaccountinfo/

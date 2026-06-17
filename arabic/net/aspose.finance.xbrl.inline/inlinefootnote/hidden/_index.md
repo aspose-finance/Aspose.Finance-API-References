@@ -1,7 +1,7 @@
 ---
-title: Hidden
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين ما إذا كانت هذه الحاشية مخفية.
+title: "Hidden"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين ما إذا كانت هذه الحاشية مخفية."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl.inline/inlinefootnote/hidden/

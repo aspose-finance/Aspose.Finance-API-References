@@ -1,7 +1,7 @@
 ---
-title: Count
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: عدد مثيلات XBRL في هذه المجموعة.
+title: "Count"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "عدد مثيلات XBRL في هذه المجموعة."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/xbrlinstancecollection/count/

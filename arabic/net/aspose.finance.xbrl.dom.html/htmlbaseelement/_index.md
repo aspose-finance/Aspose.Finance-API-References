@@ -1,7 +1,7 @@
 ---
-title: HTMLBaseElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الصفّ يُمثّل URI الأساسي للمستند. راجع تعريف عنصر BASE في HTML 4.01.
+title: "HTMLBaseElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الصفّ يُمثّل URI الأساسي للمستند. راجع تعريف عنصر BASE في HTML 4.01."
 type: docs
 weight: 6770
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlbaseelement/

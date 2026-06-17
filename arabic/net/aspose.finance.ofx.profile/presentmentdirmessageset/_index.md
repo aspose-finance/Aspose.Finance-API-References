@@ -1,7 +1,7 @@
 ---
-title: PresentmentDirMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل دليل الفاتورة.
+title: "PresentmentDirMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل دليل الفاتورة."
 type: docs
 weight: 4640
 url: /ar/net/aspose.finance.ofx.profile/presentmentdirmessageset/

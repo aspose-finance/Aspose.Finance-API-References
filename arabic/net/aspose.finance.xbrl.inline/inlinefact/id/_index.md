@@ -1,7 +1,7 @@
 ---
-title: معرف
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط المعرف للحقية المضمنة.
+title: "معرف"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط المعرف للحقية المضمنة."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl.inline/inlinefact/id/

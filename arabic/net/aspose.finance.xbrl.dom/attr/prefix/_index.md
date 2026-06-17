@@ -1,7 +1,7 @@
 ---
-title: Prefix
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على بادئة مساحة الاسم للسمة.
+title: "Prefix"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على بادئة مساحة الاسم للسمة."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl.dom/attr/prefix/

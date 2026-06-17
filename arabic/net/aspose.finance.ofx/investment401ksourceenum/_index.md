@@ -1,7 +1,7 @@
 ---
-title: Investment401kSourceEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مصدر نوع المال لحسابات 401k في تعداد.
+title: "Investment401kSourceEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مصدر نوع المال لحسابات 401k في تعداد."
 type: docs
 weight: 3630
 url: /ar/net/aspose.finance.ofx/investment401ksourceenum/

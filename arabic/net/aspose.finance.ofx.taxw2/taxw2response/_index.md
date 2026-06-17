@@ -1,7 +1,7 @@
 ---
-title: TaxW2Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة ضريبة W2.
+title: "TaxW2Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة ضريبة W2."
 type: docs
 weight: 6220
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2response/

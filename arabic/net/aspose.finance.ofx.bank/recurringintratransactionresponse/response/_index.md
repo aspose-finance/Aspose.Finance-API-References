@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الـ RecurringIntraResponseaspose.finance.ofx.bank/recurringintraresponse أو RecurringIntraModResponseaspose.finance.ofx.bank/recurringintramodresponse أو RecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الـ RecurringIntraResponseaspose.finance.ofx.bank/recurringintraresponse أو RecurringIntraModResponseaspose.finance.ofx.bank/recurringintramodresponse أو RecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.bank/recurringintratransactionresponse/response/

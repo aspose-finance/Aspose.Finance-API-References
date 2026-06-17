@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تنزيل بطاقة الائتمان.
+title: "CreditCardStatementResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تنزيل بطاقة الائتمان."
 type: docs
 weight: 2010
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/

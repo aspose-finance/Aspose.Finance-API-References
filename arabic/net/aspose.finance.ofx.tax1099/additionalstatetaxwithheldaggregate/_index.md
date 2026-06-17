@@ -1,7 +1,7 @@
 ---
-title: AdditionalStateTaxWithheldAggregate
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الضريبة الحكومية المحتجزة عندما يجب الإبلاغ عن أكثر من ولاية.
+title: "AdditionalStateTaxWithheldAggregate"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الضريبة الحكومية المحتجزة عندما يجب الإبلاغ عن أكثر من ولاية."
 type: docs
 weight: 5900
 url: /ar/net/aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/

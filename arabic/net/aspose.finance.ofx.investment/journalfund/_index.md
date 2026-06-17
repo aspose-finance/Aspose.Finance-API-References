@@ -1,7 +1,7 @@
 ---
-title: JournalFund
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تسجيل احتياطات النقد بين الحسابات الفرعية داخل نفس حساب الاستثمار.
+title: "JournalFund"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تسجيل احتياطات النقد بين الحسابات الفرعية داخل نفس حساب الاستثمار."
 type: docs
 weight: 3180
 url: /ar/net/aspose.finance.ofx.investment/journalfund/

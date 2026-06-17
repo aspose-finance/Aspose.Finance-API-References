@@ -1,7 +1,7 @@
 ---
-title: InterModRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تعديل التحويل بين البنوك.
+title: "InterModRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تعديل التحويل بين البنوك."
 type: docs
 weight: 2420
 url: /ar/net/aspose.finance.ofx.intertransfer/intermodrequest/

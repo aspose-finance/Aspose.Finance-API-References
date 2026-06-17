@@ -1,7 +1,7 @@
 ---
-title: PresentmentDlvProfile
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة ملف تعريف تسليم الفاتور.
+title: "PresentmentDlvProfile"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة ملف تعريف تسليم الفاتور."
 type: docs
 weight: 4690
 url: /ar/net/aspose.finance.ofx.profile/presentmentdlvprofile/

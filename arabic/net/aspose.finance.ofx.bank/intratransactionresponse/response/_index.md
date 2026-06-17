@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الـ IntraResponseaspose.finance.ofx.bank/intraresponse أو IntraModResponseaspose.finance.ofx.bank/intramodresponse أو IntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الـ IntraResponseaspose.finance.ofx.bank/intraresponse أو IntraModResponseaspose.finance.ofx.bank/intramodresponse أو IntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.bank/intratransactionresponse/response/

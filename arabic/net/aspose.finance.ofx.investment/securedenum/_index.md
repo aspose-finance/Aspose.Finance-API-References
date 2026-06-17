@@ -1,7 +1,7 @@
 ---
-title: SecuredEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد النوع المؤمّن.
+title: "SecuredEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد النوع المؤمّن."
 type: docs
 weight: 3480
 url: /ar/net/aspose.finance.ofx.investment/securedenum/
@@ -18,8 +18,8 @@ public enum SecuredEnum
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| NAKED | `0` | Naked |
-| COVERED | `1` | Covered |
+| NAKED | `0` | عاري |
+| COVERED | `1` | مغطى |
 
 ### انظر أيضًا
 

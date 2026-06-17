@@ -1,7 +1,7 @@
 ---
-title: Add
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يضيف العنصر إلى نهاية القائمة.
+title: "Add"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يضيف العنصر إلى نهاية القائمة."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl.dom/elementlist/add/

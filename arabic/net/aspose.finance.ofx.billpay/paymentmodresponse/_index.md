@@ -1,7 +1,7 @@
 ---
-title: PaymentModResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة تعديل الدفع.
+title: "PaymentModResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة تعديل الدفع."
 type: docs
 weight: 1190
 url: /ar/net/aspose.finance.ofx.billpay/paymentmodresponse/

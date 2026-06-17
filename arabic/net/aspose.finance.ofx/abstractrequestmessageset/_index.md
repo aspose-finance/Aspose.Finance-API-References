@@ -1,7 +1,7 @@
 ---
-title: AbstractRequestMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع فئات مجموعة رسائل الطلب.
+title: "AbstractRequestMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع فئات مجموعة رسائل الطلب."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx/abstractrequestmessageset/

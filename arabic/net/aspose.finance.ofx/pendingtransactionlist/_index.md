@@ -1,7 +1,7 @@
 ---
-title: PendingTransactionList
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة جمع بيانات معاملة كشف الحساب المعلقة
+title: "PendingTransactionList"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة جمع بيانات معاملة كشف الحساب المعلقة"
 type: docs
 weight: 4280
 url: /ar/net/aspose.finance.ofx/pendingtransactionlist/

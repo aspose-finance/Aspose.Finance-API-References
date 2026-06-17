@@ -1,7 +1,7 @@
 ---
-title: PresentmentDeliveryRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب تسليم الفاتورة الإصدار 1.
+title: "PresentmentDeliveryRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب تسليم الفاتورة الإصدار 1."
 type: docs
 weight: 4310
 url: /ar/net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/

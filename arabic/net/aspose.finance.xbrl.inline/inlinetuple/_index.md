@@ -1,7 +1,7 @@
 ---
-title: InlineTuple
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة للـ tuple في مستند XBRL مضمن.
+title: "InlineTuple"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة للـ tuple في مستند XBRL مضمن."
 type: docs
 weight: 7780
 url: /ar/net/aspose.finance.xbrl.inline/inlinetuple/

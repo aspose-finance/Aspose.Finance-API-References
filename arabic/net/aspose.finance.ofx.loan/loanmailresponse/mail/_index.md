@@ -1,7 +1,7 @@
 ---
-title: Mail
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين Mailaspose.finance.ofx.loan/loanmailresponse/mail.
+title: "Mail"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين Mailaspose.finance.ofx.loan/loanmailresponse/mail."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.loan/loanmailresponse/mail/

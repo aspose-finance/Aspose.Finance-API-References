@@ -1,7 +1,7 @@
 ---
-title: الفواتير
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن مجموعة Invoiceaspose.finance.ofx/invoice.
+title: "الفواتير"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مجموعة Invoiceaspose.finance.ofx/invoice."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices/

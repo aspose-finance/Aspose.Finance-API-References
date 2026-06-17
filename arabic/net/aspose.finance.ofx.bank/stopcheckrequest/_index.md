@@ -1,7 +1,7 @@
 ---
-title: StopCheckRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب إيقاف الفحص.
+title: "StopCheckRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب إيقاف الفحص."
 type: docs
 weight: 720
 url: /ar/net/aspose.finance.ofx.bank/stopcheckrequest/

@@ -1,7 +1,7 @@
 ---
-title: IntraResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة التحويل الداخلي.
+title: "IntraResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة التحويل الداخلي."
 type: docs
 weight: 480
 url: /ar/net/aspose.finance.ofx.bank/intraresponse/

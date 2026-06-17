@@ -1,7 +1,7 @@
 ---
-title: BuyEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الشراء.
+title: "BuyEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الشراء."
 type: docs
 weight: 2690
 url: /ar/net/aspose.finance.ofx.investment/buyenum/

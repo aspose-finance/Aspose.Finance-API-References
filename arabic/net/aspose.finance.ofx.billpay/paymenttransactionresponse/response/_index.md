@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين PaymentResponseaspose.finance.ofx.billpay/paymentresponse أو PaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse أو PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين PaymentResponseaspose.finance.ofx.billpay/paymentresponse أو PaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse أو PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.billpay/paymenttransactionresponse/response/

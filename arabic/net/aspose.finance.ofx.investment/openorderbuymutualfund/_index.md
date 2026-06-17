@@ -1,7 +1,7 @@
 ---
-title: OpenOrderBuyMutualFund
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب شراء الصندوق المشترك المفتوح.
+title: "OpenOrderBuyMutualFund"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب شراء الصندوق المشترك المفتوح."
 type: docs
 weight: 3240
 url: /ar/net/aspose.finance.ofx.investment/openorderbuymutualfund/

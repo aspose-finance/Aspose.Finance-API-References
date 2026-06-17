@@ -1,7 +1,7 @@
 ---
-title: ServiceStatus2Enum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد حالة خدمة Bill Presentment.
+title: "ServiceStatus2Enum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد حالة خدمة Bill Presentment."
 type: docs
 weight: 5260
 url: /ar/net/aspose.finance.ofx/servicestatus2enum/

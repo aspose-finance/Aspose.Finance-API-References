@@ -1,7 +1,7 @@
 ---
-title: LinkbaseRefCollection
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة من مراجع قاعدة الروابط للمخطط.
+title: "LinkbaseRefCollection"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة من مراجع قاعدة الروابط للمخطط."
 type: docs
 weight: 7860
 url: /ar/net/aspose.finance.xbrl/linkbaserefcollection/

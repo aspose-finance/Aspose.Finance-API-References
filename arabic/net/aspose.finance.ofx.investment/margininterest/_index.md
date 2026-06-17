@@ -1,7 +1,7 @@
 ---
-title: MarginInterest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة فائدة الهامش الاستثماري.
+title: "MarginInterest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة فائدة الهامش الاستثماري."
 type: docs
 weight: 3210
 url: /ar/net/aspose.finance.ofx.investment/margininterest/

@@ -1,7 +1,7 @@
 ---
-title: ArcValidationError
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة لأخطاء تتعلق بالتحقق من القوس.
+title: "ArcValidationError"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة لأخطاء تتعلق بالتحقق من القوس."
 type: docs
 weight: 8130
 url: /ar/net/aspose.finance.xbrl.validator/arcvalidationerror/

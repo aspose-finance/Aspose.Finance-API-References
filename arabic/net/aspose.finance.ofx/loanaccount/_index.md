@@ -1,7 +1,7 @@
 ---
-title: LoanAccount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم Open Financial Exchange حساب القرض لتحديد حساب قرض في مؤسسة مالية. تحتوي الفئة على معلومات كافية لتحديد الحساب بشكل فريد لغرض تنزيل الكشف وتحويل الأموال.
+title: "LoanAccount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم Open Financial Exchange حساب القرض لتحديد حساب قرض في مؤسسة مالية. تحتوي الفئة على معلومات كافية لتحديد الحساب بشكل فريد لغرض تنزيل الكشف وتحويل الأموال."
 type: docs
 weight: 4030
 url: /ar/net/aspose.finance.ofx/loanaccount/

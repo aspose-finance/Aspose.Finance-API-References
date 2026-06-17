@@ -1,7 +1,7 @@
 ---
-title: TaxW2_V200
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نموذج Tax W2 v200 لسنوات الضرائب الأكبر من 2001
+title: "TaxW2_V200"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نموذج Tax W2 v200 لسنوات الضرائب الأكبر من 2001"
 type: docs
 weight: 6260
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v200/

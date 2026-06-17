@@ -1,7 +1,7 @@
 ---
-title: Mail
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة البريد.
+title: "Mail"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة البريد."
 type: docs
 weight: 4170
 url: /ar/net/aspose.finance.ofx/mail/

@@ -1,14 +1,14 @@
 ---
-title: Memo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the other information about order.
+title: "Memo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن المعلومات الأخرى حول الأمر."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx.investment/generalopenorder/memo/
 ---
 ## GeneralOpenOrder.Memo property
 
-Gets or sets the other information about order.
+يحصل أو يعيّن المعلومات الأخرى حول الأمر.
 
 ```csharp
 public string Memo { get; set; }

@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlFractionElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl fraction.
+title: "InlineXbrlFractionElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl fraction."
 type: docs
 weight: 7360
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlfractionelement/

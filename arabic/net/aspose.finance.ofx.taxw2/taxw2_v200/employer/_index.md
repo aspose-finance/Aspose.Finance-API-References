@@ -1,7 +1,7 @@
 ---
-title: صاحب العمل
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the Employeraspose.finance.ofx.taxw2/taxw2_v200/employer.
+title: "صاحب العمل"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين صاحب العملaspose.finance.ofx.taxw2/taxw2_v200/employer."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v200/employer/

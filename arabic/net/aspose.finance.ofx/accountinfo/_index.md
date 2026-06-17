@@ -1,7 +1,7 @@
 ---
-title: AccountInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معلومات الحساب.
+title: "AccountInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معلومات الحساب."
 type: docs
 weight: 180
 url: /ar/net/aspose.finance.ofx/accountinfo/

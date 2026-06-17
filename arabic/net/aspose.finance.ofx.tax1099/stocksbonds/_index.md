@@ -1,7 +1,7 @@
 ---
-title: StocksBonds
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الأسهم والسندات وما إلى ذلك.
+title: "StocksBonds"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الأسهم والسندات وما إلى ذلك."
 type: docs
 weight: 6010
 url: /ar/net/aspose.finance.ofx.tax1099/stocksbonds/

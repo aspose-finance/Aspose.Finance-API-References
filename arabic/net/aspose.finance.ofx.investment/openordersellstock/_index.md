@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSellStock
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب بيع السهم المفتوح.
+title: "OpenOrderSellStock"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب بيع السهم المفتوح."
 type: docs
 weight: 3320
 url: /ar/net/aspose.finance.ofx.investment/openordersellstock/

@@ -1,7 +1,7 @@
 ---
-title: Bartering
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط المقايضة.
+title: "المقايضة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط المقايضة."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099b_v100/bartering/

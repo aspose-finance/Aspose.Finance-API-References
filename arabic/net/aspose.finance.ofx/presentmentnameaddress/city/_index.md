@@ -1,7 +1,7 @@
 ---
-title: City
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط مدينة العميل.
+title: "City"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط مدينة العميل."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx/presentmentnameaddress/city/

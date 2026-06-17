@@ -1,7 +1,7 @@
 ---
-title: التعداد المرتبط
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع معاملة الخيار ذات الصلة.
+title: "التعداد المرتبط"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع معاملة الخيار ذات الصلة."
 type: docs
 weight: 3450
 url: /ar/net/aspose.finance.ofx.investment/relatedenum/

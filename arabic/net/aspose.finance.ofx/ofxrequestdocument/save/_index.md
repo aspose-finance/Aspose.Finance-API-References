@@ -1,7 +1,7 @@
 ---
-title: حفظ
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: إنشاء وحفظ ملف OFX إلى القرص.
+title: "حفظ"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "إنشاء وحفظ ملف OFX إلى القرص."
 type: docs
 weight: 200
 url: /ar/net/aspose.finance.ofx/ofxrequestdocument/save/

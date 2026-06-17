@@ -1,7 +1,7 @@
 ---
-title: Scenario
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن سيناريو السياق.
+title: "Scenario"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن سيناريو السياق."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.xbrl/context/scenario/

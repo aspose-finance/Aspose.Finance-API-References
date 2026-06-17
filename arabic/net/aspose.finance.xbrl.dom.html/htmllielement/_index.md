@@ -1,7 +1,7 @@
 ---
-title: HTMLLIElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر قائمة. راجع تعريف عنصر LI في HTML 4.01.
+title: "HTMLLIElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر قائمة. راجع تعريف عنصر LI في HTML 4.01."
 type: docs
 weight: 7000
 url: /ar/net/aspose.finance.xbrl.dom.html/htmllielement/

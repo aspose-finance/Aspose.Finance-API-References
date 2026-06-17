@@ -1,7 +1,7 @@
 ---
-title: IntraCancellationResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إلغاء التحويل الداخلي.
+title: "IntraCancellationResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إلغاء التحويل الداخلي."
 type: docs
 weight: 440
 url: /ar/net/aspose.finance.ofx.bank/intracancellationresponse/

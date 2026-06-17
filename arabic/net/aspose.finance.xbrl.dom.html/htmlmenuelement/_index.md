@@ -1,7 +1,7 @@
 ---
-title: HTMLMenuElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل قائمة القائمة. راجع تعريف عنصر MENU في HTML 4.01. هذا العنصر مهمل في HTML 4.01.
+title: "HTMLMenuElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل قائمة القائمة. راجع تعريف عنصر MENU في HTML 4.01. هذا العنصر مهمل في HTML 4.01."
 type: docs
 weight: 7050
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlmenuelement/

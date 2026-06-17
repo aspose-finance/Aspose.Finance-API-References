@@ -1,7 +1,7 @@
 ---
-title: HolderInfoType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تتضمن معلومات صاحب الحساب المعلومات الأساسية والثانوية لصاحب الحساب.
+title: "HolderInfoType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تتضمن معلومات صاحب الحساب المعلومات الأساسية والثانوية لصاحب الحساب."
 type: docs
 weight: 2260
 url: /ar/net/aspose.finance.ofx/holderinfotype/

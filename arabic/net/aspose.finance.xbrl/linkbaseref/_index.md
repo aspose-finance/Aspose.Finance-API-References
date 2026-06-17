@@ -1,7 +1,7 @@
 ---
-title: LinkbaseRef
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تُستخدم لمرجع قاعدة الروابط.
+title: "LinkbaseRef"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تُستخدم لمرجع قاعدة الروابط."
 type: docs
 weight: 7850
 url: /ar/net/aspose.finance.xbrl/linkbaseref/
@@ -18,7 +18,7 @@ public abstract class LinkbaseRef : SimpleLink
 
 | الاسم | الوصف |
 | --- | --- |
-| [LinkbaseRef](linkbaseref)() | Initializes a new instance of [`LinkbaseRef`](../linkbaseref) class. |
+| [LinkbaseRef](linkbaseref)() | ينشئ مثيلاً جديداً من الفئة [`LinkbaseRef`](../linkbaseref). |
 
 ## الخصائص
 

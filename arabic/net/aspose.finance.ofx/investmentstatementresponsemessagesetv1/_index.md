@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة كشف الاستثمار الإصدار 1.
+title: "InvestmentStatementResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة كشف الاستثمار الإصدار 1."
 type: docs
 weight: 3690
 url: /ar/net/aspose.finance.ofx/investmentstatementresponsemessagesetv1/

@@ -1,7 +1,7 @@
 ---
-title: HTMLDirectoryElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الصفّ يُمثّل قائمة الدليل. راجع تعريف عنصر DIR في HTML 4.01. هذا العنصر مهمل في HTML 4.01.
+title: "HTMLDirectoryElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الصفّ يُمثّل قائمة الدليل. راجع تعريف عنصر DIR في HTML 4.01. هذا العنصر مهمل في HTML 4.01."
 type: docs
 weight: 6840
 url: /ar/net/aspose.finance.xbrl.dom.html/htmldirectoryelement/

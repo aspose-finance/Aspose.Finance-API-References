@@ -1,7 +1,7 @@
 ---
-title: فتح طلب بيع الدين
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب بيع الدين المفتوح.
+title: "فتح طلب بيع الدين"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب بيع الدين المفتوح."
 type: docs
 weight: 3280
 url: /ar/net/aspose.finance.ofx.investment/openorderselldebt/

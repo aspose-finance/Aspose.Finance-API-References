@@ -1,7 +1,7 @@
 ---
-title: كائن
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على كائن Arcaspose.finance.xbrl/arc الذي يحتوي على خطأ في التحقق.
+title: "كائن"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على كائن Arcaspose.finance.xbrl/arc الذي يحتوي على خطأ في التحقق."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl.validator/arcvalidationerror/object/

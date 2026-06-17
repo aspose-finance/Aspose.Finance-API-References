@@ -1,7 +1,7 @@
 ---
-title: PresentmentDlvMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل تسليم الفاتور.
+title: "PresentmentDlvMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل تسليم الفاتور."
 type: docs
 weight: 4680
 url: /ar/net/aspose.finance.ofx.profile/presentmentdlvmessagesetv1/

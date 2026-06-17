@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن الخاصية WireResponseaspose.finance.ofx.wiretransfer/wireresponse أو WireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن الخاصية WireResponseaspose.finance.ofx.wiretransfer/wireresponse أو WireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.wiretransfer/wiretransactionresponse/response/

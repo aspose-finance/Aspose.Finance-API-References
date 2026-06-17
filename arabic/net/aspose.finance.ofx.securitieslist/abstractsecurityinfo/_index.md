@@ -1,7 +1,7 @@
 ---
-title: AbstractSecurityInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة بمعلومات الأوراق المالية.
+title: "AbstractSecurityInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة بمعلومات الأوراق المالية."
 type: docs
 weight: 5010
 url: /ar/net/aspose.finance.ofx.securitieslist/abstractsecurityinfo/

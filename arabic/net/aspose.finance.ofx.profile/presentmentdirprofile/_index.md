@@ -1,7 +1,7 @@
 ---
-title: PresentmentDirProfile
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة ملف تعريف دليل الفاتور.
+title: "PresentmentDirProfile"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة ملف تعريف دليل الفاتور."
 type: docs
 weight: 4660
 url: /ar/net/aspose.finance.ofx.profile/presentmentdirprofile/

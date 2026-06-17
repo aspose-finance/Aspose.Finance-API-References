@@ -1,7 +1,7 @@
 ---
-title: OpenOrderBuyDebt
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب شراء الدين المفتوح.
+title: "OpenOrderBuyDebt"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب شراء الدين المفتوح."
 type: docs
 weight: 3230
 url: /ar/net/aspose.finance.ofx.investment/openorderbuydebt/

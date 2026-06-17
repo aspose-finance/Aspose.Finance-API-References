@@ -1,7 +1,7 @@
 ---
-title: خيار الإغلاق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة إغلاق مركز استثماري لصفقة خيار.
+title: "خيار الإغلاق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة إغلاق مركز استثماري لصفقة خيار."
 type: docs
 weight: 2740
 url: /ar/net/aspose.finance.ofx.investment/closureoption/

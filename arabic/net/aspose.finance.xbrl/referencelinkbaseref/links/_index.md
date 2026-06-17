@@ -1,7 +1,7 @@
 ---
-title: الروابط
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة من ReferenceLinkaspose.finance.xbrl/referencelink.
+title: "الروابط"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة من ReferenceLinkaspose.finance.xbrl/referencelink."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/referencelinkbaseref/links/

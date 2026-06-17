@@ -1,14 +1,14 @@
 ---
-title: Phone
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين رقم هاتف المدفوع له.
+title: "Phone"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين رقم هاتف المدفوع له."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx/payee/phone/
 ---
 ## Payee.Phone property
 
-Gets or sets the payee’s telephone number.
+الحصول أو تعيين رقم هاتف المستفيد.
 
 ```csharp
 public string Phone { get; set; }

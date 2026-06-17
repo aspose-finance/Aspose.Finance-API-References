@@ -1,7 +1,7 @@
 ---
-title: InvestmentBuy
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة معاملة شراء الاستثمار.
+title: "InvestmentBuy"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة معاملة شراء الاستثمار."
 type: docs
 weight: 2950
 url: /ar/net/aspose.finance.ofx.investment/investmentbuy/

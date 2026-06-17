@@ -1,7 +1,7 @@
 ---
-title: IntraModRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تعديل التحويل الداخلي.
+title: "IntraModRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تعديل التحويل الداخلي."
 type: docs
 weight: 450
 url: /ar/net/aspose.finance.ofx.bank/intramodrequest/

@@ -1,7 +1,7 @@
 ---
-title: City
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن مدينة الدافع.
+title: "City"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مدينة الدافع."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx.tax1099/payeraddress/city/

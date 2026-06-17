@@ -1,7 +1,7 @@
 ---
-title: StatementEndTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة إغلاق البيان.
+title: "StatementEndTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة إغلاق البيان."
 type: docs
 weight: 660
 url: /ar/net/aspose.finance.ofx.bank/statementendtransactionresponse/

@@ -1,7 +1,7 @@
 ---
-title: ClientRoutingEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد توجيه العميل.
+title: "ClientRoutingEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد توجيه العميل."
 type: docs
 weight: 4450
 url: /ar/net/aspose.finance.ofx.profile/clientroutingenum/

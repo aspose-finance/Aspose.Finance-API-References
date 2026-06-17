@@ -1,7 +1,7 @@
 ---
-title: BankRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب البنك الإصدار 1.
+title: "BankRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب البنك الإصدار 1."
 type: docs
 weight: 800
 url: /ar/net/aspose.finance.ofx/bankrequestmessagesetv1/

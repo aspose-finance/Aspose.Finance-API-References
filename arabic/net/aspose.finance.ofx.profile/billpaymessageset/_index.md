@@ -1,7 +1,7 @@
 ---
-title: BillPayMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل دفع الفواتير.
+title: "BillPayMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل دفع الفواتير."
 type: docs
 weight: 4410
 url: /ar/net/aspose.finance.ofx.profile/billpaymessageset/

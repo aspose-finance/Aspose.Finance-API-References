@@ -1,7 +1,7 @@
 ---
-title: ContributionSecurity
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أمان المساهمة.
+title: "ContributionSecurity"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أمان المساهمة."
 type: docs
 weight: 2790
 url: /ar/net/aspose.finance.ofx.investment/contributionsecurity/

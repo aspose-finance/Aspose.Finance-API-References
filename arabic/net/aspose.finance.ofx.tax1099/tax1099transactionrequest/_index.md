@@ -1,7 +1,7 @@
 ---
-title: Tax1099TransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة نموذج الضريبة 1099.
+title: "Tax1099TransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة نموذج الضريبة 1099."
 type: docs
 weight: 6100
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099transactionrequest/

@@ -1,7 +1,7 @@
 ---
-title: TAXW2s
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن مجموعة TaxW2_V100aspose.finance.ofx.taxw2/taxw2_v100 أو TaxW2_V200aspose.finance.ofx.taxw2/taxw2_v200.
+title: "TAXW2s"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مجموعة TaxW2_V100aspose.finance.ofx.taxw2/taxw2_v100 أو TaxW2_V200aspose.finance.ofx.taxw2/taxw2_v200."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2response/taxw2s/

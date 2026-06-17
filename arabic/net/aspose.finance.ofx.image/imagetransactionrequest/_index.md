@@ -1,7 +1,7 @@
 ---
-title: ImageTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة الصورة.
+title: "ImageTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة الصورة."
 type: docs
 weight: 2300
 url: /ar/net/aspose.finance.ofx.image/imagetransactionrequest/

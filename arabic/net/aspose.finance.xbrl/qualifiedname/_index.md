@@ -1,7 +1,7 @@
 ---
-title: QualifiedName
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: نوع مخطط XML QName كما هو معرف في مساحة الاسم http//www.w3.org/2001/XMLSchema.
+title: "QualifiedName"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "نوع مخطط XML QName كما هو معرف في مساحة الاسم http//www.w3.org/2001/XMLSchema."
 type: docs
 weight: 7940
 url: /ar/net/aspose.finance.xbrl/qualifiedname/

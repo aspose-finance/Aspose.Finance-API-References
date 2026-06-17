@@ -1,7 +1,7 @@
 ---
-title: CalculationLink
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تصف علاقات الحساب بين المفاهيم في التصنيفات.
+title: "CalculationLink"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تصف علاقات الحساب بين المفاهيم في التصنيفات."
 type: docs
 weight: 6540
 url: /ar/net/aspose.finance.xbrl/calculationlink/

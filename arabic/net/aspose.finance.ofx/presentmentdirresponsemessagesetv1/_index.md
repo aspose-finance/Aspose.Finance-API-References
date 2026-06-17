@@ -1,7 +1,7 @@
 ---
-title: PresentmentDirResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة دليل الفاتورة الإصدار 1.
+title: "PresentmentDirResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة دليل الفاتورة الإصدار 1."
 type: docs
 weight: 4340
 url: /ar/net/aspose.finance.ofx/presentmentdirresponsemessagesetv1/

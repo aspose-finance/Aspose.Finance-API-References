@@ -1,7 +1,7 @@
 ---
-title: OtherEnroll
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: عملية تسجيل أخرى
+title: "OtherEnroll"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "عملية تسجيل أخرى"
 type: docs
 weight: 4630
 url: /ar/net/aspose.finance.ofx.profile/otherenroll/

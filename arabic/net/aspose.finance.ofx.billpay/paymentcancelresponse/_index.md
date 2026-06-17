@@ -1,7 +1,7 @@
 ---
-title: PaymentCancelResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة إلغاء الدفع.
+title: "PaymentCancelResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة إلغاء الدفع."
 type: docs
 weight: 1060
 url: /ar/net/aspose.finance.ofx.billpay/paymentcancelresponse/

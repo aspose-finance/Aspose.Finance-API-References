@@ -1,7 +1,7 @@
 ---
-title: BillPaymentAccountInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم OFX فئة معلومات حساب المدفوعات لتنزيل معلومات الحساب من FI.
+title: "BillPaymentAccountInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم OFX فئة معلومات حساب المدفوعات لتنزيل معلومات الحساب من FI."
 type: docs
 weight: 1400
 url: /ar/net/aspose.finance.ofx/billpaymentaccountinfo/

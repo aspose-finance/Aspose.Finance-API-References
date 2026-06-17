@@ -1,7 +1,7 @@
 ---
-title: PaymentTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة الدفع.
+title: "PaymentTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة الدفع."
 type: docs
 weight: 1260
 url: /ar/net/aspose.finance.ofx.billpay/paymenttransactionrequest/

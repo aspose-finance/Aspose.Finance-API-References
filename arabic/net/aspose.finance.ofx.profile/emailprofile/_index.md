@@ -1,7 +1,7 @@
 ---
-title: EmailProfile
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة ملف تعريف البريد الإلكتروني.
+title: "EmailProfile"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة ملف تعريف البريد الإلكتروني."
 type: docs
 weight: 4510
 url: /ar/net/aspose.finance.ofx.profile/emailprofile/

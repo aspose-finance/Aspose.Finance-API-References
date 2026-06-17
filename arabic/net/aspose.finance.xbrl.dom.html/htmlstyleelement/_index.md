@@ -1,7 +1,7 @@
 ---
-title: HTMLStyleElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل معلومات النمط. راجع تعريف عنصر STYLE في HTML 4.01.
+title: "HTMLStyleElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل معلومات النمط. راجع تعريف عنصر STYLE في HTML 4.01."
 type: docs
 weight: 7190
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlstyleelement/

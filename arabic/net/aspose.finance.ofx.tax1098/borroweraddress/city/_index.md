@@ -1,7 +1,7 @@
 ---
-title: City
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين مدينة عنوان المقترض.
+title: "City"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين مدينة عنوان المقترض."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.ofx.tax1098/borroweraddress/city/

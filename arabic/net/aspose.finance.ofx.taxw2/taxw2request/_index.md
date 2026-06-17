@@ -1,7 +1,7 @@
 ---
-title: TaxW2Request
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب الضريبة W2. يطلب هذا نموذج الضريبة W2 من الخادم.
+title: "TaxW2Request"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب الضريبة W2. يطلب هذا نموذج الضريبة W2 من الخادم."
 type: docs
 weight: 6210
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2request/

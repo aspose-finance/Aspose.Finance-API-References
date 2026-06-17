@@ -1,7 +1,7 @@
 ---
-title: Order
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ترتيب الـ InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+title: "Order"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ترتيب الـ InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction."
 type: docs
 weight: 60
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonfraction/order/

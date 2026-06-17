@@ -1,7 +1,7 @@
 ---
-title: FrequencyEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع التردد.
+title: "FrequencyEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع التردد."
 type: docs
 weight: 2250
 url: /ar/net/aspose.finance.ofx/frequencyenum/

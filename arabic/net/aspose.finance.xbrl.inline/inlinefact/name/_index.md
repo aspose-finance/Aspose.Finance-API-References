@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الاسم المؤهل للحقية المضمنة.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الاسم المؤهل للحقية المضمنة."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl.inline/inlinefact/name/

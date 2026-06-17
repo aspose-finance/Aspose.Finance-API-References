@@ -1,7 +1,7 @@
 ---
-title: CreditcardMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل بطاقة الائتمان.
+title: "CreditcardMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل بطاقة الائتمان."
 type: docs
 weight: 4460
 url: /ar/net/aspose.finance.ofx.profile/creditcardmessageset/

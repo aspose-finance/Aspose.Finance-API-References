@@ -1,7 +1,7 @@
 ---
-title: Section1202
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن ربح القسم 1202.
+title: "Section1202"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن ربح القسم 1202."
 type: docs
 weight: 200
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099div_v100/section1202/

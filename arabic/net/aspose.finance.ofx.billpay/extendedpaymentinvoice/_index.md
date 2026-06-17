@@ -1,7 +1,7 @@
 ---
-title: ExtendedPaymentInvoice
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة فاتورة الدفع الموسعة.
+title: "ExtendedPaymentInvoice"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة فاتورة الدفع الموسعة."
 type: docs
 weight: 930
 url: /ar/net/aspose.finance.ofx.billpay/extendedpaymentinvoice/

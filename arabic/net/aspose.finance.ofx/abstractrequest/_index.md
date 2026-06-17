@@ -1,7 +1,7 @@
 ---
-title: AbstractRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة لجميع الفئات المتعلقة بالطلب.
+title: "AbstractRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة لجميع الفئات المتعلقة بالطلب."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx/abstractrequest/

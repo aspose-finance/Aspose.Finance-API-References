@@ -1,7 +1,7 @@
 ---
-title: InterSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة المعاملات بين البنوك.
+title: "InterSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة المعاملات بين البنوك."
 type: docs
 weight: 2470
 url: /ar/net/aspose.finance.ofx.intertransfer/intersyncresponse/

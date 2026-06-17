@@ -1,7 +1,7 @@
 ---
-title: ExtendedPayment
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: توفر الفئة للمستفيد معلومات لتطبيق دفعة عبر فواتير متعددة. تم هيكلتها للسماح بالمعالجة الإلكترونية لبيانات الفاتورة وتسمح بتحديد فواتير متعددة وكذلك بنود متعددة لكل فاتورة.
+title: "ExtendedPayment"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "توفر الفئة للمستفيد معلومات لتطبيق دفعة عبر فواتير متعددة. تم هيكلتها للسماح بالمعالجة الإلكترونية لبيانات الفاتورة وتسمح بتحديد فواتير متعددة وكذلك بنود متعددة لكل فاتورة."
 type: docs
 weight: 910
 url: /ar/net/aspose.finance.ofx.billpay/extendedpayment/

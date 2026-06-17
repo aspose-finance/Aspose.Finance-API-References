@@ -1,7 +1,7 @@
 ---
-title: ReferencePart
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: العضو الفرعي لـ Reference./reference.
+title: "ReferencePart"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "العضو الفرعي لـ Reference./reference."
 type: docs
 weight: 7990
 url: /ar/net/aspose.finance.xbrl/referencepart/

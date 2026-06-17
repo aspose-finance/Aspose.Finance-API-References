@@ -1,7 +1,7 @@
 ---
-title: OpenOrderSellOption
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب بيع الخيار المفتوح.
+title: "OpenOrderSellOption"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب بيع الخيار المفتوح."
 type: docs
 weight: 3300
 url: /ar/net/aspose.finance.ofx.investment/openorderselloption/

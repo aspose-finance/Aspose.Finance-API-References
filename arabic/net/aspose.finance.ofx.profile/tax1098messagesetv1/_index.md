@@ -1,7 +1,7 @@
 ---
-title: Tax1098MessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل الضريبة 1098..
+title: "Tax1098MessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل الضريبة 1098.."
 type: docs
 weight: 4870
 url: /ar/net/aspose.finance.ofx.profile/tax1098messagesetv1/

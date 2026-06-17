@@ -1,7 +1,7 @@
 ---
-title: العلاقات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship في مستند XBRL المتضمن.
+title: "العلاقات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship في مستند XBRL المتضمن."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.xbrl.inline/inlinexbrldocument/relationships/

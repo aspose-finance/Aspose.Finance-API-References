@@ -1,7 +1,7 @@
 ---
-title: Payee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين Payeeaspose.finance.ofx/statementtransaction/payee.
+title: "المستفيد"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين Payeeaspose.finance.ofx/statementtransaction/payee."
 type: docs
 weight: 150
 url: /ar/net/aspose.finance.ofx/statementtransaction/payee/

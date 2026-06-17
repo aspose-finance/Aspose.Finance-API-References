@@ -1,7 +1,7 @@
 ---
-title: WireTransferRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب تحويل بنكي الإصدار 1.
+title: "WireTransferRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب تحويل بنكي الإصدار 1."
 type: docs
 weight: 6470
 url: /ar/net/aspose.finance.ofx/wiretransferrequestmessagesetv1/

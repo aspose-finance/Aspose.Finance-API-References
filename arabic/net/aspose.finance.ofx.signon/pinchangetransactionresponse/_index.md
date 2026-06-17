@@ -1,7 +1,7 @@
 ---
-title: PinChangeTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة تغيير كلمة مرور المستخدم.
+title: "PinChangeTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة تغيير كلمة مرور المستخدم."
 type: docs
 weight: 5430
 url: /ar/net/aspose.finance.ofx.signon/pinchangetransactionresponse/

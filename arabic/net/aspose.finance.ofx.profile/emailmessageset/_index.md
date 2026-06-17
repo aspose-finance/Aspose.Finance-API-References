@@ -1,7 +1,7 @@
 ---
-title: EmailMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل البريد الإلكتروني.
+title: "EmailMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل البريد الإلكتروني."
 type: docs
 weight: 4490
 url: /ar/net/aspose.finance.ofx.profile/emailmessageset/

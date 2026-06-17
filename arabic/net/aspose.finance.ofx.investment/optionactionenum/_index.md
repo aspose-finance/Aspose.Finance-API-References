@@ -1,7 +1,7 @@
 ---
-title: OptionActionEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع إجراء الخيار.
+title: "OptionActionEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع إجراء الخيار."
 type: docs
 weight: 3340
 url: /ar/net/aspose.finance.ofx.investment/optionactionenum/

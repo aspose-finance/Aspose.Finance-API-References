@@ -1,14 +1,14 @@
 ---
-title: غرامة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: Gets or sets the amount withheld due to a penalty
+title: "غرامة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط المبلغ المحتجز بسبب الغرامة."
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx.investment/investmentsell/penalty/
 ---
 ## InvestmentSell.Penalty property
 
-Gets or sets the amount withheld due to a penalty
+يحصل أو يضبط المبلغ المحتجز بسبب الغرامة.
 
 ```csharp
 public string Penalty { get; set; }

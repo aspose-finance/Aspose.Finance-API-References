@@ -1,7 +1,7 @@
 ---
-title: InvestmentBankTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تُستخدم هذه الفئة لتنزيل معاملات البنك في تنزيل كشف الاستثمار.
+title: "InvestmentBankTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تُستخدم هذه الفئة لتنزيل معاملات البنك في تنزيل كشف الاستثمار."
 type: docs
 weight: 2940
 url: /ar/net/aspose.finance.ofx.investment/investmentbanktransaction/

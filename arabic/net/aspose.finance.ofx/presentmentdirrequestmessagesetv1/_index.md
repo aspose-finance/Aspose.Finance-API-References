@@ -1,7 +1,7 @@
 ---
-title: PresentmentDirRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب دليل الفاتورة الإصدار 1.
+title: "PresentmentDirRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب دليل الفاتورة الإصدار 1."
 type: docs
 weight: 4330
 url: /ar/net/aspose.finance.ofx/presentmentdirrequestmessagesetv1/

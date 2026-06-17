@@ -1,7 +1,7 @@
 ---
-title: الدقة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط دقة الـ InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+title: "الدقة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط دقة الـ InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonfraction/precision/

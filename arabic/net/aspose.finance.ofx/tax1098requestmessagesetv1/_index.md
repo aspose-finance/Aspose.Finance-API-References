@@ -1,7 +1,7 @@
 ---
-title: Tax1098RequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب ضريبة 1098 الإصدار 1.
+title: "Tax1098RequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب ضريبة 1098 الإصدار 1."
 type: docs
 weight: 5870
 url: /ar/net/aspose.finance.ofx/tax1098requestmessagesetv1/

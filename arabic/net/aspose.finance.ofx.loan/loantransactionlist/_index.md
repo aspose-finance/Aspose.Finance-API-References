@@ -1,7 +1,7 @@
 ---
-title: LoanTransactionList
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تجميع بيانات معاملة بيان القرض.
+title: "LoanTransactionList"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تجميع بيانات معاملة بيان القرض."
 type: docs
 weight: 4020
 url: /ar/net/aspose.finance.ofx.loan/loantransactionlist/

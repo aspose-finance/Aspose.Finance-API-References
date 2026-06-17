@@ -1,7 +1,7 @@
 ---
-title: RecurringInterSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة مزامنة المعاملات المتكررة بين البنوك.
+title: "RecurringInterSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة مزامنة المعاملات المتكررة بين البنوك."
 type: docs
 weight: 2570
 url: /ar/net/aspose.finance.ofx.intertransfer/recurringintersyncresponse/

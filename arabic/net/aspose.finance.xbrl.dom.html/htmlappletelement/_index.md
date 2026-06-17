@@ -1,7 +1,7 @@
 ---
-title: HTMLAppletElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الصفّ يُمثّل برنامج Java المدمج. راجع تعريف عنصر APPLET في HTML 4.01. هذا العنصر مهمل في HTML 4.01.
+title: "HTMLAppletElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الصفّ يُمثّل برنامج Java المدمج. راجع تعريف عنصر APPLET في HTML 4.01. هذا العنصر مهمل في HTML 4.01."
 type: docs
 weight: 6740
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlappletelement/

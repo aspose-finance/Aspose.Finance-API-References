@@ -1,7 +1,7 @@
 ---
-title: SellStock
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: استثمار بيع الأسهم فئة.
+title: "SellStock"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "استثمار بيع الأسهم فئة."
 type: docs
 weight: 3540
 url: /ar/net/aspose.finance.ofx.investment/sellstock/

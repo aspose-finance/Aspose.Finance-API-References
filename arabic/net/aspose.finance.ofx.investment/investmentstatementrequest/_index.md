@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب كشف الاستثمار.
+title: "InvestmentStatementRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب كشف الاستثمار."
 type: docs
 weight: 3120
 url: /ar/net/aspose.finance.ofx.investment/investmentstatementrequest/

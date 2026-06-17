@@ -1,7 +1,7 @@
 ---
-title: عنصر
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: واجهة Element تمثل عنصرًا في مستند xbrl المضمن.
+title: "عنصر"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "واجهة Element تمثل عنصرًا في مستند xbrl المضمن."
 type: docs
 weight: 6700
 url: /ar/net/aspose.finance.xbrl.dom/element/

@@ -1,7 +1,7 @@
 ---
-title: XbrlLinkbaseSchemaRefElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر xbrl linkbase schemaRef.
+title: "XbrlLinkbaseSchemaRefElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر xbrl linkbase schemaRef."
 type: docs
 weight: 7610
 url: /ar/net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbaseschemarefelement/

@@ -1,14 +1,14 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الولاية للمدفوع له.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الولاية للمدفوع له."
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.ofx/payee/state/
 ---
 ## Payee.State property
 
-Gets or sets the payee’s state.
+الحصول أو تعيين ولاية المستفيد.
 
 ```csharp
 public string State { get; set; }

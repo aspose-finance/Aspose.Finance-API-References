@@ -1,7 +1,7 @@
 ---
-title: CreditCardStatementTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة تنزيل بطاقة الائتمان.
+title: "CreditCardStatementTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة تنزيل بطاقة الائتمان."
 type: docs
 weight: 2020
 url: /ar/net/aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/

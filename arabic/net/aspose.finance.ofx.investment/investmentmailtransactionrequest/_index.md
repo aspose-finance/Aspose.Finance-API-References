@@ -1,7 +1,7 @@
 ---
-title: InvestmentMailTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة البريد الإلكتروني للاستثمار.
+title: "InvestmentMailTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة البريد الإلكتروني للاستثمار."
 type: docs
 weight: 3020
 url: /ar/net/aspose.finance.ofx.investment/investmentmailtransactionrequest/

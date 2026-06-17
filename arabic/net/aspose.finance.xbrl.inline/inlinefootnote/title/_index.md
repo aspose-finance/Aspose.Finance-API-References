@@ -1,7 +1,7 @@
 ---
-title: Title
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن عنوان الـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+title: "Title"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن عنوان الـ InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.xbrl.inline/inlinefootnote/title/

@@ -1,7 +1,7 @@
 ---
-title: AbstractSyncResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة أساسية مجردة للفئات المتعلقة باستجابة المزامنة
+title: "AbstractSyncResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة أساسية مجردة للفئات المتعلقة باستجابة المزامنة"
 type: docs
 weight: 110
 url: /ar/net/aspose.finance.ofx/abstractsyncresponse/

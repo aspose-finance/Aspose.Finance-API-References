@@ -1,7 +1,7 @@
 ---
-title: CreditCardAccountInfo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يستخدم OFX تجميع معلومات حساب بطاقة الائتمان لتنزيل معلومات الحساب من FI.
+title: "CreditCardAccountInfo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يستخدم OFX تجميع معلومات حساب بطاقة الائتمان لتنزيل معلومات الحساب من FI."
 type: docs
 weight: 2050
 url: /ar/net/aspose.finance.ofx/creditcardaccountinfo/

@@ -1,7 +1,7 @@
 ---
-title: PresentationArc
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي Xlink./xlink من نوع Arc. إنها تحدد كيف ترتبط المفاهيم ببعضها البعض للعرض.
+title: "PresentationArc"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي Xlink./xlink من نوع Arc. إنها تحدد كيف ترتبط المفاهيم ببعضها البعض للعرض."
 type: docs
 weight: 7910
 url: /ar/net/aspose.finance.xbrl/presentationarc/

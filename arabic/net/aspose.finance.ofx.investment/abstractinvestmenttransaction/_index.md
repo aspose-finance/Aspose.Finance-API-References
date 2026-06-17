@@ -1,7 +1,7 @@
 ---
-title: AbstractInvestmentTransaction
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية المجردة للمعاملات الاستثمارية غير المتعلقة بالشراء/البيع.
+title: "AbstractInvestmentTransaction"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية المجردة للمعاملات الاستثمارية غير المتعلقة بالشراء/البيع."
 type: docs
 weight: 2640
 url: /ar/net/aspose.finance.ofx.investment/abstractinvestmenttransaction/

@@ -1,7 +1,7 @@
 ---
-title: الدقة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الدقة.
+title: "الدقة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الدقة."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.xbrl/item/precision/

@@ -1,7 +1,7 @@
 ---
-title: LoanResponseMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل استجابة القرض الإصدار 1.
+title: "LoanResponseMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل استجابة القرض الإصدار 1."
 type: docs
 weight: 4140
 url: /ar/net/aspose.finance.ofx/loanresponsemessagesetv1/

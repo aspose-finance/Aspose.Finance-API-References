@@ -1,7 +1,7 @@
 ---
-title: Unit
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يُستخدم هذا الصنف لتحديد الوحدات التي تم قياس العنصر الرقمي بها.
+title: "الوحدة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يُستخدم هذا الصنف لتحديد الوحدات التي تم قياس العنصر الرقمي بها."
 type: docs
 weight: 8110
 url: /ar/net/aspose.finance.xbrl/unit/
@@ -18,17 +18,17 @@ public class Unit
 
 | الاسم | الوصف |
 | --- | --- |
-| [Unit](unit)(UnitType) | Initializes a new instance of the [`Unit`](../unit) class. |
+| [Unit](unit)(UnitType) | ينشئ مثيلاً جديداً من الفئة [`Unit`](../unit). |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Id](../../aspose.finance.xbrl/unit/id) { get; set; } | Gets or sets the unit id. |
-| [MeasureQualifiedNames](../../aspose.finance.xbrl/unit/measurequalifiednames) { get; } | Gets the collection of measure qualified name, it is used when unit type is Measure. |
-| [Type](../../aspose.finance.xbrl/unit/type) { get; set; } | Gets or sets the unit type. |
-| [UnitDenominatorQualifiedNames](../../aspose.finance.xbrl/unit/unitdenominatorqualifiednames) { get; set; } | Gets the collection of denominator qualified name, it is used when unit type is Divide. |
-| [UnitNumeratorQualifiedNames](../../aspose.finance.xbrl/unit/unitnumeratorqualifiednames) { get; } | Gets the collection of numerator qualified name, it is used when unit type is Divide. |
+| [Id](../../aspose.finance.xbrl/unit/id) { get; set; } | يحصل أو يعيّن معرف الوحدة. |
+| [MeasureQualifiedNames](../../aspose.finance.xbrl/unit/measurequalifiednames) { get; } | يحصل على مجموعة أسماء المؤهلة للقياس، تُستخدم عندما يكون نوع الوحدة هو Measure. |
+| [Type](../../aspose.finance.xbrl/unit/type) { get; set; } | يحصل أو يعيّن نوع الوحدة. |
+| [UnitDenominatorQualifiedNames](../../aspose.finance.xbrl/unit/unitdenominatorqualifiednames) { get; set; } | يحصل على مجموعة أسماء المؤهلة للمقام، تُستخدم عندما يكون نوع الوحدة هو Divide. |
+| [UnitNumeratorQualifiedNames](../../aspose.finance.xbrl/unit/unitnumeratorqualifiednames) { get; } | يحصل على مجموعة أسماء المؤهلة للبسط، تُستخدم عندما يكون نوع الوحدة هو Divide. |
 
 ### انظر أيضًا
 

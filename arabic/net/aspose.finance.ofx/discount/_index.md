@@ -1,7 +1,7 @@
 ---
-title: Discount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة الخصم.
+title: "Discount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة الخصم."
 type: docs
 weight: 2110
 url: /ar/net/aspose.finance.ofx/discount/

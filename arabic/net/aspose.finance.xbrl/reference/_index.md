@@ -1,7 +1,7 @@
 ---
-title: Reference
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي Xlink./xlink من نوع Resource. تمكّن تصنيفات XBRL من تثبيت تعريفات المفاهيم في البيانات الموثوقة في الأدبيات التجارية والمالية والمحاسبية المنشورة.
+title: "Reference"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي Xlink./xlink من نوع Resource. تمكّن تصنيفات XBRL من تثبيت تعريفات المفاهيم في البيانات الموثوقة في الأدبيات التجارية والمالية والمحاسبية المنشورة."
 type: docs
 weight: 7950
 url: /ar/net/aspose.finance.xbrl/reference/

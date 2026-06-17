@@ -1,7 +1,7 @@
 ---
-title: Locator
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية المجردة لـ Xlink من نوع Locator.
+title: "Locator"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية المجردة لـ Xlink من نوع Locator."
 type: docs
 weight: 7900
 url: /ar/net/aspose.finance.xbrl/locator/

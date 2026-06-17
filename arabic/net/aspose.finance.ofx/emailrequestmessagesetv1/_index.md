@@ -1,7 +1,7 @@
 ---
-title: EmailRequestMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مجموعة رسائل طلب البريد الإلكتروني الإصدار 1.
+title: "EmailRequestMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مجموعة رسائل طلب البريد الإلكتروني الإصدار 1."
 type: docs
 weight: 2220
 url: /ar/net/aspose.finance.ofx/emailrequestmessagesetv1/

@@ -1,7 +1,7 @@
 ---
-title: XlinkType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع Xlink.
+title: "XlinkType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع Xlink."
 type: docs
 weight: 8280
 url: /ar/net/aspose.finance.xbrl/xlinktype/
@@ -18,13 +18,13 @@ public enum XlinkType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Unspecified | `0` | An unknown link type. |
-| Simple | `1` | The "simple" link type. |
-| Extended | `2` | The "extended" link type. |
-| Locator | `3` | The "locator" link type. |
-| Arc | `4` | The "arc" link type. |
-| Resource | `5` | The "resource" link type. |
-| Title | `6` | The "title" link type. |
+| Unspecified | `0` | نوع ارتباط غير معروف. |
+| Simple | `1` | نوع الارتباط "simple". |
+| Extended | `2` | نوع الارتباط "extended". |
+| Locator | `3` | نوع الارتباط "locator". |
+| Arc | `4` | نوع الارتباط "arc". |
+| Resource | `5` | نوع الارتباط "resource". |
+| Title | `6` | نوع الارتباط "title". |
 
 ### انظر أيضًا
 

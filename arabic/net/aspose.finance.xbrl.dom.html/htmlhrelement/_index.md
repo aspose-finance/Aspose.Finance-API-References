@@ -1,7 +1,7 @@
 ---
-title: HTMLHRElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تمثل خطًا أفقيًا. راجع تعريف عنصر HR في HTML 4.01.
+title: "HTMLHRElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تمثل خطًا أفقيًا. راجع تعريف عنصر HR في HTML 4.01."
 type: docs
 weight: 6920
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlhrelement/

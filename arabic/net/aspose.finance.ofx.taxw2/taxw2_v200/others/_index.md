@@ -1,7 +1,7 @@
 ---
-title: Others
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن مجموعة Otheraspose.finance.ofx.taxw2/other.
+title: "Others"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مجموعة Otheraspose.finance.ofx.taxw2/other."
 type: docs
 weight: 130
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v200/others/

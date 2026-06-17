@@ -1,7 +1,7 @@
 ---
-title: التسميات
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على مجموعة من Labelaspose.finance.xbrl/label.
+title: "التسميات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على مجموعة من Labelaspose.finance.xbrl/label."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl/labellink/labels/

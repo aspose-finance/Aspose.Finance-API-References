@@ -1,7 +1,7 @@
 ---
-title: SignupMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل التسجيل.
+title: "SignupMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل التسجيل."
 type: docs
 weight: 4830
 url: /ar/net/aspose.finance.ofx.profile/signupmessagesetv1/

@@ -1,7 +1,7 @@
 ---
-title: Payee
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط معلومات الفوترة الكاملة Payeeaspose.finance.ofx.billpay/paymentinfo/payee.
+title: "المستفيد"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط معلومات الفوترة الكاملة Payeeaspose.finance.ofx.billpay/paymentinfo/payee."
 type: docs
 weight: 90
 url: /ar/net/aspose.finance.ofx.billpay/paymentinfo/payee/

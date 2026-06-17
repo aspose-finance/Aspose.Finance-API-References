@@ -1,7 +1,7 @@
 ---
-title: InlineFact
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة المجردة هي الفئة الأساسية للحقائق في المستند المضمن بما في ذلك InlineFraction./inlinefractionInlineNonfraction./inlinenonfractionInlineNonnumeric./inlinenonnumericInlineTuple./inlinetuple.
+title: "InlineFact"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة المجردة هي الفئة الأساسية للحقائق في المستند المضمن بما في ذلك InlineFraction./inlinefractionInlineNonfraction./inlinenonfractionInlineNonnumeric./inlinenonnumericInlineTuple./inlinetuple."
 type: docs
 weight: 7710
 url: /ar/net/aspose.finance.xbrl.inline/inlinefact/

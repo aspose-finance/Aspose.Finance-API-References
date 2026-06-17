@@ -1,7 +1,7 @@
 ---
-title: معلومات الاستحقاق
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تواريخ تغيير الاستحقاق. توفر نسبة الاستحقاق في أي تاريخ ماضي أو حالي أو مستقبلي.
+title: "معلومات الاستحقاق"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تواريخ تغيير الاستحقاق. توفر نسبة الاستحقاق في أي تاريخ ماضي أو حالي أو مستقبلي."
 type: docs
 weight: 3600
 url: /ar/net/aspose.finance.ofx.investment/vestinfo/

@@ -1,7 +1,7 @@
 ---
-title: AccountTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة خدمة الحساب.
+title: "AccountTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة خدمة الحساب."
 type: docs
 weight: 5560
 url: /ar/net/aspose.finance.ofx.signup/accounttransactionresponse/

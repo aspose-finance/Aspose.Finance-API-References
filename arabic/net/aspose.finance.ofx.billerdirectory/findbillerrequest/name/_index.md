@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين اسم الفاتور.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين اسم الفاتور."
 type: docs
 weight: 100
 url: /ar/net/aspose.finance.ofx.billerdirectory/findbillerrequest/name/

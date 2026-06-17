@@ -1,7 +1,7 @@
 ---
-title: MFAChallengeRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب تحدي MFA. إنها طلب إلى الخادم لإرسال قائمة من أسئلة التحدي التي يجب الإجابة عليها بشكل صحيح قبل أن يتمكن عميل OFX من المتابعة بطلبات OFX أخرى.
+title: "MFAChallengeRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب تحدي MFA. إنها طلب إلى الخادم لإرسال قائمة من أسئلة التحدي التي يجب الإجابة عليها بشكل صحيح قبل أن يتمكن عميل OFX من المتابعة بطلبات OFX أخرى."
 type: docs
 weight: 5360
 url: /ar/net/aspose.finance.ofx.signon/mfachallengerequest/

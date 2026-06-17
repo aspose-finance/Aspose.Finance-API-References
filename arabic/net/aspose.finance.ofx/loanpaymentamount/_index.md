@@ -1,7 +1,7 @@
 ---
-title: LoanPaymentAmount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة مبلغ سداد القرض.
+title: "LoanPaymentAmount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة مبلغ سداد القرض."
 type: docs
 weight: 4090
 url: /ar/net/aspose.finance.ofx/loanpaymentamount/

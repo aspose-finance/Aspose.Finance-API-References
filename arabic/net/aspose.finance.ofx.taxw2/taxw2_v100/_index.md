@@ -1,7 +1,7 @@
 ---
-title: TaxW2_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نموذج ضريبة W2 v100.
+title: "TaxW2_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نموذج ضريبة W2 v100."
 type: docs
 weight: 6250
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v100/

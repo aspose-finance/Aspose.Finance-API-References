@@ -1,7 +1,7 @@
 ---
-title: ProceedDescription_V100
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة وصف عائدات نموذج الضريبة 1099-B.
+title: "ProceedDescription_V100"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة وصف عائدات نموذج الضريبة 1099-B."
 type: docs
 weight: 5970
 url: /ar/net/aspose.finance.ofx.tax1099/proceeddescription_v100/

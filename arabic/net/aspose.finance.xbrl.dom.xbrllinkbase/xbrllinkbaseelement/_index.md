@@ -1,7 +1,7 @@
 ---
-title: XbrlLinkbaseElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية لعنصر xbrl linkbase.
+title: "XbrlLinkbaseElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية لعنصر xbrl linkbase."
 type: docs
 weight: 7580
 url: /ar/net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbaseelement/

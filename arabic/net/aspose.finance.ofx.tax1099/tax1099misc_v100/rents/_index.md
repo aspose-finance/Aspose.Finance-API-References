@@ -1,7 +1,7 @@
 ---
-title: Rents
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الإيجارات.
+title: "الإيجارات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الإيجارات."
 type: docs
 weight: 200
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099misc_v100/rents/

@@ -1,7 +1,7 @@
 ---
-title: WebEnroll
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: دعم التسجيل عبر الويب.
+title: "WebEnroll"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "دعم التسجيل عبر الويب."
 type: docs
 weight: 4930
 url: /ar/net/aspose.finance.ofx.profile/webenroll/

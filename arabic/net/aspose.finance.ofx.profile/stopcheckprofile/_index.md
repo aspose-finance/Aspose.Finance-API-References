@@ -1,7 +1,7 @@
 ---
-title: StopCheckProfile
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة ملف تعريف إيقاف الفحص.
+title: "StopCheckProfile"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة ملف تعريف إيقاف الفحص."
 type: docs
 weight: 4840
 url: /ar/net/aspose.finance.ofx.profile/stopcheckprofile/

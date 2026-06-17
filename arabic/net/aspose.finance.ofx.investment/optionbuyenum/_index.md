@@ -1,7 +1,7 @@
 ---
-title: OptionBuyEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع شراء الخيار.
+title: "OptionBuyEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع شراء الخيار."
 type: docs
 weight: 3350
 url: /ar/net/aspose.finance.ofx.investment/optionbuyenum/

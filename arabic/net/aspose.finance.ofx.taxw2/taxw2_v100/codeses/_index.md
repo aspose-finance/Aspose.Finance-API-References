@@ -1,7 +1,7 @@
 ---
-title: Codeses
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن مجموعة Codesaspose.finance.ofx.taxw2/codes.
+title: "Codeses"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن مجموعة Codesaspose.finance.ofx.taxw2/codes."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.taxw2/taxw2_v100/codeses/

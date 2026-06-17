@@ -1,7 +1,7 @@
 ---
-title: ServiceAdd
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة إضافة الخدمة.
+title: "ServiceAdd"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة إضافة الخدمة."
 type: docs
 weight: 5670
 url: /ar/net/aspose.finance.ofx.signup/serviceadd/

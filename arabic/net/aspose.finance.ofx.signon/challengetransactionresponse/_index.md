@@ -1,7 +1,7 @@
 ---
-title: ChallengeTransactionResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معاملة التحدي.
+title: "ChallengeTransactionResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معاملة التحدي."
 type: docs
 weight: 5320
 url: /ar/net/aspose.finance.ofx.signon/challengetransactionresponse/

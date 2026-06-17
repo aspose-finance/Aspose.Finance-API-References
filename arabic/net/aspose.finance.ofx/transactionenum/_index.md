@@ -1,7 +1,7 @@
 ---
-title: TransactionEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع المعاملة.
+title: "TransactionEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع المعاملة."
 type: docs
 weight: 6290
 url: /ar/net/aspose.finance.ofx/transactionenum/

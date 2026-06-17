@@ -1,14 +1,14 @@
 ---
-title: Address3
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط سطر العنوان الثالث للمستلم.
+title: "Address3"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط سطر العنوان الثالث للمستلم."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.tax1099/recipientaddress/address3/
 ---
 ## RecipientAddress.Address3 property
 
-Gets or sets the recipient address, line 3.
+يحصل أو يحدد عنوان المستلم، السطر 3.
 
 ```csharp
 public string Address3 { get; set; }

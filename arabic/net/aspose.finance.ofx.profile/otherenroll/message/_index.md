@@ -1,7 +1,7 @@
 ---
-title: Message
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الرسالة للمستهلك حول ما يجب القيام به بعد ذلك.
+title: "Message"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الرسالة للمستهلك حول ما يجب القيام به بعد ذلك."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.profile/otherenroll/message/

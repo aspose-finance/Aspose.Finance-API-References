@@ -1,7 +1,7 @@
 ---
-title: UnitType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع الوحدة.
+title: "UnitType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع الوحدة."
 type: docs
 weight: 8120
 url: /ar/net/aspose.finance.xbrl/unittype/

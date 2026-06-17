@@ -1,7 +1,7 @@
 ---
-title: Royalties
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الإتاوات.
+title: "الإتاوات"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الإتاوات."
 type: docs
 weight: 210
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099misc_v100/royalties/

@@ -1,7 +1,7 @@
 ---
-title: المقياس
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط مقياس الـ InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+title: "المقياس"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط مقياس الـ InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.xbrl.inline/inlinenonfraction/scale/

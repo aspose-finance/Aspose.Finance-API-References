@@ -1,7 +1,7 @@
 ---
-title: Codes
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: رمز الفئة والكمية للصندوق 12.
+title: "Codes"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "رمز الفئة والكمية للصندوق 12."
 type: docs
 weight: 6150
 url: /ar/net/aspose.finance.ofx.taxw2/codes/

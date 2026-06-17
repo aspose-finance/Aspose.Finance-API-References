@@ -1,7 +1,7 @@
 ---
-title: SignonMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل تسجيل الدخول.
+title: "SignonMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل تسجيل الدخول."
 type: docs
 weight: 4810
 url: /ar/net/aspose.finance.ofx.profile/signonmessagesetv1/

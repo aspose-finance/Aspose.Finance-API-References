@@ -1,7 +1,7 @@
 ---
-title: PresentmentAccount
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة تحدد حساب العميل مع الفاتور بشكل فريد من خلال الجمع بين معرف الفاتورة للناشر ورقم الحساب.
+title: "PresentmentAccount"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة تحدد حساب العميل مع الفاتور بشكل فريد من خلال الجمع بين معرف الفاتورة للناشر ورقم الحساب."
 type: docs
 weight: 4290
 url: /ar/net/aspose.finance.ofx/presentmentaccount/

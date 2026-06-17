@@ -1,7 +1,7 @@
 ---
-title: LoanMailSyncRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب مزامنة بريد القرض.
+title: "LoanMailSyncRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب مزامنة بريد القرض."
 type: docs
 weight: 3880
 url: /ar/net/aspose.finance.ofx.loan/loanmailsyncrequest/

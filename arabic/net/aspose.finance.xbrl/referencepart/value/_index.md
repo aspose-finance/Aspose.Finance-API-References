@@ -1,7 +1,7 @@
 ---
-title: القيمة
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط القيمة.
+title: "القيمة"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط القيمة."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.xbrl/referencepart/value/

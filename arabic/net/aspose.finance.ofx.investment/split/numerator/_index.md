@@ -1,7 +1,7 @@
 ---
-title: Numerator
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط البسط لنسبة الانقسام لتقسيمات الأسهم.
+title: "Numerator"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط البسط لنسبة الانقسام لتقسيمات الأسهم."
 type: docs
 weight: 70
 url: /ar/net/aspose.finance.ofx.investment/split/numerator/

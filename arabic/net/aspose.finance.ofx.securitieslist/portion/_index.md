@@ -1,7 +1,7 @@
 ---
-title: Portion
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: جزء من الصندوق المشترك مع تصنيف أصول محدد.
+title: "Portion"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "جزء من الصندوق المشترك مع تصنيف أصول محدد."
 type: docs
 weight: 5150
 url: /ar/net/aspose.finance.ofx.securitieslist/portion/

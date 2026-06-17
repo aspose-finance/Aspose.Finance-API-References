@@ -1,7 +1,7 @@
 ---
-title: SellOption
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة بيع الخيار الاستثماري.
+title: "SellOption"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة بيع الخيار الاستثماري."
 type: docs
 weight: 3510
 url: /ar/net/aspose.finance.ofx.investment/selloption/

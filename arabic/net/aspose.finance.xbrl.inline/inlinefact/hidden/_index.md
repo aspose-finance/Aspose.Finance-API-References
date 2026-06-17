@@ -1,7 +1,7 @@
 ---
-title: Hidden
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط ما إذا كانت هذه الحقيقة مخفية.
+title: "Hidden"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط ما إذا كانت هذه الحقيقة مخفية."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl.inline/inlinefact/hidden/

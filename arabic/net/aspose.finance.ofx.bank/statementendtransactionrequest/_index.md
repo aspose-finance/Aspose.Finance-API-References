@@ -1,7 +1,7 @@
 ---
-title: StatementEndTransactionRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة طلب معاملة إغلاق البيان.
+title: "StatementEndTransactionRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة طلب معاملة إغلاق البيان."
 type: docs
 weight: 650
 url: /ar/net/aspose.finance.ofx.bank/statementendtransactionrequest/

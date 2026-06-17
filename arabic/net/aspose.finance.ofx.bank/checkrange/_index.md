@@ -1,7 +1,7 @@
 ---
-title: CheckRange
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة نطاق الشيك.
+title: "CheckRange"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة نطاق الشيك."
 type: docs
 weight: 390
 url: /ar/net/aspose.finance.ofx.bank/checkrange/

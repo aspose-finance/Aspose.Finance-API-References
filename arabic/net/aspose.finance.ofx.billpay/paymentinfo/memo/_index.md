@@ -1,7 +1,7 @@
 ---
-title: Memo
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين المذكرة من المستخدم إلى المستفيد.
+title: "Memo"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين المذكرة من المستخدم إلى المستفيد."
 type: docs
 weight: 80
 url: /ar/net/aspose.finance.ofx.billpay/paymentinfo/memo/

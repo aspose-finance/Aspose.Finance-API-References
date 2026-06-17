@@ -1,7 +1,7 @@
 ---
-title: LoanMessageSet
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: مجموعة رسائل القرض.
+title: "LoanMessageSet"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "مجموعة رسائل القرض."
 type: docs
 weight: 4590
 url: /ar/net/aspose.finance.ofx.profile/loanmessageset/

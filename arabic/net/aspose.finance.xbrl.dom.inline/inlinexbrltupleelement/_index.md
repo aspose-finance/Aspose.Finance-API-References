@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlTupleElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl tuple.
+title: "InlineXbrlTupleElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl tuple."
 type: docs
 weight: 7440
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrltupleelement/

@@ -1,7 +1,7 @@
 ---
-title: AbstractTaxW2
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة القاعدة المجردة لنماذج الضرائب w2.
+title: "AbstractTaxW2"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة القاعدة المجردة لنماذج الضرائب w2."
 type: docs
 weight: 6140
 url: /ar/net/aspose.finance.ofx.taxw2/abstracttaxw2/

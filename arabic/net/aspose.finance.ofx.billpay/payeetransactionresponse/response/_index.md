@@ -1,7 +1,7 @@
 ---
-title: Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يعيّن PayeeResponseaspose.finance.ofx.billpay/payeeresponse أو PayeeModResponseaspose.finance.ofx.billpay/payeemodresponse أو PayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse.
+title: "Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يعيّن PayeeResponseaspose.finance.ofx.billpay/payeeresponse أو PayeeModResponseaspose.finance.ofx.billpay/payeemodresponse أو PayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.ofx.billpay/payeetransactionresponse/response/

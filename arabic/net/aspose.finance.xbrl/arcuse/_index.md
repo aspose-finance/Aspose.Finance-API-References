@@ -1,7 +1,7 @@
 ---
-title: ArcUse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد استخدام القوس.
+title: "ArcUse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد استخدام القوس."
 type: docs
 weight: 6500
 url: /ar/net/aspose.finance.xbrl/arcuse/

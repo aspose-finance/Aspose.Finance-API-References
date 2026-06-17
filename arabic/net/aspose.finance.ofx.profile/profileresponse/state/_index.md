@@ -1,7 +1,7 @@
 ---
-title: State
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين ولاية عنوان FI.
+title: "State"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين ولاية عنوان FI."
 type: docs
 weight: 150
 url: /ar/net/aspose.finance.ofx.profile/profileresponse/state/

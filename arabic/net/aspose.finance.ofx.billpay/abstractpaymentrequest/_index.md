@@ -1,7 +1,7 @@
 ---
-title: AbstractPaymentRequest
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة الأساسية المجردة لجميع الفئات المتعلقة بطلبات الدفع.
+title: "AbstractPaymentRequest"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة الأساسية المجردة لجميع الفئات المتعلقة بطلبات الدفع."
 type: docs
 weight: 850
 url: /ar/net/aspose.finance.ofx.billpay/abstractpaymentrequest/

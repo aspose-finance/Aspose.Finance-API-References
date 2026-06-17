@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlNonFractionElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl nonFraction.
+title: "InlineXbrlNonFractionElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl nonFraction."
 type: docs
 weight: 7390
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlnonfractionelement/

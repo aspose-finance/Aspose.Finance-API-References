@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط اسم المستفيد.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط اسم المستفيد."
 type: docs
 weight: 40
 url: /ar/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/name/

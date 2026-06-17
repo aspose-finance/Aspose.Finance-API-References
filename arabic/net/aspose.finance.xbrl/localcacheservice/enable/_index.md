@@ -1,7 +1,7 @@
 ---
-title: تمكين
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل على ما إذا كانت الخدمة مفعلة.
+title: "تمكين"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل على ما إذا كانت الخدمة مفعلة."
 type: docs
 weight: 10
 url: /ar/net/aspose.finance.xbrl/localcacheservice/enable/

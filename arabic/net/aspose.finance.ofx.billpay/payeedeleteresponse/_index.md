@@ -1,7 +1,7 @@
 ---
-title: PayeeDeleteResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة حذف المستفيد.
+title: "PayeeDeleteResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة حذف المستفيد."
 type: docs
 weight: 960
 url: /ar/net/aspose.finance.ofx.billpay/payeedeleteresponse/

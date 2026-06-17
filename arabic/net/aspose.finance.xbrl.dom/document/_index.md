@@ -1,7 +1,7 @@
 ---
-title: المستند
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يمثل المستند المستند الكامل xbrl المضمن. من الناحية المفاهيمية هو جذر شجرة المستند ويوفر الوصول الأساسي إلى بيانات المستند.
+title: "المستند"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يمثل المستند المستند الكامل xbrl المضمن. من الناحية المفاهيمية هو جذر شجرة المستند ويوفر الوصول الأساسي إلى بيانات المستند."
 type: docs
 weight: 6690
 url: /ar/net/aspose.finance.xbrl.dom/document/

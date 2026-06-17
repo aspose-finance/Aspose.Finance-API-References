@@ -1,7 +1,7 @@
 ---
-title: ContextValidationError
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة مخصصة لأخطاء التحقق من السياق.
+title: "ContextValidationError"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة مخصصة لأخطاء التحقق من السياق."
 type: docs
 weight: 8140
 url: /ar/net/aspose.finance.xbrl.validator/contextvalidationerror/

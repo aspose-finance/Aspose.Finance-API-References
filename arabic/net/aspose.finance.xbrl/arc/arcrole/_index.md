@@ -1,7 +1,7 @@
 ---
-title: Arcrole
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يحصل أو يضبط الـ arcrole للقوس.
+title: "Arcrole"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يحصل أو يضبط الـ arcrole للقوس."
 type: docs
 weight: 30
 url: /ar/net/aspose.finance.xbrl/arc/arcrole/

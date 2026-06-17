@@ -1,7 +1,7 @@
 ---
-title: HTMLUnknownElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عناصر HTML غير المعروفة.
+title: "HTMLUnknownElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عناصر HTML غير المعروفة."
 type: docs
 weight: 7310
 url: /ar/net/aspose.finance.xbrl.dom.html/htmlunknownelement/

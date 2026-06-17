@@ -1,7 +1,7 @@
 ---
-title: Loc
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: هذه الفئة هي Xlink./xlink بنوع Locator.
+title: "Loc"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "هذه الفئة هي Xlink./xlink بنوع Locator."
 type: docs
 weight: 7880
 url: /ar/net/aspose.finance.xbrl/loc/

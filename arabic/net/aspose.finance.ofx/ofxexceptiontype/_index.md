@@ -1,7 +1,7 @@
 ---
-title: OfxExceptionType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع استثناء Ofx.
+title: "OfxExceptionType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع استثناء Ofx."
 type: docs
 weight: 4210
 url: /ar/net/aspose.finance.ofx/ofxexceptiontype/

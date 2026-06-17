@@ -1,7 +1,7 @@
 ---
-title: Mail
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين Mailaspose.finance.ofx.billpay/paymentmailrequest/mail.
+title: "Mail"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين Mailaspose.finance.ofx.billpay/paymentmailrequest/mail."
 type: docs
 weight: 20
 url: /ar/net/aspose.finance.ofx.billpay/paymentmailrequest/mail/

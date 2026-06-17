@@ -1,7 +1,7 @@
 ---
-title: LoanTypeEnum
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: تعداد نوع القرض.
+title: "LoanTypeEnum"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "تعداد نوع القرض."
 type: docs
 weight: 4160
 url: /ar/net/aspose.finance.ofx/loantypeenum/

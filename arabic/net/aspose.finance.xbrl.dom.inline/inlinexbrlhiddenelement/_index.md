@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlHiddenElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl hidden.
+title: "InlineXbrlHiddenElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl hidden."
 type: docs
 weight: 7380
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlhiddenelement/

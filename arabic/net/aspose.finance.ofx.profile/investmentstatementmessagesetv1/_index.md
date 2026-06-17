@@ -1,7 +1,7 @@
 ---
-title: InvestmentStatementMessageSetV1
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الإصدار 1 من مجموعة رسائل بيان الاستثمار.
+title: "InvestmentStatementMessageSetV1"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الإصدار 1 من مجموعة رسائل بيان الاستثمار."
 type: docs
 weight: 4580
 url: /ar/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/

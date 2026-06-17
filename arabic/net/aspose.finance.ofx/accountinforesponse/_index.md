@@ -1,7 +1,7 @@
 ---
-title: AccountInfoResponse
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة معلومات الحساب.
+title: "AccountInfoResponse"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة معلومات الحساب."
 type: docs
 weight: 200
 url: /ar/net/aspose.finance.ofx/accountinforesponse/

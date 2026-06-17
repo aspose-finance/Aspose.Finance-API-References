@@ -1,7 +1,7 @@
 ---
-title: Tax1099Response
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة استجابة نموذج الضريبة 1099.
+title: "Tax1099Response"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة استجابة نموذج الضريبة 1099."
 type: docs
 weight: 6090
 url: /ar/net/aspose.finance.ofx.tax1099/tax1099response/

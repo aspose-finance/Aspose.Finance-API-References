@@ -1,7 +1,7 @@
 ---
-title: ContributionPct
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: فئة تخصيص نسبة المساهمة.
+title: "ContributionPct"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "فئة تخصيص نسبة المساهمة."
 type: docs
 weight: 2770
 url: /ar/net/aspose.finance.ofx.investment/contributionpct/

@@ -1,7 +1,7 @@
 ---
-title: الاسم
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الحصول أو تعيين الاسم/اللقب المُعرَّف من قبل المستخدم للحساب.
+title: "الاسم"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الحصول أو تعيين الاسم/اللقب المُعرَّف من قبل المستخدم للحساب."
 type: docs
 weight: 50
 url: /ar/net/aspose.finance.ofx/accountinfo/name/

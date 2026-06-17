@@ -1,7 +1,7 @@
 ---
-title: InlineXbrlRelationshipElement
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: الفئة تمثل عنصر inline xbrl relationship.
+title: "InlineXbrlRelationshipElement"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "الفئة تمثل عنصر inline xbrl relationship."
 type: docs
 weight: 7420
 url: /ar/net/aspose.finance.xbrl.dom.inline/inlinexbrlrelationshipelement/

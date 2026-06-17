@@ -1,7 +1,7 @@
 ---
-title: RoleType
-second_title: مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET
-description: يُستخدم هذا الصنف لتحديد نوع الدور المخصص.
+title: "RoleType"
+second_title: "مرجع واجهة برمجة تطبيقات Aspose.Finance لـ .NET"
+description: "يُستخدم هذا الصنف لتحديد نوع الدور المخصص."
 type: docs
 weight: 8030
 url: /ar/net/aspose.finance.xbrl/roletype/
